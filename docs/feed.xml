@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-06-04T16:55:13Z</updated>
+  <updated>2026-06-04T22:22:28Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/mega-mewtwo-gofest-2026</id>
-    <title>⚡ Mewtwo Mega Evolves and more exciting GO Fest updates!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/mega-mewtwo-gofest-2026"/>
-    <published>2026-06-04T16:55:10Z</published>
-    <updated>2026-06-04T16:55:10Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/gofest-2026-copenhagen-lego</id>
     <title>⚡ Build Your Adventure at Pokémon GO Fest 2026: Copenhagen</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest-2026-copenhagen-lego"/>
-    <published>2026-06-04T16:55:10Z</published>
-    <updated>2026-06-04T16:55:10Z</updated>
+    <published>2026-06-04T22:22:24Z</published>
+    <updated>2026-06-04T22:22:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/pokemon-x-target-2026</id>
     <title>⚡ Calling Trainers to Target stores!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-x-target-2026"/>
-    <published>2026-06-04T16:55:10Z</published>
-    <updated>2026-06-04T16:55:10Z</updated>
+    <published>2026-06-04T22:22:24Z</published>
+    <updated>2026-06-04T22:22:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026</id>
     <title>⚡ Find your community at Community Celebrations during Pokémon GO Fest 2026: Global!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026"/>
-    <published>2026-06-04T16:55:10Z</published>
-    <updated>2026-06-04T16:55:10Z</updated>
+    <published>2026-06-04T22:22:24Z</published>
+    <updated>2026-06-04T22:22:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/global-events-gofest2026-overlays</id>
     <title>⚡ Team up with Blanche, Spark, and Candela on a summer quest!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/global-events-gofest2026-overlays"/>
-    <published>2026-06-04T16:55:10Z</published>
-    <updated>2026-06-04T16:55:10Z</updated>
+    <published>2026-06-04T22:22:24Z</published>
+    <updated>2026-06-04T22:22:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/gofest-tokyo-super-mega-raid</id>
     <title>⚡ Update on the “Super Mega Raid” at the Pokémon GO Fest 2026: Tokyo Park Experience</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest-tokyo-super-mega-raid"/>
-    <published>2026-06-04T16:55:10Z</published>
-    <updated>2026-06-04T16:55:10Z</updated>
+    <published>2026-06-04T22:22:24Z</published>
+    <updated>2026-06-04T22:22:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/100-thieves-mega-mewtwo-go-fest-2026</id>
     <title>⚡ Pokémon GO Fest 2026 and 100 Thieves team up for an exclusive capsule collection in Chicago!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/100-thieves-mega-mewtwo-go-fest-2026"/>
-    <published>2026-06-04T16:55:10Z</published>
-    <updated>2026-06-04T16:55:10Z</updated>
+    <published>2026-06-04T22:22:24Z</published>
+    <updated>2026-06-04T22:22:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/pgo-pokemon-fossil-musuem-chicago-2026</id>
     <title>⚡ Celebrate with Pokémon GO at the Pokémon Fossil Museum in Chicago!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pgo-pokemon-fossil-musuem-chicago-2026"/>
-    <published>2026-06-04T16:55:10Z</published>
-    <updated>2026-06-04T16:55:10Z</updated>
+    <published>2026-06-04T22:22:24Z</published>
+    <updated>2026-06-04T22:22:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/go-battle-league-forever-forward</id>
     <title>⚡ GO Battle League: Forever Forward Update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-battle-league-forever-forward"/>
-    <published>2026-06-04T16:55:10Z</published>
-    <updated>2026-06-04T16:55:10Z</updated>
+    <published>2026-06-04T22:22:24Z</published>
+    <updated>2026-06-04T22:22:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/communityday-june-2026-frigibax</id>
     <title>⚡ Frigibax will be featured in June Community Day, and Community Day voting is back for August!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communityday-june-2026-frigibax"/>
-    <published>2026-06-04T16:55:10Z</published>
-    <updated>2026-06-04T16:55:10Z</updated>
+    <published>2026-06-04T22:22:24Z</published>
+    <updated>2026-06-04T22:22:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/go-pass-june-2026</id>
     <title>⚡ The Timed Incubator returns in GO Pass: June!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-june-2026"/>
-    <published>2026-06-04T16:55:10Z</published>
-    <updated>2026-06-04T16:55:10Z</updated>
+    <published>2026-06-04T22:22:24Z</published>
+    <updated>2026-06-04T22:22:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/know-before-you-go-gofest-2026-in-person-events</id>
     <title>⚡ Know before you GO to Pokémon GO Fest 2026: Tokyo, Chicago, and Copenhagen</title>
     <link rel="alternate" href="https://pokemongolive.com/news/know-before-you-go-gofest-2026-in-person-events"/>
-    <published>2026-06-04T16:55:10Z</published>
-    <updated>2026-06-04T16:55:10Z</updated>
+    <published>2026-06-04T22:22:24Z</published>
+    <updated>2026-06-04T22:22:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/go-fest-chicago-2026-community</id>
     <title>⚡ Pokémon GO Fest 2026: Chicago Community Ambassador Meet-ups</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-fest-chicago-2026-community"/>
-    <published>2026-06-04T16:55:10Z</published>
-    <updated>2026-06-04T16:55:10Z</updated>
+    <published>2026-06-04T22:22:24Z</published>
+    <updated>2026-06-04T22:22:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/pokemon-run-30-2026</id>
     <title>⚡ Ready, set, GO! Join the Pokémon RUN 30 event near you!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-run-30-2026"/>
-    <published>2026-06-04T16:55:10Z</published>
-    <updated>2026-06-04T16:55:10Z</updated>
+    <published>2026-06-04T22:22:24Z</published>
+    <updated>2026-06-04T22:22:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +156,142 @@
     <id>https://pokemongolive.com/news/gofest-chicago-super-mega-raid</id>
     <title>⚡ Super Mega Raid Update at Pokémon GO Fest 2026: Chicago Park Experience</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest-chicago-super-mega-raid"/>
-    <published>2026-06-04T16:55:10Z</published>
-    <updated>2026-06-04T16:55:10Z</updated>
+    <published>2026-06-04T22:22:24Z</published>
+    <updated>2026-06-04T22:22:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/skarmory-super-mega-raid-day-2026</id>
+    <title>⚡ Stay sharp for Skarmory Super Mega Raid Day!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/skarmory-super-mega-raid-day-2026"/>
+    <published>2026-06-04T22:22:24Z</published>
+    <updated>2026-06-04T22:22:24Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/943445/cyberdeck-tiktok</id>
+    <title>🤖 Cyberdecks used to look like little laptops, but now they&amp;#8217;re getting more personal</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/943445/cyberdeck-tiktok"/>
+    <published>2026-06-04T20:07:31Z</published>
+    <updated>2026-06-04T20:07:31Z</updated>
+    <summary type="text">DIYer and TikTok user Annike Tan, who goes by @ubeboobey, can carry her cyberdeck around without anyone noticing because it doesn't look like a computer at all. Tan, who has been featured in The Cut and Wired, went viral earlier this year with a mermaid-themed cyberdeck she made inside an old purse.</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604</id>
+    <title>🤖 PATH to boost AI training and career opportunities for industry-aligned jobs</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604"/>
+    <published>2026-06-04T19:50:00Z</published>
+    <updated>2026-06-04T19:50:00Z</updated>
+    <summary type="text">MIT RAISE and Georgia State University announce an initiative to connect universities, community colleges, industry, and government to expand industry-aligned AI training and career pathways.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1twwpeo/critical_uxbackend_bug_in_go_fest_ticketing/</id>
+    <title>⚡ ​Critical UX/Backend Bug in GO Fest Ticketing Misassigns Child Tickets Due to Nickname/Username Discrepancy (With Proof)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1twwpeo/critical_uxbackend_bug_in_go_fest_ticketing/"/>
+    <published>2026-06-04T18:46:25Z</published>
+    <updated>2026-06-04T18:46:25Z</updated>
+    <summary type="text">Bug Description: There is a fundamental incongruence between the front-end user interface and the back-end API validation logic in Niantic's Live Event ticketing platform. The UI explicitly instructs users to &quot;Input usernames to assign tickets&quot;, but the system actually executes a string match agains</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/943233/google-search-profiles-custom-page</id>
+    <title>🤖 Google is letting social media stars customize their search result page</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/943233/google-search-profiles-custom-page"/>
+    <published>2026-06-04T18:32:23Z</published>
+    <updated>2026-06-04T18:32:23Z</updated>
+    <summary type="text">Google now lets big creators and publishers in the US claim dedicated profiles in Search to highlight things like videos, articles, and their other profiles online. But this feature won't be available to most people or organizations; Google is limiting it to people with at least 100,000 YouTube subs</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1tww086/skarmory_super_mega_raid_day_niantic_infographic/</id>
+    <title>⚡ Skarmory Super Mega Raid Day Niantic Infographic</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tww086/skarmory_super_mega_raid_day_niantic_infographic/"/>
+    <published>2026-06-04T18:22:06Z</published>
+    <updated>2026-06-04T18:22:06Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna</id>
+    <title>🤖 Amazon’s new plan for games: James Bond and AI Snoop Dogg</title>
+    <link rel="alternate" href="https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna"/>
+    <published>2026-06-04T17:01:15Z</published>
+    <updated>2026-06-04T17:01:15Z</updated>
+    <summary type="text">Amazon's gaming strategy has never really been clear. It's been very active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly six years ago, investing heavily in MMOs during the peak of live-service wave, and having access to a huge slate of franchises through Prime Vide</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1twtnqf/stay_sharp_for_skarmory_super_mega_raid_day/</id>
+    <title>⚡ Stay sharp for Skarmory Super Mega Raid Day!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1twtnqf/stay_sharp_for_skarmory_super_mega_raid_day/"/>
+    <published>2026-06-04T17:01:10Z</published>
+    <updated>2026-06-04T17:01:10Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/Brawlstars/comments/1twthms/why_do_you_all_dislike_the_new_season/</id>
+    <title>🏆 Why do you all dislike the new season?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/Brawlstars/comments/1twthms/why_do_you_all_dislike_the_new_season/"/>
+    <published>2026-06-04T16:55:29Z</published>
+    <updated>2026-06-04T16:55:29Z</updated>
+    <summary type="text">I think the new skins look really cool, this is one of the more creative themes we haven't done yet (I'm so sick of Sands of Time), and the skin effects are some of the best in the game. Maybe Super Striker Lou shouldn't be Legendary, but that's basically it. Why do you all hate it so much? I'd like</summary>
+    <category term="brawlstars"/>
+    <author>
+      <name>Brawl Stars — Reddit</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1twtflb/10th_egg_in_inventory/</id>
+    <title>⚡ 10th Egg in Inventory</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1twtflb/10th_egg_in_inventory/"/>
+    <published>2026-06-04T16:53:28Z</published>
+    <updated>2026-06-04T16:53:28Z</updated>
+    <summary type="text">Before anyone says it’s a visual, it was not. Somehow got 2 10 km eggs from 1 gym at go fest in Chicago. It let me incubate the 10th separate AND it actually hatched. Not sure if I somehow got 2 eggs from 1 gym because of the egg add on pass or something, but I’ve never seen this before. Again this </summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1twt3gt/friday_trades_do_indeed_still_give_2xl/</id>
+    <title>⚡ Friday trades do indeed still give 2XL</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1twt3gt/friday_trades_do_indeed_still_give_2xl/"/>
+    <published>2026-06-04T16:41:31Z</published>
+    <updated>2026-06-04T16:41:31Z</updated>
+    <summary type="text">Just after Midnight here, did around 20 trades. As hoped Friendship Friday trades haven't changed. 2XL for each trade and 2-4 normal candies depending on distance. submitted by /u/Defiant_Impress7446 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -193,54 +313,6 @@
     <published>2026-06-04T14:15:44Z</published>
     <updated>2026-06-04T14:15:44Z</updated>
     <summary type="text">Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. &quot;Customer demand is so high, and we can only support so much,&quot; TSMC CEO </summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds</id>
-    <title>🤖 Elon Musk is steamrolling Wall Street to become a trillionaire</title>
-    <link rel="alternate" href="https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds"/>
-    <published>2026-06-04T14:00:00Z</published>
-    <updated>2026-06-04T14:00:00Z</updated>
-    <summary type="text">Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which came out in 2024. I can’t recommend it enough.  I wanted to have Ryan on the show because we’re on the cusp of the SpaceX </summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok</id>
-    <title>🤖 Let us filter AI slop, you cowards</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok"/>
-    <published>2026-06-04T12:30:00Z</published>
-    <updated>2026-06-04T12:30:00Z</updated>
-    <summary type="text">It's almost impossible to avoid seeing AI-generated content online, but it doesn't have to be this way. YouTube, Instagram, TikTok, and more have ramped up content authentication efforts over the last year, with many now automatically applying labels to distinguish AI-generated images, videos, and m</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress</id>
-    <title>🤖 AI leaders call for tougher protections against AI-aided bioweapons</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress"/>
-    <published>2026-06-04T12:12:12Z</published>
-    <updated>2026-06-04T12:12:12Z</updated>
-    <summary type="text">Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open letter to US lawmakers, tech leaders are pressing Congress to enact rules closing what they say is an </summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/gadgets/942616/oura-ring-5-size-comparison-first-impressions</id>
-    <title>🤖 Yes, the Oura Ring 5 is noticeably smaller</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/942616/oura-ring-5-size-comparison-first-impressions"/>
-    <published>2026-06-04T12:00:00Z</published>
-    <updated>2026-06-04T12:00:00Z</updated>
-    <summary type="text">This is not an Oura Ring 5 review. That's coming later, once I've had enough time to really test the new durability and battery life claims, plus the new software updates that start rolling out today. In the meantime, I did want to provide an answer to a burning question that I've seen asked in […]</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
@@ -283,66 +355,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1twh2k5/are_we_getting_less_or_no_rare_candies_from_raids/</id>
-    <title>⚡ Are we getting less or no rare candies from raids? In my last 3-4 raids I have not got a single rare candy</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1twh2k5/are_we_getting_less_or_no_rare_candies_from_raids/"/>
-    <published>2026-06-04T08:03:29Z</published>
-    <updated>2026-06-04T08:03:29Z</updated>
-    <summary type="text">submitted by /u/Ok-Proof7287 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1twe894/pokémon_go_fest_chicago_5km_and_10km_egg_pools/</id>
-    <title>⚡ Pokémon Go Fest Chicago 5km and 10km Egg Pools</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1twe894/pokémon_go_fest_chicago_5km_and_10km_egg_pools/"/>
-    <published>2026-06-04T05:26:33Z</published>
-    <updated>2026-06-04T05:26:33Z</updated>
-    <summary type="text">submitted by /u/cyclops410 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1twe7c2/what_legacy_moves_are_available_at_go_fest_chicago/</id>
-    <title>⚡ What Legacy Moves are Available at Go Fest: Chicago?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1twe7c2/what_legacy_moves_are_available_at_go_fest_chicago/"/>
-    <published>2026-06-04T05:25:19Z</published>
-    <updated>2026-06-04T05:25:19Z</updated>
-    <summary type="text">It’s after midnight and costume Bulbasaur have started spawning off of lures, so I evolved one to confirm that Venusaur is in fact getting Frenzy Plant right now. I assume Dragonite is getting Draco Meteor, but I trashed all my Dratini to make room and can’t check until I find a new one. What other </summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1twa57a/til_go_pass_encounters_run_away_if_attempted_to/</id>
-    <title>⚡ TIL Go Pass Encounters run away if attempted to claim past the claiming period</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1twa57a/til_go_pass_encounters_run_away_if_attempted_to/"/>
-    <published>2026-06-04T02:10:46Z</published>
-    <updated>2026-06-04T02:10:46Z</updated>
-    <summary type="text">Totally forgot I had a few encounters in my May Go Pass left minutes away before it disappears. I got to catch them, up until the Suicune encounter. I just assumed it works the same as raid encounters where it stays there even if the raid already despawned, so as long as you're at the encounter scre</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/Brawlstars/comments/1tw4cw6/not_a_big_fan_of_the_new_season_skins_tbh/</id>
-    <title>🏆 Not a Big fan of the new season skins tbh</title>
-    <link rel="alternate" href="https://www.reddit.com/r/Brawlstars/comments/1tw4cw6/not_a_big_fan_of_the_new_season_skins_tbh/"/>
-    <published>2026-06-03T22:08:01Z</published>
-    <updated>2026-06-03T22:08:01Z</updated>
-    <summary type="text">submitted by /u/MamacoSupremo [link] [comments]</summary>
-    <category term="brawlstars"/>
-    <author>
-      <name>Brawl Stars — Reddit</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603</id>
     <title>🤖 Teaching AI agents to ask better questions by playing “Battleship”</title>
     <link rel="alternate" href="https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603"/>
@@ -364,18 +376,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1tvvcha/baxcalibur_gets_glaive_rush_and_gets_a_huge_jump/</id>
-    <title>⚡ Baxcalibur gets Glaive Rush and gets a huge jump in the dragon rankings. Mega Baxcalibur is better than even Mega Rayquaza and Eternatus</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tvvcha/baxcalibur_gets_glaive_rush_and_gets_a_huge_jump/"/>
-    <published>2026-06-03T16:54:14Z</published>
-    <updated>2026-06-03T16:54:14Z</updated>
-    <summary type="text">submitted by /u/Most_Effective_4937 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -445,18 +445,6 @@
     <published>2026-05-20T04:00:00Z</published>
     <updated>2026-05-20T04:00:00Z</updated>
     <summary type="text">Connor Coley works at the interface of chemistry and machine learning, to discover and design new drug compounds.</summary>
-    <category term="ai"/>
-    <author>
-      <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://news.mit.edu/2026/justin-solomon-appointed-associate-dean-engineering-education-0519</id>
-    <title>🤖 Justin Solomon appointed associate dean of engineering education</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/justin-solomon-appointed-associate-dean-engineering-education-0519"/>
-    <published>2026-05-19T21:10:00Z</published>
-    <updated>2026-05-19T21:10:00Z</updated>
-    <summary type="text">MIT faculty member in electrical engineering and computer science to focus on innovation in engineering education and new pedagogical approaches.</summary>
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
