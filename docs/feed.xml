@@ -2,11 +2,536 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-06-04T01:07:57Z</updated>
+  <updated>2026-06-04T01:39:36Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
     <name>ha-news-feed-bot</name>
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
+  <entry>
+    <id>https://pokemongolive.com/news/mega-mewtwo-gofest-2026</id>
+    <title>⚡ Mewtwo Mega Evolves and more exciting GO Fest updates!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/mega-mewtwo-gofest-2026"/>
+    <published>2026-06-04T01:39:33Z</published>
+    <updated>2026-06-04T01:39:33Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gofest-2026-copenhagen-lego</id>
+    <title>⚡ Build Your Adventure at Pokémon GO Fest 2026: Copenhagen</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gofest-2026-copenhagen-lego"/>
+    <published>2026-06-04T01:39:33Z</published>
+    <updated>2026-06-04T01:39:33Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/pokemon-x-target-2026</id>
+    <title>⚡ Calling Trainers to Target stores!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pokemon-x-target-2026"/>
+    <published>2026-06-04T01:39:33Z</published>
+    <updated>2026-06-04T01:39:33Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026</id>
+    <title>⚡ Find your community at Community Celebrations during Pokémon GO Fest 2026: Global!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026"/>
+    <published>2026-06-04T01:39:33Z</published>
+    <updated>2026-06-04T01:39:33Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/global-events-gofest2026-overlays</id>
+    <title>⚡ Team up with Blanche, Spark, and Candela on a summer quest!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/global-events-gofest2026-overlays"/>
+    <published>2026-06-04T01:39:33Z</published>
+    <updated>2026-06-04T01:39:33Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gofest-tokyo-super-mega-raid</id>
+    <title>⚡ Update on the “Super Mega Raid” at the Pokémon GO Fest 2026: Tokyo Park Experience</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gofest-tokyo-super-mega-raid"/>
+    <published>2026-06-04T01:39:33Z</published>
+    <updated>2026-06-04T01:39:33Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/100-thieves-mega-mewtwo-go-fest-2026</id>
+    <title>⚡ Pokémon GO Fest 2026 and 100 Thieves team up for an exclusive capsule collection in Chicago!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/100-thieves-mega-mewtwo-go-fest-2026"/>
+    <published>2026-06-04T01:39:33Z</published>
+    <updated>2026-06-04T01:39:33Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/pgo-pokemon-fossil-musuem-chicago-2026</id>
+    <title>⚡ Celebrate with Pokémon GO at the Pokémon Fossil Museum in Chicago!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pgo-pokemon-fossil-musuem-chicago-2026"/>
+    <published>2026-06-04T01:39:33Z</published>
+    <updated>2026-06-04T01:39:33Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/go-battle-league-forever-forward</id>
+    <title>⚡ GO Battle League: Forever Forward Update</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-battle-league-forever-forward"/>
+    <published>2026-06-04T01:39:33Z</published>
+    <updated>2026-06-04T01:39:33Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/communityday-june-2026-frigibax</id>
+    <title>⚡ Frigibax will be featured in June Community Day, and Community Day voting is back for August!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/communityday-june-2026-frigibax"/>
+    <published>2026-06-04T01:39:33Z</published>
+    <updated>2026-06-04T01:39:33Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/go-pass-june-2026</id>
+    <title>⚡ The Timed Incubator returns in GO Pass: June!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-pass-june-2026"/>
+    <published>2026-06-04T01:39:33Z</published>
+    <updated>2026-06-04T01:39:33Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/know-before-you-go-gofest-2026-in-person-events</id>
+    <title>⚡ Know before you GO to Pokémon GO Fest 2026: Tokyo, Chicago, and Copenhagen</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/know-before-you-go-gofest-2026-in-person-events"/>
+    <published>2026-06-04T01:39:33Z</published>
+    <updated>2026-06-04T01:39:33Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/go-fest-chicago-2026-community</id>
+    <title>⚡ Pokémon GO Fest 2026: Chicago Community Ambassador Meet-ups</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-fest-chicago-2026-community"/>
+    <published>2026-06-04T01:39:33Z</published>
+    <updated>2026-06-04T01:39:33Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/pokemon-run-30-2026</id>
+    <title>⚡ Ready, set, GO! Join the Pokémon RUN 30 event near you!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pokemon-run-30-2026"/>
+    <published>2026-06-04T01:39:33Z</published>
+    <updated>2026-06-04T01:39:33Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gofest-chicago-super-mega-raid</id>
+    <title>⚡ Super Mega Raid Update at Pokémon GO Fest 2026: Chicago Park Experience</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gofest-chicago-super-mega-raid"/>
+    <published>2026-06-04T01:39:33Z</published>
+    <updated>2026-06-04T01:39:33Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/Brawlstars/comments/1tw4cw6/not_a_big_fan_of_the_new_season_skins_tbh/</id>
+    <title>🏆 Not a Big fan of the new season skins tbh</title>
+    <link rel="alternate" href="https://www.reddit.com/r/Brawlstars/comments/1tw4cw6/not_a_big_fan_of_the_new_season_skins_tbh/"/>
+    <published>2026-06-03T22:08:01Z</published>
+    <updated>2026-06-03T22:08:01Z</updated>
+    <summary type="text">submitted by /u/MamacoSupremo [link] [comments]</summary>
+    <category term="brawlstars"/>
+    <author>
+      <name>Brawl Stars — Reddit</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store</id>
+    <title>🤖 Apple is bringing age verification to Texas this week</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store"/>
+    <published>2026-06-03T21:49:51Z</published>
+    <updated>2026-06-03T21:49:51Z</updated>
+    <summary type="text">Apple will introduce age verification in the App Store for users in Texas starting on Thursday, June 4th. The move, as spotted by MacRumors, comes just days after a federal appeals court allowed Texas' App Store Accountability Act to go into effect while a lawsuit against it proceeds. People in Texa</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1tw3o1r/ogl_team_recommendations_for_the_new_season/</id>
+    <title>⚡ OGL team recommendations for the new season ^ ^</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tw3o1r/ogl_team_recommendations_for_the_new_season/"/>
+    <published>2026-06-03T21:42:17Z</published>
+    <updated>2026-06-03T21:42:17Z</updated>
+    <summary type="text">submitted by /u/GolfProfessor27 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603</id>
+    <title>🤖 Teaching AI agents to ask better questions by playing “Battleship”</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603"/>
+    <published>2026-06-03T21:00:00Z</published>
+    <updated>2026-06-03T21:00:00Z</updated>
+    <summary type="text">MIT researchers use the classic game as a test bed for AI agents, finding a small AI model can outperform the biggest ones at 1 percent of the cost.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/tod-machover-receives-george-peabody-medal-0603</id>
+    <title>🤖 Tod Machover receives George Peabody Medal for contributions to music and technology</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/tod-machover-receives-george-peabody-medal-0603"/>
+    <published>2026-06-03T20:50:00Z</published>
+    <updated>2026-06-03T20:50:00Z</updated>
+    <summary type="text">The George Peabody Medal is the highest honor bestowed by the Peabody Institute of the Johns Hopkins University.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan</id>
+    <title>🤖 Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan"/>
+    <published>2026-06-03T20:03:50Z</published>
+    <updated>2026-06-03T20:03:50Z</updated>
+    <summary type="text">Just in case you were wondering, Nvidia's RTX Spark isn't supposed to be a one-off. The company is not just flirting with becoming the fifth high-profile vendor of consumer laptop chips to see if people bite. At Computex 2026 in Taipei, Nvidia CEO Jensen Huang confirmed at least two additional gener</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise</id>
+    <title>🤖 As AI gets better, it reveals an empty promise</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise"/>
+    <published>2026-06-03T17:45:35Z</published>
+    <updated>2026-06-03T17:45:35Z</updated>
+    <summary type="text">This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of th</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1tvvmrj/glaive_rush_stats/</id>
+    <title>⚡ Glaive Rush Stats</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tvvmrj/glaive_rush_stats/"/>
+    <published>2026-06-03T17:03:48Z</published>
+    <updated>2026-06-03T17:03:48Z</updated>
+    <summary type="text">submitted by /u/krispyboiz [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1tvvcha/baxcalibur_gets_glaive_rush_and_gets_a_huge_jump/</id>
+    <title>⚡ Baxcalibur gets Glaive Rush and gets a huge jump in the dragon rankings. Mega Baxcalibur is better than even Mega Rayquaza and Eternatus</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tvvcha/baxcalibur_gets_glaive_rush_and_gets_a_huge_jump/"/>
+    <published>2026-06-03T16:54:14Z</published>
+    <updated>2026-06-03T16:54:14Z</updated>
+    <summary type="text">submitted by /u/Most_Effective_4937 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/942547/amazon-search-bar-ai-images</id>
+    <title>🤖 Amazon&amp;#8217;s search bar will invent AI-generated products you can&amp;#8217;t buy</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/942547/amazon-search-bar-ai-images"/>
+    <published>2026-06-03T16:07:31Z</published>
+    <updated>2026-06-03T16:07:31Z</updated>
+    <summary type="text">Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-looking items. In a bl</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1tvseyn/know_before_you_go_super_mega_raid_update_at/</id>
+    <title>⚡ KNOW BEFORE YOU GO: Super Mega Raid Update at Pokémon GO Fest 2026: Chicago Park Experience</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tvseyn/know_before_you_go_super_mega_raid_update_at/"/>
+    <published>2026-06-03T15:15:35Z</published>
+    <updated>2026-06-03T15:15:35Z</updated>
+    <summary type="text">submitted by /u/AngelaMurkrow [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1tvs172/rank_changes_highlight_great_league/</id>
+    <title>⚡ Rank Changes Highlight: Great League</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tvs172/rank_changes_highlight_great_league/"/>
+    <published>2026-06-03T15:02:37Z</published>
+    <updated>2026-06-03T15:02:37Z</updated>
+    <summary type="text">pvp resource : pvpoke submitted by /u/bulbavisual [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1tvq3pz/excavator_pikachu_best_buddy_badge/</id>
+    <title>⚡ Excavator Pikachu Best Buddy Badge</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tvq3pz/excavator_pikachu_best_buddy_badge/"/>
+    <published>2026-06-03T13:55:45Z</published>
+    <updated>2026-06-03T13:55:45Z</updated>
+    <summary type="text">Bit of a shame it's just the regular placement submitted by /u/Gaias_Minion [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1tvocvz/every_missing_pokémon_forms_and_shinies_at_the/</id>
+    <title>⚡ Every missing Pokémon, forms and shinies at the end of the Memories in Motion season</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tvocvz/every_missing_pokémon_forms_and_shinies_at_the/"/>
+    <published>2026-06-03T12:49:11Z</published>
+    <updated>2026-06-03T12:49:11Z</updated>
+    <summary type="text">Previous posts in this series: Precious Paths , Tales of Transformation , Delightful Days , Might and Mastery , Dual Destiny , Max Out , Shared Skies , World of Wonders , Timeless Travels , Adventures Abound , Hidden Gems , Rising Heroes . submitted by /u/Meylody [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1tvn621/twitch_drop_on_sunday/</id>
+    <title>⚡ Twitch Drop on Sunday</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tvn621/twitch_drop_on_sunday/"/>
+    <published>2026-06-03T11:59:26Z</published>
+    <updated>2026-06-03T11:59:26Z</updated>
+    <summary type="text">Tune in to Twitch.tv/Pokemon and Twitch.tv/PokemonGO for at least 45 minutes on June 7, 2026 (at 8:00 a.m. PDT) to earn the following Twitch Drops: 1 Star Piece 1 Lucky Egg 50 Poké Balls 50 Great Balls 50 Ultra Balls 1 Rare Candy XL 1 Incense Source: https://www.pokemon.com/us/pokemon-news/celebrate</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603</id>
+    <title>🤖 MIT researchers teach AI models to interpret charts</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603"/>
+    <published>2026-06-03T04:00:00Z</published>
+    <updated>2026-06-03T04:00:00Z</updated>
+    <summary type="text">The new ChartNet training dataset could improve the accuracy of vision-language models that help analyze business trends or interpret scientific figures.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1tuq8xc/questions_answers_weekly_megathread_please_use/</id>
+    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tuq8xc/questions_answers_weekly_megathread_please_use/"/>
+    <published>2026-06-02T13:00:10Z</published>
+    <updated>2026-06-02T13:00:10Z</updated>
+    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1tu7bux/forever_forward_field_research_megathread/</id>
+    <title>⚡ Forever Forward Field Research Megathread</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tu7bux/forever_forward_field_research_megathread/"/>
+    <published>2026-06-01T22:01:26Z</published>
+    <updated>2026-06-01T22:01:26Z</updated>
+    <summary type="text">This thread will be updated as reports come in. Let us know what you've found! The Forever Forward season starts on 2 June 2026, at 10 am local time. Website version here Italics : Report from comments or single Research Group report Normal: Multiple Research Group reports (!s): This Pokémon encount</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub</id>
+    <title>🤖 Media Advisory: MIT to establish regional quantum hub</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub"/>
+    <published>2026-05-28T16:00:00Z</published>
+    <updated>2026-05-28T16:00:00Z</updated>
+    <summary type="text">With $25 million investment from the Commonwealth of Massachusetts, MIT to build a new shared-use facility to serve as a statewide quantum toolbox.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521</id>
+    <title>🤖 Technology usually creates jobs for young, skilled workers. Will AI do the same?</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521"/>
+    <published>2026-05-21T04:00:00Z</published>
+    <updated>2026-05-21T04:00:00Z</updated>
+    <summary type="text">A new study of the postwar U.S. shows which kinds of workers historically filled new tech-enabled jobs.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520</id>
+    <title>🤖 Building AI models that understand chemical principles</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520"/>
+    <published>2026-05-20T04:00:00Z</published>
+    <updated>2026-05-20T04:00:00Z</updated>
+    <summary type="text">Connor Coley works at the interface of chemistry and machine learning, to discover and design new drug compounds.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/justin-solomon-appointed-associate-dean-engineering-education-0519</id>
+    <title>🤖 Justin Solomon appointed associate dean of engineering education</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/justin-solomon-appointed-associate-dean-engineering-education-0519"/>
+    <published>2026-05-19T21:10:00Z</published>
+    <updated>2026-05-19T21:10:00Z</updated>
+    <summary type="text">MIT faculty member in electrical engineering and computer science to focus on innovation in engineering education and new pedagogical approaches.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think</id>
+    <title>🤖 Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.</title>
+    <link rel="alternate" href="https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"/>
+    <published>2026-05-19T17:45:00Z</published>
+    <updated>2026-05-19T17:45:00Z</updated>
+    <summary type="text">For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm. At its annual I/O developer conference , Google a</summary>
+    <category term="ai"/>
+    <author>
+      <name>VentureBeat AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/knight-hennessy-scholars-0514</id>
+    <title>🤖 Two from MIT named 2026 Knight-Hennessy Scholars</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/knight-hennessy-scholars-0514"/>
+    <published>2026-05-14T20:55:00Z</published>
+    <updated>2026-05-14T20:55:00Z</updated>
+    <summary type="text">The prestigious fellowship funds graduate studies at Stanford University.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</id>
+    <title>🤖 Railway secures $100 million to challenge AWS with AI-native cloud infrastructure</title>
+    <link rel="alternate" href="https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"/>
+    <published>2026-01-22T14:00:00Z</published>
+    <updated>2026-01-22T14:00:00Z</updated>
+    <summary type="text">Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of leg</summary>
+    <category term="ai"/>
+    <author>
+      <name>VentureBeat AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</id>
+    <title>🤖 Claude Code costs up to $200 a month. Goose does the same thing for free.</title>
+    <link rel="alternate" href="https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"/>
+    <published>2026-01-19T14:00:00Z</published>
+    <updated>2026-01-19T14:00:00Z</updated>
+    <summary type="text">The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month</summary>
+    <category term="ai"/>
+    <author>
+      <name>VentureBeat AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</id>
+    <title>🤖 Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews</title>
+    <link rel="alternate" href="https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"/>
+    <published>2026-01-16T14:01:00Z</published>
+    <updated>2026-01-16T14:01:00Z</updated>
+    <summary type="text">Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like</summary>
+    <category term="ai"/>
+    <author>
+      <name>VentureBeat AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</id>
+    <title>🤖 Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI</title>
+    <link rel="alternate" href="https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"/>
+    <published>2026-01-13T13:00:00Z</published>
+    <updated>2026-01-13T13:00:00Z</updated>
+    <summary type="text">Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf </summary>
+    <category term="ai"/>
+    <author>
+      <name>VentureBeat AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</id>
+    <title>🤖 Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required</title>
+    <link rel="alternate" href="https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"/>
+    <published>2026-01-12T11:30:00Z</published>
+    <updated>2026-01-12T11:30:00Z</updated>
+    <summary type="text">Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself. The laun</summary>
+    <category term="ai"/>
+    <author>
+      <name>VentureBeat AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</id>
+    <title>🤖 Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
+    <link rel="alternate" href="https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"/>
+    <published>2026-01-07T20:00:00Z</published>
+    <updated>2026-01-07T20:00:00Z</updated>
+    <summary type="text">Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia's latest B200 graphics pro</summary>
+    <category term="ai"/>
+    <author>
+      <name>VentureBeat AI</name>
+    </author>
+  </entry>
 </feed>
