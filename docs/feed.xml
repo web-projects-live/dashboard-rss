@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
+  <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
+  <updated>2026-06-04T01:07:57Z</updated>
+  <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
+  <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
+  <author>
+    <name>ha-news-feed-bot</name>
+  </author>
+  <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
+</feed>
