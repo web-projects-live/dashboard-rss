@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-06-06T15:16:46Z</updated>
+  <updated>2026-06-06T22:04:05Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/gofest-2026-copenhagen-lego</id>
-    <title>⚡ Build Your Adventure at Pokémon GO Fest 2026: Copenhagen</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gofest-2026-copenhagen-lego"/>
-    <published>2026-06-06T15:16:43Z</published>
-    <updated>2026-06-06T15:16:43Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/pokemon-x-target-2026</id>
     <title>⚡ Calling Trainers to Target stores!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-x-target-2026"/>
-    <published>2026-06-06T15:16:43Z</published>
-    <updated>2026-06-06T15:16:43Z</updated>
+    <published>2026-06-06T22:04:01Z</published>
+    <updated>2026-06-06T22:04:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026</id>
     <title>⚡ Find your community at Community Celebrations during Pokémon GO Fest 2026: Global!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026"/>
-    <published>2026-06-06T15:16:43Z</published>
-    <updated>2026-06-06T15:16:43Z</updated>
+    <published>2026-06-06T22:04:01Z</published>
+    <updated>2026-06-06T22:04:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/global-events-gofest2026-overlays</id>
     <title>⚡ Team up with Blanche, Spark, and Candela on a summer quest!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/global-events-gofest2026-overlays"/>
-    <published>2026-06-06T15:16:43Z</published>
-    <updated>2026-06-06T15:16:43Z</updated>
+    <published>2026-06-06T22:04:01Z</published>
+    <updated>2026-06-06T22:04:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/gofest-tokyo-super-mega-raid</id>
     <title>⚡ Update on the “Super Mega Raid” at the Pokémon GO Fest 2026: Tokyo Park Experience</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest-tokyo-super-mega-raid"/>
-    <published>2026-06-06T15:16:43Z</published>
-    <updated>2026-06-06T15:16:43Z</updated>
+    <published>2026-06-06T22:04:01Z</published>
+    <updated>2026-06-06T22:04:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/100-thieves-mega-mewtwo-go-fest-2026</id>
     <title>⚡ Pokémon GO Fest 2026 and 100 Thieves team up for an exclusive capsule collection in Chicago!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/100-thieves-mega-mewtwo-go-fest-2026"/>
-    <published>2026-06-06T15:16:43Z</published>
-    <updated>2026-06-06T15:16:43Z</updated>
+    <published>2026-06-06T22:04:01Z</published>
+    <updated>2026-06-06T22:04:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/pgo-pokemon-fossil-musuem-chicago-2026</id>
     <title>⚡ Celebrate with Pokémon GO at the Pokémon Fossil Museum in Chicago!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pgo-pokemon-fossil-musuem-chicago-2026"/>
-    <published>2026-06-06T15:16:43Z</published>
-    <updated>2026-06-06T15:16:43Z</updated>
+    <published>2026-06-06T22:04:01Z</published>
+    <updated>2026-06-06T22:04:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/go-battle-league-forever-forward</id>
     <title>⚡ GO Battle League: Forever Forward Update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-battle-league-forever-forward"/>
-    <published>2026-06-06T15:16:43Z</published>
-    <updated>2026-06-06T15:16:43Z</updated>
+    <published>2026-06-06T22:04:01Z</published>
+    <updated>2026-06-06T22:04:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/communityday-june-2026-frigibax</id>
     <title>⚡ Frigibax will be featured in June Community Day, and Community Day voting is back for August!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communityday-june-2026-frigibax"/>
-    <published>2026-06-06T15:16:43Z</published>
-    <updated>2026-06-06T15:16:43Z</updated>
+    <published>2026-06-06T22:04:01Z</published>
+    <updated>2026-06-06T22:04:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/go-pass-june-2026</id>
     <title>⚡ The Timed Incubator returns in GO Pass: June!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-june-2026"/>
-    <published>2026-06-06T15:16:43Z</published>
-    <updated>2026-06-06T15:16:43Z</updated>
+    <published>2026-06-06T22:04:01Z</published>
+    <updated>2026-06-06T22:04:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/know-before-you-go-gofest-2026-in-person-events</id>
     <title>⚡ Know before you GO to Pokémon GO Fest 2026: Tokyo, Chicago, and Copenhagen</title>
     <link rel="alternate" href="https://pokemongolive.com/news/know-before-you-go-gofest-2026-in-person-events"/>
-    <published>2026-06-06T15:16:43Z</published>
-    <updated>2026-06-06T15:16:43Z</updated>
+    <published>2026-06-06T22:04:01Z</published>
+    <updated>2026-06-06T22:04:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/go-fest-chicago-2026-community</id>
     <title>⚡ Pokémon GO Fest 2026: Chicago Community Ambassador Meet-ups</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-fest-chicago-2026-community"/>
-    <published>2026-06-06T15:16:43Z</published>
-    <updated>2026-06-06T15:16:43Z</updated>
+    <published>2026-06-06T22:04:01Z</published>
+    <updated>2026-06-06T22:04:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/pokemon-run-30-2026</id>
     <title>⚡ Ready, set, GO! Join the Pokémon RUN 30 event near you!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-run-30-2026"/>
-    <published>2026-06-06T15:16:43Z</published>
-    <updated>2026-06-06T15:16:43Z</updated>
+    <published>2026-06-06T22:04:01Z</published>
+    <updated>2026-06-06T22:04:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/gofest-chicago-super-mega-raid</id>
     <title>⚡ Super Mega Raid Update at Pokémon GO Fest 2026: Chicago Park Experience</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest-chicago-super-mega-raid"/>
-    <published>2026-06-06T15:16:43Z</published>
-    <updated>2026-06-06T15:16:43Z</updated>
+    <published>2026-06-06T22:04:01Z</published>
+    <updated>2026-06-06T22:04:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +156,82 @@
     <id>https://pokemongolive.com/news/skarmory-super-mega-raid-day-2026</id>
     <title>⚡ Stay sharp for Skarmory Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/skarmory-super-mega-raid-day-2026"/>
-    <published>2026-06-06T15:16:43Z</published>
-    <updated>2026-06-06T15:16:43Z</updated>
+    <published>2026-06-06T22:04:01Z</published>
+    <updated>2026-06-06T22:04:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gofest-chicago-saturday-update</id>
+    <title>⚡ Gameplay Update: Chicago Pokémon GO Fest</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gofest-chicago-saturday-update"/>
+    <published>2026-06-06T22:04:01Z</published>
+    <updated>2026-06-06T22:04:01Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1tytez2/does_anyone_know_where_to_get_the_chicago_go_fest/</id>
+    <title>⚡ Does anyone know where to get the Chicago go fest pin?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tytez2/does_anyone_know_where_to_get_the_chicago_go_fest/"/>
+    <published>2026-06-06T21:30:27Z</published>
+    <updated>2026-06-06T21:30:27Z</updated>
+    <summary type="text">Where do you get this I checked the store and it wasn’t there? submitted by /u/ArtisticMarzipan8312 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1tyrm59/gameplay_update_chicago_pokémon_go_fest/</id>
+    <title>⚡ Gameplay Update: Chicago Pokémon GO Fest</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tyrm59/gameplay_update_chicago_pokémon_go_fest/"/>
+    <published>2026-06-06T20:14:57Z</published>
+    <updated>2026-06-06T20:14:57Z</updated>
+    <summary type="text">submitted by /u/Spotty2012 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/Brawlstars/comments/1tyr3ub/update_v67_pin_sets/</id>
+    <title>🏆 Update v67 pin sets</title>
+    <link rel="alternate" href="https://www.reddit.com/r/Brawlstars/comments/1tyr3ub/update_v67_pin_sets/"/>
+    <published>2026-06-06T19:54:48Z</published>
+    <updated>2026-06-06T19:54:48Z</updated>
+    <summary type="text">submitted by /u/AnoxiteOfTheBlue [link] [comments]</summary>
+    <category term="brawlstars"/>
+    <author>
+      <name>Brawl Stars — Reddit</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1tyqes8/they_removed_my_poffin_task_i_saved_for_years/</id>
+    <title>⚡ They removed my poffin task I saved for years</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tyqes8/they_removed_my_poffin_task_i_saved_for_years/"/>
+    <published>2026-06-06T19:27:05Z</published>
+    <updated>2026-06-06T19:27:05Z</updated>
+    <summary type="text">There was a poffin task to scan xy. I kept it on top, it's gone today. submitted by /u/shadraig [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun</id>
+    <title>🤖 GOG apologizes for emailing people Nazi symbols</title>
+    <link rel="alternate" href="https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun"/>
+    <published>2026-06-06T17:59:37Z</published>
+    <updated>2026-06-06T17:59:37Z</updated>
+    <summary type="text">GOG sent a newsletter about the game The End of the Sun on June 5th that included symbols associated with the Nazi SS. The Steam competitor issued a statement attributing the inclusion to a &quot;series of mistakes,&quot; including miscommunication with the German QA team, inconsistent font rendering, and bei</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -192,7 +252,7 @@
     <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tyjabo/top_raid_attackers_june_2026/"/>
     <published>2026-06-06T14:50:26Z</published>
     <updated>2026-06-06T14:50:26Z</updated>
-    <summary type="text">single page version downloadable for free at buymeacoffee raid attackers resource from dialgadex submitted by /u/bulbavisual [link] [comments]</summary>
+    <summary type="text">single page version downloadable for free at buymeacoffee raid attackers resource from dialgadex note : i exclude regigigas submitted by /u/bulbavisual [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
@@ -223,36 +283,12 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini</id>
-    <title>🤖 Here comes new Siri again</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini"/>
-    <published>2026-06-06T12:00:00Z</published>
-    <updated>2026-06-06T12:00:00Z</updated>
-    <summary type="text">Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in […]</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.reddit.com/r/TheSilphRoad/comments/1tyelmb/wugtrio_spawn_outside_beach_biome/</id>
     <title>⚡ Wugtrio Spawn outside Beach Biome</title>
     <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tyelmb/wugtrio_spawn_outside_beach_biome/"/>
     <published>2026-06-06T11:20:47Z</published>
     <updated>2026-06-06T11:20:47Z</updated>
     <summary type="text">Wugtrio can spawn now outside beach biomes. Not sure of this is a bug but my friend and I randomly found a Wugtrio in a city area. submitted by /u/LowAdhesiveness4708 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ty7drh/psycho_cut_or_confusion/</id>
-    <title>⚡ Psycho Cut or Confusion?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ty7drh/psycho_cut_or_confusion/"/>
-    <published>2026-06-06T04:32:06Z</published>
-    <updated>2026-06-06T04:32:06Z</updated>
-    <summary type="text">Should M2 Y have psycho cut or confusion? Been seeing different content creators saying different things, with some saying confusion &gt; psycho cut and others vice versa submitted by /u/beeapple8 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
@@ -268,30 +304,6 @@
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel</id>
-    <title>🤖 More than a decade later, the team behind N++ is back with a multiplayer sequel</title>
-    <link rel="alternate" href="https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel"/>
-    <published>2026-06-05T23:25:34Z</published>
-    <updated>2026-06-05T23:25:34Z</updated>
-    <summary type="text">Back in 2015, the two-person studio Metanet released N++, a brutally hard 2D platformer that was a decade in the making, building off of previous releases dating back to the freeware Flash title N. At the time, cofounder Raigan Burns issued some famous last words: &quot;We hope it's not another 10 years </summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest</id>
-    <title>🤖 Grand Theft Auto VI is warping the video game release calendar</title>
-    <link rel="alternate" href="https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest"/>
-    <published>2026-06-05T23:05:27Z</published>
-    <updated>2026-06-05T23:05:27Z</updated>
-    <summary type="text">Who's afraid of the next GTA? Based on the last few days of Summer Game Fest, just about everyone. Grand Theft Auto VI hasn't been present at any of the keynote events, but its presence was felt every time a release date was announced. The month of November, when GTA VI launches, is virtually empty.</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -316,30 +328,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1txv6qa/they_need_to_add_a_small_notification_symbol_for/</id>
-    <title>⚡ They need to add a small notification symbol for a raid invite when not on the map</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1txv6qa/they_need_to_add_a_small_notification_symbol_for/"/>
-    <published>2026-06-05T19:39:49Z</published>
-    <updated>2026-06-05T19:39:49Z</updated>
-    <summary type="text">It would be so much better to have like a notification to say &quot;x has invited you to x raid&quot; maybe in the top right of the screen or something so you dont have to miss raid invites while your scrolling your friends list, sorting your inventory or if you are in niantic support in game. The amount of i</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1txoebi/zeraora_best_buddy_badge_placement/</id>
-    <title>⚡ Zeraora Best Buddy Badge Placement</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1txoebi/zeraora_best_buddy_badge_placement/"/>
-    <published>2026-06-05T15:35:32Z</published>
-    <updated>2026-06-05T15:35:32Z</updated>
-    <summary type="text">submitted by /u/PattrickDenino1 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
