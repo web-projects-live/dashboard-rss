@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-06-09T22:24:59Z</updated>
+  <updated>2026-06-10T14:20:34Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/global-events-gofest2026-overlays</id>
-    <title>⚡ Team up with Blanche, Spark, and Candela on a summer quest!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/global-events-gofest2026-overlays"/>
-    <published>2026-06-09T22:24:57Z</published>
-    <updated>2026-06-09T22:24:57Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/gofest-tokyo-super-mega-raid</id>
     <title>⚡ Update on the “Super Mega Raid” at the Pokémon GO Fest 2026: Tokyo Park Experience</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest-tokyo-super-mega-raid"/>
-    <published>2026-06-09T22:24:57Z</published>
-    <updated>2026-06-09T22:24:57Z</updated>
+    <published>2026-06-10T14:20:32Z</published>
+    <updated>2026-06-10T14:20:32Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/100-thieves-mega-mewtwo-go-fest-2026</id>
     <title>⚡ Pokémon GO Fest 2026 and 100 Thieves team up for an exclusive capsule collection in Chicago!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/100-thieves-mega-mewtwo-go-fest-2026"/>
-    <published>2026-06-09T22:24:57Z</published>
-    <updated>2026-06-09T22:24:57Z</updated>
+    <published>2026-06-10T14:20:32Z</published>
+    <updated>2026-06-10T14:20:32Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/pgo-pokemon-fossil-musuem-chicago-2026</id>
     <title>⚡ Celebrate with Pokémon GO at the Pokémon Fossil Museum in Chicago!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pgo-pokemon-fossil-musuem-chicago-2026"/>
-    <published>2026-06-09T22:24:57Z</published>
-    <updated>2026-06-09T22:24:57Z</updated>
+    <published>2026-06-10T14:20:32Z</published>
+    <updated>2026-06-10T14:20:32Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/go-battle-league-forever-forward</id>
     <title>⚡ GO Battle League: Forever Forward Update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-battle-league-forever-forward"/>
-    <published>2026-06-09T22:24:57Z</published>
-    <updated>2026-06-09T22:24:57Z</updated>
+    <published>2026-06-10T14:20:32Z</published>
+    <updated>2026-06-10T14:20:32Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/communityday-june-2026-frigibax</id>
     <title>⚡ Frigibax will be featured in June Community Day, and Community Day voting is back for August!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communityday-june-2026-frigibax"/>
-    <published>2026-06-09T22:24:57Z</published>
-    <updated>2026-06-09T22:24:57Z</updated>
+    <published>2026-06-10T14:20:32Z</published>
+    <updated>2026-06-10T14:20:32Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/go-pass-june-2026</id>
     <title>⚡ The Timed Incubator returns in GO Pass: June!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-june-2026"/>
-    <published>2026-06-09T22:24:57Z</published>
-    <updated>2026-06-09T22:24:57Z</updated>
+    <published>2026-06-10T14:20:32Z</published>
+    <updated>2026-06-10T14:20:32Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/know-before-you-go-gofest-2026-in-person-events</id>
     <title>⚡ Know before you GO to Pokémon GO Fest 2026: Tokyo, Chicago, and Copenhagen</title>
     <link rel="alternate" href="https://pokemongolive.com/news/know-before-you-go-gofest-2026-in-person-events"/>
-    <published>2026-06-09T22:24:57Z</published>
-    <updated>2026-06-09T22:24:57Z</updated>
+    <published>2026-06-10T14:20:32Z</published>
+    <updated>2026-06-10T14:20:32Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/go-fest-chicago-2026-community</id>
     <title>⚡ Pokémon GO Fest 2026: Chicago Community Ambassador Meet-ups</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-fest-chicago-2026-community"/>
-    <published>2026-06-09T22:24:57Z</published>
-    <updated>2026-06-09T22:24:57Z</updated>
+    <published>2026-06-10T14:20:32Z</published>
+    <updated>2026-06-10T14:20:32Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/pokemon-run-30-2026</id>
     <title>⚡ Ready, set, GO! Join the Pokémon RUN 30 event near you!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-run-30-2026"/>
-    <published>2026-06-09T22:24:57Z</published>
-    <updated>2026-06-09T22:24:57Z</updated>
+    <published>2026-06-10T14:20:32Z</published>
+    <updated>2026-06-10T14:20:32Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/gofest-chicago-super-mega-raid</id>
     <title>⚡ Super Mega Raid Update at Pokémon GO Fest 2026: Chicago Park Experience</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest-chicago-super-mega-raid"/>
-    <published>2026-06-09T22:24:57Z</published>
-    <updated>2026-06-09T22:24:57Z</updated>
+    <published>2026-06-10T14:20:32Z</published>
+    <updated>2026-06-10T14:20:32Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/skarmory-super-mega-raid-day-2026</id>
     <title>⚡ Stay sharp for Skarmory Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/skarmory-super-mega-raid-day-2026"/>
-    <published>2026-06-09T22:24:57Z</published>
-    <updated>2026-06-09T22:24:57Z</updated>
+    <published>2026-06-10T14:20:32Z</published>
+    <updated>2026-06-10T14:20:32Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/gofest-chicago-saturday-update</id>
     <title>⚡ Gameplay Update: Chicago Pokémon GO Fest</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest-chicago-saturday-update"/>
-    <published>2026-06-09T22:24:57Z</published>
-    <updated>2026-06-09T22:24:57Z</updated>
+    <published>2026-06-10T14:20:32Z</published>
+    <updated>2026-06-10T14:20:32Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/flying-taxi-2026</id>
     <title>⚡ Take Flight as Squawkabilly’s Debut Leads the Flying Taxi Charge</title>
     <link rel="alternate" href="https://pokemongolive.com/news/flying-taxi-2026"/>
-    <published>2026-06-09T22:24:57Z</published>
-    <updated>2026-06-09T22:24:57Z</updated>
+    <published>2026-06-10T14:20:32Z</published>
+    <updated>2026-06-10T14:20:32Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,35 +156,130 @@
     <id>https://pokemongolive.com/news/flying-taxi-taken-over-2026</id>
     <title>⚡ Rescue Shadow Reshiram and more during Flying Taxi: Taken Over!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/flying-taxi-taken-over-2026"/>
-    <published>2026-06-09T22:24:57Z</published>
-    <updated>2026-06-09T22:24:57Z</updated>
+    <published>2026-06-10T14:20:32Z</published>
+    <updated>2026-06-10T14:20:32Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion</id>
-    <title>🤖 GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech</title>
-    <link rel="alternate" href="https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion"/>
-    <published>2026-06-09T21:00:00Z</published>
-    <updated>2026-06-09T21:00:00Z</updated>
-    <summary type="text">At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid capabilities for its curr</summary>
+    <id>https://pokemongolive.com/news/gofest-copenhagen-super-mega-raid</id>
+    <title>⚡ Super Mega Raid Update at Pokémon GO Fest 2026: Copenhagen Park Experience</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gofest-copenhagen-super-mega-raid"/>
+    <published>2026-06-10T14:20:32Z</published>
+    <updated>2026-06-10T14:20:32Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/947218/insta360-luna-ultra-dual-camera-stabilized-8k-telephoto-leica-us-availability-pricing</id>
+    <title>🤖 Insta360’s Luna Ultra 8K stabilized camera is now available in the US</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/947218/insta360-luna-ultra-dual-camera-stabilized-8k-telephoto-leica-us-availability-pricing"/>
+    <published>2026-06-10T13:00:00Z</published>
+    <updated>2026-06-10T13:00:00Z</updated>
+    <summary type="text">Following months of teases, leaks, a secretive debut at NAB 2026, and an initial launch in China, Insta360 finally announced global availability for its first handheld stabilized camera. The Luna Ultra features a pair of 8K cameras atop a 3-axis gimbal, offering an upgrade to DJI's Osmo Pocket 4 and</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u1hevt/shadow_reshiram_is_no_1_in_fire_types_even_higher/</id>
-    <title>⚡ Shadow Reshiram is No 1 in fire types even higher than Mega Charizard Y and Mega Blaziken (Lvl 40). Shadow Reshiram is No 3 in level 50</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u1hevt/shadow_reshiram_is_no_1_in_fire_types_even_higher/"/>
-    <published>2026-06-09T20:50:01Z</published>
-    <updated>2026-06-09T20:50:01Z</updated>
-    <summary type="text">submitted by /u/Most_Effective_4937 [link] [comments]</summary>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u1zi4l/giovanni_authenticity/</id>
+    <title>⚡ Giovanni authenticity</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u1zi4l/giovanni_authenticity/"/>
+    <published>2026-06-10T11:29:54Z</published>
+    <updated>2026-06-10T11:29:54Z</updated>
+    <summary type="text">One thing I would love to see added to the game would be uniqueness added to legendary Pokémon caught after defeating Giovanni. Team Rocket Super radars are generally very hard to get. For most seasons, you only get one. Yet what do they give you? 5000 Stardust and a legendary Pokémon which is desti</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u1xtxe/any_reason_for_not_using_my_zygarde_cells/</id>
+    <title>⚡ Any reason for not using my zygarde cells?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u1xtxe/any_reason_for_not_using_my_zygarde_cells/"/>
+    <published>2026-06-10T10:02:31Z</published>
+    <updated>2026-06-10T10:02:31Z</updated>
+    <summary type="text">Hi, I'm near the 300 cell limit and I'm wondering if there is any reason for not using the cells to change the form of my zygarde. It's already in second form so I'd have to use 200 of them. I guess zygarde is not coming back soon so now sounds like a good time to use them and recover cells while zy</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u1wx21/copenhagen_lego_stamp_rally_dates_and_locations/</id>
+    <title>⚡ Copenhagen LEGO Stamp Rally dates and locations updated on website.</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u1wx21/copenhagen_lego_stamp_rally_dates_and_locations/"/>
+    <published>2026-06-10T09:10:00Z</published>
+    <updated>2026-06-10T09:10:00Z</updated>
+    <summary type="text">Website on the LEGO Stamp Rally collab has been updated (I believe some time yesterday?) Event runs from 12 June 10am to 14 June 11:59pm. Locations are: Faelledparken, Gefion Fountain, Kongens Have, Lego Store Copenhagen, and Lego Store Tivoli Gardens. If anyone's out to get them in one go I believe</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/transportation/947178/waymo-reference-driver-model-surprise-avoid-collision</id>
+    <title>🤖 Waymo built a virtual driver to study how humans react to surprises on the road</title>
+    <link rel="alternate" href="https://www.theverge.com/transportation/947178/waymo-reference-driver-model-surprise-avoid-collision"/>
+    <published>2026-06-10T09:00:00Z</published>
+    <updated>2026-06-10T09:00:00Z</updated>
+    <summary type="text">Waymo has a lot of experience building virtual systems to help its autonomous vehicles better understand the real world. It built realistic 3D worlds to better anticipate natural disasters and unpredictable edge cases. It created a virtual representation of a hyperattentive driver to test against it</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/947516/meta-whatsapp-eu-third-party-ai-chatbot-ban-order</id>
+    <title>🤖 WhatsApp ordered to host rival AI assistants for free</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/947516/meta-whatsapp-eu-third-party-ai-chatbot-ban-order"/>
+    <published>2026-06-10T08:40:56Z</published>
+    <updated>2026-06-10T08:40:56Z</updated>
+    <summary type="text">Meta has been ordered by the European Commission to restore free WhatsApp access for chatbots made by rival AI providers while the regulator finishes its antitrust investigation. The rare interim measure announced on Tuesday was deemed necessary &quot;to prevent serious and irreparable damage to competit</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610</id>
+    <title>🤖 Startup’s nuclear-inspired cooling system could make data centers more sustainable</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610"/>
+    <published>2026-06-10T04:00:00Z</published>
+    <updated>2026-06-10T04:00:00Z</updated>
+    <summary type="text">Founded by two researchers from MIT, Ferveret reduces the amount of energy and water required to cool the chips that power AI.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u1pql8/pokemon_go_appraisal_back_to_normal_size/</id>
+    <title>⚡ Pokemon GO appraisal back to normal size.</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u1pql8/pokemon_go_appraisal_back_to_normal_size/"/>
+    <published>2026-06-10T02:42:19Z</published>
+    <updated>2026-06-10T02:42:19Z</updated>
+    <summary type="text">App version that came out today. 0.415.0 Appraisal bar back to normal. Sad cause a lot of us were enjoying the thicker line bars. submitted by /u/Meringue-Relevant [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc</id>
+    <title>🤖 I tried Siri AI, and so far it actually works</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc"/>
+    <published>2026-06-09T23:43:00Z</published>
+    <updated>2026-06-09T23:43:00Z</updated>
+    <summary type="text">Parents want one thing, and one thing only, out of AI: to add a list of soccer games or &quot;spirit week&quot; theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After […]</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -220,18 +304,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious</id>
-    <title>🤖 Microsoft AI head calls out Anthropic for acting like Claude is conscious</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious"/>
-    <published>2026-06-09T20:24:25Z</published>
-    <updated>2026-06-09T20:24:25Z</updated>
-    <summary type="text">Microsoft AI CEO Mustafa Suleyman says it's &quot;really, really dangerous&quot; for Anthropic to speculate about Claude's consciousness inside its &quot;constitution,&quot; or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -265,90 +337,6 @@
     <published>2026-06-09T20:01:23Z</published>
     <updated>2026-06-09T20:01:23Z</updated>
     <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/gadgets/947063/fitbit-charge-6-ace-lte-air-deal-sale</id>
-    <title>🤖 Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/947063/fitbit-charge-6-ace-lte-air-deal-sale"/>
-    <published>2026-06-09T17:35:51Z</published>
-    <updated>2026-06-09T17:35:51Z</updated>
-    <summary type="text">Whether you’re shopping for Father’s Day or trying to keep your kids entertained over summer break, you don’t need to spend a fortune to get a great Fitbit right now. You can currently pick up the Fitbit Charge 6 for $50 off at Amazon, Best Buy, and Target, the Fitbit Ace LTE for $80 off […]</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai</id>
-    <title>🤖 Apple wants Europe to blink</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai"/>
-    <published>2026-06-09T17:13:14Z</published>
-    <updated>2026-06-09T17:13:14Z</updated>
-    <summary type="text">It took a few years, but Apple finally made its AI look useful. Now millions of iPhone users in Europe are being told they won't be getting Siri AI anytime soon, if ever - and Apple wants them to blame the EU. Apple says its new AI-powered Siri will not launch on iPhones and iPads […]</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u1azu1/flying_taxi_niantic_infographic/</id>
-    <title>⚡ Flying Taxi Niantic Infographic</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u1azu1/flying_taxi_niantic_infographic/"/>
-    <published>2026-06-09T17:02:03Z</published>
-    <updated>2026-06-09T17:02:03Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u1ay91/take_flight_as_squawkabillys_debut_leads_the/</id>
-    <title>⚡ Take Flight as Squawkabilly’s Debut Leads the Flying Taxi Charge</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u1ay91/take_flight_as_squawkabillys_debut_leads_the/"/>
-    <published>2026-06-09T17:00:47Z</published>
-    <updated>2026-06-09T17:00:47Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos</id>
-    <title>🤖 Anthropic releases its first Mythos-class model Claude Fable</title>
-    <link rel="alternate" href="https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos"/>
-    <published>2026-06-09T17:00:00Z</published>
-    <updated>2026-06-09T17:00:00Z</updated>
-    <summary type="text">Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 &quot;shows exceptional performance in software engineering, knowledge work, and vision,&quot; with its lead over other models growing as tasks become</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes</id>
-    <title>🤖 Apple is embracing the fantasy of AI photo editing</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes"/>
-    <published>2026-06-09T16:13:14Z</published>
-    <updated>2026-06-09T16:13:14Z</updated>
-    <summary type="text">Apple used to question whether generative AI-powered editing features were worth the risk of distorting our perceptions of the world. Now it seems Apple no longer believes that photos should accurately capture reality. At WWDC 2026, the company announced a host of new AI-powered photo editing tools.</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u166h2/you_should_be_able_to_do_this_task_for_free_with/</id>
-    <title>⚡ You should be able to do this task for free with link charges multiple times</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u166h2/you_should_be_able_to_do_this_task_for_free_with/"/>
-    <published>2026-06-09T14:13:27Z</published>
-    <updated>2026-06-09T14:13:27Z</updated>
-    <summary type="text">Since link charges are not consumed this task should be free to do. submitted by /u/aba_lancer [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
@@ -448,18 +436,6 @@
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub</id>
-    <title>🤖 Media Advisory: MIT to establish regional quantum hub</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub"/>
-    <published>2026-05-28T16:00:00Z</published>
-    <updated>2026-05-28T16:00:00Z</updated>
-    <summary type="text">With $25 million investment from the Commonwealth of Massachusetts, MIT to build a new shared-use facility to serve as a statewide quantum toolbox.</summary>
-    <category term="ai"/>
-    <author>
-      <name>MIT AI News</name>
     </author>
   </entry>
   <entry>
