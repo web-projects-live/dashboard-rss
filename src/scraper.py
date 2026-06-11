@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from sources import USER_AGENT, REQUEST_TIMEOUT
 
 
-def _make_session():
+def make_session():
     s = requests.Session()
     s.headers.update({
         "User-Agent": USER_AGENT,
@@ -58,7 +58,7 @@ def scrape_source(source):
     base_url = cfg.get("base_url", source["url"])
     max_items = source.get("max_items", 10)
 
-    session = _make_session()
+    session = make_session()
 
     try:
         resp = session.get(source["url"], timeout=REQUEST_TIMEOUT)
