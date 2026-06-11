@@ -39,10 +39,12 @@ SOURCES = [
         "max_items": 10,
         "keyword_filter": None,
         "scrape_config": {
-            "item_selector": "article a, .post-card a, .blog-card a, .news-item a",
-            "title_child": "h2, h3, .title, .post-title",
+            "mode": "next_data",
+            "data_path": "props.pageProps.articles",
+            "title_field": "title",
+            "link_field": "linkUrl",
+            "date_field": "publishDate",
             "base_url": "https://supercell.com",
-            "fetch_article_date": False,
         },
     },
 

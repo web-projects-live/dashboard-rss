@@ -1,6 +1,8 @@
+import json
 import re
 import requests
 from datetime import datetime, timezone
+from dateutil import parser as dtparser
 from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
 from sources import USER_AGENT, REQUEST_TIMEOUT
@@ -25,12 +27,10 @@ def _extract_article_date(session, url):
         for prop in ("article:published_time", "og:published_time", "datePublished"):
             tag = soup.find("meta", property=prop) or soup.find("meta", itemprop=prop)
             if tag and tag.get("content"):
-                from dateutil import parser as dtparser
                 return dtparser.parse(tag["content"]).astimezone(timezone.utc)
         # Try <time datetime="...">
         time_tag = soup.find("time", {"datetime": True})
         if time_tag:
-            from dateutil import parser as dtparser
             return dtparser.parse(time_tag["datetime"]).astimezone(timezone.utc)
     except Exception:
         pass
@@ -50,11 +50,81 @@ def _normalize_url(href, base_url):
     return urljoin(base_url, href)
 
 
+def _scrape_next_data(source):
+    """
+    Scrape a Next.js page by reading structured data out of its
+    `<script id="__NEXT_DATA__">` JSON blob, rather than relying on
+    CSS selectors (which target auto-generated, deploy-specific class names).
+    """
+    cfg = source["scrape_config"]
+    base_url = cfg.get("base_url", source["url"])
+    max_items = source.get("max_items", 10)
+
+    session = make_session()
+
+    try:
+        resp = session.get(source["url"], timeout=REQUEST_TIMEOUT)
+        resp.raise_for_status()
+    except requests.RequestException as e:
+        raise RuntimeError(f"Failed to fetch {source['url']}: {e}") from e
+
+    soup = BeautifulSoup(resp.text, "lxml")
+    script = soup.find("script", {"id": "__NEXT_DATA__"})
+    if not script or not script.string:
+        raise RuntimeError("__NEXT_DATA__ script tag not found")
+
+    data = json.loads(script.string)
+
+    node = data
+    for key in cfg["data_path"].split("."):
+        node = node[key]
+
+    icon = source.get("icon", "")
+    title_field = cfg.get("title_field", "title")
+    link_field = cfg.get("link_field", "linkUrl")
+    date_field = cfg.get("date_field")
+
+    items = []
+    for article in node:
+        title_text = re.sub(r"\s+", " ", article.get(title_field, "")).strip()
+        if not title_text:
+            continue
+
+        href = _normalize_url(article.get(link_field), base_url)
+        if not href:
+            continue
+
+        full_title = f"{icon} {title_text}" if icon else title_text
+
+        if date_field and article.get(date_field):
+            published = dtparser.parse(article[date_field]).astimezone(timezone.utc)
+        else:
+            published = datetime.now(timezone.utc)
+
+        items.append({
+            "title": full_title,
+            "link": href,
+            "summary": "",
+            "published": published,
+            "category": source["category"],
+            "source_label": source["label"],
+        })
+
+        if len(items) >= max_items:
+            break
+
+    return items
+
+
 def scrape_source(source):
     """
     Scrape an HTML page and return a list of normalized item dicts.
     """
     cfg = source["scrape_config"]
+
+    if cfg.get("mode") == "next_data":
+        return _scrape_next_data(source)
+
     base_url = cfg.get("base_url", source["url"])
     max_items = source.get("max_items", 10)
 
