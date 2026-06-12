@@ -39,10 +39,12 @@ SOURCES = [
         "max_items": 10,
         "keyword_filter": None,
         "scrape_config": {
-            "item_selector": "article a, .post-card a, .blog-card a, .news-item a",
-            "title_child": "h2, h3, .title, .post-title",
+            "mode": "next_data",
+            "data_path": "props.pageProps.articles",
+            "title_field": "title",
+            "link_field": "linkUrl",
+            "date_field": "publishDate",
             "base_url": "https://supercell.com",
-            "fetch_article_date": False,
         },
     },
 
@@ -95,7 +97,7 @@ SOURCES = [
     {
         "label": "OpenAI Blog",
         "type": "rss",
-        "url": "https://openai.com/blog/rss/",
+        "url": "https://openai.com/news/rss.xml",
         "category": "ai",
         "icon": "🤖",
         "max_items": 5,
@@ -116,7 +118,10 @@ SOURCES = [
 # ── GLOBAL CONFIG ──────────────────────────────────────────────────────────
 MAX_TOTAL_ITEMS = 60
 REQUEST_TIMEOUT = 15
-USER_AGENT = "ha-news-feed-bot/1.0 (+https://github.com/web-projects-live/dashboard-rss)"
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+)
 OUTPUT_PATH = "docs/feed.xml"
 FEED_ID = "https://web-projects-live.github.io/dashboard-rss/feed.xml"
 FEED_TITLE = "HA News Feed — Pokémon GO, Brawl Stars & AI"

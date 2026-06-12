@@ -8,16 +8,17 @@ Atom 1.0 feed, and writes it to docs/feed.xml.
 import sys
 import calendar
 import feedparser
+import requests
 from datetime import datetime, timezone
 from dateutil import parser as dtparser
 from xml.etree.ElementTree import Element, SubElement, tostring
 import xml.dom.minidom
 
 from sources import (
-    SOURCES, MAX_TOTAL_ITEMS, REQUEST_TIMEOUT, USER_AGENT,
+    SOURCES, MAX_TOTAL_ITEMS, REQUEST_TIMEOUT,
     OUTPUT_PATH, FEED_ID, FEED_TITLE, FEED_LINK,
 )
-from scraper import scrape_source
+from scraper import scrape_source, make_session
 
 
 ATOM_NS = "http://www.w3.org/2005/Atom"
@@ -54,11 +55,18 @@ def _strip_html(text):
 
 def fetch_rss(source):
     """Fetch and normalize items from an RSS/Atom feed."""
-    d = feedparser.parse(
-        source["url"],
-        agent=USER_AGENT,
-        request_headers={"Accept": "application/rss+xml, application/atom+xml, */*"},
-    )
+    session = make_session()
+    try:
+        resp = session.get(
+            source["url"],
+            timeout=REQUEST_TIMEOUT,
+            headers={"Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8"},
+        )
+        resp.raise_for_status()
+    except requests.RequestException as e:
+        raise RuntimeError(f"Failed to fetch {source['url']}: {e}") from e
+
+    d = feedparser.parse(resp.content)
 
     if d.get("bozo") and not d.get("entries"):
         raise RuntimeError(
