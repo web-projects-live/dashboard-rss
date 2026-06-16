@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-06-15T23:03:55Z</updated>
+  <updated>2026-06-16T15:50:22Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/communityday-june-2026-frigibax</id>
-    <title>⚡ Frigibax will be featured in June Community Day, and Community Day voting is back for August!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/communityday-june-2026-frigibax"/>
-    <published>2026-06-15T23:03:54Z</published>
-    <updated>2026-06-15T23:03:54Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/go-pass-june-2026</id>
     <title>⚡ The Timed Incubator returns in GO Pass: June!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-june-2026"/>
-    <published>2026-06-15T23:03:54Z</published>
-    <updated>2026-06-15T23:03:54Z</updated>
+    <published>2026-06-16T15:50:20Z</published>
+    <updated>2026-06-16T15:50:20Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/know-before-you-go-gofest-2026-in-person-events</id>
     <title>⚡ Know before you GO to Pokémon GO Fest 2026: Tokyo, Chicago, and Copenhagen</title>
     <link rel="alternate" href="https://pokemongolive.com/news/know-before-you-go-gofest-2026-in-person-events"/>
-    <published>2026-06-15T23:03:54Z</published>
-    <updated>2026-06-15T23:03:54Z</updated>
+    <published>2026-06-16T15:50:20Z</published>
+    <updated>2026-06-16T15:50:20Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/go-fest-chicago-2026-community</id>
     <title>⚡ Pokémon GO Fest 2026: Chicago Community Ambassador Meet-ups</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-fest-chicago-2026-community"/>
-    <published>2026-06-15T23:03:54Z</published>
-    <updated>2026-06-15T23:03:54Z</updated>
+    <published>2026-06-16T15:50:20Z</published>
+    <updated>2026-06-16T15:50:20Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/pokemon-run-30-2026</id>
     <title>⚡ Ready, set, GO! Join the Pokémon RUN 30 event near you!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-run-30-2026"/>
-    <published>2026-06-15T23:03:54Z</published>
-    <updated>2026-06-15T23:03:54Z</updated>
+    <published>2026-06-16T15:50:20Z</published>
+    <updated>2026-06-16T15:50:20Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/gofest-chicago-super-mega-raid</id>
     <title>⚡ Super Mega Raid Update at Pokémon GO Fest 2026: Chicago Park Experience</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest-chicago-super-mega-raid"/>
-    <published>2026-06-15T23:03:54Z</published>
-    <updated>2026-06-15T23:03:54Z</updated>
+    <published>2026-06-16T15:50:20Z</published>
+    <updated>2026-06-16T15:50:20Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/skarmory-super-mega-raid-day-2026</id>
     <title>⚡ Stay sharp for Skarmory Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/skarmory-super-mega-raid-day-2026"/>
-    <published>2026-06-15T23:03:54Z</published>
-    <updated>2026-06-15T23:03:54Z</updated>
+    <published>2026-06-16T15:50:20Z</published>
+    <updated>2026-06-16T15:50:20Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/gofest-chicago-saturday-update</id>
     <title>⚡ Gameplay Update: Chicago Pokémon GO Fest</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest-chicago-saturday-update"/>
-    <published>2026-06-15T23:03:54Z</published>
-    <updated>2026-06-15T23:03:54Z</updated>
+    <published>2026-06-16T15:50:20Z</published>
+    <updated>2026-06-16T15:50:20Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/flying-taxi-2026</id>
     <title>⚡ Take Flight as Squawkabilly’s Debut Leads the Flying Taxi Charge</title>
     <link rel="alternate" href="https://pokemongolive.com/news/flying-taxi-2026"/>
-    <published>2026-06-15T23:03:54Z</published>
-    <updated>2026-06-15T23:03:54Z</updated>
+    <published>2026-06-16T15:50:20Z</published>
+    <updated>2026-06-16T15:50:20Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/flying-taxi-taken-over-2026</id>
     <title>⚡ Rescue Shadow Reshiram and more during Flying Taxi: Taken Over!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/flying-taxi-taken-over-2026"/>
-    <published>2026-06-15T23:03:54Z</published>
-    <updated>2026-06-15T23:03:54Z</updated>
+    <published>2026-06-16T15:50:20Z</published>
+    <updated>2026-06-16T15:50:20Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/gofest-copenhagen-super-mega-raid</id>
     <title>⚡ Super Mega Raid Update at Pokémon GO Fest 2026: Copenhagen Park Experience</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest-copenhagen-super-mega-raid"/>
-    <published>2026-06-15T23:03:54Z</published>
-    <updated>2026-06-15T23:03:54Z</updated>
+    <published>2026-06-16T15:50:20Z</published>
+    <updated>2026-06-16T15:50:20Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/choose-your-path-forever-forward-2026</id>
     <title>⚡ Choose Your Path with new Timed Research and updates to Daily Discoveries!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/choose-your-path-forever-forward-2026"/>
-    <published>2026-06-15T23:03:54Z</published>
-    <updated>2026-06-15T23:03:54Z</updated>
+    <published>2026-06-16T15:50:20Z</published>
+    <updated>2026-06-16T15:50:20Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/10th-anniversary-party</id>
     <title>⚡ Celebrate a decade of Pokémon GO together during the 10th Anniversary Party!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/10th-anniversary-party"/>
-    <published>2026-06-15T23:03:54Z</published>
-    <updated>2026-06-15T23:03:54Z</updated>
+    <published>2026-06-16T15:50:20Z</published>
+    <updated>2026-06-16T15:50:20Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/lego-pokemon-go-2026</id>
     <title>⚡ Continue building the adventure with LEGO Stores and Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/lego-pokemon-go-2026"/>
-    <published>2026-06-15T23:03:54Z</published>
-    <updated>2026-06-15T23:03:54Z</updated>
+    <published>2026-06-16T15:50:20Z</published>
+    <updated>2026-06-16T15:50:20Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,80 +156,115 @@
     <id>https://pokemongolive.com/news/raichu-super-mega-raid-day-2026</id>
     <title>⚡ Sparks fly for Raichu Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/raichu-super-mega-raid-day-2026"/>
-    <published>2026-06-15T23:03:54Z</published>
-    <updated>2026-06-15T23:03:54Z</updated>
+    <published>2026-06-16T15:50:20Z</published>
+    <updated>2026-06-16T15:50:20Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook</id>
-    <title>🤖 Facebook’s new AI Mode search gets its info from public posts</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook"/>
-    <published>2026-06-15T21:15:08Z</published>
-    <updated>2026-06-15T21:15:08Z</updated>
-    <summary type="text">Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the &quot;AI Mode&quot; option will appear alongside the usual search modes like &quot;People&quot; and &quot;Marketplace.&quot; It's one of several new AI features Meta is rolling out starting today, including p</summary>
+    <id>https://pokemongolive.com/news/save-the-date-apac-30th-anniversary-2026</id>
+    <title>⚡ Save the Date: Pokémon 30th Anniversary Celebration — PokéXciting!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-apac-30th-anniversary-2026"/>
+    <published>2026-06-16T15:50:20Z</published>
+    <updated>2026-06-16T15:50:20Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/transportation/950596/tesla-cybercab-efficient-weight-range-epa</id>
+    <title>🤖 The Cybercab is the lightest, most efficient Tesla ever made</title>
+    <link rel="alternate" href="https://www.theverge.com/transportation/950596/tesla-cybercab-efficient-weight-range-epa"/>
+    <published>2026-06-16T15:02:39Z</published>
+    <updated>2026-06-16T15:02:39Z</updated>
+    <summary type="text">Against all odds, the Tesla Cybercab is in production. And while Elon Musk's company may not have a very coherent plan for the tiny, autonomous two-seater, it's still taking the necessary steps to certify the EV's legitimacy. As such, Tesla recently filed paperwork with the Environmental Protection </summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown</id>
-    <title>🤖 All the news about Anthropic&amp;#8217;s new AI fight with the White House</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown"/>
-    <published>2026-06-15T19:04:53Z</published>
-    <updated>2026-06-15T19:04:53Z</updated>
-    <summary type="text">Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said “Fable 5’s capabilities ex</summary>
+    <id>https://www.theverge.com/streaming/950644/fox-roku-acquisition-lachlan-murdoch-fox-news-consolidation</id>
+    <title>🤖 Pour one out for Roku City</title>
+    <link rel="alternate" href="https://www.theverge.com/streaming/950644/fox-roku-acquisition-lachlan-murdoch-fox-news-consolidation"/>
+    <published>2026-06-16T14:55:20Z</published>
+    <updated>2026-06-16T14:55:20Z</updated>
+    <summary type="text">By this time next year, Fox Corporation CEO Lachlan Murdoch intends to have added Roku to his already expansive media empire. Should the acquisition go through, Fox will gain control of Roku's modest library of original programming, and the newly combined company will become &quot;the third-largest playe</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/gadgets/944084/best-early-prime-day-deals</id>
-    <title>🤖 The best early Amazon Prime Day deals so far</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/944084/best-early-prime-day-deals"/>
-    <published>2026-06-15T18:39:37Z</published>
-    <updated>2026-06-15T18:39:37Z</updated>
-    <summary type="text">Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s AirPods Pro 3 are selling at their cheapest-ever price. Also, you can grab Ring’s latest battery-powere</summary>
+    <id>https://www.theverge.com/tech/950632/florida-tiktok-lawsuit-social-media-ban</id>
+    <title>🤖 Florida sues TikTok for allegedly violating its social media ban for kids</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/950632/florida-tiktok-lawsuit-social-media-ban"/>
+    <published>2026-06-16T14:06:56Z</published>
+    <updated>2026-06-16T14:06:56Z</updated>
+    <summary type="text">The state of Florida is suing TikTok over claims the company isn't complying with the state's child safety law, which bans kids under 14 from creating social media accounts, as reported earlier by Reuters. The lawsuit, filed on Monday, alleges that TikTok still allows 13-year-olds in Florida to use </summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai</id>
-    <title>🤖 Trump’s Anthropic shutdown just made the case for non-American AI</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai"/>
-    <published>2026-06-15T18:10:27Z</published>
-    <updated>2026-06-15T18:10:27Z</updated>
-    <summary type="text">At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees. Abroad, the incident offered a sober</summary>
+    <id>https://www.theverge.com/tech/950146/microsoft-surface-laptop-8-surface-pro-12-snapdragon-x2-specs-price</id>
+    <title>🤖 The Microsoft Surface Laptop 8 and Surface Pro 12 now come with Snapdragon X2 chips</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/950146/microsoft-surface-laptop-8-surface-pro-12-snapdragon-x2-specs-price"/>
+    <published>2026-06-16T13:00:00Z</published>
+    <updated>2026-06-16T13:00:00Z</updated>
+    <summary type="text">Microsoft is launching new Surface Laptops and a Surface Pro with Qualcomm Snapdragon X2 processors. These are direct follow-ups to the Surface Laptops and Surface Pro from 2024 that launched with Snapdragon X1 chips and jumpstarted Microsoft's Copilot Plus PC initiative with Windows on Arm. The new</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes</id>
-    <title>🤖 Google Chrome is closing the loopholes that let old ad blockers keep working</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes"/>
-    <published>2026-06-15T18:06:18Z</published>
-    <updated>2026-06-15T18:06:18Z</updated>
-    <summary type="text">Google Chrome version 150 and 151, expected in late June and July, respectively, will cut off support for the last remaining workarounds for running older ad blockers, 9to5Google reports. Google phased out support for ad-blocking extensions built for Manifest V2, like uBlock Origin, in 2024. At that</summary>
+    <id>https://www.theverge.com/tech/950537/comcast-xfinity-same-day-router-delivery-availability-launch</id>
+    <title>🤖 Comcast Xfinity adds same-day delivery to get you online immediately</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/950537/comcast-xfinity-same-day-router-delivery-availability-launch"/>
+    <published>2026-06-16T13:00:00Z</published>
+    <updated>2026-06-16T13:00:00Z</updated>
+    <summary type="text">Comcast is launching a same-day Xfinity Wi-Fi offering that spares you from waiting for your new router. Starting today, new Xfinity customers in almost 20 markets - including Atlanta, Chicago, Denver, Houston, Nashville, Philadelphia, San Francisco, and more - can receive the Xfinity Gateway equipm</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress</id>
-    <title>🤖 Big Tech’s desperate last push at AI regulation</title>
-    <link rel="alternate" href="https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress"/>
-    <published>2026-06-15T17:44:10Z</published>
-    <updated>2026-06-15T17:44:10Z</updated>
-    <summary type="text">For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set of AI rules across the entire country and overriding the legally messy state-by-</summary>
+    <id>https://www.theverge.com/tech/950564/schlage-sense-pro-uwb-aliro-deadlock-price-availability</id>
+    <title>🤖 Schlage’s UWB-enabled smart lock launches this month</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/950564/schlage-sense-pro-uwb-aliro-deadlock-price-availability"/>
+    <published>2026-06-16T13:00:00Z</published>
+    <updated>2026-06-16T13:00:00Z</updated>
+    <summary type="text">It's been more than a year since Schlage announced its first smart lock to support ultra wideband technology (UWB), but now it's finally almost available to purchase. Starting June 29th, the Schlage Sense Pro deadbolt lock will be available for $399 in the US, allowing customers to unlock their door</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/942472/dry-studio-atm98-silent-evoworks-evo75-mechanical-keyboard-thocky-review</id>
+    <title>🤖 These mechanical keyboards are two very different sides of the same beautifully made coin</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/942472/dry-studio-atm98-silent-evoworks-evo75-mechanical-keyboard-thocky-review"/>
+    <published>2026-06-16T12:30:00Z</published>
+    <updated>2026-06-16T12:30:00Z</updated>
+    <summary type="text">Most mechanical keyboards are great these days, with colorful looks and satisfying typing sounds - even in budget-friendly ranges. But every so often, one stops me dead in my tracks. In this case, two of them. I've been testing a pair of jaw-droppingly lovely keyboards that launched late last year. </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/949854/first-look-apple-home-ios-27-upgrades-homekit-secure-video</id>
+    <title>🤖 Apple’s smart home camera service is starting to impress me</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/949854/first-look-apple-home-ios-27-upgrades-homekit-secure-video"/>
+    <published>2026-06-16T12:00:00Z</published>
+    <updated>2026-06-16T12:00:00Z</updated>
+    <summary type="text">Apple's HomeKit Secure Video service is getting in on the Apple Intelligence party to bring more descriptive alerts from your connected cameras and let you search footage using natural language. The Apple Home app is also getting better notifications powered by AI and is finally adding support for e</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
@@ -330,24 +354,24 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/bbva</id>
-    <title>🤖 BBVA puts AI at the core of banking with OpenAI</title>
-    <link rel="alternate" href="https://openai.com/index/bbva"/>
+    <id>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</id>
+    <title>🤖 Supporting Europe’s work in ensuring a trustworthy AI ecosystem</title>
+    <link rel="alternate" href="https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"/>
     <published>2026-06-11T00:00:00Z</published>
     <updated>2026-06-11T00:00:00Z</updated>
-    <summary type="text">Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.</summary>
+    <summary type="text">OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/using-codex-to-simulate-black-holes</id>
-    <title>🤖 How an astrophysicist uses Codex to help simulate black holes</title>
-    <link rel="alternate" href="https://openai.com/index/using-codex-to-simulate-black-holes"/>
+    <id>https://openai.com/index/openai-to-acquire-ona</id>
+    <title>🤖 OpenAI to acquire Ona</title>
+    <link rel="alternate" href="https://openai.com/index/openai-to-acquire-ona"/>
     <published>2026-06-11T00:00:00Z</published>
     <updated>2026-06-11T00:00:00Z</updated>
-    <summary type="text">Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.</summary>
+    <summary type="text">OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
