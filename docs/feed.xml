@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-06-17T16:55:04Z</updated>
+  <updated>2026-06-17T22:45:59Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,168 +10,99 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/know-before-you-go-gofest-2026-in-person-events</id>
-    <title>⚡ Know before you GO to Pokémon GO Fest 2026: Tokyo, Chicago, and Copenhagen</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/know-before-you-go-gofest-2026-in-person-events"/>
-    <published>2026-06-17T16:55:01Z</published>
-    <updated>2026-06-17T16:55:01Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram</id>
+    <title>🤖 Tim Cook says RAM expenses are &amp;#8216;unsustainable&amp;#8217; and Apple is going to raise prices</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram"/>
+    <published>2026-06-17T21:42:21Z</published>
+    <updated>2026-06-17T21:42:21Z</updated>
+    <summary type="text">Apple is planning to raise prices in response to the ongoing memory shortage. In an interview with The Wall Street Journal, Apple CEO Tim Cook says &quot;price increases are unavoidable:&quot; We're doing our best to mitigate the huge increases that are being passed to us, and we've been trying to shield our </summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/go-fest-chicago-2026-community</id>
-    <title>⚡ Pokémon GO Fest 2026: Chicago Community Ambassador Meet-ups</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/go-fest-chicago-2026-community"/>
-    <published>2026-06-17T16:55:01Z</published>
-    <updated>2026-06-17T16:55:01Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u8l462/special_research_labels_are_live_for_everyone/</id>
+    <title>⚡ Special Research labels are live for everyone</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u8l462/special_research_labels_are_live_for_everyone/"/>
+    <published>2026-06-17T20:08:30Z</published>
+    <updated>2026-06-17T20:08:30Z</updated>
+    <summary type="text">Restart game to see it if you don't have it yet submitted by /u/aznknight613 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/pokemon-run-30-2026</id>
-    <title>⚡ Ready, set, GO! Join the Pokémon RUN 30 event near you!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/pokemon-run-30-2026"/>
-    <published>2026-06-17T16:55:01Z</published>
-    <updated>2026-06-17T16:55:01Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u8kz4s/pokémon_go_site_down/</id>
+    <title>⚡ Pokémon Go site down</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u8kz4s/pokémon_go_site_down/"/>
+    <published>2026-06-17T20:03:11Z</published>
+    <updated>2026-06-17T20:03:11Z</updated>
+    <summary type="text">submitted by /u/PokeJiggy [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/gofest-chicago-super-mega-raid</id>
-    <title>⚡ Super Mega Raid Update at Pokémon GO Fest 2026: Chicago Park Experience</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gofest-chicago-super-mega-raid"/>
-    <published>2026-06-17T16:55:01Z</published>
-    <updated>2026-06-17T16:55:01Z</updated>
-    <category term="pokemon"/>
+    <id>https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617</id>
+    <title>🤖 In game theory, generalists sometimes win out over specialists</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617"/>
+    <published>2026-06-17T19:20:00Z</published>
+    <updated>2026-06-17T19:20:00Z</updated>
+    <summary type="text">Researchers show that for certain kinds of games, an overlooked class of algorithms performs much better than expected.</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>MIT AI News</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/skarmory-super-mega-raid-day-2026</id>
-    <title>⚡ Stay sharp for Skarmory Super Mega Raid Day!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/skarmory-super-mega-raid-day-2026"/>
-    <published>2026-06-17T16:55:01Z</published>
-    <updated>2026-06-17T16:55:01Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls</id>
+    <title>🤖 Anthropic got hit by export rules nobody understands</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls"/>
+    <published>2026-06-17T18:28:50Z</published>
+    <updated>2026-06-17T18:28:50Z</updated>
+    <summary type="text">Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 f</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/gofest-chicago-saturday-update</id>
-    <title>⚡ Gameplay Update: Chicago Pokémon GO Fest</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gofest-chicago-saturday-update"/>
-    <published>2026-06-17T16:55:01Z</published>
-    <updated>2026-06-17T16:55:01Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u8h3df/after_forced_update_stuck_on_niantic_screen/</id>
+    <title>⚡ After forced update stuck on niantic screen.</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u8h3df/after_forced_update_stuck_on_niantic_screen/"/>
+    <published>2026-06-17T17:43:32Z</published>
+    <updated>2026-06-17T17:43:32Z</updated>
+    <summary type="text">Stuck on the niantic screen immediately after the forced update about 5 mins ago. submitted by /u/ravendarksky [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/flying-taxi-2026</id>
-    <title>⚡ Take Flight as Squawkabilly’s Debut Leads the Flying Taxi Charge</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/flying-taxi-2026"/>
-    <published>2026-06-17T16:55:01Z</published>
-    <updated>2026-06-17T16:55:01Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly</id>
+    <title>🤖 Two-thirds of Americans think AI is advancing too quickly</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly"/>
+    <published>2026-06-17T17:20:24Z</published>
+    <updated>2026-06-17T17:20:24Z</updated>
+    <summary type="text">According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/flying-taxi-taken-over-2026</id>
-    <title>⚡ Rescue Shadow Reshiram and more during Flying Taxi: Taken Over!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/flying-taxi-taken-over-2026"/>
-    <published>2026-06-17T16:55:01Z</published>
-    <updated>2026-06-17T16:55:01Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u8fy1l/get_ready_for_pokémon_go_fest_2026_global/</id>
+    <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in North America, Europe, and Oceania!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u8fy1l/get_ready_for_pokémon_go_fest_2026_global/"/>
+    <published>2026-06-17T17:01:01Z</published>
+    <updated>2026-06-17T17:01:01Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/gofest-copenhagen-super-mega-raid</id>
-    <title>⚡ Super Mega Raid Update at Pokémon GO Fest 2026: Copenhagen Park Experience</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gofest-copenhagen-super-mega-raid"/>
-    <published>2026-06-17T16:55:01Z</published>
-    <updated>2026-06-17T16:55:01Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/choose-your-path-forever-forward-2026</id>
-    <title>⚡ Choose Your Path with new Timed Research and updates to Daily Discoveries!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/choose-your-path-forever-forward-2026"/>
-    <published>2026-06-17T16:55:01Z</published>
-    <updated>2026-06-17T16:55:01Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/10th-anniversary-party</id>
-    <title>⚡ Celebrate a decade of Pokémon GO together during the 10th Anniversary Party!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/10th-anniversary-party"/>
-    <published>2026-06-17T16:55:01Z</published>
-    <updated>2026-06-17T16:55:01Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/lego-pokemon-go-2026</id>
-    <title>⚡ Continue building the adventure with LEGO Stores and Pokémon GO!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/lego-pokemon-go-2026"/>
-    <published>2026-06-17T16:55:01Z</published>
-    <updated>2026-06-17T16:55:01Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/raichu-super-mega-raid-day-2026</id>
-    <title>⚡ Sparks fly for Raichu Super Mega Raid Day!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/raichu-super-mega-raid-day-2026"/>
-    <published>2026-06-17T16:55:01Z</published>
-    <updated>2026-06-17T16:55:01Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/save-the-date-apac-30th-anniversary-2026</id>
-    <title>⚡ Save the Date: Pokémon 30th Anniversary Celebration — PokéXciting!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-apac-30th-anniversary-2026"/>
-    <published>2026-06-17T16:55:01Z</published>
-    <updated>2026-06-17T16:55:01Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/communityday-july-2026-sobble</id>
-    <title>⚡ July 2026 Community Day: Sobble</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/communityday-july-2026-sobble"/>
-    <published>2026-06-17T16:55:01Z</published>
-    <updated>2026-06-17T16:55:01Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -187,6 +118,18 @@
     </author>
   </entry>
   <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u8ex4w/pokémon_go_frigibax_community_day_graphic_created/</id>
+    <title>⚡ Pokémon GO - Frigibax Community Day Graphic created by MegaRayDesign! ✨</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u8ex4w/pokémon_go_frigibax_community_day_graphic_created/"/>
+    <published>2026-06-17T16:23:55Z</published>
+    <updated>2026-06-17T16:23:55Z</updated>
+    <summary type="text">Pokémon GO - Frigibax Community Day Graphic created by MegaRayDesign! ✨ Honestly, what a fun community day! Are you excited for the Ice Fin Pokémon to sled onto the scene? Best chance to get a Baxcalibur ready for its future Mega! Follow my Linktree to find links to my socials, a dedicated section t</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
     <id>https://www.theverge.com/tech/951527/sandisk-optimus-gx-pro-850p-nvme-ssd-8tb-ps5-playstation-sony</id>
     <title>🤖 SanDisk’s new PlayStation 5 SSD will cost you more than three PS5 Pros</title>
     <link rel="alternate" href="https://www.theverge.com/tech/951527/sandisk-optimus-gx-pro-850p-nvme-ssd-8tb-ps5-playstation-sony"/>
@@ -199,27 +142,51 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/entertainment/951391/widows-bay-season-1-finale-apple-tv-horror</id>
-    <title>🤖 In a big year for horror, Widow’s Bay still stands apart</title>
-    <link rel="alternate" href="https://www.theverge.com/entertainment/951391/widows-bay-season-1-finale-apple-tv-horror"/>
-    <published>2026-06-17T14:30:00Z</published>
-    <updated>2026-06-17T14:30:00Z</updated>
-    <summary type="text">Horror is having a moment. In 2026, the genre is especially well-represented: new blood is dominating the box office through films like Backrooms and Obsession, established names like Sam Raimi and Damian McCarthy are at the top of their game, and long-running franchises like 28 Years Later and Resi</summary>
-    <category term="ai"/>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u8cibu/its_time_we_get_an_option_to_disable/</id>
+    <title>⚡ It's time we get an option to disable notifications about saved postcards?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u8cibu/its_time_we_get_an_option_to_disable/"/>
+    <published>2026-06-17T14:57:08Z</published>
+    <updated>2026-06-17T14:57:08Z</updated>
+    <summary type="text">I recently realized that the menu to disable notifications got an expansion compared to older versions of the game and I was excited to finally find an option to disable saved postcard in-game notifications, only to be disappointed. This pop-up has to be one of the most annoying things in this game </summary>
+    <category term="pokemon"/>
     <author>
-      <name>The Verge — AI</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/gadgets/944084/best-early-prime-day-deals</id>
-    <title>🤖 The best early Amazon Prime Day deals so far</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/944084/best-early-prime-day-deals"/>
-    <published>2026-06-17T14:12:57Z</published>
-    <updated>2026-06-17T14:12:57Z</updated>
-    <summary type="text">Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s AirPods Pro 3 are selling at their cheapest-ever price. Also, you can grab Ring’s latest battery-powere</summary>
+    <id>https://openai.com/index/ai-chemist-improves-reaction</id>
+    <title>🤖 A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry</title>
+    <link rel="alternate" href="https://openai.com/index/ai-chemist-improves-reaction"/>
+    <published>2026-06-17T10:00:00Z</published>
+    <updated>2026-06-17T10:00:00Z</updated>
+    <summary type="text">OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.</summary>
     <category term="ai"/>
     <author>
-      <name>The Verge — AI</name>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u823hx/rewards_for_choose_your_own_path_timed_research/</id>
+    <title>⚡ Rewards for Choose Your Own Path Timed Research: Catch (Candy)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u823hx/rewards_for_choose_your_own_path_timed_research/"/>
+    <published>2026-06-17T06:15:07Z</published>
+    <updated>2026-06-17T06:15:07Z</updated>
+    <summary type="text">Reward encounters for 'Choose Your Path Timed Research: Catch (Candy)' are Shieldon and Cranidos, with three Golden Razz Berries and Rare Candies each. submitted by /u/Alphusweenie98 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u81qou/2017_yokohama_stadium_costume_mewtwo/</id>
+    <title>⚡ 2017 Yokohama Stadium &quot;Costume&quot; Mewtwo</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u81qou/2017_yokohama_stadium_costume_mewtwo/"/>
+    <published>2026-06-17T05:55:17Z</published>
+    <updated>2026-06-17T05:55:17Z</updated>
+    <summary type="text">Costume Lugia's lesser talked about/known cousin, Costume Mewtwo. This was obtained much in the same way as Lugia except you had to have a problem with the raids and ask support. This was then injected into your game much in the same way Lugia was. Lugia was an event in America and given to all atte</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -235,6 +202,18 @@
     </author>
   </entry>
   <entry>
+    <id>https://openai.com/index/introducing-life-sci-bench</id>
+    <title>🤖 Introducing LifeSciBench</title>
+    <link rel="alternate" href="https://openai.com/index/introducing-life-sci-bench"/>
+    <published>2026-06-17T00:00:00Z</published>
+    <updated>2026-06-17T00:00:00Z</updated>
+    <summary type="text">Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
     <id>https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616</id>
     <title>🤖 MIT’s Initiative for New Manufacturing builds momentum</title>
     <link rel="alternate" href="https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616"/>
@@ -244,6 +223,18 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u7cuw0/questions_answers_weekly_megathread_please_use/</id>
+    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u7cuw0/questions_answers_weekly_megathread_please_use/"/>
+    <published>2026-06-16T13:00:12Z</published>
+    <updated>2026-06-16T13:00:12Z</updated>
+    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -294,18 +285,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/preply</id>
-    <title>🤖 How Preply combines AI and human tutors to personalize learning</title>
-    <link rel="alternate" href="https://openai.com/index/preply"/>
-    <published>2026-06-12T00:00:00Z</published>
-    <updated>2026-06-12T00:00:00Z</updated>
-    <summary type="text">Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/jinhua-zhao-named-head-department-urban-studies-planning-0611</id>
     <title>🤖 Jinhua Zhao named head of the Department of Urban Studies and Planning</title>
     <link rel="alternate" href="https://news.mit.edu/2026/jinhua-zhao-named-head-department-urban-studies-planning-0611"/>
@@ -339,18 +318,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/bbva</id>
-    <title>🤖 BBVA puts AI at the core of banking with OpenAI</title>
-    <link rel="alternate" href="https://openai.com/index/bbva"/>
-    <published>2026-06-11T00:00:00Z</published>
-    <updated>2026-06-11T00:00:00Z</updated>
-    <summary type="text">Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -389,15 +356,15 @@
     </author>
   </entry>
   <entry>
-    <id>https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605</id>
-    <title>🤖 The crucial human component in computing and AI</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605"/>
-    <published>2026-06-05T20:10:00Z</published>
-    <updated>2026-06-05T20:10:00Z</updated>
-    <summary type="text">The MIT Ethics of Computing Research Symposium brought together experts and researchers working at the heart of ethical and social impact in technology.</summary>
-    <category term="ai"/>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1tu7bux/forever_forward_field_research_megathread/</id>
+    <title>⚡ Forever Forward Field Research Megathread</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tu7bux/forever_forward_field_research_megathread/"/>
+    <published>2026-06-01T22:01:26Z</published>
+    <updated>2026-06-01T22:01:26Z</updated>
+    <summary type="text">This thread will be updated as reports come in. Let us know what you've found! The Forever Forward season starts on 2 June 2026, at 10 am local time. Website version here Italics : Report from comments or single Research Group report Normal: Multiple Research Group reports (!s): This Pokémon encount</summary>
+    <category term="pokemon"/>
     <author>
-      <name>MIT AI News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
