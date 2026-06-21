@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-06-21T15:52:19Z</updated>
+  <updated>2026-06-21T22:15:57Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -11,7 +11,7 @@
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
     <id>https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets</id>
-    <title>🤖 That viral clip you saw of someone winning big on Polymarket was probably fake</title>
+    <title>🤖 Polymarket reportedly paid people to post fake videos of themselves placing bets</title>
     <link rel="alternate" href="https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets"/>
     <published>2026-06-21T14:19:46Z</published>
     <updated>2026-06-21T14:19:46Z</updated>
