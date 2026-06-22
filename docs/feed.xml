@@ -2,13 +2,169 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-06-21T22:15:57Z</updated>
+  <updated>2026-06-22T15:48:47Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
     <name>ha-news-feed-bot</name>
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ucn19e/community_day_stats_120minutes_aggressive_play/</id>
+    <title>⚡ Community Day Stats - ~120-minutes aggressive play</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ucn19e/community_day_stats_120minutes_aggressive_play/"/>
+    <published>2026-06-22T15:03:07Z</published>
+    <updated>2026-06-22T15:03:07Z</updated>
+    <summary type="text">I was able to get out and hit Tinkaton Community Day pretty hard back in April, so I decided to carve out some time for Frigibax Community Day as well. This time, instead of 1.5-hours, I went hard for about 2-hours. I did all of the things; popped an incense, mega-evolved Rayquaza, threw up 2-hours </summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/951987/apple-airtag-second-gen-prime-day-deal-sale-2026</id>
+    <title>🤖 Apple’s latest AirTags are cheaper than ever for Prime Day</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/951987/apple-airtag-second-gen-prime-day-deal-sale-2026"/>
+    <published>2026-06-22T15:00:00Z</published>
+    <updated>2026-06-22T15:00:00Z</updated>
+    <summary type="text">Prime Day has brought a number of Apple deals, but one of the most useful if you’re planning to travel over the July 4th weekend or later this summer is on the new AirTags. The four-pack has dropped to a new low of $90 ($9 off) at Amazon and Best Buy, bringing the price of […]</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ucmslx/whats_the_deal_with_manaphyphione/</id>
+    <title>⚡ What's the deal with Manaphy/Phione?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ucmslx/whats_the_deal_with_manaphyphione/"/>
+    <published>2026-06-22T14:54:31Z</published>
+    <updated>2026-06-22T14:54:31Z</updated>
+    <summary type="text">DISCLAIMER: These are all just theories meant to provoke discussion. If there are leaks that indicate anything, I have not paid attention to them nor am I aware of them. Genuinely curious to hear what you all think. Two of the most glaring omissions from Sinnoh Tour were, obviously, the god of all P</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ucmp0r/we_know_that_buddy_candy_distance_increases/</id>
+    <title>⚡ We know that buddy candy distance increases faster on routes. So what if we start a route but complete it the next day so all the distance walked on the day would have a higher impact on candy distance. Will it work?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ucmp0r/we_know_that_buddy_candy_distance_increases/"/>
+    <published>2026-06-22T14:50:48Z</published>
+    <updated>2026-06-22T14:50:48Z</updated>
+    <summary type="text">Title submitted by /u/Ok-Proof7287 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/podcast/952607/patreon-ceo-jack-conte</id>
+    <title>🤖 Patreon CEO Jack Conte on supporting artists in the AI slop era</title>
+    <link rel="alternate" href="https://www.theverge.com/podcast/952607/patreon-ceo-jack-conte"/>
+    <published>2026-06-22T14:00:00Z</published>
+    <updated>2026-06-22T14:00:00Z</updated>
+    <summary type="text">Today, I’m talking with Jack Conte, the CEO of Patreon. Jack last joined me on the show almost exactly five years ago, in the summer of 2021, and a lot has changed on the internet and in the creator landscape since then, so I was very excited to talk to him again, especially since his […]</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/953322/apple-airpods-max-2-usbc-prime-day-walmart-deal-sale</id>
+    <title>🤖 Apple’s AirPods Max 2 are $150 off for the first time</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/953322/apple-airpods-max-2-usbc-prime-day-walmart-deal-sale"/>
+    <published>2026-06-22T13:47:31Z</published>
+    <updated>2026-06-22T13:47:31Z</updated>
+    <summary type="text">Walmart has the Apple AirPods Max 2 in every color discounted to $399.99 (normally $549) during Walmart Deals, the lowest price we’ve seen yet by a long shot. Amazon currently has the starlight color selling at this price. In our review, we praised Apple’s latest over-ear headset for its excellent s</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/952512/wyze-smart-scale-bodyscan-electrodes-handle-body-composition</id>
+    <title>🤖 Wyze’s new smart scale can break down your body composition for less than $80</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/952512/wyze-smart-scale-bodyscan-electrodes-handle-body-composition"/>
+    <published>2026-06-22T13:00:00Z</published>
+    <updated>2026-06-22T13:00:00Z</updated>
+    <summary type="text">Seven months after introducing its $119.98 Ultra BodyScan smart scale, Wyze announced a cheaper $79.98 alternative available today that makes a few compromises to shave $40 off the price. There's no Wi-Fi, but you can sync the BodyScan's measurements to Apple Health and Google Fit by connecting to t</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uchvzf/gengar_from_go_fest_timed_research_has_mega/</id>
+    <title>⚡ Gengar from GO Fest Timed Research has Mega unlocked?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uchvzf/gengar_from_go_fest_timed_research_has_mega/"/>
+    <published>2026-06-22T11:23:15Z</published>
+    <updated>2026-06-22T11:23:15Z</updated>
+    <summary type="text">Not sure if this has been brought up before. ​ So as I was playing, I checked how much Mega Gengar energy I have coz I have a current party play task that gives the energy. And to my surprise (lol), I noticed that this Gengar has its mega level unlocked. ​ Unfortunately, I wasn't able to screenshot </summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uceqq3/catch_10_fire_type_pokémon_task_still_gives/</id>
+    <title>⚡ 'Catch 10 Fire type Pokémon' task still gives generic Charizard Mega Energy</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uceqq3/catch_10_fire_type_pokémon_task_still_gives/"/>
+    <published>2026-06-22T08:23:20Z</published>
+    <updated>2026-06-22T08:23:20Z</updated>
+    <summary type="text">I don't know if this has been discussed already, but I just noticed that the task giving out Charizard energy still has the old icon, and, when you complete it, gives you 10 of each, even if it doesn't show graphically. submitted by /u/neonmarkov [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ucdb07/have_they_forgotten/</id>
+    <title>⚡ have they forgotten?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ucdb07/have_they_forgotten/"/>
+    <published>2026-06-22T06:55:42Z</published>
+    <updated>2026-06-22T06:55:42Z</updated>
+    <summary type="text">submitted by /u/Pleasant-Animal4283 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uc6pb3/bypass_dynamax_phase_for_hoot_hoot_max_monday/</id>
+    <title>⚡ Bypass Dynamax phase for Hoot Hoot Max Monday with Alakazam + Future Sight</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uc6pb3/bypass_dynamax_phase_for_hoot_hoot_max_monday/"/>
+    <published>2026-06-22T01:11:21Z</published>
+    <updated>2026-06-22T01:11:21Z</updated>
+    <summary type="text">Quick tip for those out and about for Max Monday. Psycho Cut/ Future Sight Alakazam getting things done much faster than other counters I've tested. Enjoy XL candies! submitted by /u/Aggravating_Hippo147 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/samsung-electronics-chatgpt-codex-deployment</id>
+    <title>🤖 Samsung Electronics brings ChatGPT and Codex to employees</title>
+    <link rel="alternate" href="https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"/>
+    <published>2026-06-21T23:00:00Z</published>
+    <updated>2026-06-21T23:00:00Z</updated>
+    <summary type="text">Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uc3ily/if_there_remote_trades_codes/</id>
+    <title>⚡ If there remote trades codes?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uc3ily/if_there_remote_trades_codes/"/>
+    <published>2026-06-21T22:43:32Z</published>
+    <updated>2026-06-21T22:43:32Z</updated>
+    <summary type="text">Is there some unspoken codes for remote trading? I am soon to start hitting a bunch of BFF and I have a lot of legendaries I don’t mind giving out or mirror trading etc.. But I was wondering if there are some ways other than being able to contact the person directly via campfire or other ways. I was</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
   <entry>
     <id>https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets</id>
     <title>🤖 Polymarket reportedly paid people to post fake videos of themselves placing bets</title>
@@ -28,42 +184,6 @@
     <published>2026-06-21T12:29:01Z</published>
     <updated>2026-06-21T12:29:01Z</updated>
     <summary type="text">If you had a Roomba, especially in the early days of the robot vacuum, it was in many ways a fairly unsophisticated machine. It would just bump around your house, looking for something to suck up, until its battery died or its (way too small) tank filled up. Not that it mattered, though. You probabl</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/column/950975/electric-air-taxis-lawsuits</id>
-    <title>🤖 Electric air taxis are stuck in the courtroom</title>
-    <link rel="alternate" href="https://www.theverge.com/column/950975/electric-air-taxis-lawsuits"/>
-    <published>2026-06-21T12:00:00Z</published>
-    <updated>2026-06-21T12:00:00Z</updated>
-    <summary type="text">This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on aviation, air taxis, and Wi-Fi speeds at 30,000 feet, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it star</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data</id>
-    <title>🤖 The Atlantic created a searchable database of the music used to train AI</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data"/>
-    <published>2026-06-20T18:46:48Z</published>
-    <updated>2026-06-20T18:46:48Z</updated>
-    <summary type="text">Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount o</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview</id>
-    <title>🤖 Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives</title>
-    <link rel="alternate" href="https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview"/>
-    <published>2026-06-20T15:20:00Z</published>
-    <updated>2026-06-20T15:20:00Z</updated>
-    <summary type="text">Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as being like the &quot;Dark Souls of synthesis.&quot; Despite using &quot;hard mode&quot; production t</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
@@ -177,18 +297,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/introducing-life-sci-bench</id>
-    <title>🤖 Introducing LifeSciBench</title>
-    <link rel="alternate" href="https://openai.com/index/introducing-life-sci-bench"/>
-    <published>2026-06-17T00:00:00Z</published>
-    <updated>2026-06-17T00:00:00Z</updated>
-    <summary type="text">Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616</id>
     <title>🤖 MIT’s Initiative for New Manufacturing builds momentum</title>
     <link rel="alternate" href="https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616"/>
@@ -198,6 +306,18 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1u7cuw0/questions_answers_weekly_megathread_please_use/</id>
+    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1u7cuw0/questions_answers_weekly_megathread_please_use/"/>
+    <published>2026-06-16T13:00:12Z</published>
+    <updated>2026-06-16T13:00:12Z</updated>
+    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -256,6 +376,18 @@
     <category term="brawlstars"/>
     <author>
       <name>Brawl Stars Official Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1tu7bux/forever_forward_field_research_megathread/</id>
+    <title>⚡ Forever Forward Field Research Megathread</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1tu7bux/forever_forward_field_research_megathread/"/>
+    <published>2026-06-01T22:01:26Z</published>
+    <updated>2026-06-01T22:01:26Z</updated>
+    <summary type="text">This thread will be updated as reports come in. Let us know what you've found! The Forever Forward season starts on 2 June 2026, at 10 am local time. Website version here Italics : Report from comments or single Research Group report Normal: Multiple Research Group reports (!s): This Pokémon encount</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
