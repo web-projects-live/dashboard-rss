@@ -2,13 +2,286 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-06-24T22:19:16Z</updated>
+  <updated>2026-06-25T13:13:11Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
     <name>ha-news-feed-bot</name>
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
+  <entry>
+    <id>https://pokemongolive.com/news/skarmory-super-mega-raid-day-2026</id>
+    <title>⚡ Stay sharp for Skarmory Super Mega Raid Day!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/skarmory-super-mega-raid-day-2026"/>
+    <published>2026-06-25T13:13:08Z</published>
+    <updated>2026-06-25T13:13:08Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gofest-chicago-saturday-update</id>
+    <title>⚡ Gameplay Update: Chicago Pokémon GO Fest</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gofest-chicago-saturday-update"/>
+    <published>2026-06-25T13:13:08Z</published>
+    <updated>2026-06-25T13:13:08Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/flying-taxi-2026</id>
+    <title>⚡ Take Flight as Squawkabilly’s Debut Leads the Flying Taxi Charge</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/flying-taxi-2026"/>
+    <published>2026-06-25T13:13:08Z</published>
+    <updated>2026-06-25T13:13:08Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/flying-taxi-taken-over-2026</id>
+    <title>⚡ Rescue Shadow Reshiram and more during Flying Taxi: Taken Over!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/flying-taxi-taken-over-2026"/>
+    <published>2026-06-25T13:13:08Z</published>
+    <updated>2026-06-25T13:13:08Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gofest-copenhagen-super-mega-raid</id>
+    <title>⚡ Super Mega Raid Update at Pokémon GO Fest 2026: Copenhagen Park Experience</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gofest-copenhagen-super-mega-raid"/>
+    <published>2026-06-25T13:13:08Z</published>
+    <updated>2026-06-25T13:13:08Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/choose-your-path-forever-forward-2026</id>
+    <title>⚡ Choose Your Path with new Timed Research and updates to Daily Discoveries!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/choose-your-path-forever-forward-2026"/>
+    <published>2026-06-25T13:13:08Z</published>
+    <updated>2026-06-25T13:13:08Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/10th-anniversary-party</id>
+    <title>⚡ Celebrate a decade of Pokémon GO together during the 10th Anniversary Party!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/10th-anniversary-party"/>
+    <published>2026-06-25T13:13:08Z</published>
+    <updated>2026-06-25T13:13:08Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/lego-pokemon-go-2026</id>
+    <title>⚡ Continue building the adventure with LEGO Stores and Pokémon GO!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/lego-pokemon-go-2026"/>
+    <published>2026-06-25T13:13:08Z</published>
+    <updated>2026-06-25T13:13:08Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/raichu-super-mega-raid-day-2026</id>
+    <title>⚡ Sparks fly for Raichu Super Mega Raid Day!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/raichu-super-mega-raid-day-2026"/>
+    <published>2026-06-25T13:13:08Z</published>
+    <updated>2026-06-25T13:13:08Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/save-the-date-apac-30th-anniversary-2026</id>
+    <title>⚡ Save the Date: Pokémon 30th Anniversary Celebration — PokéXciting!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-apac-30th-anniversary-2026"/>
+    <published>2026-06-25T13:13:08Z</published>
+    <updated>2026-06-25T13:13:08Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/communityday-july-2026-sobble</id>
+    <title>⚡ July 2026 Community Day: Sobble</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/communityday-july-2026-sobble"/>
+    <published>2026-06-25T13:13:08Z</published>
+    <updated>2026-06-25T13:13:08Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en</id>
+    <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in North America, Europe, and Oceania!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en"/>
+    <published>2026-06-25T13:13:08Z</published>
+    <updated>2026-06-25T13:13:08Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific</id>
+    <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in the Asia-Pacific region!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific"/>
+    <published>2026-06-25T13:13:08Z</published>
+    <updated>2026-06-25T13:13:08Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/road-of-legends-2026</id>
+    <title>⚡ The Road of Legends leads the way to Pokémon GO Fest 2026: Global!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/road-of-legends-2026"/>
+    <published>2026-06-25T13:13:08Z</published>
+    <updated>2026-06-25T13:13:08Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/pvp-updates-competitors-cup-2026</id>
+    <title>⚡ Pokémon GO Trainer Battle Update</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pvp-updates-competitors-cup-2026"/>
+    <published>2026-06-25T13:13:08Z</published>
+    <updated>2026-06-25T13:13:08Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/956101/leica-digital-camera-sl3-p-8k-video-44-megapixel-price</id>
+    <title>🤖 Leica’s $6,690 SL3-P pairs 44-megapixel stills with 8K video</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/956101/leica-digital-camera-sl3-p-8k-video-44-megapixel-price"/>
+    <published>2026-06-25T13:00:00Z</published>
+    <updated>2026-06-25T13:00:00Z</updated>
+    <summary type="text">Following the launch of the SL3 in 2024 and last year's SL3-S that was optimized for speed and capturing fast moving subjects, Leica announced the new SL3-P today delivering some of the best features from both of its predecessors. Like Leica's previous &quot;P&quot; variants, the new SL3-P lacks the brand's i</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/952162/apple-price-increase-ram-shortage</id>
+    <title>🤖 Apple reveals price hikes for MacBooks and iPads</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/952162/apple-price-increase-ram-shortage"/>
+    <published>2026-06-25T12:53:23Z</published>
+    <updated>2026-06-25T12:53:23Z</updated>
+    <summary type="text">Apple is hiking prices in response to the ongoing memory shortage. On Thursday, the company adjusted the price of its new MacBook Neo, which will now start at $699 instead of $599, while the base MacBook Air will jump to $1,299 from $1,099, as reported earlier by Bloomberg. The 14-inch MacBook Pro i</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes</id>
+    <title>🤖 Ford had to hire back former engineers to fix mistakes made by its automated systems</title>
+    <link rel="alternate" href="https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes"/>
+    <published>2026-06-25T12:00:00Z</published>
+    <updated>2026-06-25T12:00:00Z</updated>
+    <summary type="text">To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were n</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/streaming/956712/disney-youtube-tv-directv-streaming-settlement</id>
+    <title>🤖 Disney agrees to pay $50 million to YouTube TV and DirecTV subscribers</title>
+    <link rel="alternate" href="https://www.theverge.com/streaming/956712/disney-youtube-tv-directv-streaming-settlement"/>
+    <published>2026-06-25T10:54:21Z</published>
+    <updated>2026-06-25T10:54:21Z</updated>
+    <summary type="text">YouTube TV and DirecTV Stream customers may be eligible for a cash payout, after Disney agreed to pay $50 million to settle claims that it forced the services to increase their subscription prices. Anyone who was subscribed to YouTube TV or DirecTV Stream between April 1st, 2019, and March 31st, 202</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/news/956095/worlds-first-solar-ebike-do-not-buy</id>
+    <title>🤖 Is this solar e-bike a good idea or sophisticated e-waste?</title>
+    <link rel="alternate" href="https://www.theverge.com/news/956095/worlds-first-solar-ebike-do-not-buy"/>
+    <published>2026-06-25T10:30:00Z</published>
+    <updated>2026-06-25T10:30:00Z</updated>
+    <summary type="text">I like the idea of a solar-powered electric bike, but I don't think anyone should buy the new Phosgo Go5 - not yet, anyway. This &quot;world's first AI solar e-bike&quot; promises to &quot;eliminate range anxiety,&quot; and is sold by a new brand out of China hoping to make a big splash by selling direct-to-consumer th</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch</id>
+    <title>🤖 Facebook’s Creator Studio has been revived as an AI companion app</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch"/>
+    <published>2026-06-25T09:06:19Z</published>
+    <updated>2026-06-25T09:06:19Z</updated>
+    <summary type="text">Meta is bringing back the Facebook Creator Studio page manager, now &quot;reimagined&quot; as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them &quot;exactly how to grow on Facebook,&quot; according to Meta's announcement. Meta's AI Creator Assi</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625</id>
+    <title>🤖 Improving the speed and energy-efficiency of AI agents</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625"/>
+    <published>2026-06-25T04:00:00Z</published>
+    <updated>2026-06-25T04:00:00Z</updated>
+    <summary type="text">A new system, known as Murakkab, optimizes the design and deployment of multistep workflows that power AI applications.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/how-agents-are-transforming-work</id>
+    <title>🤖 How agents are transforming work</title>
+    <link rel="alternate" href="https://openai.com/index/how-agents-are-transforming-work"/>
+    <published>2026-06-25T02:00:00Z</published>
+    <updated>2026-06-25T02:00:00Z</updated>
+    <summary type="text">A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale</id>
+    <title>🤖 The top tech Prime Day deals to shop on day two</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale"/>
+    <published>2026-06-24T23:48:19Z</published>
+    <updated>2026-06-24T23:48:19Z</updated>
+    <summary type="text">Update, June 25th: We’re now onto day three of Amazon’s Prime Day sales event, and you can find our new main roundup of deals here. Welcome to day two of Amazon’s four-day Prime Day event, which, if we’re being honest, looks a lot like day one. That’s actually good news, though, because many of the </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
   <entry>
     <id>https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026</id>
     <title>🤖 This year’s Prime Day deals on Apple products are the best I’ve seen</title>
@@ -19,186 +292,6 @@
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026</id>
-    <title>🤖 The 16 best robot vacuum deals available during Prime Day</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026"/>
-    <published>2026-06-24T21:51:09Z</published>
-    <updated>2026-06-24T21:51:09Z</updated>
-    <summary type="text">If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We’re now on day two of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is offering discounts […]</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims</id>
-    <title>🤖 A new paper argues Microsoft exaggerated its quantum claims a year ago</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims"/>
-    <published>2026-06-24T20:54:57Z</published>
-    <updated>2026-06-24T20:54:57Z</updated>
-    <summary type="text">A critique published in Nature Wednesday calls the basic technology behind Microsoft's &quot;breakthrough&quot; quantum computing chip the Majorana 1 into question. Microsoft unveiled the chip in February 2025 and said it featured a brand-new technology known as a topological qubit. Topological qubits, they s</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude</id>
-    <title>🤖 Congresswoman denies staff used AI to write defense funding amendment</title>
-    <link rel="alternate" href="https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude"/>
-    <published>2026-06-24T19:36:46Z</published>
-    <updated>2026-06-24T19:36:46Z</updated>
-    <summary type="text">Rep. Anna Paulina Luna (R-FL) says her staff used AI for &quot;spellcheck&quot; in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says &quot;NO Legislation is ever drafted with AI.&quot; Luna issued the response after accounts on X began sharing screenshots of an amen</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uem5yt/i_used_code_to_optimize_the_pogo_base_stats/</id>
-    <title>⚡ I used code to optimize the PoGo base stats equations to find the highest possible CP for a certain base stat total</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uem5yt/i_used_code_to_optimize_the_pogo_base_stats/"/>
-    <published>2026-06-24T18:46:01Z</published>
-    <updated>2026-06-24T18:46:01Z</updated>
-    <summary type="text">Hi! I'm a long-time lurker here and I wanted to share an analysis I did on the CP of Pokemon that are brought into Pokemon Go. (finally created a Reddit account so I could share this) Basically, I noticed that there are numerous Pokemon that share base stat totals with each other, but their base sta</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games</id>
-    <title>🤖 GTA VI is a worrying sign for the future of physical games</title>
-    <link rel="alternate" href="https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games"/>
-    <published>2026-06-24T18:42:07Z</published>
-    <updated>2026-06-24T18:42:07Z</updated>
-    <summary type="text">Rockstar Games has finally given Grand Theft Auto VI a price ahead of the game's November 19th launch. But while announcing that the game would cost $79.99, Rockstar also confirmed that the physical versions of GTA VI won't include a disc, and instead will only contain a download code inside the box</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust</id>
-    <title>🤖 Google is finally opening the Play Store to outside payments</title>
-    <link rel="alternate" href="https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust"/>
-    <published>2026-06-24T17:36:44Z</published>
-    <updated>2026-06-24T17:36:44Z</updated>
-    <summary type="text">While the court still hasn't signed off on the massive settlement resolving Epic's antitrust lawsuit against Google for having a monopoly over Android's app store with Google Play, the tech giant says it will start rolling out changes to the way it handles billing for developers worldwide. As announ</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results</id>
-    <title>🤖 The $27 million Al proxy war over Alex Bores ends in a draw</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results"/>
-    <published>2026-06-24T17:25:00Z</published>
-    <updated>2026-06-24T17:25:00Z</updated>
-    <summary type="text">The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional dist</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uegxee/pokemon_size_sort/</id>
-    <title>⚡ Pokemon Size Sort</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uegxee/pokemon_size_sort/"/>
-    <published>2026-06-24T15:36:35Z</published>
-    <updated>2026-06-24T15:36:35Z</updated>
-    <summary type="text">There should be a Size sort option in Pokémon GO, similar to the existing sorts such as HP, #, Recent, and Name. When selected, it would sort Pokémon by size, with the largest Pokémon appearing at the top. Reversing the sort would place the smallest Pokémon at the top. This would make it much easier</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uee005/you_catch_the_legendary_that_giovanni_is_using/</id>
-    <title>⚡ You catch the Legendary that Giovanni is USING!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uee005/you_catch_the_legendary_that_giovanni_is_using/"/>
-    <published>2026-06-24T13:46:56Z</published>
-    <updated>2026-06-24T13:46:56Z</updated>
-    <summary type="text">Seems like it should go without saying, but if you fight Giovanni and he is still using Landorus, you're going to get Landorus as an encounter, not Reshiram. Same with any other time he switches over. In some months when he gets Shadow Zekrom, if you fight him before the takeover starts and he still</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uedcfr/link_charges_are_not_getting_converted_to/</id>
-    <title>⚡ Link charges are not getting converted to stardust as mentioned in the message below</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uedcfr/link_charges_are_not_getting_converted_to/"/>
-    <published>2026-06-24T13:20:38Z</published>
-    <updated>2026-06-24T13:20:38Z</updated>
-    <summary type="text">This 100 link charges from check in didn't convert to startdust. submitted by /u/aba_lancer [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uebjox/flying_taxi_taken_over_rocket_lineup_megathread/</id>
-    <title>⚡ Flying Taxi: Taken Over Rocket Lineup Megathread</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uebjox/flying_taxi_taken_over_rocket_lineup_megathread/"/>
-    <published>2026-06-24T12:01:27Z</published>
-    <updated>2026-06-24T12:01:27Z</updated>
-    <summary type="text">Let's figure out what the new Team GO Rocket line-ups are! Please report Grunts or Leaders that you've battled on or after 25th June 2026 . Italics : Report from comments or single Research Group report Bold : Multiple Research Group reports (!s): This Pokémon cannot be shiny [ ]: Possible reward en</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ueb48o/flying_taxi_taken_over_leekduck/</id>
-    <title>⚡ Flying Taxi : Taken Over (LeekDuck)</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ueb48o/flying_taxi_taken_over_leekduck/"/>
-    <published>2026-06-24T11:40:35Z</published>
-    <updated>2026-06-24T11:40:35Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ueb3ai/squawkabilly_all_forms_available_in_london_east/</id>
-    <title>⚡ Squawkabilly - All forms available in London (East)</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ueb3ai/squawkabilly_all_forms_available_in_london_east/"/>
-    <published>2026-06-24T11:39:20Z</published>
-    <updated>2026-06-24T11:39:20Z</updated>
-    <summary type="text">I don't know if it is expected or not, but in east London I have been able to catch all four forms of Squawkabilly. Maybe it is because London sits in the Greenwich line, so the city is part of both East/West Hemispheres. I am just letting everyone know in case it is a bug. Maybe Londoners can benef</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ueabst/unannounced_boosted_shiny_rate_for_rookidee_and/</id>
-    <title>⚡ Unannounced boosted shiny rate for Rookidee and Hoothoot for Flying Taxi event</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ueabst/unannounced_boosted_shiny_rate_for_rookidee_and/"/>
-    <published>2026-06-24T11:00:25Z</published>
-    <updated>2026-06-24T11:00:25Z</updated>
-    <summary type="text">Unfortunately for shiny hunters, it seems new Niantic has started a new trend after the great shiny change of last season: not announcing regular event shiny boosts. We can confirm from unnamable sources that despite not mentioning anything in the event news, Hoothoot and Rookidee have the standard </summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ue9z7c/flying_taxi_leaders_lineup/</id>
-    <title>⚡ Flying Taxi Leaders Lineup</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ue9z7c/flying_taxi_leaders_lineup/"/>
-    <published>2026-06-24T10:41:31Z</published>
-    <updated>2026-06-24T10:41:31Z</updated>
-    <summary type="text">submitted by /u/g47onik [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -238,18 +331,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1udghsa/questions_answers_weekly_megathread_please_use/</id>
-    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1udghsa/questions_answers_weekly_megathread_please_use/"/>
-    <published>2026-06-23T13:00:11Z</published>
-    <updated>2026-06-23T13:00:11Z</updated>
-    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://openai.com/index/helping-build-shared-standards-for-advanced-ai</id>
     <title>🤖 Helping build shared standards for advanced AI</title>
     <link rel="alternate" href="https://openai.com/index/helping-build-shared-standards-for-advanced-ai"/>
@@ -280,18 +361,6 @@
     <published>2026-06-23T00:00:00Z</published>
     <updated>2026-06-23T00:00:00Z</updated>
     <summary type="text">Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/daybreak-securing-the-world</id>
-    <title>🤖 Daybreak: Tools for securing every organization in the world</title>
-    <link rel="alternate" href="https://openai.com/index/daybreak-securing-the-world"/>
-    <published>2026-06-22T10:00:00Z</published>
-    <updated>2026-06-22T10:00:00Z</updated>
-    <summary type="text">OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
@@ -377,18 +446,6 @@
     <category term="brawlstars"/>
     <author>
       <name>Brawl Stars Official Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://news.mit.edu/2026/jinhua-zhao-named-head-department-urban-studies-planning-0611</id>
-    <title>🤖 Jinhua Zhao named head of the Department of Urban Studies and Planning</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/jinhua-zhao-named-head-department-urban-studies-planning-0611"/>
-    <published>2026-06-11T20:20:00Z</published>
-    <updated>2026-06-11T20:20:00Z</updated>
-    <summary type="text">An expert in behavioral science and transportation, Zhao combines these studies with AI and public policy to address some of the most urgent challenges facing cities.</summary>
-    <category term="ai"/>
-    <author>
-      <name>MIT AI News</name>
     </author>
   </entry>
   <entry>
