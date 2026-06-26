@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-06-25T22:22:09Z</updated>
+  <updated>2026-06-26T13:06:30Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,33 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/gofest-chicago-saturday-update</id>
-    <title>⚡ Gameplay Update: Chicago Pokémon GO Fest</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gofest-chicago-saturday-update"/>
-    <published>2026-06-25T22:22:07Z</published>
-    <updated>2026-06-25T22:22:07Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/flying-taxi-2026</id>
-    <title>⚡ Take Flight as Squawkabilly’s Debut Leads the Flying Taxi Charge</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/flying-taxi-2026"/>
-    <published>2026-06-25T22:22:07Z</published>
-    <updated>2026-06-25T22:22:07Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/flying-taxi-taken-over-2026</id>
     <title>⚡ Rescue Shadow Reshiram and more during Flying Taxi: Taken Over!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/flying-taxi-taken-over-2026"/>
-    <published>2026-06-25T22:22:07Z</published>
-    <updated>2026-06-25T22:22:07Z</updated>
+    <published>2026-06-26T13:06:29Z</published>
+    <updated>2026-06-26T13:06:29Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +24,8 @@
     <id>https://pokemongolive.com/news/gofest-copenhagen-super-mega-raid</id>
     <title>⚡ Super Mega Raid Update at Pokémon GO Fest 2026: Copenhagen Park Experience</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest-copenhagen-super-mega-raid"/>
-    <published>2026-06-25T22:22:07Z</published>
-    <updated>2026-06-25T22:22:07Z</updated>
+    <published>2026-06-26T13:06:29Z</published>
+    <updated>2026-06-26T13:06:29Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +35,8 @@
     <id>https://pokemongolive.com/news/choose-your-path-forever-forward-2026</id>
     <title>⚡ Choose Your Path with new Timed Research and updates to Daily Discoveries!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/choose-your-path-forever-forward-2026"/>
-    <published>2026-06-25T22:22:07Z</published>
-    <updated>2026-06-25T22:22:07Z</updated>
+    <published>2026-06-26T13:06:29Z</published>
+    <updated>2026-06-26T13:06:29Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +46,8 @@
     <id>https://pokemongolive.com/news/10th-anniversary-party</id>
     <title>⚡ Celebrate a decade of Pokémon GO together during the 10th Anniversary Party!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/10th-anniversary-party"/>
-    <published>2026-06-25T22:22:07Z</published>
-    <updated>2026-06-25T22:22:07Z</updated>
+    <published>2026-06-26T13:06:29Z</published>
+    <updated>2026-06-26T13:06:29Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +57,8 @@
     <id>https://pokemongolive.com/news/lego-pokemon-go-2026</id>
     <title>⚡ Continue building the adventure with LEGO Stores and Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/lego-pokemon-go-2026"/>
-    <published>2026-06-25T22:22:07Z</published>
-    <updated>2026-06-25T22:22:07Z</updated>
+    <published>2026-06-26T13:06:29Z</published>
+    <updated>2026-06-26T13:06:29Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +68,8 @@
     <id>https://pokemongolive.com/news/raichu-super-mega-raid-day-2026</id>
     <title>⚡ Sparks fly for Raichu Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/raichu-super-mega-raid-day-2026"/>
-    <published>2026-06-25T22:22:07Z</published>
-    <updated>2026-06-25T22:22:07Z</updated>
+    <published>2026-06-26T13:06:29Z</published>
+    <updated>2026-06-26T13:06:29Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +79,8 @@
     <id>https://pokemongolive.com/news/save-the-date-apac-30th-anniversary-2026</id>
     <title>⚡ Save the Date: Pokémon 30th Anniversary Celebration — PokéXciting!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-apac-30th-anniversary-2026"/>
-    <published>2026-06-25T22:22:07Z</published>
-    <updated>2026-06-25T22:22:07Z</updated>
+    <published>2026-06-26T13:06:29Z</published>
+    <updated>2026-06-26T13:06:29Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +90,8 @@
     <id>https://pokemongolive.com/news/communityday-july-2026-sobble</id>
     <title>⚡ July 2026 Community Day: Sobble</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communityday-july-2026-sobble"/>
-    <published>2026-06-25T22:22:07Z</published>
-    <updated>2026-06-25T22:22:07Z</updated>
+    <published>2026-06-26T13:06:29Z</published>
+    <updated>2026-06-26T13:06:29Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +101,8 @@
     <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en</id>
     <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in North America, Europe, and Oceania!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en"/>
-    <published>2026-06-25T22:22:07Z</published>
-    <updated>2026-06-25T22:22:07Z</updated>
+    <published>2026-06-26T13:06:29Z</published>
+    <updated>2026-06-26T13:06:29Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +112,8 @@
     <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific</id>
     <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in the Asia-Pacific region!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific"/>
-    <published>2026-06-25T22:22:07Z</published>
-    <updated>2026-06-25T22:22:07Z</updated>
+    <published>2026-06-26T13:06:29Z</published>
+    <updated>2026-06-26T13:06:29Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +123,8 @@
     <id>https://pokemongolive.com/news/road-of-legends-2026</id>
     <title>⚡ The Road of Legends leads the way to Pokémon GO Fest 2026: Global!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/road-of-legends-2026"/>
-    <published>2026-06-25T22:22:07Z</published>
-    <updated>2026-06-25T22:22:07Z</updated>
+    <published>2026-06-26T13:06:29Z</published>
+    <updated>2026-06-26T13:06:29Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +134,8 @@
     <id>https://pokemongolive.com/news/pvp-updates-competitors-cup-2026</id>
     <title>⚡ Pokémon GO Trainer Battle Update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pvp-updates-competitors-cup-2026"/>
-    <published>2026-06-25T22:22:07Z</published>
-    <updated>2026-06-25T22:22:07Z</updated>
+    <published>2026-06-26T13:06:29Z</published>
+    <updated>2026-06-26T13:06:29Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +145,93 @@
     <id>https://pokemongolive.com/news/special-anniversary-pikachu-celebration</id>
     <title>⚡ Keep the festivities going with the Special Anniversary Pikachu Celebration event!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/special-anniversary-pikachu-celebration"/>
-    <published>2026-06-25T22:22:07Z</published>
-    <updated>2026-06-25T22:22:07Z</updated>
+    <published>2026-06-26T13:06:29Z</published>
+    <updated>2026-06-26T13:06:29Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/happy-birthday-professor-willow-2026</id>
+    <title>⚡ Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/happy-birthday-professor-willow-2026"/>
+    <published>2026-06-26T13:06:29Z</published>
+    <updated>2026-06-26T13:06:29Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/ozone-ascent-2026</id>
+    <title>⚡ Complete Timed Research to encounter Rayquaza and more!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/ozone-ascent-2026"/>
+    <published>2026-06-26T13:06:29Z</published>
+    <updated>2026-06-26T13:06:29Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/957597/samsung-smartthings-api-charges</id>
+    <title>🤖 Samsung will soon start charging to access its smart home API</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/957597/samsung-smartthings-api-charges"/>
+    <published>2026-06-26T11:38:11Z</published>
+    <updated>2026-06-26T11:38:11Z</updated>
+    <summary type="text">From October this year Samsung will roll out a variety of new paid tiers for access to its SmartThings API, including a $4.99 monthly plan for &quot;non-commercial, individual developers.&quot; It won't just be developers that pay the price though. Some more advanced smart home users are likely to fall afoul </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/957561/apple-m6-m7-ai-chip-release-timeline-gurman</id>
+    <title>🤖 Apple’s most powerful Macs might be waiting until 2027 for big processor upgrades</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/957561/apple-m6-m7-ai-chip-release-timeline-gurman"/>
+    <published>2026-06-26T11:14:44Z</published>
+    <updated>2026-06-26T11:14:44Z</updated>
+    <summary type="text">Apple is expected to shake up its usual Mac silicon release strategy, with Bloomberg's Mark Gurman reporting that there won't be Pro or Max versions of the upcoming M6 chip. Instead, Apple wants to &quot;fast-track technologies that it originally planned to release later&quot; with the M7 launch next year. Th</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four</id>
+    <title>🤖 It’s the last day of Prime Day — here are over 130 great deals to choose from</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four"/>
+    <published>2026-06-26T11:00:00Z</published>
+    <updated>2026-06-26T11:00:00Z</updated>
+    <summary type="text">We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retailers, so if you’ve bee</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit</id>
+    <title>🤖 Trump Mobile will take your $499 right now</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit"/>
+    <published>2026-06-26T08:40:21Z</published>
+    <updated>2026-06-26T08:40:21Z</updated>
+    <summary type="text">Where's the Trump phone? We're going to keep talking about it every week. We still don't have the phones we preordered yet, but this week the T1 hit open sale, no deposit required. Trump Mobile's T1 Phone is now available for anyone to buy directly. The phone has previously trickled out to a small n</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026</id>
+    <title>🤖 This year’s Prime Day deals on Apple products are the best I’ve seen</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026"/>
+    <published>2026-06-25T23:04:23Z</published>
+    <updated>2026-06-25T23:04:23Z</updated>
+    <summary type="text">Amazon’s Prime Day is now in its third day, and whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already dropped to a new low price, while the AirPods Pro 3 are discounted to $179. With Apple […]</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -193,54 +253,6 @@
     <published>2026-06-25T21:23:47Z</published>
     <updated>2026-06-25T21:23:47Z</updated>
     <summary type="text">Thanks to the component crisis, it's a bad time to want a new computer. But if you are waiting on a preorder for the Framework Laptop 13 Pro - which Framework's CEO has called the &quot;MacBook Pro for Linux users&quot; - the company shared good news on Thursday that might mean yours will cost less […]</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video</id>
-    <title>🤖 Instagram wants to monopolize your attention</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video"/>
-    <published>2026-06-25T20:10:24Z</published>
-    <updated>2026-06-25T20:10:24Z</updated>
-    <summary type="text">This week, Instagram launched a series of new features for its smart TV app that are all designed to get people to spend more time on the platform through the biggest screens in their homes. In addition to vertical Reels, Instagram for TV - which is currently available for Amazon Fire TV, Google TV,</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/956950/ram-crisis-apple-price-increase</id>
-    <title>🤖 RAMageddon just got extremely real</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/956950/ram-crisis-apple-price-increase"/>
-    <published>2026-06-25T20:00:00Z</published>
-    <updated>2026-06-25T20:00:00Z</updated>
-    <summary type="text">As far as prices go, Apple is kind of a reverse canary in the coal mine. With its famously generous margins and immense purchasing volume, it can afford to ride out price fluctuations in its supply chain in a way no other consumer tech company can. So when Apple raises prices across nearly all of […</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026</id>
-    <title>🤖 The 16 best robot vacuum deals available during Prime Day</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026"/>
-    <published>2026-06-25T18:47:26Z</published>
-    <updated>2026-06-25T18:47:26Z</updated>
-    <summary type="text">If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We’re now on day three of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is offering discounts […]</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes</id>
-    <title>🤖 You won&amp;#8217;t have long to get these iPad deals before Apple&amp;#8217;s price hike</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes"/>
-    <published>2026-06-25T18:04:13Z</published>
-    <updated>2026-06-25T18:04:13Z</updated>
-    <summary type="text">Apple just raised prices across its iPad and MacBook lineup. The good news is that many retailers are still selling their inventory at the old prices or far less, which means you can still score some of the best iPad deals we may see in awhile — if ever again. So if you’ve been thinking […]</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
