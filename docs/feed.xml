@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-06-30T16:22:50Z</updated>
+  <updated>2026-06-30T22:15:57Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,168 +10,147 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/flying-taxi-taken-over-2026</id>
-    <title>⚡ Rescue Shadow Reshiram and more during Flying Taxi: Taken Over!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/flying-taxi-taken-over-2026"/>
-    <published>2026-06-30T16:22:48Z</published>
-    <updated>2026-06-30T16:22:48Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine</id>
+    <title>🤖 Amazon fined $2.25 million for failing to help identity theft victims</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine"/>
+    <published>2026-06-30T21:20:01Z</published>
+    <updated>2026-06-30T21:20:01Z</updated>
+    <summary type="text">The Federal Trade Commission fined Amazon $2.25 million to settle claims that the company failed to help customers who fell victim to identity theft, as reported earlier by Bloomberg. In its complaint, the FTC accuses Amazon of refusing to provide customers with information about purchases made with</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/gofest-copenhagen-super-mega-raid</id>
-    <title>⚡ Super Mega Raid Update at Pokémon GO Fest 2026: Copenhagen Park Experience</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gofest-copenhagen-super-mega-raid"/>
-    <published>2026-06-30T16:22:48Z</published>
-    <updated>2026-06-30T16:22:48Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale</id>
+    <title>🤖 Acer&amp;#8217;s Swift Go 16 is a lot of laptop for $900</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale"/>
+    <published>2026-06-30T20:00:00Z</published>
+    <updated>2026-06-30T20:00:00Z</updated>
+    <summary type="text">As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfully, the Acer Swift Go 16 AI is on sale for $899.99 at Best Buy, a steep discount from its usual list price of $1,549.99. The</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/choose-your-path-forever-forward-2026</id>
-    <title>⚡ Choose Your Path with new Timed Research and updates to Daily Discoveries!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/choose-your-path-forever-forward-2026"/>
-    <published>2026-06-30T16:22:48Z</published>
-    <updated>2026-06-30T16:22:48Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/tech/959778/google-notebooklm-ai-clips</id>
+    <title>🤖 Google’s NotebookLM can sum up your research in a TikTok-style clip</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/959778/google-notebooklm-ai-clips"/>
+    <published>2026-06-30T19:24:51Z</published>
+    <updated>2026-06-30T19:24:51Z</updated>
+    <summary type="text">Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google detai</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/10th-anniversary-party</id>
-    <title>⚡ Celebrate a decade of Pokémon GO together during the 10th Anniversary Party!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/10th-anniversary-party"/>
-    <published>2026-06-30T16:22:48Z</published>
-    <updated>2026-06-30T16:22:48Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ujyes6/shadow_raid_bossesfrom_wednesday_july_1_2026_at/</id>
+    <title>⚡ Shadow Raid Bosses｜From Wednesday, July 1, 2026, at 6:00 a.m. local time</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ujyes6/shadow_raid_bossesfrom_wednesday_july_1_2026_at/"/>
+    <published>2026-06-30T19:07:35Z</published>
+    <updated>2026-06-30T19:07:35Z</updated>
+    <summary type="text">Shadow Raid Bosses From Wednesday, July 1, 2026, at 6:00 a.m. local time ・TIER5: Shadow Palkia(Shadow Shiny debut!) ・TIER3: Shadow Graveler,Shadow Hitmonchan,Shadow Scyther ・TIER1: Shadow Mankey,Shadow Phanpy,Shadow Ralts,Shadow Darumaka submitted by /u/GO_FRIEND_APP [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/lego-pokemon-go-2026</id>
-    <title>⚡ Continue building the adventure with LEGO Stores and Pokémon GO!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/lego-pokemon-go-2026"/>
-    <published>2026-06-30T16:22:48Z</published>
-    <updated>2026-06-30T16:22:48Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs</id>
+    <title>🤖 007 First Light&amp;#8217;s developer lays off staff but claims its next franchise will continue</title>
+    <link rel="alternate" href="https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs"/>
+    <published>2026-06-30T18:14:05Z</published>
+    <updated>2026-06-30T18:14:05Z</updated>
+    <summary type="text">IO Interactive, the studio behind the Hitman series and 007 First Light, announced that it is laying off staff after a relationship with an &quot;external partner&quot; on its next big franchise, Project Fantasy, &quot;has come to an end.&quot; IO has described Project Fantasy as an &quot;online fantasy RPG&quot;, and Kotaku and</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/raichu-super-mega-raid-day-2026</id>
-    <title>⚡ Sparks fly for Raichu Super Mega Raid Day!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/raichu-super-mega-raid-day-2026"/>
-    <published>2026-06-30T16:22:48Z</published>
-    <updated>2026-06-30T16:22:48Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ujw6ts/candy_to_candy_xl_conversation_should_be_similar/</id>
+    <title>⚡ Candy to Candy XL conversation should be similar to Buddy's walk distance, not flat out 100 to 1.</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ujw6ts/candy_to_candy_xl_conversation_should_be_similar/"/>
+    <published>2026-06-30T17:47:45Z</published>
+    <updated>2026-06-30T17:47:45Z</updated>
+    <summary type="text">Right now, 100 Candy converts to 1 XL. It should be similar to Buddy walk distance. Buddy with 1 km walking : 5 Candy to 1 XL 3 km walking : 15 Candy to 1 XL 5 km walking : 25 Candy to 1 XL 20 km walking : 100 candy to 1XL I have used conversation similar to how 1 km provides 5 Mega/Primal Energy. s</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/save-the-date-apac-30th-anniversary-2026</id>
-    <title>⚡ Save the Date: Pokémon 30th Anniversary Celebration — PokéXciting!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-apac-30th-anniversary-2026"/>
-    <published>2026-06-30T16:22:48Z</published>
-    <updated>2026-06-30T16:22:48Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale</id>
+    <title>🤖 Moto&amp;#8217;s Tag 2 tracker is $20 for a limited time</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale"/>
+    <published>2026-06-30T17:38:23Z</published>
+    <updated>2026-06-30T17:38:23Z</updated>
+    <summary type="text">Announced at CES 2026, the Moto Tag 2 has finally arrived in the US. The Bluetooth tracker with improved battery life over its predecessor, plus UWB sensing for more accurate tracking, is available through Motorola’s site at a special $19.99 launch price (originally $29.99). There are plenty of trac</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/communityday-july-2026-sobble</id>
-    <title>⚡ July 2026 Community Day: Sobble</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/communityday-july-2026-sobble"/>
-    <published>2026-06-30T16:22:48Z</published>
-    <updated>2026-06-30T16:22:48Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder</id>
+    <title>🤖 Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show</title>
+    <link rel="alternate" href="https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder"/>
+    <published>2026-06-30T17:19:15Z</published>
+    <updated>2026-06-30T17:19:15Z</updated>
+    <summary type="text">A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI f</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en</id>
-    <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in North America, Europe, and Oceania!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en"/>
-    <published>2026-06-30T16:22:48Z</published>
-    <updated>2026-06-30T16:22:48Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ujux44/go_pass_july_niantic_infographic/</id>
+    <title>⚡ GO Pass: July Niantic Infographic</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ujux44/go_pass_july_niantic_infographic/"/>
+    <published>2026-06-30T17:01:44Z</published>
+    <updated>2026-06-30T17:01:44Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific</id>
-    <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in the Asia-Pacific region!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific"/>
-    <published>2026-06-30T16:22:48Z</published>
-    <updated>2026-06-30T16:22:48Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ujuwnh/hooh_gimmighoul_holding_a_10th_anniversary_coin/</id>
+    <title>⚡ Ho-Oh, Gimmighoul holding a 10th anniversary coin, and more await in GO Pass: July!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ujuwnh/hooh_gimmighoul_holding_a_10th_anniversary_coin/"/>
+    <published>2026-06-30T17:01:18Z</published>
+    <updated>2026-06-30T17:01:18Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/road-of-legends-2026</id>
-    <title>⚡ The Road of Legends leads the way to Pokémon GO Fest 2026: Global!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/road-of-legends-2026"/>
-    <published>2026-06-30T16:22:48Z</published>
-    <updated>2026-06-30T16:22:48Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker</id>
+    <title>🤖 Google&amp;#8217;s killing off Tenor GIF searches in other apps</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker"/>
+    <published>2026-06-30T17:00:05Z</published>
+    <updated>2026-06-30T17:00:05Z</updated>
+    <summary type="text">The GIF-picking interfaces in some of your favorite online platforms might look different going forward, as Google prepares to shut down the Tenor API today. While the Tenor website, along with its searchable GIF library, will remain live, platforms like X, Discord, Bluesky, and WhatsApp that previo</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/pvp-updates-competitors-cup-2026</id>
-    <title>⚡ Pokémon GO Trainer Battle Update</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/pvp-updates-competitors-cup-2026"/>
-    <published>2026-06-30T16:22:48Z</published>
-    <updated>2026-06-30T16:22:48Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ujudvz/pogo_calendar_2026_july_monsun/</id>
+    <title>⚡ Pogo Calendar 2026 July (Mon/Sun)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ujudvz/pogo_calendar_2026_july_monsun/"/>
+    <published>2026-06-30T16:42:05Z</published>
+    <updated>2026-06-30T16:42:05Z</updated>
+    <summary type="text">submitted by /u/feyhra [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/special-anniversary-pikachu-celebration</id>
-    <title>⚡ Keep the festivities going with the Special Anniversary Pikachu Celebration event!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/special-anniversary-pikachu-celebration"/>
-    <published>2026-06-30T16:22:48Z</published>
-    <updated>2026-06-30T16:22:48Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/happy-birthday-professor-willow-2026</id>
-    <title>⚡ Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/happy-birthday-professor-willow-2026"/>
-    <published>2026-06-30T16:22:48Z</published>
-    <updated>2026-06-30T16:22:48Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/ozone-ascent-2026</id>
-    <title>⚡ Complete Timed Research to encounter Rayquaza and more!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/ozone-ascent-2026"/>
-    <published>2026-06-30T16:22:48Z</published>
-    <updated>2026-06-30T16:22:48Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -199,30 +178,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/column/959433/libby-ai-filter</id>
-    <title>🤖 Libby will filter out AI content, kind of</title>
-    <link rel="alternate" href="https://www.theverge.com/column/959433/libby-ai-filter"/>
-    <published>2026-06-30T15:30:00Z</published>
-    <updated>2026-06-30T15:30:00Z</updated>
-    <summary type="text">This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. &quot;AI is the new frontier for us,&quot; says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for </summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump</id>
-    <title>🤖 The Supreme Court stops Trump&amp;#8217;s attempt to end birthright citizenship</title>
-    <link rel="alternate" href="https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump"/>
-    <published>2026-06-30T14:44:42Z</published>
-    <updated>2026-06-30T14:44:42Z</updated>
-    <summary type="text">The Supreme Court upheld birthright citizenship, ruling 6-3 against President Donald Trump's effort to end the longstanding constitutional right via executive order. Birthright citizenship dates back to Reconstruction. Under the 14th Amendment, which was ratified in 1868 to guarantee citizenship and</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.reddit.com/r/TheSilphRoad/comments/1ujokln/questions_answers_weekly_megathread_please_use/</id>
     <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
     <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ujokln/questions_answers_weekly_megathread_please_use/"/>
@@ -232,18 +187,6 @@
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter</id>
-    <title>🤖 Meet the lawyer who beat Elon Musk — twice</title>
-    <link rel="alternate" href="https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter"/>
-    <published>2026-06-30T12:00:00Z</published>
-    <updated>2026-06-30T12:00:00Z</updated>
-    <summary type="text">Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were &quot;designed to tric</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -259,30 +202,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ujm1cy/shadow_palkia_raid_guide_for_july_info_from/</id>
-    <title>⚡ Shadow Palkia raid guide for July. Info from pokebattler.com</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ujm1cy/shadow_palkia_raid_guide_for_july_info_from/"/>
-    <published>2026-06-30T11:02:26Z</published>
-    <updated>2026-06-30T11:02:26Z</updated>
-    <summary type="text">submitted by /u/CaptGoldfish [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt</id>
-    <title>🤖 This motor could be the future of e-bikes</title>
-    <link rel="alternate" href="https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt"/>
-    <published>2026-06-30T10:30:04Z</published>
-    <updated>2026-06-30T10:30:04Z</updated>
-    <summary type="text">Imagine an e-bike motor that lets you select your preferred pedaling cadence and then automatically adjusts the gears to keep your legs spinning at that exact speed, no matter how steep the hill gets - all without a fragile derailleur or heavy multi-speed cassette to maintain. Prefer manual control?</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://openai.com/index/how-chatgpt-adoption-has-expanded</id>
     <title>🤖 How ChatGPT adoption has expanded</title>
     <link rel="alternate" href="https://openai.com/index/how-chatgpt-adoption-has-expanded"/>
@@ -292,18 +211,6 @@
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ujjmdq/why_does_the_new_calendar_events_page_only_show/</id>
-    <title>⚡ Why does the new calendar/ events page only show current event?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ujjmdq/why_does_the_new_calendar_events_page_only_show/"/>
-    <published>2026-06-30T08:43:11Z</published>
-    <updated>2026-06-30T08:43:11Z</updated>
-    <summary type="text">It doesn’t make any sense that I have to go to a complete different part of the app to see future events. Really seems like poor design submitted by /u/Valasin [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -319,27 +226,15 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ujegc5/july_pokémon_spotlight_hours_leekduck/</id>
-    <title>⚡ July Pokémon Spotlight Hours (LeekDuck)</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ujegc5/july_pokémon_spotlight_hours_leekduck/"/>
-    <published>2026-06-30T03:58:42Z</published>
-    <updated>2026-06-30T03:58:42Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
+    <id>https://openai.com/index/introducing-genebench-pro</id>
+    <title>🤖 Introducing GeneBench-Pro</title>
+    <link rel="alternate" href="https://openai.com/index/introducing-genebench-pro"/>
+    <published>2026-06-30T00:00:00Z</published>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary type="text">Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.</summary>
+    <category term="ai"/>
     <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ujcbqd/choose_your_own_path_timed_research_resumes/</id>
-    <title>⚡ Choose Your Own Path timed research resumes</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ujcbqd/choose_your_own_path_timed_research_resumes/"/>
-    <published>2026-06-30T02:16:35Z</published>
-    <updated>2026-06-30T02:16:35Z</updated>
-    <summary type="text">I did not know we are still doing this I thought it ended at the beginning of the Flying Taxi event. Not complaining tho. submitted by /u/Alphusweenie98 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -355,6 +250,17 @@
     </author>
   </entry>
   <entry>
+    <id>https://openai.com/index/genebench-pro/case-studies</id>
+    <title>🤖 Inside Genebench-Pro</title>
+    <link rel="alternate" href="https://openai.com/index/genebench-pro/case-studies"/>
+    <published>2026-06-30T00:00:00Z</published>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
     <id>https://supercell.com/en/games/brawlstars/blog/release-notes/release-notes-june-2026</id>
     <title>🏆 Release Notes June 2026</title>
     <link rel="alternate" href="https://supercell.com/en/games/brawlstars/blog/release-notes/release-notes-june-2026"/>
@@ -363,18 +269,6 @@
     <category term="brawlstars"/>
     <author>
       <name>Brawl Stars Official Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uj4p2l/happy_birthday_prof_willow/</id>
-    <title>⚡ Happy Birthday Prof. Willow</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uj4p2l/happy_birthday_prof_willow/"/>
-    <published>2026-06-29T20:56:20Z</published>
-    <updated>2026-06-29T20:56:20Z</updated>
-    <summary type="text">Professor Willow's assistant Pikachu will make its debut and can be found through: Field Research, Timed Research, Snapshot surprises, Raids. Credits: G47IX submitted by /u/iTaIksick [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -414,18 +308,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/hp-frontier-partnership</id>
-    <title>🤖 HP Inc. launches Frontier strategic partnership with OpenAI</title>
-    <link rel="alternate" href="https://openai.com/index/hp-frontier-partnership"/>
-    <published>2026-06-28T17:00:00Z</published>
-    <updated>2026-06-28T17:00:00Z</updated>
-    <summary type="text">HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/david-autor-named-head-department-economics-0626</id>
     <title>🤖 David Autor named head of the Department of Economics</title>
     <link rel="alternate" href="https://news.mit.edu/2026/david-autor-named-head-department-economics-0626"/>
@@ -447,18 +329,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/previewing-gpt-5-6-sol</id>
-    <title>🤖 Previewing GPT-5.6 Sol: a next-generation model</title>
-    <link rel="alternate" href="https://openai.com/index/previewing-gpt-5-6-sol"/>
-    <published>2026-06-26T10:00:00Z</published>
-    <updated>2026-06-26T10:00:00Z</updated>
-    <summary type="text">OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
