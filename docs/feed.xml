@@ -2,13 +2,202 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-07-02T22:08:17Z</updated>
+  <updated>2026-07-03T12:52:41Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
     <name>ha-news-feed-bot</name>
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
+  <entry>
+    <id>https://pokemongolive.com/news/choose-your-path-forever-forward-2026</id>
+    <title>⚡ Choose Your Path with new Timed Research and updates to Daily Discoveries!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/choose-your-path-forever-forward-2026"/>
+    <published>2026-07-03T12:52:39Z</published>
+    <updated>2026-07-03T12:52:39Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/10th-anniversary-party</id>
+    <title>⚡ Celebrate a decade of Pokémon GO together during the 10th Anniversary Party!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/10th-anniversary-party"/>
+    <published>2026-07-03T12:52:39Z</published>
+    <updated>2026-07-03T12:52:39Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/lego-pokemon-go-2026</id>
+    <title>⚡ Continue building the adventure with LEGO Stores and Pokémon GO!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/lego-pokemon-go-2026"/>
+    <published>2026-07-03T12:52:39Z</published>
+    <updated>2026-07-03T12:52:39Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/raichu-super-mega-raid-day-2026</id>
+    <title>⚡ Sparks fly for Raichu Super Mega Raid Day!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/raichu-super-mega-raid-day-2026"/>
+    <published>2026-07-03T12:52:39Z</published>
+    <updated>2026-07-03T12:52:39Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/save-the-date-apac-30th-anniversary-2026</id>
+    <title>⚡ Save the Date: Pokémon 30th Anniversary Celebration — PokéXciting!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-apac-30th-anniversary-2026"/>
+    <published>2026-07-03T12:52:39Z</published>
+    <updated>2026-07-03T12:52:39Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/communityday-july-2026-sobble</id>
+    <title>⚡ July 2026 Community Day: Sobble</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/communityday-july-2026-sobble"/>
+    <published>2026-07-03T12:52:39Z</published>
+    <updated>2026-07-03T12:52:39Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en</id>
+    <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in North America, Europe, and Oceania!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en"/>
+    <published>2026-07-03T12:52:39Z</published>
+    <updated>2026-07-03T12:52:39Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific</id>
+    <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in the Asia-Pacific region!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific"/>
+    <published>2026-07-03T12:52:39Z</published>
+    <updated>2026-07-03T12:52:39Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/road-of-legends-2026</id>
+    <title>⚡ The Road of Legends leads the way to Pokémon GO Fest 2026: Global!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/road-of-legends-2026"/>
+    <published>2026-07-03T12:52:39Z</published>
+    <updated>2026-07-03T12:52:39Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/pvp-updates-competitors-cup-2026</id>
+    <title>⚡ Pokémon GO Trainer Battle Update</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pvp-updates-competitors-cup-2026"/>
+    <published>2026-07-03T12:52:39Z</published>
+    <updated>2026-07-03T12:52:39Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/special-anniversary-pikachu-celebration</id>
+    <title>⚡ Keep the festivities going with the Special Anniversary Pikachu Celebration event!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/special-anniversary-pikachu-celebration"/>
+    <published>2026-07-03T12:52:39Z</published>
+    <updated>2026-07-03T12:52:39Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/happy-birthday-professor-willow-2026</id>
+    <title>⚡ Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/happy-birthday-professor-willow-2026"/>
+    <published>2026-07-03T12:52:39Z</published>
+    <updated>2026-07-03T12:52:39Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/ozone-ascent-2026</id>
+    <title>⚡ Complete Timed Research to encounter Rayquaza and more!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/ozone-ascent-2026"/>
+    <published>2026-07-03T12:52:39Z</published>
+    <updated>2026-07-03T12:52:39Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/go-pass-july-2026</id>
+    <title>⚡ Ho-Oh, Gimmighoul holding a 10th anniversary coin, and more await in GO Pass: July!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-pass-july-2026"/>
+    <published>2026-07-03T12:52:39Z</published>
+    <updated>2026-07-03T12:52:39Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/event-calendar-2026</id>
+    <title>⚡ The new event calendar takes your Pokémon GO adventures to the next level!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/event-calendar-2026"/>
+    <published>2026-07-03T12:52:39Z</published>
+    <updated>2026-07-03T12:52:39Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video</id>
+    <title>🤖 A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video"/>
+    <published>2026-07-03T11:49:10Z</published>
+    <updated>2026-07-03T11:49:10Z</updated>
+    <summary type="text">Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with ch</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges</id>
+    <title>🤖 Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home</title>
+    <link rel="alternate" href="https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges"/>
+    <published>2026-07-02T22:09:33Z</published>
+    <updated>2026-07-02T22:09:33Z</updated>
+    <summary type="text">The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving his Model 3 using Tes</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
   <entry>
     <id>https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai</id>
     <title>🤖 Meta has a new app called Pocket that is absolutely nothing like the old Pocket</title>
@@ -19,150 +208,6 @@
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ulsvk3/the_new_event_calendar_takes_your_pokémon_go/</id>
-    <title>⚡ The new event calendar takes your Pokémon GO adventures to the next level!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ulsvk3/the_new_event_calendar_takes_your_pokémon_go/"/>
-    <published>2026-07-02T20:01:20Z</published>
-    <updated>2026-07-02T20:01:20Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ulqg6m/august_8th_hatch_day/</id>
-    <title>⚡ August 8th Hatch Day</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ulqg6m/august_8th_hatch_day/"/>
-    <published>2026-07-02T18:30:57Z</published>
-    <updated>2026-07-02T18:30:57Z</updated>
-    <summary type="text">When will this be announced and who do we guess it will it be? I find it curious that Igglybuff is removed from 2km eggs currently so my money is on that (especially since we had a Cleffa hatch day) I personally have never been able to find any of the Jigglypuff shiny line, but I could also see some</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ulq72n/mega_evolution_recommendations_for_road_of/</id>
-    <title>⚡ Mega Evolution recommendations for Road of Legends and Go Fest</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ulq72n/mega_evolution_recommendations_for_road_of/"/>
-    <published>2026-07-02T18:21:44Z</published>
-    <updated>2026-07-02T18:21:44Z</updated>
-    <summary type="text">Some in my community were asking for the optimal megas to run next week, so I figured I'd share that here, too. I'm assuming here that &quot;Road of Legends&quot; is mostly going to be a raid event and most players won't care much about optimizing for spawns, while for Go Fest players will either want to opti</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report</id>
-    <title>🤖 Tesla&amp;#8217;s Q2 sales jump 25 percent</title>
-    <link rel="alternate" href="https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report"/>
-    <published>2026-07-02T14:14:48Z</published>
-    <updated>2026-07-02T14:14:48Z</updated>
-    <summary type="text">Tesla just released its second-quarter delivery and production report, showing that the automaker is starting to recover after a particularly brutal sales year in 2025. The company said that it produced a total of 451,758 vehicles between April and June of this year, including 442,936 Model 3 and Mo</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators</id>
-    <title>🤖 AI won’t save advertising, says Digitas’ Amy Lanzi</title>
-    <link rel="alternate" href="https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators"/>
-    <published>2026-07-02T14:00:00Z</published>
-    <updated>2026-07-02T14:00:00Z</updated>
-    <summary type="text">We’ve got a special Decoder today — I had the chance to talk with Amy Lanzi, the CEO of Digitas North America, in front of a live audience at the Uber Villa at the Cannes Lions advertising festival in the South of France. I know, it’s a hard gig, but I do it for you. […]</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ulgp5g/road_of_legends_prep_every_adventure_effect/</id>
-    <title>⚡ Road of Legends Prep: Every Adventure Effect Explained</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ulgp5g/road_of_legends_prep_every_adventure_effect/"/>
-    <published>2026-07-02T12:20:14Z</published>
-    <updated>2026-07-02T12:20:14Z</updated>
-    <summary type="text">Hi All! I've wanted to put together a complete guide to Adventure Effects in Pokémon GO for a while now - what they do, how to use them, and how to obtain them. With next week's Road of Legends event giving us access to almost all of them, this feels like the perfect time. You may already know some </summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ulgjc6/road_of_legends_raid_schedule/</id>
-    <title>⚡ Road of Legends Raid Schedule</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ulgjc6/road_of_legends_raid_schedule/"/>
-    <published>2026-07-02T12:13:14Z</published>
-    <updated>2026-07-02T12:13:14Z</updated>
-    <summary type="text">Hey everyone! I made this graphic to help keep track of the overwhelming amount of raids happening this week during the Road of Legends lead up event. Feel free to download and share, I hope it helps! Schedule Mon, Jul 6 — Every Legendary, Mythical, Ultra Beast + Mega Salamence Tue, Jul 7 — White Ky</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box</id>
-    <title>🤖 Mystery box shows are complicated for everyone — even the actors</title>
-    <link rel="alternate" href="https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box"/>
-    <published>2026-07-02T12:00:00Z</published>
-    <updated>2026-07-02T12:00:00Z</updated>
-    <summary type="text">Silo is such a complicated show that even its showrunner gets confused sometimes. While filming the final seasons of the Apple TV sci-fi thriller, Graham Yost remembers two instances where he messed up details: once it was an actor who realized that a conversation they were about to shoot should've </summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy</id>
-    <title>🤖 BitTorrent&amp;#8217;s disastrous, legendary, and controversial story</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy"/>
-    <published>2026-07-02T11:00:00Z</published>
-    <updated>2026-07-02T11:00:00Z</updated>
-    <summary type="text">Twenty-five years ago today, a young, little-known programmer by the name of Bram Cohen fired off a short message to a mailing list for peer-to-peer enthusiasts. &quot;My new app, BitTorrent, is now in working order, check it out here,&quot; Cohen wrote, followed by a link to his personal website. &quot;What's Bit</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ulckcl/whatever_happened_to_the_go_safari_balls_update/</id>
-    <title>⚡ Whatever happened to the Go Safari Balls update for Pokémon Home?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ulckcl/whatever_happened_to_the_go_safari_balls_update/"/>
-    <published>2026-07-02T08:40:05Z</published>
-    <updated>2026-07-02T08:40:05Z</updated>
-    <summary type="text">For the Go Wild Area 2025 event, it was also announced that in a future update, Pokémon caught in Go Safari Balls would be transferable to Pokémon Home: https://pokemongo.com/news/get-ready-for-gowildarea-2025 &quot;Future Update to Pokémon HOME Transfers In the future, Trainers will be able to send Poké</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ulapp5/if_mega_mewtwo_requires_12_megas_to_break_shields/</id>
-    <title>⚡ If Mega Mewtwo requires 12 megas to break shields, how will this affect hosting raids?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ulapp5/if_mega_mewtwo_requires_12_megas_to_break_shields/"/>
-    <published>2026-07-02T06:51:01Z</published>
-    <updated>2026-07-02T06:51:01Z</updated>
-    <summary type="text">Forgive me if I missed it somewhere, but I know that remote pass limit is unlimited. But assuming that the shields breaking will require 12 megas, does anyone know how this will affect hosting or even remote raiding? I know the remote limit is 10. Or if we’re unsure what the actual limit may be. Apo</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ul3cp4/rolycoly_spawning_in_wild_now/</id>
-    <title>⚡ Rolycoly spawning in wild now</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ul3cp4/rolycoly_spawning_in_wild_now/"/>
-    <published>2026-07-02T00:44:04Z</published>
-    <updated>2026-07-02T00:44:04Z</updated>
-    <summary type="text">Haven't seen any since it's debut event ended, i saw 2 within an hour today submitted by /u/Maleficent_Gur_8726 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -187,18 +232,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ujokln/questions_answers_weekly_megathread_please_use/</id>
-    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ujokln/questions_answers_weekly_megathread_please_use/"/>
-    <published>2026-06-30T13:00:12Z</published>
-    <updated>2026-06-30T13:00:12Z</updated>
-    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -341,18 +374,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uebjox/flying_taxi_taken_over_rocket_lineup_megathread/</id>
-    <title>⚡ Flying Taxi: Taken Over Rocket Lineup Megathread</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uebjox/flying_taxi_taken_over_rocket_lineup_megathread/"/>
-    <published>2026-06-24T12:01:27Z</published>
-    <updated>2026-06-24T12:01:27Z</updated>
-    <summary type="text">Let's figure out what the new Team GO Rocket line-ups are! Please report Grunts or Leaders that you've battled on or after 25th June 2026 . Italics : Report from comments or single Research Group report Bold : Multiple Research Group reports (!s): This Pokémon cannot be shiny [ ]: Possible reward en</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
