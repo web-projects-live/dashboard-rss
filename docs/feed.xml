@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-07-06T16:52:07Z</updated>
+  <updated>2026-07-06T22:14:32Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,33 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/10th-anniversary-party</id>
-    <title>⚡ Celebrate a decade of Pokémon GO together during the 10th Anniversary Party!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/10th-anniversary-party"/>
-    <published>2026-07-06T16:52:04Z</published>
-    <updated>2026-07-06T16:52:04Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/lego-pokemon-go-2026</id>
-    <title>⚡ Continue building the adventure with LEGO Stores and Pokémon GO!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/lego-pokemon-go-2026"/>
-    <published>2026-07-06T16:52:04Z</published>
-    <updated>2026-07-06T16:52:04Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/raichu-super-mega-raid-day-2026</id>
     <title>⚡ Sparks fly for Raichu Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/raichu-super-mega-raid-day-2026"/>
-    <published>2026-07-06T16:52:04Z</published>
-    <updated>2026-07-06T16:52:04Z</updated>
+    <published>2026-07-06T22:14:31Z</published>
+    <updated>2026-07-06T22:14:31Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +24,8 @@
     <id>https://pokemongolive.com/news/save-the-date-apac-30th-anniversary-2026</id>
     <title>⚡ Save the Date: Pokémon 30th Anniversary Celebration — PokéXciting!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-apac-30th-anniversary-2026"/>
-    <published>2026-07-06T16:52:04Z</published>
-    <updated>2026-07-06T16:52:04Z</updated>
+    <published>2026-07-06T22:14:31Z</published>
+    <updated>2026-07-06T22:14:31Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +35,8 @@
     <id>https://pokemongolive.com/news/communityday-july-2026-sobble</id>
     <title>⚡ July 2026 Community Day: Sobble</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communityday-july-2026-sobble"/>
-    <published>2026-07-06T16:52:04Z</published>
-    <updated>2026-07-06T16:52:04Z</updated>
+    <published>2026-07-06T22:14:31Z</published>
+    <updated>2026-07-06T22:14:31Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +46,8 @@
     <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en</id>
     <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in North America, Europe, and Oceania!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en"/>
-    <published>2026-07-06T16:52:04Z</published>
-    <updated>2026-07-06T16:52:04Z</updated>
+    <published>2026-07-06T22:14:31Z</published>
+    <updated>2026-07-06T22:14:31Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +57,8 @@
     <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific</id>
     <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in the Asia-Pacific region!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific"/>
-    <published>2026-07-06T16:52:04Z</published>
-    <updated>2026-07-06T16:52:04Z</updated>
+    <published>2026-07-06T22:14:31Z</published>
+    <updated>2026-07-06T22:14:31Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +68,8 @@
     <id>https://pokemongolive.com/news/road-of-legends-2026</id>
     <title>⚡ The Road of Legends leads the way to Pokémon GO Fest 2026: Global!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/road-of-legends-2026"/>
-    <published>2026-07-06T16:52:04Z</published>
-    <updated>2026-07-06T16:52:04Z</updated>
+    <published>2026-07-06T22:14:31Z</published>
+    <updated>2026-07-06T22:14:31Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +79,8 @@
     <id>https://pokemongolive.com/news/pvp-updates-competitors-cup-2026</id>
     <title>⚡ Pokémon GO Trainer Battle Update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pvp-updates-competitors-cup-2026"/>
-    <published>2026-07-06T16:52:04Z</published>
-    <updated>2026-07-06T16:52:04Z</updated>
+    <published>2026-07-06T22:14:31Z</published>
+    <updated>2026-07-06T22:14:31Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +90,8 @@
     <id>https://pokemongolive.com/news/special-anniversary-pikachu-celebration</id>
     <title>⚡ Keep the festivities going with the Special Anniversary Pikachu Celebration event!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/special-anniversary-pikachu-celebration"/>
-    <published>2026-07-06T16:52:04Z</published>
-    <updated>2026-07-06T16:52:04Z</updated>
+    <published>2026-07-06T22:14:31Z</published>
+    <updated>2026-07-06T22:14:31Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +101,8 @@
     <id>https://pokemongolive.com/news/happy-birthday-professor-willow-2026</id>
     <title>⚡ Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/happy-birthday-professor-willow-2026"/>
-    <published>2026-07-06T16:52:04Z</published>
-    <updated>2026-07-06T16:52:04Z</updated>
+    <published>2026-07-06T22:14:31Z</published>
+    <updated>2026-07-06T22:14:31Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +112,8 @@
     <id>https://pokemongolive.com/news/ozone-ascent-2026</id>
     <title>⚡ Complete Timed Research to encounter Rayquaza and more!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/ozone-ascent-2026"/>
-    <published>2026-07-06T16:52:04Z</published>
-    <updated>2026-07-06T16:52:04Z</updated>
+    <published>2026-07-06T22:14:31Z</published>
+    <updated>2026-07-06T22:14:31Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +123,8 @@
     <id>https://pokemongolive.com/news/go-pass-july-2026</id>
     <title>⚡ Ho-Oh, Gimmighoul holding a 10th anniversary coin, and more await in GO Pass: July!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-july-2026"/>
-    <published>2026-07-06T16:52:04Z</published>
-    <updated>2026-07-06T16:52:04Z</updated>
+    <published>2026-07-06T22:14:31Z</published>
+    <updated>2026-07-06T22:14:31Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +134,8 @@
     <id>https://pokemongolive.com/news/event-calendar-2026</id>
     <title>⚡ The new event calendar takes your Pokémon GO adventures to the next level!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-calendar-2026"/>
-    <published>2026-07-06T16:52:04Z</published>
-    <updated>2026-07-06T16:52:04Z</updated>
+    <published>2026-07-06T22:14:31Z</published>
+    <updated>2026-07-06T22:14:31Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +145,81 @@
     <id>https://pokemongolive.com/news/scopely-explore-2026</id>
     <title>⚡ Introducing Scopely Explore</title>
     <link rel="alternate" href="https://pokemongolive.com/news/scopely-explore-2026"/>
-    <published>2026-07-06T16:52:04Z</published>
-    <updated>2026-07-06T16:52:04Z</updated>
+    <published>2026-07-06T22:14:31Z</published>
+    <updated>2026-07-06T22:14:31Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/go-fest-2026-global-final-details</id>
+    <title>⚡ Pokémon GO Fest 2026: Global final details!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-fest-2026-global-final-details"/>
+    <published>2026-07-06T22:14:31Z</published>
+    <updated>2026-07-06T22:14:31Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
+    <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
+    <published>2026-07-06T22:14:31Z</published>
+    <updated>2026-07-06T22:14:31Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale</id>
+    <title>🤖 Hoto&amp;#8217;s PixelDrive screwdriver is down to $60, matching its best price</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale"/>
+    <published>2026-07-06T20:24:28Z</published>
+    <updated>2026-07-06T20:24:28Z</updated>
+    <summary type="text">If your Prime Day purchases included a new desk, TV stand, bookshelf, or other furniture you still haven’t assembled, Hoto’s PixelDrive cordless screwdriver can help speed up the process. It’s currently on sale for $59.99 ($20 off) at Amazon, matching its best price to date.  From tightening loose s</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706</id>
+    <title>🤖 Toward a future that preserves benefits of neurotechnology for all</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706"/>
+    <published>2026-07-06T19:50:00Z</published>
+    <updated>2026-07-06T19:50:00Z</updated>
+    <summary type="text">PhD student Rachel Sava, winner of the Envisioning the Future of Computing Prize, explores transformative improvements and dystopian risks of neural technology.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/policy/961802/america-250-free-speech</id>
+    <title>🤖 America’s greatest idea is still under threat</title>
+    <link rel="alternate" href="https://www.theverge.com/policy/961802/america-250-free-speech"/>
+    <published>2026-07-06T18:36:33Z</published>
+    <updated>2026-07-06T18:36:33Z</updated>
+    <summary type="text">The United States of America recently turned 250 years old. What a spectacle! The fireworks were amazing, and millions of proud people celebrated across the nation - even around the world. France lit up the Eiffel Tower; Japan had fireworks. French fighter jets flew above New York City with trails o</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview</id>
+    <title>🤖 Five questions for Dr. Rubin, who’s armed with a mic and a bowtie</title>
+    <link rel="alternate" href="https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview"/>
+    <published>2026-07-06T17:15:29Z</published>
+    <updated>2026-07-06T17:15:29Z</updated>
+    <summary type="text">Bullshit is cheap but truth is expensive. Anyone with half a brain cell can post wild misinformation that goes mega viral, which wastes the time and expertise of highly trained people who feel an obligation to inform others of the truth. Today I want you to meet one of those highly-trained people, D</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -187,18 +235,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uoze0p/psa_remote_raids_on_ios_26_reliably_crash_before/</id>
-    <title>⚡ PSA: Remote Raids on iOS 26 reliably crash before the encounter</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uoze0p/psa_remote_raids_on_ios_26_reliably_crash_before/"/>
-    <published>2026-07-06T14:44:32Z</published>
-    <updated>2026-07-06T14:44:32Z</updated>
-    <summary type="text">Remote Raids on iOS 26 reliably crash the moment the Raid Boss is defeated, even if both your iPhone &amp; the game has been restarted right before the Raid. Downloading all assets doesn't help either. This has been happening since Sobble CD on app version 0.417.2 ~80% of Raids (both remote &amp; in-person)</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing</id>
     <title>🤖 Inside the big business of the creator economy, with the agents making it happen</title>
     <link rel="alternate" href="https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing"/>
@@ -208,114 +244,6 @@
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uoyy2u/pikachu_visor_kanto_starters_available_in_wild/</id>
-    <title>⚡ Pikachu Visor Kanto Starters Available in Wild after 10th Anniversary Party Event</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uoyy2u/pikachu_visor_kanto_starters_available_in_wild/"/>
-    <published>2026-07-06T14:28:20Z</published>
-    <updated>2026-07-06T14:28:20Z</updated>
-    <summary type="text">After 8PM the 10th Anniversary Event has concluded and after that Kanto Starters in wild wears a Pikachu visor hat. Its still unsure on what the shiny rate is but they are generally rare spawns in wild and I am just lucky to have my first one shiny submitted by /u/LowAdhesiveness4708 [link] [comment</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uowyca/introducing_scopely_explore/</id>
-    <title>⚡ Introducing Scopely Explore</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uowyca/introducing_scopely_explore/"/>
-    <published>2026-07-06T13:11:26Z</published>
-    <updated>2026-07-06T13:11:26Z</updated>
-    <summary type="text">submitted by /u/911riley1 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uowiw1/the_road_of_legends_tuesdayfrom_500_am_to_around/</id>
-    <title>⚡ The Road of Legends (Tuesday)｜From 5:00 a.m. to around 9:30 p.m. on Tuesday, July 7, 2026 (Local Time)</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uowiw1/the_road_of_legends_tuesdayfrom_500_am_to_around/"/>
-    <published>2026-07-06T12:53:58Z</published>
-    <updated>2026-07-06T12:53:58Z</updated>
-    <summary type="text">The Road of Legends (Tuesday) From 5:00 a.m. to around 9:30 p.m. on Tuesday, July 7, 2026 (Local Time) ・ TIER 5: Zekrom,White Kyurem,Dawn Wings Necrozma ・ TIER 4: Mega Tyranitar ・ 6:00 p.m. – 7:00 p.m.: Five-Star Raid Hour ・ 7:00 p.m. – 8:00 p.m.: Mega Raid Hour submitted by /u/GO_FRIEND_APP [link] </summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uou3rh/new_promo_code_for_the_webstore_gofest2026/</id>
-    <title>⚡ New Promo Code for the Webstore GOFEST2026</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uou3rh/new_promo_code_for_the_webstore_gofest2026/"/>
-    <published>2026-07-06T11:02:17Z</published>
-    <updated>2026-07-06T11:02:17Z</updated>
-    <summary type="text">It works for all the Boxes submitted by /u/Cecross [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uon5c2/storage_expanded_by_1000_slots/</id>
-    <title>⚡ Storage expanded by 1,000 slots !!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uon5c2/storage_expanded_by_1000_slots/"/>
-    <published>2026-07-06T04:27:56Z</published>
-    <updated>2026-07-06T04:27:56Z</updated>
-    <summary type="text">submitted by /u/UntestedTitan [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uohopb/to_celebrate_pokémon_go_fest_2026_global_were/</id>
-    <title>⚡ To celebrate Pokémon GO Fest 2026: Global, we’re giving Trainers the chance to earn codes for Link Charges + Poké Balls!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uohopb/to_celebrate_pokémon_go_fest_2026_global_were/"/>
-    <published>2026-07-06T00:02:27Z</published>
-    <updated>2026-07-06T00:02:27Z</updated>
-    <summary type="text">Unlock the following rewards by RSVP’ing and checking in to local meetups for this upcoming Pokémon GO Fest Global: 🗓️ 750K RSVPs ⏱️ July 7 @ Midnight to July 11 @ 10 a.m. local time ⭐ 100 Link Charges + 15 Poké Balls ☑️ 750K Check-Ins ⏱️July 11 @ 6 a.m. to July 12 @ 8 p.m. local time ⭐ 100 Link Cha</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep</id>
-    <title>🤖 Some of the nation’s rich are letting AI teach their kids</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep"/>
-    <published>2026-07-05T22:30:54Z</published>
-    <updated>2026-07-05T22:30:54Z</updated>
-    <summary type="text">Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep </summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uodbv4/special_rendroar_of_time_can_now_be_elite_tmd/</id>
-    <title>⚡ Special Rend/Roar Of Time can now be Elite TM’d</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uodbv4/special_rendroar_of_time_can_now_be_elite_tmd/"/>
-    <published>2026-07-05T20:58:51Z</published>
-    <updated>2026-07-05T20:58:51Z</updated>
-    <summary type="text">Just relaunch the game to see the change. Edit I’m in Australia submitted by /u/blake41189 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uo0gd8/road_of_legends_megathread/</id>
-    <title>⚡ Road of Legends Megathread</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uo0gd8/road_of_legends_megathread/"/>
-    <published>2026-07-05T12:02:02Z</published>
-    <updated>2026-07-05T12:02:02Z</updated>
-    <summary type="text">Date/Time Monday, 6th July, 12:01am - Friday, 10th July, 11:59pm Bonuses Chance to catch Pokémon with Adventure Effect attacks in raids - Kyurem (Glaciate), Origin Palkia (Spacial Rend), Origin Dialga (Roar of Time) Up to 2 free Raid Passes from spinning Gyms Daily Raid Hour from 6-7pm. Monday's Rai</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -340,18 +268,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ujokln/questions_answers_weekly_megathread_please_use/</id>
-    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ujokln/questions_answers_weekly_megathread_please_use/"/>
-    <published>2026-06-30T13:00:12Z</published>
-    <updated>2026-06-30T13:00:12Z</updated>
-    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -479,18 +395,6 @@
     <published>2026-06-25T16:00:00Z</published>
     <updated>2026-06-25T16:00:00Z</updated>
     <summary type="text">“Scientific American” showcases the history and future of America’s scientific engine, highlighting promising young scientists and icons at MIT and beyond.</summary>
-    <category term="ai"/>
-    <author>
-      <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625</id>
-    <title>🤖 Improving the speed and energy-efficiency of AI agents</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625"/>
-    <published>2026-06-25T04:00:00Z</published>
-    <updated>2026-06-25T04:00:00Z</updated>
-    <summary type="text">A new system, known as Murakkab, optimizes the design and deployment of multistep workflows that power AI applications.</summary>
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
