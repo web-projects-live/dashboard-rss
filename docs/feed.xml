@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-07-06T22:14:32Z</updated>
+  <updated>2026-07-07T13:13:58Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/raichu-super-mega-raid-day-2026</id>
-    <title>⚡ Sparks fly for Raichu Super Mega Raid Day!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/raichu-super-mega-raid-day-2026"/>
-    <published>2026-07-06T22:14:31Z</published>
-    <updated>2026-07-06T22:14:31Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/save-the-date-apac-30th-anniversary-2026</id>
     <title>⚡ Save the Date: Pokémon 30th Anniversary Celebration — PokéXciting!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-apac-30th-anniversary-2026"/>
-    <published>2026-07-06T22:14:31Z</published>
-    <updated>2026-07-06T22:14:31Z</updated>
+    <published>2026-07-07T13:13:57Z</published>
+    <updated>2026-07-07T13:13:57Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/communityday-july-2026-sobble</id>
     <title>⚡ July 2026 Community Day: Sobble</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communityday-july-2026-sobble"/>
-    <published>2026-07-06T22:14:31Z</published>
-    <updated>2026-07-06T22:14:31Z</updated>
+    <published>2026-07-07T13:13:57Z</published>
+    <updated>2026-07-07T13:13:57Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en</id>
     <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in North America, Europe, and Oceania!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en"/>
-    <published>2026-07-06T22:14:31Z</published>
-    <updated>2026-07-06T22:14:31Z</updated>
+    <published>2026-07-07T13:13:57Z</published>
+    <updated>2026-07-07T13:13:57Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific</id>
     <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in the Asia-Pacific region!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific"/>
-    <published>2026-07-06T22:14:31Z</published>
-    <updated>2026-07-06T22:14:31Z</updated>
+    <published>2026-07-07T13:13:57Z</published>
+    <updated>2026-07-07T13:13:57Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/road-of-legends-2026</id>
     <title>⚡ The Road of Legends leads the way to Pokémon GO Fest 2026: Global!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/road-of-legends-2026"/>
-    <published>2026-07-06T22:14:31Z</published>
-    <updated>2026-07-06T22:14:31Z</updated>
+    <published>2026-07-07T13:13:57Z</published>
+    <updated>2026-07-07T13:13:57Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/pvp-updates-competitors-cup-2026</id>
     <title>⚡ Pokémon GO Trainer Battle Update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pvp-updates-competitors-cup-2026"/>
-    <published>2026-07-06T22:14:31Z</published>
-    <updated>2026-07-06T22:14:31Z</updated>
+    <published>2026-07-07T13:13:57Z</published>
+    <updated>2026-07-07T13:13:57Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/special-anniversary-pikachu-celebration</id>
     <title>⚡ Keep the festivities going with the Special Anniversary Pikachu Celebration event!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/special-anniversary-pikachu-celebration"/>
-    <published>2026-07-06T22:14:31Z</published>
-    <updated>2026-07-06T22:14:31Z</updated>
+    <published>2026-07-07T13:13:57Z</published>
+    <updated>2026-07-07T13:13:57Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/happy-birthday-professor-willow-2026</id>
     <title>⚡ Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/happy-birthday-professor-willow-2026"/>
-    <published>2026-07-06T22:14:31Z</published>
-    <updated>2026-07-06T22:14:31Z</updated>
+    <published>2026-07-07T13:13:57Z</published>
+    <updated>2026-07-07T13:13:57Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/ozone-ascent-2026</id>
     <title>⚡ Complete Timed Research to encounter Rayquaza and more!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/ozone-ascent-2026"/>
-    <published>2026-07-06T22:14:31Z</published>
-    <updated>2026-07-06T22:14:31Z</updated>
+    <published>2026-07-07T13:13:57Z</published>
+    <updated>2026-07-07T13:13:57Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/go-pass-july-2026</id>
     <title>⚡ Ho-Oh, Gimmighoul holding a 10th anniversary coin, and more await in GO Pass: July!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-july-2026"/>
-    <published>2026-07-06T22:14:31Z</published>
-    <updated>2026-07-06T22:14:31Z</updated>
+    <published>2026-07-07T13:13:57Z</published>
+    <updated>2026-07-07T13:13:57Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/event-calendar-2026</id>
     <title>⚡ The new event calendar takes your Pokémon GO adventures to the next level!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-calendar-2026"/>
-    <published>2026-07-06T22:14:31Z</published>
-    <updated>2026-07-06T22:14:31Z</updated>
+    <published>2026-07-07T13:13:57Z</published>
+    <updated>2026-07-07T13:13:57Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/scopely-explore-2026</id>
     <title>⚡ Introducing Scopely Explore</title>
     <link rel="alternate" href="https://pokemongolive.com/news/scopely-explore-2026"/>
-    <published>2026-07-06T22:14:31Z</published>
-    <updated>2026-07-06T22:14:31Z</updated>
+    <published>2026-07-07T13:13:57Z</published>
+    <updated>2026-07-07T13:13:57Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/go-fest-2026-global-final-details</id>
     <title>⚡ Pokémon GO Fest 2026: Global final details!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-fest-2026-global-final-details"/>
-    <published>2026-07-06T22:14:31Z</published>
-    <updated>2026-07-06T22:14:31Z</updated>
+    <published>2026-07-07T13:13:57Z</published>
+    <updated>2026-07-07T13:13:57Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +156,82 @@
     <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
     <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
-    <published>2026-07-06T22:14:31Z</published>
-    <updated>2026-07-06T22:14:31Z</updated>
+    <published>2026-07-07T13:13:57Z</published>
+    <updated>2026-07-07T13:13:57Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/2026_ana_red</id>
+    <title>⚡ Celebrate the launch of the Red Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_red"/>
+    <published>2026-07-07T13:13:57Z</published>
+    <updated>2026-07-07T13:13:57Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy</id>
+    <title>🤖 Solos debuts an even lighter version of its camera-less smart glasses</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy"/>
+    <published>2026-07-07T13:00:00Z</published>
+    <updated>2026-07-07T13:00:00Z</updated>
+    <summary type="text">Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savi</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/962055/ifixit-megalodon-tool-kit-household-appliance-repairs</id>
+    <title>🤖 iFixit has a new toolkit for fixing appliances, building furniture, and household repairs</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/962055/ifixit-megalodon-tool-kit-household-appliance-repairs"/>
+    <published>2026-07-07T12:58:50Z</published>
+    <updated>2026-07-07T12:58:50Z</updated>
+    <summary type="text">iFixit is best known for its detailed gadget teardowns and toolkits designed to help you crack open and troubleshoot your own electronics. Today it announced a new toolkit that's instead tailored to household repairs or DIY projects like fixing appliances or assembling flat-packed furniture. iFixit </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/961601/marshall-acton-stanmore-iv-bluetooth-wireless-speakers-repair</id>
+    <title>🤖 Marshall upgrades the bass and repairability of two wireless speakers</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/961601/marshall-acton-stanmore-iv-bluetooth-wireless-speakers-repair"/>
+    <published>2026-07-07T12:00:00Z</published>
+    <updated>2026-07-07T12:00:00Z</updated>
+    <summary type="text">Marshall announced new versions of its Acton and Stanmore Bluetooth speakers today with upgraded tweeters, bass ports, and internal designs that improve their ability to fill a room with sound. Both the Acton IV and Stanmore IV replace their four-year-old predecessors with a new focus on repairabili</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/entertainment/961924/xbox-billion-users</id>
+    <title>🤖 Xbox’s bold plan for the future sounds nearly impossible</title>
+    <link rel="alternate" href="https://www.theverge.com/entertainment/961924/xbox-billion-users"/>
+    <published>2026-07-07T12:00:00Z</published>
+    <updated>2026-07-07T12:00:00Z</updated>
+    <summary type="text">It's another bad week for the video game industry. Microsoft outlined a series of layoffs on Monday that Xbox CEO Asha Sharma described as &quot;the most significant restructure in Xbox history.&quot; But buried in Sharma's memo was a curiously optimistic statement: &quot;I want Xbox to be one of the few companies</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/961845/nothing-ear-3a-wireless-earbuds-call-recording-price-availability</id>
+    <title>🤖 Nothing’s new earbuds can record calls and what you’re listening to</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/961845/nothing-ear-3a-wireless-earbuds-call-recording-price-availability"/>
+    <published>2026-07-07T10:30:00Z</published>
+    <updated>2026-07-07T10:30:00Z</updated>
+    <summary type="text">Nothing announced a new pair of budget-friendly wireless earbuds, but not as part of the company's affordability-focused sub-brand, CMF. The new Nothing Ear 3A are available starting today through the company's online store for $99, which is the same price as Nothing's original Ear (a). That's good </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -205,42 +265,6 @@
     <published>2026-07-06T18:36:33Z</published>
     <updated>2026-07-06T18:36:33Z</updated>
     <summary type="text">The United States of America recently turned 250 years old. What a spectacle! The fireworks were amazing, and millions of proud people celebrated across the nation - even around the world. France lit up the Eiffel Tower; Japan had fireworks. French fighter jets flew above New York City with trails o</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview</id>
-    <title>🤖 Five questions for Dr. Rubin, who’s armed with a mic and a bowtie</title>
-    <link rel="alternate" href="https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview"/>
-    <published>2026-07-06T17:15:29Z</published>
-    <updated>2026-07-06T17:15:29Z</updated>
-    <summary type="text">Bullshit is cheap but truth is expensive. Anyone with half a brain cell can post wild misinformation that goes mega viral, which wastes the time and expertise of highly trained people who feel an obligation to inform others of the truth. Today I want you to meet one of those highly-trained people, D</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale</id>
-    <title>🤖 The DJI Osmo Pocket 3 lookalike is down to $329</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale"/>
-    <published>2026-07-06T15:09:18Z</published>
-    <updated>2026-07-06T15:09:18Z</updated>
-    <summary type="text">Initially, I was going to tell you about a good deal happening on the DJI Osmo Pocket 3, which is down from the $500 it’s sold at most of the year to $378 at multiple retailers. But there’s a better deal happening on a nearly identical portable camera, the Xtra Muse, which is $329 (roughly […]</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing</id>
-    <title>🤖 Inside the big business of the creator economy, with the agents making it happen</title>
-    <link rel="alternate" href="https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing"/>
-    <published>2026-07-06T14:30:00Z</published>
-    <updated>2026-07-06T14:30:00Z</updated>
-    <summary type="text">We’ve got another special episode of Decoder today, recorded at the Cannes Lions advertising festival in the South of France. I’m talking with Ali Berman and Raina Penchansky, who run the Creators division at United Talent Agency. UTA is an enormous talent agency. Half the people you’ve ever heard s</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
@@ -283,11 +307,12 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/genebench-pro/case-studies</id>
-    <title>🤖 Inside Genebench-Pro</title>
-    <link rel="alternate" href="https://openai.com/index/genebench-pro/case-studies"/>
+    <id>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</id>
+    <title>🤖 Core dump epidemiology: fixing an 18-year-old bug</title>
+    <link rel="alternate" href="https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"/>
     <published>2026-06-30T00:00:00Z</published>
     <updated>2026-06-30T00:00:00Z</updated>
+    <summary type="text">OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
@@ -306,12 +331,11 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</id>
-    <title>🤖 Core dump epidemiology: fixing an 18-year-old bug</title>
-    <link rel="alternate" href="https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"/>
+    <id>https://openai.com/index/genebench-pro/case-studies</id>
+    <title>🤖 Inside Genebench-Pro</title>
+    <link rel="alternate" href="https://openai.com/index/genebench-pro/case-studies"/>
     <published>2026-06-30T00:00:00Z</published>
     <updated>2026-06-30T00:00:00Z</updated>
-    <summary type="text">OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
