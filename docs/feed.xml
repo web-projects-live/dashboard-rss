@@ -2,13 +2,310 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-07-09T13:44:43Z</updated>
+  <updated>2026-07-09T16:27:38Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
     <name>ha-news-feed-bot</name>
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
+  <entry>
+    <id>https://pokemongolive.com/news/communityday-july-2026-sobble</id>
+    <title>⚡ July 2026 Community Day: Sobble</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/communityday-july-2026-sobble"/>
+    <published>2026-07-09T16:27:35Z</published>
+    <updated>2026-07-09T16:27:35Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en</id>
+    <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in North America, Europe, and Oceania!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en"/>
+    <published>2026-07-09T16:27:35Z</published>
+    <updated>2026-07-09T16:27:35Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific</id>
+    <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in the Asia-Pacific region!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific"/>
+    <published>2026-07-09T16:27:35Z</published>
+    <updated>2026-07-09T16:27:35Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/road-of-legends-2026</id>
+    <title>⚡ The Road of Legends leads the way to Pokémon GO Fest 2026: Global!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/road-of-legends-2026"/>
+    <published>2026-07-09T16:27:35Z</published>
+    <updated>2026-07-09T16:27:35Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/pvp-updates-competitors-cup-2026</id>
+    <title>⚡ Pokémon GO Trainer Battle Update</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pvp-updates-competitors-cup-2026"/>
+    <published>2026-07-09T16:27:35Z</published>
+    <updated>2026-07-09T16:27:35Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/special-anniversary-pikachu-celebration</id>
+    <title>⚡ Keep the festivities going with the Special Anniversary Pikachu Celebration event!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/special-anniversary-pikachu-celebration"/>
+    <published>2026-07-09T16:27:35Z</published>
+    <updated>2026-07-09T16:27:35Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/happy-birthday-professor-willow-2026</id>
+    <title>⚡ Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/happy-birthday-professor-willow-2026"/>
+    <published>2026-07-09T16:27:35Z</published>
+    <updated>2026-07-09T16:27:35Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/ozone-ascent-2026</id>
+    <title>⚡ Complete Timed Research to encounter Rayquaza and more!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/ozone-ascent-2026"/>
+    <published>2026-07-09T16:27:35Z</published>
+    <updated>2026-07-09T16:27:35Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/go-pass-july-2026</id>
+    <title>⚡ Ho-Oh, Gimmighoul holding a 10th anniversary coin, and more await in GO Pass: July!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-pass-july-2026"/>
+    <published>2026-07-09T16:27:35Z</published>
+    <updated>2026-07-09T16:27:35Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/event-calendar-2026</id>
+    <title>⚡ The new event calendar takes your Pokémon GO adventures to the next level!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/event-calendar-2026"/>
+    <published>2026-07-09T16:27:35Z</published>
+    <updated>2026-07-09T16:27:35Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/scopely-explore-2026</id>
+    <title>⚡ Introducing Scopely Explore</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/scopely-explore-2026"/>
+    <published>2026-07-09T16:27:35Z</published>
+    <updated>2026-07-09T16:27:35Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/go-fest-2026-global-final-details</id>
+    <title>⚡ Pokémon GO Fest 2026: Global final details!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-fest-2026-global-final-details"/>
+    <published>2026-07-09T16:27:35Z</published>
+    <updated>2026-07-09T16:27:35Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
+    <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
+    <published>2026-07-09T16:27:35Z</published>
+    <updated>2026-07-09T16:27:35Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/2026_ana_red</id>
+    <title>⚡ Celebrate the launch of the Red Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_red"/>
+    <published>2026-07-09T16:27:35Z</published>
+    <updated>2026-07-09T16:27:35Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/communityday-august-2026-nickit</id>
+    <title>⚡ August 2026 Community Day: Nickit</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/communityday-august-2026-nickit"/>
+    <published>2026-07-09T16:27:35Z</published>
+    <updated>2026-07-09T16:27:35Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1urutv0/take_advantage_of_go_fest_to_evolve_pokemon_with/</id>
+    <title>⚡ Take advantage of GO Fest to evolve Pokemon with special condition</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1urutv0/take_advantage_of_go_fest_to_evolve_pokemon_with/"/>
+    <published>2026-07-09T16:12:58Z</published>
+    <updated>2026-07-09T16:12:58Z</updated>
+    <summary type="text">With the Pokemon GO Fest 2026 is just one day away, I thought I'd share a PSA on taking advantage of the event to evolve certain Pokemon which require special conditions. Not much planning required but I thought it'd be good to include in your to-do list, especially if you're looking to fill in the </summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1urusrx/pokémon_go_10_year_anniversary_celebration/</id>
+    <title>⚡ Pokémon Go 10 Year Anniversary Celebration Livestream - Begins 6.15pm ET / 3.15pm PT / 11.15pm UK</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1urusrx/pokémon_go_10_year_anniversary_celebration/"/>
+    <published>2026-07-09T16:11:57Z</published>
+    <updated>2026-07-09T16:11:57Z</updated>
+    <summary type="text">submitted by /u/diamondstark [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709</id>
+    <title>🤖 Tiny robot boats build floating structures</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709"/>
+    <published>2026-07-09T15:50:00Z</published>
+    <updated>2026-07-09T15:50:00Z</updated>
+    <summary type="text">MIT researchers developed FloatForm, a swarm of small aquatic robots that snap together like ants forming a raft, assembling into reconfigurable structures on the water.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock</id>
+    <title>🤖 Schlage’s Sense Pro unlocks the door so I don’t have to</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock"/>
+    <published>2026-07-09T15:45:46Z</published>
+    <updated>2026-07-09T15:45:46Z</updated>
+    <summary type="text">The Schlage Sense Pro is a beautiful smart lock. Sleek, discreet, and simple to use, it's Schlage's smartest lock to date. Thanks to ultra-wideband (UWB), it unlocks as I walk up to my front door; I don't need to enter a code or tap my phone or press my finger against it. I've tested several […]</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ursiml/fake_scatterbug_shiny/</id>
+    <title>⚡ Fake Scatterbug shiny</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ursiml/fake_scatterbug_shiny/"/>
+    <published>2026-07-09T14:50:58Z</published>
+    <updated>2026-07-09T14:50:58Z</updated>
+    <summary type="text">Hey all, got a bizarre bug this morning that I wanted to share here. After pinning my postcards I got a shiny Scatterbug encounter (my first one!), but as soon as I caught it, it no longer appeared as shiny on the summary screen. On top of that, my pokedex still shows the shiny entry as grayed out, </summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale</id>
+    <title>🤖 Sonos Ace wireless headphones are steeply discounted</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale"/>
+    <published>2026-07-09T14:30:00Z</published>
+    <updated>2026-07-09T14:30:00Z</updated>
+    <summary type="text">If you’re looking for a discount on a great pair of active noise-canceling headphones for your summer adventures (even if they’re indoors), you’re in luck. The Sonos Ace headphones in black are currently on sale for $279 (usually $399) at a variety of retailers, including Amazon, Best Buy, Walmart, </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1urrweo/the_road_of_legends_fridayfrom_500_am_to_around/</id>
+    <title>⚡ The Road of Legends (Friday)｜From 5:00 a.m. to around 9:00 p.m. on Friday, July 10, 2026 (Local Time)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1urrweo/the_road_of_legends_fridayfrom_500_am_to_around/"/>
+    <published>2026-07-09T14:28:19Z</published>
+    <updated>2026-07-09T14:28:19Z</updated>
+    <summary type="text">The Road of Legends (Friday) From 5:00 a.m. to around 9:00 p.m. on Friday, July 10, 2026 (Local Time) ・ TIER 6: Primal Kyogre,Primal Groudon ・ TIER 5: Origin Forme Dialga,Origin Forme Palkia ・ 6:00 p.m. – 7:00 p.m.: Five-Star Raid Hour ・ 7:00 p.m. – 8:00 p.m.: Primal Raid Hour --- 【Good to Know】 * K</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1urrgud/will_anybody_be_raiding_nonmewtwo_raids_this/</id>
+    <title>⚡ Will anybody be raiding non-Mewtwo raids this weekend?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1urrgud/will_anybody_be_raiding_nonmewtwo_raids_this/"/>
+    <published>2026-07-09T14:12:41Z</published>
+    <updated>2026-07-09T14:12:41Z</updated>
+    <summary type="text">Just curious if there is anything worth raiding this weekend. We get 8 free passes a day so that feels enough for me to get a good Mewtwo each day. Could do more and a shiny would be nice but I can't see myself spending like the 16 free passes +30 premiums on Mewtwo. I have like 30 passes saved up f</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/962439/sony-rx10v-superzoom-camera-price-specs-hands-on</id>
+    <title>🤖 Sony brings back the superzoom RX10 with a stacked sensor and a high price</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/962439/sony-rx10v-superzoom-camera-price-specs-hands-on"/>
+    <published>2026-07-09T14:00:00Z</published>
+    <updated>2026-07-09T14:00:00Z</updated>
+    <summary type="text">Sony is bringing back the RX10 superzoom camera after a nearly nine-year gap between models. The newly announced RX10 V retains the same 24-600mm equivalent f/2.4-4 Zeiss Vario-Sonnar 25x zoom lens of its last two predecessors, but it has lots of upgrades elsewhere. The new 20.1-megapixel 1-inch-typ</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/podcast/962994/comcast-nbc-universal-split-versant-content-plus-pipes-media-broadband</id>
+    <title>🤖 Comcast is breaking up with NBCU. Why did it ever buy it in the first place?</title>
+    <link rel="alternate" href="https://www.theverge.com/podcast/962994/comcast-nbc-universal-split-versant-content-plus-pipes-media-broadband"/>
+    <published>2026-07-09T14:00:00Z</published>
+    <updated>2026-07-09T14:00:00Z</updated>
+    <summary type="text">Today on Decoder, I’m talking with Peter Kafka, who is chief correspondent at Business Insider and host of Channels, a podcast about the media industry. And it’s a big week for the media industry — Comcast just announced that it’s splitting itself up, into the Comcast broadband company and the NBCUn</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api</id>
+    <title>🤖 Meta says its new AI model is ready to compete on coding</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api"/>
+    <published>2026-07-09T14:00:00Z</published>
+    <updated>2026-07-09T14:00:00Z</updated>
+    <summary type="text">After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a &quot;step-change&quot; from the first generation, with improvem</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
   <entry>
     <id>https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage</id>
     <title>🤖 Say hello to Claude Wrapped</title>
@@ -70,96 +367,12 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ure4tw/thoughts_on_go_fest_global_spawns_being_another/</id>
-    <title>⚡ Thoughts on go fest global spawns being another all out event?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ure4tw/thoughts_on_go_fest_global_spawns_being_another/"/>
-    <published>2026-07-09T03:04:36Z</published>
-    <updated>2026-07-09T03:04:36Z</updated>
-    <summary type="text">The announcement says it will be “ the most diverse variety of Pokémon species ever observed in the wild” This means the variety of the spawns will be at least similar to the all out event minus the legendaries. Since it doesn’t mention anything about egg locked or raid exclusive moms, we could even</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.reddit.com/r/TheSilphRoad/comments/1urbuuo/set_bisharp_as_your_buddy_when_doing_crowned/</id>
     <title>⚡ Set Bisharp as your buddy when doing crowned Zacian/Zamazenta raids today</title>
     <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1urbuuo/set_bisharp_as_your_buddy_when_doing_crowned/"/>
     <published>2026-07-09T01:19:18Z</published>
     <updated>2026-07-09T01:19:18Z</updated>
     <summary type="text">Since you need to defeat 15 Dark- or Steel- type raid boss to evolve Bisharp into Kingambit, remember to buddy the ones you still need to meet the evolution requirement today. Both crowned Zacian/Zamazenta are steel type raid boss. submitted by /u/No-Tip4769 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1urba6k/has_this_always_been_a_feature/</id>
-    <title>⚡ Has this always been a feature?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1urba6k/has_this_always_been_a_feature/"/>
-    <published>2026-07-09T00:53:10Z</published>
-    <updated>2026-07-09T00:53:10Z</updated>
-    <summary type="text">remote trade tag &gt; add pokemon &gt; long press pokemon. submitted by /u/ArtichokeHot5821 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ur8hjf/quick_results_for_ice_burn_stardust_harvesting_on/</id>
-    <title>⚡ Quick results for Ice burn stardust harvesting on bike test</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ur8hjf/quick_results_for_ice_burn_stardust_harvesting_on/"/>
-    <published>2026-07-08T22:54:37Z</published>
-    <updated>2026-07-08T22:54:37Z</updated>
-    <summary type="text">Heya all, A lot was discussed when i asked a few days ago if using Ice burn for stardust harvesting was efficient or not. I performed this test twice and now have the results. Some basic info on how I performed the test: - Ride on bike, between 18-20 km/h so that there are always spawns in range, go</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai</id>
-    <title>🤖 Meta is reportedly working on smart glasses that would be recording all the time</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai"/>
-    <published>2026-07-08T22:37:25Z</published>
-    <updated>2026-07-08T22:37:25Z</updated>
-    <summary type="text">Meta might be the next company to make an always-on AI wearable. The company is working on prototype &quot;super sensing&quot; always-aware smart glasses that could continuously record audio and snap photos &quot;every few seconds,&quot; according to the Financial Times. The wearer could then ask Meta AI about the capt</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ur659t/cramorant_water_festival/</id>
-    <title>⚡ Cramorant water festival</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ur659t/cramorant_water_festival/"/>
-    <published>2026-07-08T21:23:35Z</published>
-    <updated>2026-07-08T21:23:35Z</updated>
-    <summary type="text">submitted by /u/Annual-Landscape8723 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs</id>
-    <title>🤖 Microsoft&amp;#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed</title>
-    <link rel="alternate" href="https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs"/>
-    <published>2026-07-08T18:50:27Z</published>
-    <updated>2026-07-08T18:50:27Z</updated>
-    <summary type="text">As part of Microsoft's big Xbox &quot;reset,&quot; which includes layoffs affecting 3,200 staffers, jettisoning studios, and shifting investments to focus on &quot;higher priority projects,&quot; Obsidian Entertainment is changing its plans. The studio, behind games like Grounded and The Outer Worlds, is starting work </summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uqyp0j/pokémon_go_fest_2026_global_niantic_infographic/</id>
-    <title>⚡ Pokémon GO Fest 2026: Global Niantic Infographic</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uqyp0j/pokémon_go_fest_2026_global_niantic_infographic/"/>
-    <published>2026-07-08T17:02:26Z</published>
-    <updated>2026-07-08T17:02:26Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
@@ -339,18 +552,6 @@
     <published>2026-06-29T18:00:00Z</published>
     <updated>2026-06-29T18:00:00Z</updated>
     <summary type="text">In a new Keller Gallery exhibition, Alexandros Haridis SM ’17, PhD ’22 traces centuries of ideas about aesthetic judgment and explores how design can make complex computational systems visible.</summary>
-    <category term="ai"/>
-    <author>
-      <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://news.mit.edu/2026/david-autor-named-head-department-economics-0626</id>
-    <title>🤖 David Autor named head of the Department of Economics</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/david-autor-named-head-department-economics-0626"/>
-    <published>2026-06-26T16:00:00Z</published>
-    <updated>2026-06-26T16:00:00Z</updated>
-    <summary type="text">A faculty member since 1999, Autor is a leading researcher in artificial intelligence and the work of the future.</summary>
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
