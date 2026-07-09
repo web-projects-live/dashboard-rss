@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-07-09T16:27:38Z</updated>
+  <updated>2026-07-09T22:23:18Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,168 +10,99 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/communityday-july-2026-sobble</id>
-    <title>⚡ July 2026 Community Day: Sobble</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/communityday-july-2026-sobble"/>
-    <published>2026-07-09T16:27:35Z</published>
-    <updated>2026-07-09T16:27:35Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1us3imz/location_background_was_added_for_the_unity_raids/</id>
+    <title>⚡ Location Background was added for the Unity Raids ! ( Local in New York )</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1us3imz/location_background_was_added_for_the_unity_raids/"/>
+    <published>2026-07-09T21:23:06Z</published>
+    <updated>2026-07-09T21:23:06Z</updated>
+    <summary type="text">⚠️This information has been found within the game and may change later. 📌 A Location Background has been discovered for the 10th Anniversary event in New York, which is expected to take place on Thursday, July 9, possibly at 5 pm ( New York time ) 📌 Apparently, it would be for Unity Raids featuring </summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en</id>
-    <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in North America, Europe, and Oceania!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en"/>
-    <published>2026-07-09T16:27:35Z</published>
-    <updated>2026-07-09T16:27:35Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset</id>
+    <title>🤖 The ChatGPT browser is already dead</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset"/>
+    <published>2026-07-09T20:34:05Z</published>
+    <updated>2026-07-09T20:34:05Z</updated>
+    <summary type="text">OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be &quot;sunsetting&quot; Atlas and is target</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific</id>
-    <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in the Asia-Pacific region!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific"/>
-    <published>2026-07-09T16:27:35Z</published>
-    <updated>2026-07-09T16:27:35Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/gadgets/963537/anker-soundcore-boom-2-bluetooth-speaker-deal-sale</id>
+    <title>🤖 The floatable, powerful Soundcore Boom 2 speaker is over half off</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/963537/anker-soundcore-boom-2-bluetooth-speaker-deal-sale"/>
+    <published>2026-07-09T20:32:18Z</published>
+    <updated>2026-07-09T20:32:18Z</updated>
+    <summary type="text">Bluetooth speakers with big sound and great features are hard to find for under $100, with most offerings being some variation of the same basic (and often small) design. Thankfully, through July 10th Woot has the Anker Soundcore Boom 2 on sale for $69.99, which is $20 cheaper than the discounted pr</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/road-of-legends-2026</id>
-    <title>⚡ The Road of Legends leads the way to Pokémon GO Fest 2026: Global!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/road-of-legends-2026"/>
-    <published>2026-07-09T16:27:35Z</published>
-    <updated>2026-07-09T16:27:35Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1us256a/pokémon_go_10th_anniversary_celebration_nyc_event/</id>
+    <title>⚡ Pokémon GO 10th Anniversary Celebration NYC Event: Live Updates 🔴</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1us256a/pokémon_go_10th_anniversary_celebration_nyc_event/"/>
+    <published>2026-07-09T20:31:53Z</published>
+    <updated>2026-07-09T20:31:53Z</updated>
+    <summary type="text">submitted by /u/zeroghan_hub [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/pvp-updates-competitors-cup-2026</id>
-    <title>⚡ Pokémon GO Trainer Battle Update</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/pvp-updates-competitors-cup-2026"/>
-    <published>2026-07-09T16:27:35Z</published>
-    <updated>2026-07-09T16:27:35Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label</id>
+    <title>🤖 Google will now tell you if an ad was made with AI</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label"/>
+    <published>2026-07-09T20:11:38Z</published>
+    <updated>2026-07-09T20:11:38Z</updated>
+    <summary type="text">You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's &quot;My Ad Center,&quot; as reported earlier by TechCrunch. The update, announced on Thursday, adds a &quot;created or edited with AI&quot; label under the &quot;how this ad was made&quot; tab. Users can</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/special-anniversary-pikachu-celebration</id>
-    <title>⚡ Keep the festivities going with the Special Anniversary Pikachu Celebration event!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/special-anniversary-pikachu-celebration"/>
-    <published>2026-07-09T16:27:35Z</published>
-    <updated>2026-07-09T16:27:35Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates</id>
+    <title>🤖 Microsoft’s patch Tuesdays are about to get bigger</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates"/>
+    <published>2026-07-09T17:00:00Z</published>
+    <updated>2026-07-09T17:00:00Z</updated>
+    <summary type="text">Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to &quot;identify potential issues earlier,&quot; which means &quot;customers will see a higher volume of security updates included in each security release.&quot; Hackers, even</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/happy-birthday-professor-willow-2026</id>
-    <title>⚡ Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/happy-birthday-professor-willow-2026"/>
-    <published>2026-07-09T16:27:35Z</published>
-    <updated>2026-07-09T16:27:35Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work</id>
+    <title>🤖 OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work"/>
+    <published>2026-07-09T17:00:00Z</published>
+    <updated>2026-07-09T17:00:00Z</updated>
+    <summary type="text">About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a &quot;limited preview&quot; period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it &quot;the b</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/ozone-ascent-2026</id>
-    <title>⚡ Complete Timed Research to encounter Rayquaza and more!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/ozone-ascent-2026"/>
-    <published>2026-07-09T16:27:35Z</published>
-    <updated>2026-07-09T16:27:35Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1urvu3b/can_someone_please_explain_fusion_backgrounds/</id>
+    <title>⚡ Can someone please explain fusion backgrounds.</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1urvu3b/can_someone_please_explain_fusion_backgrounds/"/>
+    <published>2026-07-09T16:48:46Z</published>
+    <updated>2026-07-09T16:48:46Z</updated>
+    <summary type="text">I want to fuse this Necrozma but I want to make sure I do it in the best way possible. If I have a lunala/solgaleo with BG will there be a special fusion BG? Or was that only for specific events/backgrounds? Pls help submitted by /u/ERT_ [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/go-pass-july-2026</id>
-    <title>⚡ Ho-Oh, Gimmighoul holding a 10th anniversary coin, and more await in GO Pass: July!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/go-pass-july-2026"/>
-    <published>2026-07-09T16:27:35Z</published>
-    <updated>2026-07-09T16:27:35Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/event-calendar-2026</id>
-    <title>⚡ The new event calendar takes your Pokémon GO adventures to the next level!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/event-calendar-2026"/>
-    <published>2026-07-09T16:27:35Z</published>
-    <updated>2026-07-09T16:27:35Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/scopely-explore-2026</id>
-    <title>⚡ Introducing Scopely Explore</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/scopely-explore-2026"/>
-    <published>2026-07-09T16:27:35Z</published>
-    <updated>2026-07-09T16:27:35Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/go-fest-2026-global-final-details</id>
-    <title>⚡ Pokémon GO Fest 2026: Global final details!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/go-fest-2026-global-final-details"/>
-    <published>2026-07-09T16:27:35Z</published>
-    <updated>2026-07-09T16:27:35Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
-    <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
-    <published>2026-07-09T16:27:35Z</published>
-    <updated>2026-07-09T16:27:35Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/2026_ana_red</id>
-    <title>⚡ Celebrate the launch of the Red Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_red"/>
-    <published>2026-07-09T16:27:35Z</published>
-    <updated>2026-07-09T16:27:35Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/communityday-august-2026-nickit</id>
-    <title>⚡ August 2026 Community Day: Nickit</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/communityday-august-2026-nickit"/>
-    <published>2026-07-09T16:27:35Z</published>
-    <updated>2026-07-09T16:27:35Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -283,99 +214,51 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/podcast/962994/comcast-nbc-universal-split-versant-content-plus-pipes-media-broadband</id>
-    <title>🤖 Comcast is breaking up with NBCU. Why did it ever buy it in the first place?</title>
-    <link rel="alternate" href="https://www.theverge.com/podcast/962994/comcast-nbc-universal-split-versant-content-plus-pipes-media-broadband"/>
-    <published>2026-07-09T14:00:00Z</published>
-    <updated>2026-07-09T14:00:00Z</updated>
-    <summary type="text">Today on Decoder, I’m talking with Peter Kafka, who is chief correspondent at Business Insider and host of Channels, a podcast about the media industry. And it’s a big week for the media industry — Comcast just announced that it’s splitting itself up, into the Comcast broadband company and the NBCUn</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api</id>
-    <title>🤖 Meta says its new AI model is ready to compete on coding</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api"/>
-    <published>2026-07-09T14:00:00Z</published>
-    <updated>2026-07-09T14:00:00Z</updated>
-    <summary type="text">After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a &quot;step-change&quot; from the first generation, with improvem</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage</id>
-    <title>🤖 Say hello to Claude Wrapped</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage"/>
-    <published>2026-07-09T13:30:00Z</published>
-    <updated>2026-07-09T13:30:00Z</updated>
-    <summary type="text">The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a &quot;reflect&quot; feature for its Claude chatbot, allowing users to see an analysis of their usage data over </summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video</id>
-    <title>🤖 Character.AI wants a piece of the microdrama pie</title>
-    <link rel="alternate" href="https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video"/>
-    <published>2026-07-09T13:11:53Z</published>
-    <updated>2026-07-09T13:11:53Z</updated>
-    <summary type="text">Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with - on your phone. Unlike traditional</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot</id>
-    <title>🤖 FL Studio 2026 turns its AI chatbot into your assistant engineer</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot"/>
+    <id>https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</id>
+    <title>🤖 GPT-5.6 is now the preferred model in Microsoft 365 Copilot</title>
+    <link rel="alternate" href="https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"/>
     <published>2026-07-09T13:00:00Z</published>
     <updated>2026-07-09T13:00:00Z</updated>
-    <summary type="text">Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in the new release, Gop</summary>
+    <summary type="text">Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.</summary>
     <category term="ai"/>
     <author>
-      <name>The Verge — AI</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1urfvfd/parties_need_an_overhaul/</id>
-    <title>⚡ parties need an overhaul</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1urfvfd/parties_need_an_overhaul/"/>
-    <published>2026-07-09T04:29:58Z</published>
-    <updated>2026-07-09T04:29:58Z</updated>
-    <summary type="text">i love party power, and the idea of seeing your group on the map, an idea i had balled in my head months before parties. however, as are many things in this game, there are multiple stupid and clunky decisions that should be ironed out. the party ui should be smaller, specifically the icons for the </summary>
-    <category term="pokemon"/>
+    <id>https://openai.com/index/chatgpt-for-your-most-ambitious-work</id>
+    <title>🤖 ChatGPT is now a partner for your most ambitious work</title>
+    <link rel="alternate" href="https://openai.com/index/chatgpt-for-your-most-ambitious-work"/>
+    <published>2026-07-09T10:00:00Z</published>
+    <updated>2026-07-09T10:00:00Z</updated>
+    <summary type="text">ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.</summary>
+    <category term="ai"/>
     <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1urelqk/fun_fact_the_footer_image_for_tsr_subreddit_has_a/</id>
-    <title>⚡ Fun Fact: The footer image for TSR subreddit has a hidden gastly in it.</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1urelqk/fun_fact_the_footer_image_for_tsr_subreddit_has_a/"/>
-    <published>2026-07-09T03:27:10Z</published>
-    <updated>2026-07-09T03:27:10Z</updated>
-    <summary type="text">submitted by /u/pr0n-clerk [link] [comments]</summary>
-    <category term="pokemon"/>
+    <id>https://openai.com/index/bio-bug-bounty</id>
+    <title>🤖 GPT-5.5 Bio Bug Bounty</title>
+    <link rel="alternate" href="https://openai.com/index/bio-bug-bounty"/>
+    <published>2026-07-09T10:00:00Z</published>
+    <updated>2026-07-09T10:00:00Z</updated>
+    <summary type="text">Details about the OpenAI Bio Bounty program</summary>
+    <category term="ai"/>
     <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1urbuuo/set_bisharp_as_your_buddy_when_doing_crowned/</id>
-    <title>⚡ Set Bisharp as your buddy when doing crowned Zacian/Zamazenta raids today</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1urbuuo/set_bisharp_as_your_buddy_when_doing_crowned/"/>
-    <published>2026-07-09T01:19:18Z</published>
-    <updated>2026-07-09T01:19:18Z</updated>
-    <summary type="text">Since you need to defeat 15 Dark- or Steel- type raid boss to evolve Bisharp into Kingambit, remember to buddy the ones you still need to meet the evolution requirement today. Both crowned Zacian/Zamazenta are steel type raid boss. submitted by /u/No-Tip4769 [link] [comments]</summary>
-    <category term="pokemon"/>
+    <id>https://openai.com/index/gpt-5-6</id>
+    <title>🤖 GPT-5.6: Frontier intelligence that scales with your ambition</title>
+    <link rel="alternate" href="https://openai.com/index/gpt-5-6"/>
+    <published>2026-07-09T10:00:00Z</published>
+    <updated>2026-07-09T10:00:00Z</updated>
+    <summary type="text">More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.</summary>
+    <category term="ai"/>
     <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -385,42 +268,6 @@
     <published>2026-07-08T13:30:00Z</published>
     <updated>2026-07-08T13:30:00Z</updated>
     <summary type="text">Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/separating-signal-from-noise-coding-evaluations</id>
-    <title>🤖 Separating signal from noise in coding evaluations</title>
-    <link rel="alternate" href="https://openai.com/index/separating-signal-from-noise-coding-evaluations"/>
-    <published>2026-07-08T13:00:00Z</published>
-    <updated>2026-07-08T13:00:00Z</updated>
-    <summary type="text">A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/k-12-educators-practical-skills</id>
-    <title>🤖 Helping K–12 educators build practical AI skills</title>
-    <link rel="alternate" href="https://openai.com/index/k-12-educators-practical-skills"/>
-    <published>2026-07-08T10:00:00Z</published>
-    <updated>2026-07-08T10:00:00Z</updated>
-    <summary type="text">OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/introducing-gpt-live</id>
-    <title>🤖 Introducing GPT-Live</title>
-    <link rel="alternate" href="https://openai.com/index/introducing-gpt-live"/>
-    <published>2026-07-08T00:00:00Z</published>
-    <updated>2026-07-08T00:00:00Z</updated>
-    <summary type="text">A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
@@ -460,18 +307,6 @@
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/australian-payments-plus</id>
-    <title>🤖 Australian Payments Plus moves faster with ChatGPT and Codex</title>
-    <link rel="alternate" href="https://openai.com/index/australian-payments-plus"/>
-    <published>2026-07-07T00:00:00Z</published>
-    <updated>2026-07-07T00:00:00Z</updated>
-    <summary type="text">See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
