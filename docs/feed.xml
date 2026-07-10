@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-07-09T22:23:18Z</updated>
+  <updated>2026-07-10T13:07:39Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,15 +10,216 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1us3imz/location_background_was_added_for_the_unity_raids/</id>
-    <title>⚡ Location Background was added for the Unity Raids ! ( Local in New York )</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1us3imz/location_background_was_added_for_the_unity_raids/"/>
-    <published>2026-07-09T21:23:06Z</published>
-    <updated>2026-07-09T21:23:06Z</updated>
-    <summary type="text">⚠️This information has been found within the game and may change later. 📌 A Location Background has been discovered for the 10th Anniversary event in New York, which is expected to take place on Thursday, July 9, possibly at 5 pm ( New York time ) 📌 Apparently, it would be for Unity Raids featuring </summary>
+    <id>https://pokemongolive.com/news/communityday-july-2026-sobble</id>
+    <title>⚡ July 2026 Community Day: Sobble</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/communityday-july-2026-sobble"/>
+    <published>2026-07-10T13:07:37Z</published>
+    <updated>2026-07-10T13:07:37Z</updated>
     <category term="pokemon"/>
     <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en</id>
+    <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in North America, Europe, and Oceania!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en"/>
+    <published>2026-07-10T13:07:37Z</published>
+    <updated>2026-07-10T13:07:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific</id>
+    <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in the Asia-Pacific region!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific"/>
+    <published>2026-07-10T13:07:37Z</published>
+    <updated>2026-07-10T13:07:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/road-of-legends-2026</id>
+    <title>⚡ The Road of Legends leads the way to Pokémon GO Fest 2026: Global!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/road-of-legends-2026"/>
+    <published>2026-07-10T13:07:37Z</published>
+    <updated>2026-07-10T13:07:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/pvp-updates-competitors-cup-2026</id>
+    <title>⚡ Pokémon GO Trainer Battle Update</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pvp-updates-competitors-cup-2026"/>
+    <published>2026-07-10T13:07:37Z</published>
+    <updated>2026-07-10T13:07:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/special-anniversary-pikachu-celebration</id>
+    <title>⚡ Keep the festivities going with the Special Anniversary Pikachu Celebration event!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/special-anniversary-pikachu-celebration"/>
+    <published>2026-07-10T13:07:37Z</published>
+    <updated>2026-07-10T13:07:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/happy-birthday-professor-willow-2026</id>
+    <title>⚡ Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/happy-birthday-professor-willow-2026"/>
+    <published>2026-07-10T13:07:37Z</published>
+    <updated>2026-07-10T13:07:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/ozone-ascent-2026</id>
+    <title>⚡ Complete Timed Research to encounter Rayquaza and more!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/ozone-ascent-2026"/>
+    <published>2026-07-10T13:07:37Z</published>
+    <updated>2026-07-10T13:07:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/go-pass-july-2026</id>
+    <title>⚡ Ho-Oh, Gimmighoul holding a 10th anniversary coin, and more await in GO Pass: July!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-pass-july-2026"/>
+    <published>2026-07-10T13:07:37Z</published>
+    <updated>2026-07-10T13:07:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/event-calendar-2026</id>
+    <title>⚡ The new event calendar takes your Pokémon GO adventures to the next level!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/event-calendar-2026"/>
+    <published>2026-07-10T13:07:37Z</published>
+    <updated>2026-07-10T13:07:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/scopely-explore-2026</id>
+    <title>⚡ Introducing Scopely Explore</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/scopely-explore-2026"/>
+    <published>2026-07-10T13:07:37Z</published>
+    <updated>2026-07-10T13:07:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/go-fest-2026-global-final-details</id>
+    <title>⚡ Pokémon GO Fest 2026: Global final details!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-fest-2026-global-final-details"/>
+    <published>2026-07-10T13:07:37Z</published>
+    <updated>2026-07-10T13:07:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
+    <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
+    <published>2026-07-10T13:07:37Z</published>
+    <updated>2026-07-10T13:07:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/2026_ana_red</id>
+    <title>⚡ Celebrate the launch of the Red Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_red"/>
+    <published>2026-07-10T13:07:37Z</published>
+    <updated>2026-07-10T13:07:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/communityday-august-2026-nickit</id>
+    <title>⚡ August 2026 Community Day: Nickit</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/communityday-august-2026-nickit"/>
+    <published>2026-07-10T13:07:37Z</published>
+    <updated>2026-07-10T13:07:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/policy/963872/meta-eu-addictive-design-200b-fine-risk-digital-services-act-dsa</id>
+    <title>🤖 Instagram and Facebook will likely require a redesign after EU rules they&amp;#8217;re &amp;#8216;addictive&amp;#8217;</title>
+    <link rel="alternate" href="https://www.theverge.com/policy/963872/meta-eu-addictive-design-200b-fine-risk-digital-services-act-dsa"/>
+    <published>2026-07-10T10:52:53Z</published>
+    <updated>2026-07-10T10:52:53Z</updated>
+    <summary type="text">Meta is in breach of the EU's Digital Services Act (DSA), a preliminary investigation has found, over the &quot;addictive&quot; design of Instagram and Facebook. It's likely to be forced to redesign both apps and could face a fine of up to $12 billion. The European Commission said Meta &quot;did not adequately ass</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/deutsche-telekom</id>
+    <title>🤖 How Deutsche Telekom is rewiring telecommunications with AI</title>
+    <link rel="alternate" href="https://openai.com/index/deutsche-telekom"/>
+    <published>2026-07-10T07:00:00Z</published>
+    <updated>2026-07-10T07:00:00Z</updated>
+    <summary type="text">How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026</id>
+    <title>🤖 Microsoft’s carbon emissions went up 25 percent last year</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026"/>
+    <published>2026-07-10T00:04:13Z</published>
+    <updated>2026-07-10T00:04:13Z</updated>
+    <summary type="text">Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons &quot;without select interventions.&quot; Micro</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor</id>
+    <title>🤖 Fidji Simo steps down from leading OpenAI’s AGI work due to illness</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor"/>
+    <published>2026-07-09T23:24:04Z</published>
+    <updated>2026-07-09T23:24:04Z</updated>
+    <summary type="text">OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a &quot;part-time advisor,&quot; she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -46,18 +247,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1us256a/pokémon_go_10th_anniversary_celebration_nyc_event/</id>
-    <title>⚡ Pokémon GO 10th Anniversary Celebration NYC Event: Live Updates 🔴</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1us256a/pokémon_go_10th_anniversary_celebration_nyc_event/"/>
-    <published>2026-07-09T20:31:53Z</published>
-    <updated>2026-07-09T20:31:53Z</updated>
-    <summary type="text">submitted by /u/zeroghan_hub [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label</id>
     <title>🤖 Google will now tell you if an ad was made with AI</title>
     <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label"/>
@@ -67,66 +256,6 @@
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates</id>
-    <title>🤖 Microsoft’s patch Tuesdays are about to get bigger</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates"/>
-    <published>2026-07-09T17:00:00Z</published>
-    <updated>2026-07-09T17:00:00Z</updated>
-    <summary type="text">Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to &quot;identify potential issues earlier,&quot; which means &quot;customers will see a higher volume of security updates included in each security release.&quot; Hackers, even</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work</id>
-    <title>🤖 OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work"/>
-    <published>2026-07-09T17:00:00Z</published>
-    <updated>2026-07-09T17:00:00Z</updated>
-    <summary type="text">About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a &quot;limited preview&quot; period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it &quot;the b</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1urvu3b/can_someone_please_explain_fusion_backgrounds/</id>
-    <title>⚡ Can someone please explain fusion backgrounds.</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1urvu3b/can_someone_please_explain_fusion_backgrounds/"/>
-    <published>2026-07-09T16:48:46Z</published>
-    <updated>2026-07-09T16:48:46Z</updated>
-    <summary type="text">I want to fuse this Necrozma but I want to make sure I do it in the best way possible. If I have a lunala/solgaleo with BG will there be a special fusion BG? Or was that only for specific events/backgrounds? Pls help submitted by /u/ERT_ [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1urutv0/take_advantage_of_go_fest_to_evolve_pokemon_with/</id>
-    <title>⚡ Take advantage of GO Fest to evolve Pokemon with special condition</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1urutv0/take_advantage_of_go_fest_to_evolve_pokemon_with/"/>
-    <published>2026-07-09T16:12:58Z</published>
-    <updated>2026-07-09T16:12:58Z</updated>
-    <summary type="text">With the Pokemon GO Fest 2026 is just one day away, I thought I'd share a PSA on taking advantage of the event to evolve certain Pokemon which require special conditions. Not much planning required but I thought it'd be good to include in your to-do list, especially if you're looking to fill in the </summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1urusrx/pokémon_go_10_year_anniversary_celebration/</id>
-    <title>⚡ Pokémon Go 10 Year Anniversary Celebration Livestream - Begins 6.15pm ET / 3.15pm PT / 11.15pm UK</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1urusrx/pokémon_go_10_year_anniversary_celebration/"/>
-    <published>2026-07-09T16:11:57Z</published>
-    <updated>2026-07-09T16:11:57Z</updated>
-    <summary type="text">submitted by /u/diamondstark [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -142,84 +271,24 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock</id>
-    <title>🤖 Schlage’s Sense Pro unlocks the door so I don’t have to</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock"/>
-    <published>2026-07-09T15:45:46Z</published>
-    <updated>2026-07-09T15:45:46Z</updated>
-    <summary type="text">The Schlage Sense Pro is a beautiful smart lock. Sleek, discreet, and simple to use, it's Schlage's smartest lock to date. Thanks to ultra-wideband (UWB), it unlocks as I walk up to my front door; I don't need to enter a code or tap my phone or press my finger against it. I've tested several […]</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ursiml/fake_scatterbug_shiny/</id>
-    <title>⚡ Fake Scatterbug shiny</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ursiml/fake_scatterbug_shiny/"/>
-    <published>2026-07-09T14:50:58Z</published>
-    <updated>2026-07-09T14:50:58Z</updated>
-    <summary type="text">Hey all, got a bizarre bug this morning that I wanted to share here. After pinning my postcards I got a shiny Scatterbug encounter (my first one!), but as soon as I caught it, it no longer appeared as shiny on the summary screen. On top of that, my pokedex still shows the shiny entry as grayed out, </summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale</id>
-    <title>🤖 Sonos Ace wireless headphones are steeply discounted</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale"/>
-    <published>2026-07-09T14:30:00Z</published>
-    <updated>2026-07-09T14:30:00Z</updated>
-    <summary type="text">If you’re looking for a discount on a great pair of active noise-canceling headphones for your summer adventures (even if they’re indoors), you’re in luck. The Sonos Ace headphones in black are currently on sale for $279 (usually $399) at a variety of retailers, including Amazon, Best Buy, Walmart, </summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1urrweo/the_road_of_legends_fridayfrom_500_am_to_around/</id>
-    <title>⚡ The Road of Legends (Friday)｜From 5:00 a.m. to around 9:00 p.m. on Friday, July 10, 2026 (Local Time)</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1urrweo/the_road_of_legends_fridayfrom_500_am_to_around/"/>
-    <published>2026-07-09T14:28:19Z</published>
-    <updated>2026-07-09T14:28:19Z</updated>
-    <summary type="text">The Road of Legends (Friday) From 5:00 a.m. to around 9:00 p.m. on Friday, July 10, 2026 (Local Time) ・ TIER 6: Primal Kyogre,Primal Groudon ・ TIER 5: Origin Forme Dialga,Origin Forme Palkia ・ 6:00 p.m. – 7:00 p.m.: Five-Star Raid Hour ・ 7:00 p.m. – 8:00 p.m.: Primal Raid Hour --- 【Good to Know】 * K</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1urrgud/will_anybody_be_raiding_nonmewtwo_raids_this/</id>
-    <title>⚡ Will anybody be raiding non-Mewtwo raids this weekend?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1urrgud/will_anybody_be_raiding_nonmewtwo_raids_this/"/>
-    <published>2026-07-09T14:12:41Z</published>
-    <updated>2026-07-09T14:12:41Z</updated>
-    <summary type="text">Just curious if there is anything worth raiding this weekend. We get 8 free passes a day so that feels enough for me to get a good Mewtwo each day. Could do more and a shiny would be nice but I can't see myself spending like the 16 free passes +30 premiums on Mewtwo. I have like 30 passes saved up f</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/962439/sony-rx10v-superzoom-camera-price-specs-hands-on</id>
-    <title>🤖 Sony brings back the superzoom RX10 with a stacked sensor and a high price</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/962439/sony-rx10v-superzoom-camera-price-specs-hands-on"/>
-    <published>2026-07-09T14:00:00Z</published>
-    <updated>2026-07-09T14:00:00Z</updated>
-    <summary type="text">Sony is bringing back the RX10 superzoom camera after a nearly nine-year gap between models. The newly announced RX10 V retains the same 24-600mm equivalent f/2.4-4 Zeiss Vario-Sonnar 25x zoom lens of its last two predecessors, but it has lots of upgrades elsewhere. The new 20.1-megapixel 1-inch-typ</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</id>
     <title>🤖 GPT-5.6 is now the preferred model in Microsoft 365 Copilot</title>
     <link rel="alternate" href="https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"/>
     <published>2026-07-09T13:00:00Z</published>
     <updated>2026-07-09T13:00:00Z</updated>
     <summary type="text">Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/gpt-5-6</id>
+    <title>🤖 GPT-5.6: Frontier intelligence that scales with your ambition</title>
+    <link rel="alternate" href="https://openai.com/index/gpt-5-6"/>
+    <published>2026-07-09T10:00:00Z</published>
+    <updated>2026-07-09T10:00:00Z</updated>
+    <summary type="text">More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
@@ -250,30 +319,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/gpt-5-6</id>
-    <title>🤖 GPT-5.6: Frontier intelligence that scales with your ambition</title>
-    <link rel="alternate" href="https://openai.com/index/gpt-5-6"/>
-    <published>2026-07-09T10:00:00Z</published>
-    <updated>2026-07-09T10:00:00Z</updated>
-    <summary type="text">More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/government-national-security-partnerships</id>
-    <title>🤖 Our approach to government and national security partnerships</title>
-    <link rel="alternate" href="https://openai.com/index/government-national-security-partnerships"/>
-    <published>2026-07-08T13:30:00Z</published>
-    <updated>2026-07-08T13:30:00Z</updated>
-    <summary type="text">Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707</id>
     <title>🤖 How novice coders can develop AI programs for military applications</title>
     <link rel="alternate" href="https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707"/>
@@ -298,18 +343,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1upueac/questions_answers_weekly_megathread_please_use/</id>
-    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1upueac/questions_answers_weekly_megathread_please_use/"/>
-    <published>2026-07-07T13:00:11Z</published>
-    <updated>2026-07-07T13:00:11Z</updated>
-    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706</id>
     <title>🤖 Toward a future that preserves benefits of neurotechnology for all</title>
     <link rel="alternate" href="https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706"/>
@@ -319,18 +352,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uo0gd8/road_of_legends_megathread/</id>
-    <title>⚡ Road of Legends Megathread</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uo0gd8/road_of_legends_megathread/"/>
-    <published>2026-07-05T12:02:02Z</published>
-    <updated>2026-07-05T12:02:02Z</updated>
-    <summary type="text">Date/Time Monday, 6th July, 12:01am - Friday, 10th July, 11:59pm Bonuses Chance to catch Pokémon with Adventure Effect attacks in raids - Kyurem (Glaciate), Origin Palkia (Spacial Rend), Origin Dialga (Roar of Time) Up to 2 free Raid Passes from spinning Gyms Daily Raid Hour from 6-7pm. Monday's Rai</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
