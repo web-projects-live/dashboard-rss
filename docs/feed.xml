@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-07-12T21:52:50Z</updated>
+  <updated>2026-07-13T13:15:05Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,33 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/communityday-july-2026-sobble</id>
-    <title>⚡ July 2026 Community Day: Sobble</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/communityday-july-2026-sobble"/>
-    <published>2026-07-12T21:52:49Z</published>
-    <updated>2026-07-12T21:52:49Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en</id>
-    <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in North America, Europe, and Oceania!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-en"/>
-    <published>2026-07-12T21:52:49Z</published>
-    <updated>2026-07-12T21:52:49Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific</id>
     <title>⚡ Get ready for Pokémon GO Fest 2026: Global Community Celebrations in the Asia-Pacific region!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/community-celebrations-go-fest-2026-details-asia-pacific"/>
-    <published>2026-07-12T21:52:49Z</published>
-    <updated>2026-07-12T21:52:49Z</updated>
+    <published>2026-07-13T13:15:03Z</published>
+    <updated>2026-07-13T13:15:03Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +24,8 @@
     <id>https://pokemongolive.com/news/road-of-legends-2026</id>
     <title>⚡ The Road of Legends leads the way to Pokémon GO Fest 2026: Global!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/road-of-legends-2026"/>
-    <published>2026-07-12T21:52:49Z</published>
-    <updated>2026-07-12T21:52:49Z</updated>
+    <published>2026-07-13T13:15:03Z</published>
+    <updated>2026-07-13T13:15:03Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +35,8 @@
     <id>https://pokemongolive.com/news/pvp-updates-competitors-cup-2026</id>
     <title>⚡ Pokémon GO Trainer Battle Update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pvp-updates-competitors-cup-2026"/>
-    <published>2026-07-12T21:52:49Z</published>
-    <updated>2026-07-12T21:52:49Z</updated>
+    <published>2026-07-13T13:15:03Z</published>
+    <updated>2026-07-13T13:15:03Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +46,8 @@
     <id>https://pokemongolive.com/news/special-anniversary-pikachu-celebration</id>
     <title>⚡ Keep the festivities going with the Special Anniversary Pikachu Celebration event!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/special-anniversary-pikachu-celebration"/>
-    <published>2026-07-12T21:52:49Z</published>
-    <updated>2026-07-12T21:52:49Z</updated>
+    <published>2026-07-13T13:15:03Z</published>
+    <updated>2026-07-13T13:15:03Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +57,8 @@
     <id>https://pokemongolive.com/news/happy-birthday-professor-willow-2026</id>
     <title>⚡ Wish Professor Willow a very happy birthday with Professor Willow’s assistant Pikachu!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/happy-birthday-professor-willow-2026"/>
-    <published>2026-07-12T21:52:49Z</published>
-    <updated>2026-07-12T21:52:49Z</updated>
+    <published>2026-07-13T13:15:03Z</published>
+    <updated>2026-07-13T13:15:03Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +68,8 @@
     <id>https://pokemongolive.com/news/ozone-ascent-2026</id>
     <title>⚡ Complete Timed Research to encounter Rayquaza and more!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/ozone-ascent-2026"/>
-    <published>2026-07-12T21:52:49Z</published>
-    <updated>2026-07-12T21:52:49Z</updated>
+    <published>2026-07-13T13:15:03Z</published>
+    <updated>2026-07-13T13:15:03Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +79,8 @@
     <id>https://pokemongolive.com/news/go-pass-july-2026</id>
     <title>⚡ Ho-Oh, Gimmighoul holding a 10th anniversary coin, and more await in GO Pass: July!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-july-2026"/>
-    <published>2026-07-12T21:52:49Z</published>
-    <updated>2026-07-12T21:52:49Z</updated>
+    <published>2026-07-13T13:15:03Z</published>
+    <updated>2026-07-13T13:15:03Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +90,8 @@
     <id>https://pokemongolive.com/news/event-calendar-2026</id>
     <title>⚡ The new event calendar takes your Pokémon GO adventures to the next level!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-calendar-2026"/>
-    <published>2026-07-12T21:52:49Z</published>
-    <updated>2026-07-12T21:52:49Z</updated>
+    <published>2026-07-13T13:15:03Z</published>
+    <updated>2026-07-13T13:15:03Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +101,8 @@
     <id>https://pokemongolive.com/news/scopely-explore-2026</id>
     <title>⚡ Introducing Scopely Explore</title>
     <link rel="alternate" href="https://pokemongolive.com/news/scopely-explore-2026"/>
-    <published>2026-07-12T21:52:49Z</published>
-    <updated>2026-07-12T21:52:49Z</updated>
+    <published>2026-07-13T13:15:03Z</published>
+    <updated>2026-07-13T13:15:03Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +112,8 @@
     <id>https://pokemongolive.com/news/go-fest-2026-global-final-details</id>
     <title>⚡ Pokémon GO Fest 2026: Global final details!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-fest-2026-global-final-details"/>
-    <published>2026-07-12T21:52:49Z</published>
-    <updated>2026-07-12T21:52:49Z</updated>
+    <published>2026-07-13T13:15:03Z</published>
+    <updated>2026-07-13T13:15:03Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +123,8 @@
     <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
     <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
-    <published>2026-07-12T21:52:49Z</published>
-    <updated>2026-07-12T21:52:49Z</updated>
+    <published>2026-07-13T13:15:03Z</published>
+    <updated>2026-07-13T13:15:03Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +134,8 @@
     <id>https://pokemongolive.com/news/2026_ana_red</id>
     <title>⚡ Celebrate the launch of the Red Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_red"/>
-    <published>2026-07-12T21:52:49Z</published>
-    <updated>2026-07-12T21:52:49Z</updated>
+    <published>2026-07-13T13:15:03Z</published>
+    <updated>2026-07-13T13:15:03Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +145,69 @@
     <id>https://pokemongolive.com/news/communityday-august-2026-nickit</id>
     <title>⚡ August 2026 Community Day: Nickit</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communityday-august-2026-nickit"/>
-    <published>2026-07-12T21:52:49Z</published>
-    <updated>2026-07-12T21:52:49Z</updated>
+    <published>2026-07-13T13:15:03Z</published>
+    <updated>2026-07-13T13:15:03Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/nationaltrust-2026</id>
+    <title>⚡ Adventure awaits with the National Trust this summer!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/nationaltrust-2026"/>
+    <published>2026-07-13T13:15:03Z</published>
+    <updated>2026-07-13T13:15:03Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/summer-quest</id>
+    <title>⚡ Welcome to Pokémon GO Summer Quest</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/summer-quest"/>
+    <published>2026-07-13T13:15:03Z</published>
+    <updated>2026-07-13T13:15:03Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules</id>
+    <title>🤖 Social media limits are coming for teens across Europe</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules"/>
+    <published>2026-07-13T09:22:52Z</published>
+    <updated>2026-07-13T09:22:52Z</updated>
+    <summary type="text">The European Union is weighing sweeping new restrictions on children's and teenagers' access to social media, including age limits, an outright ban, and phased access. Social media platforms could also be forced to prove their services are not harmful before young people are allowed to use them. Eur</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty</id>
+    <title>🤖 Waze is getting a bunch of new AI-powered features</title>
+    <link rel="alternate" href="https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty"/>
+    <published>2026-07-13T09:00:00Z</published>
+    <updated>2026-07-13T09:00:00Z</updated>
+    <summary type="text">Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation repor</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713</id>
+    <title>🤖 New method aims to keep kids safe from illegal AI-generated content</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713"/>
+    <published>2026-07-13T04:00:00Z</published>
+    <updated>2026-07-13T04:00:00Z</updated>
+    <summary type="text">Researchers developed an auditing technique to test generative AI models for malicious capabilities, without prompting them for illegal outputs.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
     </author>
   </entry>
   <entry>
@@ -217,18 +253,6 @@
     <published>2026-07-12T13:00:00Z</published>
     <updated>2026-07-12T13:00:00Z</updated>
     <summary type="text">I've always been the gamer in the family. When my son was born nearly 11 years ago, gaming was one of the things I looked forward to sharing with him. Pulling up a chair next to me, he would watch as I played Sea of Thieves with friends, often wearing the too-big-for-his-head headset to talk […]</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/column/963346/ai-data-centers-fight</id>
-    <title>🤖 The fight against AI data centers is just beginning</title>
-    <link rel="alternate" href="https://www.theverge.com/column/963346/ai-data-centers-fight"/>
-    <published>2026-07-12T12:00:00Z</published>
-    <updated>2026-07-12T12:00:00Z</updated>
-    <summary type="text">This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threate</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
@@ -384,18 +408,6 @@
     <published>2026-06-29T19:00:00Z</published>
     <updated>2026-06-29T19:00:00Z</updated>
     <summary type="text">Associate Professor Anna Huang delivers the keynote address, “In Search of Human-AI Resonance,” to a capacity crowd.</summary>
-    <category term="ai"/>
-    <author>
-      <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://news.mit.edu/2026/3-questions-beyond-data-driven-aesthetics-alexandros-haridis-0629</id>
-    <title>🤖 3 Questions: Beyond data-driven aesthetics</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/3-questions-beyond-data-driven-aesthetics-alexandros-haridis-0629"/>
-    <published>2026-06-29T18:00:00Z</published>
-    <updated>2026-06-29T18:00:00Z</updated>
-    <summary type="text">In a new Keller Gallery exhibition, Alexandros Haridis SM ’17, PhD ’22 traces centuries of ideas about aesthetic judgment and explores how design can make complex computational systems visible.</summary>
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
