@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-07-15T15:26:17Z</updated>
+  <updated>2026-07-15T22:02:09Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/ozone-ascent-2026</id>
-    <title>⚡ Complete Timed Research to encounter Rayquaza and more!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/ozone-ascent-2026"/>
-    <published>2026-07-15T15:26:11Z</published>
-    <updated>2026-07-15T15:26:11Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/go-pass-july-2026</id>
     <title>⚡ Ho-Oh, Gimmighoul holding a 10th anniversary coin, and more await in GO Pass: July!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-july-2026"/>
-    <published>2026-07-15T15:26:11Z</published>
-    <updated>2026-07-15T15:26:11Z</updated>
+    <published>2026-07-15T22:02:07Z</published>
+    <updated>2026-07-15T22:02:07Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/event-calendar-2026</id>
     <title>⚡ The new event calendar takes your Pokémon GO adventures to the next level!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-calendar-2026"/>
-    <published>2026-07-15T15:26:11Z</published>
-    <updated>2026-07-15T15:26:11Z</updated>
+    <published>2026-07-15T22:02:07Z</published>
+    <updated>2026-07-15T22:02:07Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/scopely-explore-2026</id>
     <title>⚡ Introducing Scopely Explore</title>
     <link rel="alternate" href="https://pokemongolive.com/news/scopely-explore-2026"/>
-    <published>2026-07-15T15:26:11Z</published>
-    <updated>2026-07-15T15:26:11Z</updated>
+    <published>2026-07-15T22:02:07Z</published>
+    <updated>2026-07-15T22:02:07Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/go-fest-2026-global-final-details</id>
     <title>⚡ Pokémon GO Fest 2026: Global final details!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-fest-2026-global-final-details"/>
-    <published>2026-07-15T15:26:11Z</published>
-    <updated>2026-07-15T15:26:11Z</updated>
+    <published>2026-07-15T22:02:07Z</published>
+    <updated>2026-07-15T22:02:07Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
     <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
-    <published>2026-07-15T15:26:11Z</published>
-    <updated>2026-07-15T15:26:11Z</updated>
+    <published>2026-07-15T22:02:07Z</published>
+    <updated>2026-07-15T22:02:07Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/2026_ana_red</id>
     <title>⚡ Celebrate the launch of the Red Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_red"/>
-    <published>2026-07-15T15:26:11Z</published>
-    <updated>2026-07-15T15:26:11Z</updated>
+    <published>2026-07-15T22:02:07Z</published>
+    <updated>2026-07-15T22:02:07Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/communityday-august-2026-nickit</id>
     <title>⚡ August 2026 Community Day: Nickit</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communityday-august-2026-nickit"/>
-    <published>2026-07-15T15:26:11Z</published>
-    <updated>2026-07-15T15:26:11Z</updated>
+    <published>2026-07-15T22:02:07Z</published>
+    <updated>2026-07-15T22:02:07Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/nationaltrust-2026</id>
     <title>⚡ Adventure awaits with the National Trust this summer!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/nationaltrust-2026"/>
-    <published>2026-07-15T15:26:11Z</published>
-    <updated>2026-07-15T15:26:11Z</updated>
+    <published>2026-07-15T22:02:07Z</published>
+    <updated>2026-07-15T22:02:07Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/summer-quest</id>
     <title>⚡ Welcome to Pokémon GO Summer Quest</title>
     <link rel="alternate" href="https://pokemongolive.com/news/summer-quest"/>
-    <published>2026-07-15T15:26:11Z</published>
-    <updated>2026-07-15T15:26:11Z</updated>
+    <published>2026-07-15T22:02:07Z</published>
+    <updated>2026-07-15T22:02:07Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition</id>
     <title>⚡ First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition"/>
-    <published>2026-07-15T15:26:11Z</published>
-    <updated>2026-07-15T15:26:11Z</updated>
+    <published>2026-07-15T22:02:07Z</published>
+    <updated>2026-07-15T22:02:07Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/water-festival-2026</id>
     <title>⚡ Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/water-festival-2026"/>
-    <published>2026-07-15T15:26:11Z</published>
-    <updated>2026-07-15T15:26:11Z</updated>
+    <published>2026-07-15T22:02:07Z</published>
+    <updated>2026-07-15T22:02:07Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/starmie-super-mega-raid-day-2026</id>
     <title>⚡ Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/starmie-super-mega-raid-day-2026"/>
-    <published>2026-07-15T15:26:11Z</published>
-    <updated>2026-07-15T15:26:11Z</updated>
+    <published>2026-07-15T22:02:07Z</published>
+    <updated>2026-07-15T22:02:07Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026</id>
     <title>⚡ That’s a big Rillaboom! Gigantamax Rillaboom drums towards Max Battle Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026"/>
-    <published>2026-07-15T15:26:11Z</published>
-    <updated>2026-07-15T15:26:11Z</updated>
+    <published>2026-07-15T22:02:07Z</published>
+    <updated>2026-07-15T22:02:07Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,71 +156,226 @@
     <id>https://pokemongolive.com/news/gofest2026-global-update</id>
     <title>⚡ Pokémon GO Fest 2026: Global - Sunday Raid Battles update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-global-update"/>
-    <published>2026-07-15T15:26:11Z</published>
-    <updated>2026-07-15T15:26:11Z</updated>
+    <published>2026-07-15T22:02:07Z</published>
+    <updated>2026-07-15T22:02:07Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/964658/8bitdo-flippad-controller-gamepad-smartphone-price-hands-on-availability</id>
-    <title>🤖 8BitDo’s FlipPad is the most pocketable way to turn your phone into a Game Boy</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/964658/8bitdo-flippad-controller-gamepad-smartphone-price-hands-on-availability"/>
-    <published>2026-07-15T15:00:00Z</published>
-    <updated>2026-07-15T15:00:00Z</updated>
-    <summary type="text">Both 8BitDo and GameSir announced tiny gamepads designed to turn smartphones into Game Boy-inspired handhelds at CES 2026. GameSir released its Pocket Taco months ago, but the longer wait for 8BitDo's FlipPad has been well worth it. While the Pocket Taco may be a better fit for some players and devi</summary>
+    <id>https://pokemongolive.com/news/summer-marathon-2026</id>
+    <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/summer-marathon-2026"/>
+    <published>2026-07-15T22:02:07Z</published>
+    <updated>2026-07-15T22:02:07Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam</id>
+    <title>🤖 xAI sues a man for using Grok to generate CSAM &amp;#8216;deepfakes&amp;#8217;</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam"/>
+    <published>2026-07-15T21:33:20Z</published>
+    <updated>2026-07-15T21:33:20Z</updated>
+    <summary type="text">The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood &quot;knowingly and intentionally used Grok to circumvent safeguards, alter nonco</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/entertainment/965621/playdate-mmo-pointlessquest</id>
-    <title>🤖 The tiniest MMO</title>
-    <link rel="alternate" href="https://www.theverge.com/entertainment/965621/playdate-mmo-pointlessquest"/>
-    <published>2026-07-15T13:00:00Z</published>
-    <updated>2026-07-15T13:00:00Z</updated>
-    <summary type="text">At its peak, around 12 million people subscribed to World of Warcraft so that they could explore the realm of Azeroth together. The audience for PointlessQuest is quite a bit smaller. On launch day, the game hit a peak of 15 concurrent players… and no, that sentence isn't missing a word. Then again,</summary>
+    <id>https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr</id>
+    <title>🤖 Brendan Carr plans to let broadcast giants dominate the airwaves</title>
+    <link rel="alternate" href="https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr"/>
+    <published>2026-07-15T21:30:17Z</published>
+    <updated>2026-07-15T21:30:17Z</updated>
+    <summary type="text">The Federal Communications Commission will vote next month on whether a single company can own broadcast stations that reach more than 39 percent of US TV households. In a Breitbart op-ed on Wednesday, Republican Chair Brendan Carr announced an August 6th vote to end the national ownership cap rule,</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/964051/home-depot-halloween-skelly-skeleton-12-foot-mobile-app-sounds</id>
-    <title>🤖 Home Depot’s viral 12-foot skeleton now talks</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/964051/home-depot-halloween-skelly-skeleton-12-foot-mobile-app-sounds"/>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uxiyc3/gohub_jumped_the_gun_and_realsed_info_on_wild/</id>
+    <title>⚡ GoHub jumped the gun and realsed info on Wild Area 2026, coming November</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uxiyc3/gohub_jumped_the_gun_and_realsed_info_on_wild/"/>
+    <published>2026-07-15T21:28:52Z</published>
+    <updated>2026-07-15T21:28:52Z</updated>
+    <summary type="text">https://pokemongohub.net/post/news/pokemon-go-wild-area-2026-event-dates-announced/ I think they just took it down, but it was confirmed to focus on Gigantamax Orbeetle with Psychic and Bug types as the main focus and will be in Nov. 2026. There were no exact dates shared, but the locations are Send</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715</id>
+    <title>🤖 3 Questions: Neural transparency and the future of AI design</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715"/>
+    <published>2026-07-15T20:25:00Z</published>
+    <updated>2026-07-15T20:25:00Z</updated>
+    <summary type="text">Assistant Professor Pat Pataranutaporn describes a new interface that lets everyday users glimpse inside an AI's neural network before their chatbot ever says a word.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood</id>
+    <title>🤖 AI slop movies are the new direct-to-video cash grabs</title>
+    <link rel="alternate" href="https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood"/>
+    <published>2026-07-15T20:00:00Z</published>
+    <updated>2026-07-15T20:00:00Z</updated>
+    <summary type="text">This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaki</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uxgm7w/psa_dozens_of_previously_obtained_avatar_items/</id>
+    <title>⚡ PSA: DOZENS of previously obtained avatar items forcibly unequipped and removed from owned items today upon clicking customization screen with game forcing them to be repurchased, complete lack of response from all support channels.</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uxgm7w/psa_dozens_of_previously_obtained_avatar_items/"/>
+    <published>2026-07-15T19:57:37Z</published>
+    <updated>2026-07-15T19:57:37Z</updated>
+    <summary type="text">Attached is how I found my avatar today, how I'm now forced to pay for an outfit I previously owned and saved in the wardrobe, proof I previously owned the items in an old screenshot, and my tally of everything I explicitly remember owning in the avatar section and their total cost. I cannot contact</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uxdff5/psa_the_lucky_trinket_can_be_used_during_any/</id>
+    <title>⚡ PSA The Lucky Trinket can be used during any stage of remote trading.</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uxdff5/psa_the_lucky_trinket_can_be_used_during_any/"/>
+    <published>2026-07-15T17:57:42Z</published>
+    <updated>2026-07-15T17:57:42Z</updated>
+    <summary type="text">I apologize if this is common knowledge but I searched and couldn't find any confirmation one way or the other. Player A and B became forever friends, but had not gotten a chance to become lucky friends. Player A initiates a trade [Requesting Player B's Fenniken]. Player accepts, then requests a tra</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack</id>
+    <title>🤖 Suno snatched millions of songs from YouTube, Genius, and Deezer</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack"/>
+    <published>2026-07-15T17:48:01Z</published>
+    <updated>2026-07-15T17:48:01Z</updated>
+    <summary type="text">Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future</id>
+    <title>🤖 Lucid’s bankruptcy rumor is a bad sign for the EV future</title>
+    <link rel="alternate" href="https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future"/>
+    <published>2026-07-15T17:17:56Z</published>
+    <updated>2026-07-15T17:17:56Z</updated>
+    <summary type="text">Lucid Motors found itself in a tough bind this week, fending off bankruptcy rumors and watching its stock price plunge as a result. The company quickly denied the report, calling it &quot;completely false&quot; and pointing to its available free cash flow as evidence that it has enough runway to operate into </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uxbvao/summer_marathon_arctic_embers_niantic_infographic/</id>
+    <title>⚡ Summer Marathon: Arctic Embers Niantic Infographic</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uxbvao/summer_marathon_arctic_embers_niantic_infographic/"/>
+    <published>2026-07-15T17:02:53Z</published>
+    <updated>2026-07-15T17:02:53Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uxbu0l/fire_up_or_chill_out_during_summer_marathon/</id>
+    <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uxbu0l/fire_up_or_chill_out_during_summer_marathon/"/>
+    <published>2026-07-15T17:01:40Z</published>
+    <updated>2026-07-15T17:01:40Z</updated>
+    <summary type="text">submitted by /u/pinakasuperman [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix</id>
+    <title>🤖 Netflix tries to recapture Stranger Things magic with nostalgic re-release</title>
+    <link rel="alternate" href="https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix"/>
+    <published>2026-07-15T16:37:08Z</published>
+    <updated>2026-07-15T16:37:08Z</updated>
+    <summary type="text">Netflix just can't let Stranger Things go. Since the final episode aired on New Year's Eve there's been a behind-the-scenes documentary, an animated series that expands the story, and now, on the 10th anniversary of the show's original release, Netflix has released a new version of the show's first </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ux6nl1/tip_sort_by_number_and_then_search_pikachu_to/</id>
+    <title>⚡ TIP: Sort by number and then search &quot;Pikachu&quot; to group all of your costumed Pikas from over the years.</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ux6nl1/tip_sort_by_number_and_then_search_pikachu_to/"/>
+    <published>2026-07-15T13:58:25Z</published>
+    <updated>2026-07-15T13:58:25Z</updated>
+    <summary type="text">I didn't realize you could do this until I tried it last night. Really helps me see that I already have 7 of that same Pika from 2022 that I have been going after this week. Hope this helps someone! submitted by /u/wackychimp [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/advancing-ai-safety-through-state-and-federal-action</id>
+    <title>🤖 The US is advancing AI safety through state and federal action</title>
+    <link rel="alternate" href="https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"/>
     <published>2026-07-15T12:00:00Z</published>
     <updated>2026-07-15T12:00:00Z</updated>
-    <summary type="text">The Home Depot is once again upgrading its 12-foot-tall skeleton to help keep the viral piece of Halloween decor popular as spooky season creeps closer. Skelly is borrowing some of the tech introduced in the smaller 6.5-foot Ultra Skelly last year, including letting you speak through the skeleton's </summary>
+    <summary type="text">OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.</summary>
     <category term="ai"/>
     <author>
-      <name>The Verge — AI</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push</id>
-    <title>🤖 Spotify’s Daniel Ek is bringing his body-scanning clinics to the US</title>
-    <link rel="alternate" href="https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push"/>
-    <published>2026-07-15T10:13:47Z</published>
-    <updated>2026-07-15T10:13:47Z</updated>
-    <summary type="text">Spotify founder Daniel Ek's body-scanning startup, Neko Health, is setting its sights on the United States after raising $700 million from a star-studded group of celebrities, entrepreneurs, and investment firms. It plans to open its first clinic in New York this year before expanding rapidly across</summary>
+    <id>https://openai.com/index/unlocking-self-improvement-gpt-red</id>
+    <title>🤖 GPT-Red: Unlocking Self-Improvement for Robustness</title>
+    <link rel="alternate" href="https://openai.com/index/unlocking-self-improvement-gpt-red"/>
+    <published>2026-07-15T10:00:00Z</published>
+    <updated>2026-07-15T10:00:00Z</updated>
+    <summary type="text">Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.</summary>
     <category term="ai"/>
     <author>
-      <name>The Verge — AI</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison</id>
-    <title>🤖 Starlink’s V5 dish is now available — here’s how it compares</title>
-    <link rel="alternate" href="https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison"/>
-    <published>2026-07-15T07:17:27Z</published>
-    <updated>2026-07-15T07:17:27Z</updated>
-    <summary type="text">SpaceX's latest residential dish - the Starlink V5 - is now available in &quot;select areas.&quot; It's notably smaller and lighter than the V4 dish with improved power efficiency. It'll be available in more places as SpaceX ramps up production to meet global demand. The company notes that Starlink V5 is not </summary>
-    <category term="ai"/>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uwzprm/pokémon_go_fest_2026_global_sunday_raid_battles/</id>
+    <title>⚡ Pokémon GO Fest 2026: Global - Sunday Raid Battles update</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uwzprm/pokémon_go_fest_2026_global_sunday_raid_battles/"/>
+    <published>2026-07-15T08:20:47Z</published>
+    <updated>2026-07-15T08:20:47Z</updated>
+    <summary type="text">submitted by /u/aznknight613 [link] [comments]</summary>
+    <category term="pokemon"/>
     <author>
-      <name>The Verge — AI</name>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uwzelk/routes_can_now_drop_buddy_candy/</id>
+    <title>⚡ Routes can now drop buddy candy!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uwzelk/routes_can_now_drop_buddy_candy/"/>
+    <published>2026-07-15T08:03:08Z</published>
+    <updated>2026-07-15T08:03:08Z</updated>
+    <summary type="text">I do a lot of routes and this was the first buddy candy I ever received, so I assume this change just went live. Obviously huge if you buddy species you actually want candy for, legendaries, mythicals, … P.S.: My buddy was not near a normal distance candy drop so it’s not a journal glitch, but a bra</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -259,6 +403,18 @@
     </author>
   </entry>
   <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uw80b6/questions_answers_weekly_megathread_please_use/</id>
+    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uw80b6/questions_answers_weekly_megathread_please_use/"/>
+    <published>2026-07-14T13:00:11Z</published>
+    <updated>2026-07-14T13:00:11Z</updated>
+    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
     <id>https://openai.com/index/managing-ai-investments-in-agentic-era</id>
     <title>🤖 How to manage AI investments in the agentic era</title>
     <link rel="alternate" href="https://openai.com/index/managing-ai-investments-in-agentic-era"/>
@@ -271,24 +427,24 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</id>
-    <title>🤖 How data science teams use ChatGPT Work</title>
-    <link rel="alternate" href="https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"/>
-    <published>2026-07-14T00:00:00Z</published>
-    <updated>2026-07-14T00:00:00Z</updated>
-    <summary type="text">See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</id>
     <title>🤖 How sales teams use ChatGPT Work</title>
     <link rel="alternate" href="https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"/>
     <published>2026-07-14T00:00:00Z</published>
     <updated>2026-07-14T00:00:00Z</updated>
     <summary type="text">See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</id>
+    <title>🤖 How data science teams use ChatGPT Work</title>
+    <link rel="alternate" href="https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"/>
+    <published>2026-07-14T00:00:00Z</published>
+    <updated>2026-07-14T00:00:00Z</updated>
+    <summary type="text">See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
@@ -331,27 +487,15 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/deutsche-telekom</id>
-    <title>🤖 How Deutsche Telekom is rewiring telecommunications with AI</title>
-    <link rel="alternate" href="https://openai.com/index/deutsche-telekom"/>
-    <published>2026-07-10T07:00:00Z</published>
-    <updated>2026-07-10T07:00:00Z</updated>
-    <summary type="text">How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.</summary>
-    <category term="ai"/>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uusx8k/anniversary_pikachu_event_megathread/</id>
+    <title>⚡ Anniversary Pikachu Event Megathread</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uusx8k/anniversary_pikachu_event_megathread/"/>
+    <published>2026-07-12T22:01:53Z</published>
+    <updated>2026-07-12T22:01:53Z</updated>
+    <summary type="text">Everything you need to know about the event, all in one place. A lot of these pieces will be verified by the Silph Research Group, so throughout the post we'll use the formatting: Italics : Reports from comments or single Research Group report Bold : Multiple Research Group reports (!s) will be used</summary>
+    <category term="pokemon"/>
     <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/academy/getting-started</id>
-    <title>🤖 Getting started with ChatGPT</title>
-    <link rel="alternate" href="https://openai.com/academy/getting-started"/>
-    <published>2026-07-10T00:00:00Z</published>
-    <updated>2026-07-10T00:00:00Z</updated>
-    <summary type="text">Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -373,18 +517,6 @@
     <published>2026-07-07T17:25:00Z</published>
     <updated>2026-07-07T17:25:00Z</updated>
     <summary type="text">A USAF cadet and a Lincoln Laboratory researcher found AI chatbots can help nontechnical service members produce viable software applications for their unique problems.</summary>
-    <category term="ai"/>
-    <author>
-      <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707</id>
-    <title>🤖 Jesse Thaler named director of the Laboratory for Nuclear Science</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707"/>
-    <published>2026-07-07T14:45:00Z</published>
-    <updated>2026-07-07T14:45:00Z</updated>
-    <summary type="text">The professor of physics and inaugural director of the NSF AI Institute for Artificial Intelligence and Fundamental Interactions will lead LNS and continue his research in particle physics.</summary>
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
