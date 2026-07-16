@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-07-16T15:38:37Z</updated>
+  <updated>2026-07-16T22:04:32Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/event-calendar-2026</id>
-    <title>⚡ The new event calendar takes your Pokémon GO adventures to the next level!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/event-calendar-2026"/>
-    <published>2026-07-16T15:38:35Z</published>
-    <updated>2026-07-16T15:38:35Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/scopely-explore-2026</id>
     <title>⚡ Introducing Scopely Explore</title>
     <link rel="alternate" href="https://pokemongolive.com/news/scopely-explore-2026"/>
-    <published>2026-07-16T15:38:35Z</published>
-    <updated>2026-07-16T15:38:35Z</updated>
+    <published>2026-07-16T22:04:30Z</published>
+    <updated>2026-07-16T22:04:30Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/go-fest-2026-global-final-details</id>
     <title>⚡ Pokémon GO Fest 2026: Global final details!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-fest-2026-global-final-details"/>
-    <published>2026-07-16T15:38:35Z</published>
-    <updated>2026-07-16T15:38:35Z</updated>
+    <published>2026-07-16T22:04:30Z</published>
+    <updated>2026-07-16T22:04:30Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
     <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
-    <published>2026-07-16T15:38:35Z</published>
-    <updated>2026-07-16T15:38:35Z</updated>
+    <published>2026-07-16T22:04:30Z</published>
+    <updated>2026-07-16T22:04:30Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/2026_ana_red</id>
     <title>⚡ Celebrate the launch of the Red Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_red"/>
-    <published>2026-07-16T15:38:35Z</published>
-    <updated>2026-07-16T15:38:35Z</updated>
+    <published>2026-07-16T22:04:30Z</published>
+    <updated>2026-07-16T22:04:30Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/communityday-august-2026-nickit</id>
     <title>⚡ August 2026 Community Day: Nickit</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communityday-august-2026-nickit"/>
-    <published>2026-07-16T15:38:35Z</published>
-    <updated>2026-07-16T15:38:35Z</updated>
+    <published>2026-07-16T22:04:30Z</published>
+    <updated>2026-07-16T22:04:30Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/nationaltrust-2026</id>
     <title>⚡ Adventure awaits with the National Trust this summer!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/nationaltrust-2026"/>
-    <published>2026-07-16T15:38:35Z</published>
-    <updated>2026-07-16T15:38:35Z</updated>
+    <published>2026-07-16T22:04:30Z</published>
+    <updated>2026-07-16T22:04:30Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/summer-quest</id>
     <title>⚡ Welcome to Pokémon GO Summer Quest</title>
     <link rel="alternate" href="https://pokemongolive.com/news/summer-quest"/>
-    <published>2026-07-16T15:38:35Z</published>
-    <updated>2026-07-16T15:38:35Z</updated>
+    <published>2026-07-16T22:04:30Z</published>
+    <updated>2026-07-16T22:04:30Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition</id>
     <title>⚡ First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition"/>
-    <published>2026-07-16T15:38:35Z</published>
-    <updated>2026-07-16T15:38:35Z</updated>
+    <published>2026-07-16T22:04:30Z</published>
+    <updated>2026-07-16T22:04:30Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/water-festival-2026</id>
     <title>⚡ Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/water-festival-2026"/>
-    <published>2026-07-16T15:38:35Z</published>
-    <updated>2026-07-16T15:38:35Z</updated>
+    <published>2026-07-16T22:04:30Z</published>
+    <updated>2026-07-16T22:04:30Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/starmie-super-mega-raid-day-2026</id>
     <title>⚡ Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/starmie-super-mega-raid-day-2026"/>
-    <published>2026-07-16T15:38:35Z</published>
-    <updated>2026-07-16T15:38:35Z</updated>
+    <published>2026-07-16T22:04:30Z</published>
+    <updated>2026-07-16T22:04:30Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026</id>
     <title>⚡ That’s a big Rillaboom! Gigantamax Rillaboom drums towards Max Battle Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026"/>
-    <published>2026-07-16T15:38:35Z</published>
-    <updated>2026-07-16T15:38:35Z</updated>
+    <published>2026-07-16T22:04:30Z</published>
+    <updated>2026-07-16T22:04:30Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/gofest2026-global-update</id>
     <title>⚡ Pokémon GO Fest 2026: Global - Sunday Raid Battles update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-global-update"/>
-    <published>2026-07-16T15:38:35Z</published>
-    <updated>2026-07-16T15:38:35Z</updated>
+    <published>2026-07-16T22:04:30Z</published>
+    <updated>2026-07-16T22:04:30Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/summer-marathon-2026</id>
     <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/summer-marathon-2026"/>
-    <published>2026-07-16T15:38:35Z</published>
-    <updated>2026-07-16T15:38:35Z</updated>
+    <published>2026-07-16T22:04:30Z</published>
+    <updated>2026-07-16T22:04:30Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,155 +156,166 @@
     <id>https://pokemongolive.com/news/save-the-date-go-wild-area-2026</id>
     <title>⚡ Save the Date: Pokémon GO Wild Area 2026</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-wild-area-2026"/>
-    <published>2026-07-16T15:38:35Z</published>
-    <updated>2026-07-16T15:38:35Z</updated>
+    <published>2026-07-16T22:04:30Z</published>
+    <updated>2026-07-16T22:04:30Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uy4whq/shiny_mega_starmie_comparison/</id>
-    <title>⚡ Shiny Mega Starmie Comparison</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uy4whq/shiny_mega_starmie_comparison/"/>
-    <published>2026-07-16T14:45:18Z</published>
-    <updated>2026-07-16T14:45:18Z</updated>
-    <summary type="text">submitted by /u/YelloWool [link] [comments]</summary>
+    <id>https://pokemongolive.com/news/fire-and-ice-hatch-day-2026</id>
+    <title>⚡ Fire and Ice Hatch Day</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/fire-and-ice-hatch-day-2026"/>
+    <published>2026-07-16T22:04:30Z</published>
+    <updated>2026-07-16T22:04:30Z</updated>
     <category term="pokemon"/>
     <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification</id>
-    <title>🤖 ‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust</title>
-    <link rel="alternate" href="https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification"/>
-    <published>2026-07-16T14:00:00Z</published>
-    <updated>2026-07-16T14:00:00Z</updated>
-    <summary type="text">Today on Decoder, we’ve got the first of a two-part series on the systems that run the world: I’m talking with Bart Butler, the CTO of Proton, the company that makes private and secure productivity software. You probably know it best for Proton Mail, which is encrypted by default, but the company al</summary>
+    <id>https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas</id>
+    <title>🤖 Fortnite is getting a bunch of AI-powered ‘personas’</title>
+    <link rel="alternate" href="https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas"/>
+    <published>2026-07-16T21:30:35Z</published>
+    <updated>2026-07-16T21:30:35Z</updated>
+    <summary type="text">Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead of that launch, it's created 36 characters with &quot;consistent voices and personas&quot; that creators can use</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/966175/ninja-crispi-microwave-air-fryer-kitchen-appliance</id>
-    <title>🤖 Ninja’s microwave air fryer could be the fix for soggy reheated pizza</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/966175/ninja-crispi-microwave-air-fryer-kitchen-appliance"/>
-    <published>2026-07-16T13:30:00Z</published>
-    <updated>2026-07-16T13:30:00Z</updated>
-    <summary type="text">Ninja has added everything from ice cream makers to double-decker toaster ovens to its extensive lineup of counter-clogging appliances, but it's only now introducing its first microwave. What makes the new Ninja Crispi Microwave stand out among its many competitors is that it doubles as an air fryer</summary>
+    <id>https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings</id>
+    <title>🤖 Netflix says around 300 titles used generative AI</title>
+    <link rel="alternate" href="https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings"/>
+    <published>2026-07-16T20:29:27Z</published>
+    <updated>2026-07-16T20:29:27Z</updated>
+    <summary type="text">Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released on Thursday, saying it's &quot;increasingly leveraging these tools to deliver higher quality output more qu</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us</id>
-    <title>🤖 OnePlus never had a chance in the US</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us"/>
-    <published>2026-07-16T13:00:00Z</published>
-    <updated>2026-07-16T13:00:00Z</updated>
-    <summary type="text">Twelve years after the launch of the OnePlus One, OnePlus announced today that it has exited the United States. It's bittersweet, as the brand has been on a comeback tour of sorts with its excellent OnePlus 15 and widely praised (though still too expensive) OnePlus Open. The writing has been on the </summary>
+    <id>https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs</id>
+    <title>🤖 The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs</title>
+    <link rel="alternate" href="https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"/>
+    <published>2026-07-16T19:16:48Z</published>
+    <updated>2026-07-16T19:16:48Z</updated>
+    <summary type="text">Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a</summary>
+    <category term="ai"/>
+    <author>
+      <name>VentureBeat AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials</id>
+    <title>🤖 The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials</title>
+    <link rel="alternate" href="https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"/>
+    <published>2026-07-16T19:02:38Z</published>
+    <updated>2026-07-16T19:02:38Z</updated>
+    <summary type="text">Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents stil</summary>
+    <category term="ai"/>
+    <author>
+      <name>VentureBeat AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation</id>
+    <title>🤖 Kalshi says it caught Trump&amp;#8217;s teleprompter operator insider trading</title>
+    <link rel="alternate" href="https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation"/>
+    <published>2026-07-16T18:43:14Z</published>
+    <updated>2026-07-16T18:43:14Z</updated>
+    <summary type="text">Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition: the president's teleprompter operator. ABC News reports that federal investigators believe Gabriel Perez - Trump's teleprompter operator since 2016 - used inside informatio</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration</id>
-    <title>🤖 Claude can now use your 1Password credentials for you</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration"/>
-    <published>2026-07-16T13:00:00Z</published>
-    <updated>2026-07-16T13:00:00Z</updated>
-    <summary type="text">1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing onlin</summary>
+    <id>https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies</id>
+    <title>🤖 New York governor says she&amp;#8217;s using AI to analyze &amp;#8216;every single rule&amp;#8217; in the state</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies"/>
+    <published>2026-07-16T17:58:37Z</published>
+    <updated>2026-07-16T17:58:37Z</updated>
+    <summary type="text">New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using &quot;AI to analyze every single rule, regulation, [and] po</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uy1r1h/zubat_spotlight_hour_gives_you_10x_xp_for/</id>
-    <title>⚡ Zubat spotlight hour gives you 10x XP for Excellent throws</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uy1r1h/zubat_spotlight_hour_gives_you_10x_xp_for/"/>
-    <published>2026-07-16T12:41:06Z</published>
-    <updated>2026-07-16T12:41:06Z</updated>
-    <summary type="text">Looks like 10x XP is still on the menu boys submitted by /u/G952 [link] [comments]</summary>
-    <category term="pokemon"/>
+    <id>https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix</id>
+    <title>🤖 The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix</title>
+    <link rel="alternate" href="https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"/>
+    <published>2026-07-16T17:06:08Z</published>
+    <updated>2026-07-16T17:06:08Z</updated>
+    <summary type="text">Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define th</summary>
+    <category term="ai"/>
     <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>VentureBeat AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma</id>
-    <title>🤖 Google ordered to open Android and Search to rivals in Europe</title>
-    <link rel="alternate" href="https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma"/>
-    <published>2026-07-16T12:06:51Z</published>
-    <updated>2026-07-16T12:06:51Z</updated>
-    <summary type="text">Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech</summary>
+    <id>https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai</id>
+    <title>🤖 Google is better than Apple at playing the AI regulations game</title>
+    <link rel="alternate" href="https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai"/>
+    <published>2026-07-16T16:55:54Z</published>
+    <updated>2026-07-16T16:55:54Z</updated>
+    <summary type="text">Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. It may look like a defeat on paper for Google, which has spent years resisting exactly this kind of a</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uy0xnz/pokémon_go_fans_react_in_disgust_as_players/</id>
-    <title>⚡ Pokémon Go Fans React in Disgust as Players Hand-Picked to Attend Exclusive Times Square Event Sell Their Prized Mewtwo for Thousands of Dollars, Breaking the Game's Rules | IGN report</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uy0xnz/pokémon_go_fans_react_in_disgust_as_players/"/>
-    <published>2026-07-16T12:04:51Z</published>
-    <updated>2026-07-16T12:04:51Z</updated>
-    <summary type="text">submitted by /u/diamondstark [link] [comments]</summary>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games</id>
+    <title>🤖 Roblox will let people use AI to make games on their phone</title>
+    <link rel="alternate" href="https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games"/>
+    <published>2026-07-16T16:45:29Z</published>
+    <updated>2026-07-16T16:45:29Z</updated>
+    <summary type="text">Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded. The company has embraced AI with open arms, including a preview of an ambitious take on AI world models simi</summary>
+    <category term="ai"/>
     <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uxwygf/shiny_snom_family_comparison/</id>
-    <title>⚡ Shiny Snom Family Comparison</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uxwygf/shiny_snom_family_comparison/"/>
-    <published>2026-07-16T08:34:59Z</published>
-    <updated>2026-07-16T08:34:59Z</updated>
-    <summary type="text">submitted by /u/YelloWool [link] [comments]</summary>
-    <category term="pokemon"/>
+    <id>https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway</id>
+    <title>🤖 The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway</title>
+    <link rel="alternate" href="https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"/>
+    <published>2026-07-16T16:40:48Z</published>
+    <updated>2026-07-16T16:40:48Z</updated>
+    <summary type="text">Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated ev</summary>
+    <category term="ai"/>
     <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>VentureBeat AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uxwv8y/zubat_spotlight_hour_giving_10x_catch_exp_instead/</id>
-    <title>⚡ Zubat Spotlight Hour giving 10x Catch Exp instead of 2x?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uxwv8y/zubat_spotlight_hour_giving_10x_catch_exp_instead/"/>
-    <published>2026-07-16T08:29:41Z</published>
-    <updated>2026-07-16T08:29:41Z</updated>
-    <summary type="text">submitted by /u/Chadlynx [link] [comments]</summary>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm</id>
+    <title>🤖 Google is renaming NotebookLM to Gemini Notebook</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm"/>
+    <published>2026-07-16T16:00:00Z</published>
+    <updated>2026-07-16T16:00:00Z</updated>
+    <summary type="text">Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind </summary>
+    <category term="ai"/>
     <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uxwm0p/best_in_class_pokemon_per_type_and_speculating_on/</id>
-    <title>⚡ Best in class Pokemon per type and speculating on how long they'll remain the best.</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uxwm0p/best_in_class_pokemon_per_type_and_speculating_on/"/>
-    <published>2026-07-16T08:14:32Z</published>
-    <updated>2026-07-16T08:14:32Z</updated>
-    <summary type="text">I wanted to list out my understanding based on dialgadex eDPS of the top current raider per type and how likely it is to stay at it's top spot. I'm mostly interested in considering all types for the (frequently niche) instances of 4x weakness, as I'm aware of effectiveness overlap. Addtionally, this</summary>
-    <category term="pokemon"/>
+    <id>https://openai.com/index/why-teens-deserve-access-safe-ai</id>
+    <title>🤖 Why teens deserve access to safe AI</title>
+    <link rel="alternate" href="https://openai.com/index/why-teens-deserve-access-safe-ai"/>
+    <published>2026-07-16T16:00:00Z</published>
+    <updated>2026-07-16T16:00:00Z</updated>
+    <summary type="text">Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.</summary>
+    <category term="ai"/>
     <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uxv47i/proper_use_of_pokemons_background/</id>
-    <title>⚡ Proper use of pokemon’s background</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uxv47i/proper_use_of_pokemons_background/"/>
-    <published>2026-07-16T06:47:27Z</published>
-    <updated>2026-07-16T06:47:27Z</updated>
-    <summary type="text">Stole this from a group chat. It looks so cool if background of your buddy is shown in trainer screen like this. People will get crazier with background. submitted by /u/pttson [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -328,6 +328,18 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/cars24</id>
+    <title>🤖 How Cars24 scales conversations and builds faster with OpenAI</title>
+    <link rel="alternate" href="https://openai.com/index/cars24"/>
+    <published>2026-07-16T00:00:00Z</published>
+    <updated>2026-07-16T00:00:00Z</updated>
+    <summary type="text">Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -352,18 +364,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uxgm7w/psa_dozens_of_previously_obtained_avatar_items/</id>
-    <title>⚡ PSA: DOZENS of previously obtained avatar items forcibly unequipped and removed from owned items today upon clicking customization screen with game forcing them to be repurchased, complete lack of response from all support channels.</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uxgm7w/psa_dozens_of_previously_obtained_avatar_items/"/>
-    <published>2026-07-15T19:57:37Z</published>
-    <updated>2026-07-15T19:57:37Z</updated>
-    <summary type="text">Attached is how I found my avatar today, how I'm now forced to pay for an outfit I previously owned and saved in the wardrobe, proof I previously owned the items in an old screenshot, and my tally of everything I explicitly remember owning in the avatar section and their total cost. I cannot contact</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -415,48 +415,12 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uw80b6/questions_answers_weekly_megathread_please_use/</id>
-    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uw80b6/questions_answers_weekly_megathread_please_use/"/>
-    <published>2026-07-14T13:00:11Z</published>
-    <updated>2026-07-14T13:00:11Z</updated>
-    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://openai.com/index/managing-ai-investments-in-agentic-era</id>
     <title>🤖 How to manage AI investments in the agentic era</title>
     <link rel="alternate" href="https://openai.com/index/managing-ai-investments-in-agentic-era"/>
     <published>2026-07-14T10:00:00Z</published>
     <updated>2026-07-14T10:00:00Z</updated>
     <summary type="text">Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</id>
-    <title>🤖 How sales teams use ChatGPT Work</title>
-    <link rel="alternate" href="https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"/>
-    <published>2026-07-14T00:00:00Z</published>
-    <updated>2026-07-14T00:00:00Z</updated>
-    <summary type="text">See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</id>
-    <title>🤖 How data science teams use ChatGPT Work</title>
-    <link rel="alternate" href="https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"/>
-    <published>2026-07-14T00:00:00Z</published>
-    <updated>2026-07-14T00:00:00Z</updated>
-    <summary type="text">See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
@@ -496,18 +460,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1uusx8k/anniversary_pikachu_event_megathread/</id>
-    <title>⚡ Anniversary Pikachu Event Megathread</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1uusx8k/anniversary_pikachu_event_megathread/"/>
-    <published>2026-07-12T22:01:53Z</published>
-    <updated>2026-07-12T22:01:53Z</updated>
-    <summary type="text">Everything you need to know about the event, all in one place. A lot of these pieces will be verified by the Silph Research Group, so throughout the post we'll use the formatting: Italics : Reports from comments or single Research Group report Bold : Multiple Research Group reports (!s) will be used</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -607,54 +559,6 @@
     <published>2026-01-22T14:00:00Z</published>
     <updated>2026-01-22T14:00:00Z</updated>
     <summary type="text">Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of leg</summary>
-    <category term="ai"/>
-    <author>
-      <name>VentureBeat AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</id>
-    <title>🤖 Claude Code costs up to $200 a month. Goose does the same thing for free.</title>
-    <link rel="alternate" href="https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"/>
-    <published>2026-01-19T14:00:00Z</published>
-    <updated>2026-01-19T14:00:00Z</updated>
-    <summary type="text">The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month</summary>
-    <category term="ai"/>
-    <author>
-      <name>VentureBeat AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</id>
-    <title>🤖 Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews</title>
-    <link rel="alternate" href="https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"/>
-    <published>2026-01-16T14:01:00Z</published>
-    <updated>2026-01-16T14:01:00Z</updated>
-    <summary type="text">Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like</summary>
-    <category term="ai"/>
-    <author>
-      <name>VentureBeat AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</id>
-    <title>🤖 Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI</title>
-    <link rel="alternate" href="https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"/>
-    <published>2026-01-13T13:00:00Z</published>
-    <updated>2026-01-13T13:00:00Z</updated>
-    <summary type="text">Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf </summary>
-    <category term="ai"/>
-    <author>
-      <name>VentureBeat AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</id>
-    <title>🤖 Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required</title>
-    <link rel="alternate" href="https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"/>
-    <published>2026-01-12T11:30:00Z</published>
-    <updated>2026-01-12T11:30:00Z</updated>
-    <summary type="text">Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself. The laun</summary>
     <category term="ai"/>
     <author>
       <name>VentureBeat AI</name>
