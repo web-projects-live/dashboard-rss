@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-07-21T15:43:56Z</updated>
+  <updated>2026-07-21T22:04:16Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/scopely-explore-2026</id>
-    <title>⚡ Introducing Scopely Explore</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/scopely-explore-2026"/>
-    <published>2026-07-21T15:43:54Z</published>
-    <updated>2026-07-21T15:43:54Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/go-fest-2026-global-final-details</id>
     <title>⚡ Pokémon GO Fest 2026: Global final details!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-fest-2026-global-final-details"/>
-    <published>2026-07-21T15:43:54Z</published>
-    <updated>2026-07-21T15:43:54Z</updated>
+    <published>2026-07-21T22:04:14Z</published>
+    <updated>2026-07-21T22:04:14Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
     <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
-    <published>2026-07-21T15:43:54Z</published>
-    <updated>2026-07-21T15:43:54Z</updated>
+    <published>2026-07-21T22:04:14Z</published>
+    <updated>2026-07-21T22:04:14Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/2026_ana_red</id>
     <title>⚡ Celebrate the launch of the Red Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_red"/>
-    <published>2026-07-21T15:43:54Z</published>
-    <updated>2026-07-21T15:43:54Z</updated>
+    <published>2026-07-21T22:04:14Z</published>
+    <updated>2026-07-21T22:04:14Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/communityday-august-2026-nickit</id>
     <title>⚡ August 2026 Community Day: Nickit</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communityday-august-2026-nickit"/>
-    <published>2026-07-21T15:43:54Z</published>
-    <updated>2026-07-21T15:43:54Z</updated>
+    <published>2026-07-21T22:04:14Z</published>
+    <updated>2026-07-21T22:04:14Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/nationaltrust-2026</id>
     <title>⚡ Adventure awaits with the National Trust this summer!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/nationaltrust-2026"/>
-    <published>2026-07-21T15:43:54Z</published>
-    <updated>2026-07-21T15:43:54Z</updated>
+    <published>2026-07-21T22:04:14Z</published>
+    <updated>2026-07-21T22:04:14Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/summer-quest</id>
     <title>⚡ Welcome to Pokémon GO Summer Quest</title>
     <link rel="alternate" href="https://pokemongolive.com/news/summer-quest"/>
-    <published>2026-07-21T15:43:54Z</published>
-    <updated>2026-07-21T15:43:54Z</updated>
+    <published>2026-07-21T22:04:14Z</published>
+    <updated>2026-07-21T22:04:14Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition</id>
     <title>⚡ First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition"/>
-    <published>2026-07-21T15:43:54Z</published>
-    <updated>2026-07-21T15:43:54Z</updated>
+    <published>2026-07-21T22:04:14Z</published>
+    <updated>2026-07-21T22:04:14Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/water-festival-2026</id>
     <title>⚡ Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/water-festival-2026"/>
-    <published>2026-07-21T15:43:54Z</published>
-    <updated>2026-07-21T15:43:54Z</updated>
+    <published>2026-07-21T22:04:14Z</published>
+    <updated>2026-07-21T22:04:14Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/starmie-super-mega-raid-day-2026</id>
     <title>⚡ Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/starmie-super-mega-raid-day-2026"/>
-    <published>2026-07-21T15:43:54Z</published>
-    <updated>2026-07-21T15:43:54Z</updated>
+    <published>2026-07-21T22:04:14Z</published>
+    <updated>2026-07-21T22:04:14Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026</id>
     <title>⚡ That’s a big Rillaboom! Gigantamax Rillaboom drums towards Max Battle Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026"/>
-    <published>2026-07-21T15:43:54Z</published>
-    <updated>2026-07-21T15:43:54Z</updated>
+    <published>2026-07-21T22:04:14Z</published>
+    <updated>2026-07-21T22:04:14Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/gofest2026-global-update</id>
     <title>⚡ Pokémon GO Fest 2026: Global - Sunday Raid Battles update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-global-update"/>
-    <published>2026-07-21T15:43:54Z</published>
-    <updated>2026-07-21T15:43:54Z</updated>
+    <published>2026-07-21T22:04:14Z</published>
+    <updated>2026-07-21T22:04:14Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/summer-marathon-2026</id>
     <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/summer-marathon-2026"/>
-    <published>2026-07-21T15:43:54Z</published>
-    <updated>2026-07-21T15:43:54Z</updated>
+    <published>2026-07-21T22:04:14Z</published>
+    <updated>2026-07-21T22:04:14Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/save-the-date-go-wild-area-2026</id>
     <title>⚡ Save the Date: Pokémon GO Wild Area 2026</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-wild-area-2026"/>
-    <published>2026-07-21T15:43:54Z</published>
-    <updated>2026-07-21T15:43:54Z</updated>
+    <published>2026-07-21T22:04:14Z</published>
+    <updated>2026-07-21T22:04:14Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,59 +156,130 @@
     <id>https://pokemongolive.com/news/fire-and-ice-hatch-day-2026</id>
     <title>⚡ Fire and Ice Hatch Day</title>
     <link rel="alternate" href="https://pokemongolive.com/news/fire-and-ice-hatch-day-2026"/>
-    <published>2026-07-21T15:43:54Z</published>
-    <updated>2026-07-21T15:43:54Z</updated>
+    <published>2026-07-21T22:04:14Z</published>
+    <updated>2026-07-21T22:04:14Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/gadgets/968563/light-flip-phone-price-specs</id>
-    <title>🤖 The Light Flip is a minimalist flip phone with a point to prove</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/968563/light-flip-phone-price-specs"/>
-    <published>2026-07-21T15:00:00Z</published>
-    <updated>2026-07-21T15:00:00Z</updated>
-    <summary type="text">A few years ago, the team at Light shipped the most smartphone-like device they'd ever created. The Light Phone III still kept to its minimalist, no-distractions ethos, but it was a phone-size rectangle with a phone-size touchscreen, a camera, and a number of other features. Some people loved having</summary>
+    <id>https://pokemongolive.com/news/go-pass-august-2026</id>
+    <title>⚡ The Lucky Trinket returns and Latias soars into GO Pass: August!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-pass-august-2026"/>
+    <published>2026-07-21T22:04:14Z</published>
+    <updated>2026-07-21T22:04:14Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai</id>
+    <title>🤖 OpenAI says it accidentally hacked Hugging Face with a new AI system</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai"/>
+    <published>2026-07-21T21:48:54Z</published>
+    <updated>2026-07-21T21:48:54Z</updated>
+    <summary type="text">OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and &quot;an even more capable pre-release model&quot; discovered vulnerabilities within their sandboxed testing environment, allowing them to g</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model</id>
-    <title>🤖 Google launches a cheaper alternative to large AI security models like Mythos</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model"/>
-    <published>2026-07-21T15:00:00Z</published>
-    <updated>2026-07-21T15:00:00Z</updated>
-    <summary type="text">Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a &quot;cost-efficient and highly capable alternative&quot; to larger, more expensive AI systems, such a</summary>
+    <id>https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool</id>
+    <title>🤖 Substack adds an AI detector to help spot blogs written by no one</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool"/>
+    <published>2026-07-21T19:22:28Z</published>
+    <updated>2026-07-21T19:22:28Z</updated>
+    <summary type="text">Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post publis</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/966560/xteink-e-ink-e-reader-x4-pro-touchscreen-light-hands-on</id>
-    <title>🤖 A touchscreen and light make the new X4 Pro the best version of Xteink’s tiny e-readers</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/966560/xteink-e-ink-e-reader-x4-pro-touchscreen-light-hands-on"/>
-    <published>2026-07-21T14:00:00Z</published>
-    <updated>2026-07-21T14:00:00Z</updated>
-    <summary type="text">The familiar story with Xteink’s tiny e-readers plays out once again with its new X4 Pro: upgraded hardware held back by frustrating software. The company’s latest tiny e-reader adds a touchscreen and lighting, so choosing it over a Kindle or a Kobo feels like less of a compromise — until you use it</summary>
+    <id>https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter</id>
+    <title>🤖 Peak Design’s modular Field Bracket has a finder tag built-in</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter"/>
+    <published>2026-07-21T18:12:02Z</published>
+    <updated>2026-07-21T18:12:02Z</updated>
+    <summary type="text">I am a very clumsy man. So clumsy, that I have AirTags hanging off practically every camera I own. Have I left my camera in an Uber? Yes. Have I left it on an airplane? Also yes. For me, finder tags are essential for my cameras. The problem is, strapping a finder tag to a […]</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/968551/garmin-cirqa-smart-band-fitness-tracker-wearables</id>
-    <title>🤖 Garmin’s new screen-free fitness tracker doesn’t require a subscription</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/968551/garmin-cirqa-smart-band-fitness-tracker-wearables"/>
-    <published>2026-07-21T13:33:27Z</published>
-    <updated>2026-07-21T13:33:27Z</updated>
-    <summary type="text">Garmin announced a new smart band today designed to track &quot;advanced fitness and wellness features&quot; without a screen to eliminate distractions and push its battery life to up to 10 days between charges. Similar to competing products like the Whoop 5.0 and Google's recently announced Fitbit Air, the C</summary>
+    <id>https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms</id>
+    <title>🤖 Twitch will let parents stop their teens going live</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms"/>
+    <published>2026-07-21T17:00:00Z</published>
+    <updated>2026-07-21T17:00:00Z</updated>
+    <summary type="text">Twitch is giving parents more control over how their children are using the streaming platform, including the ability to block them from broadcasting entirely. Parental controls are now available that allow guardians to link Twitch accounts with their 13- to 17-year-old children, providing account m</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/introducing-chatgpt-small-business-program</id>
+    <title>🤖 Introducing the ChatGPT for small business program</title>
+    <link rel="alternate" href="https://openai.com/index/introducing-chatgpt-small-business-program"/>
+    <published>2026-07-21T17:00:00Z</published>
+    <updated>2026-07-21T17:00:00Z</updated>
+    <summary type="text">OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved</id>
+    <title>🤖 Anthropic’s $1.5 billion book piracy settlement approved by judge</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved"/>
+    <published>2026-07-21T16:53:37Z</published>
+    <updated>2026-07-21T16:53:37Z</updated>
+    <summary type="text">A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Martínez-Olguín writes that the settlement will provide &quot;meanin</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings</id>
+    <title>🤖 Tesla Robotaxis go to Florida</title>
+    <link rel="alternate" href="https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings"/>
+    <published>2026-07-21T16:11:41Z</published>
+    <updated>2026-07-21T16:11:41Z</updated>
+    <summary type="text">It must be earnings day, because Tesla is making a Robotaxi announcement. The company said in a post on X that it was launching its Robotaxi service in Orlando and Tampa, attaching a pair of maps that show each city's service area. No word on fleet size or whether interested customers would be able </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/hugging-face-model-evaluation-security-incident</id>
+    <title>🤖 OpenAI and Hugging Face partner to address security incident during model evaluation</title>
+    <link rel="alternate" href="https://openai.com/index/hugging-face-model-evaluation-security-incident"/>
+    <published>2026-07-21T07:00:00Z</published>
+    <updated>2026-07-21T07:00:00Z</updated>
+    <summary type="text">OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/david-velez-robin-vince-join-openai-boards</id>
+    <title>🤖 David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC</title>
+    <link rel="alternate" href="https://openai.com/index/david-velez-robin-vince-join-openai-boards"/>
+    <published>2026-07-21T00:00:00Z</published>
+    <updated>2026-07-21T00:00:00Z</updated>
+    <summary type="text">David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -307,18 +367,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/why-teens-deserve-access-safe-ai</id>
-    <title>🤖 Why teens deserve access to safe AI</title>
-    <link rel="alternate" href="https://openai.com/index/why-teens-deserve-access-safe-ai"/>
-    <published>2026-07-16T16:00:00Z</published>
-    <updated>2026-07-16T16:00:00Z</updated>
-    <summary type="text">Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716</id>
     <title>🤖 A better way to turn 2D designs into 3D models for rapid prototyping</title>
     <link rel="alternate" href="https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716"/>
@@ -328,18 +376,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/cars24</id>
-    <title>🤖 How Cars24 scales conversations and builds faster with OpenAI</title>
-    <link rel="alternate" href="https://openai.com/index/cars24"/>
-    <published>2026-07-16T00:00:00Z</published>
-    <updated>2026-07-16T00:00:00Z</updated>
-    <summary type="text">Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -364,18 +400,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/advancing-ai-safety-through-state-and-federal-action</id>
-    <title>🤖 The US is advancing AI safety through state and federal action</title>
-    <link rel="alternate" href="https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"/>
-    <published>2026-07-15T12:00:00Z</published>
-    <updated>2026-07-15T12:00:00Z</updated>
-    <summary type="text">OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
