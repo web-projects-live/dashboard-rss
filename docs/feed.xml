@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-07-23T15:55:26Z</updated>
+  <updated>2026-07-23T22:05:00Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,60 +10,261 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://www.theverge.com/gadgets/969615/amazon-fire-tv-stick-4k-plus-4k-max-anker-zolo-deal-sale</id>
-    <title>🤖 Amazon’s best 4K streaming sticks are up to 40 percent off</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/969615/amazon-fire-tv-stick-4k-plus-4k-max-anker-zolo-deal-sale"/>
-    <published>2026-07-23T15:00:00Z</published>
-    <updated>2026-07-23T15:00:00Z</updated>
-    <summary type="text">There’s no shortage of great shows and movies to watch, but discovering something new isn’t always easy. Amazon’s Fire TV Stick 4K Plus and Fire TV Stick 4K Max come with redesigned software that aims to make it easier to finding something you’ll like, and both 4K-ready streaming sticks are back to </summary>
+    <id>https://pokemongolive.com/news/go-fest-2026-global-final-details</id>
+    <title>⚡ Pokémon GO Fest 2026: Global final details!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-fest-2026-global-final-details"/>
+    <published>2026-07-23T22:04:58Z</published>
+    <updated>2026-07-23T22:04:58Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
+    <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
+    <published>2026-07-23T22:04:58Z</published>
+    <updated>2026-07-23T22:04:58Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/2026_ana_red</id>
+    <title>⚡ Celebrate the launch of the Red Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_red"/>
+    <published>2026-07-23T22:04:58Z</published>
+    <updated>2026-07-23T22:04:58Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/communityday-august-2026-nickit</id>
+    <title>⚡ August 2026 Community Day: Nickit</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/communityday-august-2026-nickit"/>
+    <published>2026-07-23T22:04:58Z</published>
+    <updated>2026-07-23T22:04:58Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/nationaltrust-2026</id>
+    <title>⚡ Adventure awaits with the National Trust this summer!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/nationaltrust-2026"/>
+    <published>2026-07-23T22:04:58Z</published>
+    <updated>2026-07-23T22:04:58Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/summer-quest</id>
+    <title>⚡ Welcome to Pokémon GO Summer Quest</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/summer-quest"/>
+    <published>2026-07-23T22:04:58Z</published>
+    <updated>2026-07-23T22:04:58Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition</id>
+    <title>⚡ First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition"/>
+    <published>2026-07-23T22:04:58Z</published>
+    <updated>2026-07-23T22:04:58Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/water-festival-2026</id>
+    <title>⚡ Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/water-festival-2026"/>
+    <published>2026-07-23T22:04:58Z</published>
+    <updated>2026-07-23T22:04:58Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/starmie-super-mega-raid-day-2026</id>
+    <title>⚡ Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/starmie-super-mega-raid-day-2026"/>
+    <published>2026-07-23T22:04:58Z</published>
+    <updated>2026-07-23T22:04:58Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026</id>
+    <title>⚡ That’s a big Rillaboom! Gigantamax Rillaboom drums towards Max Battle Day!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026"/>
+    <published>2026-07-23T22:04:58Z</published>
+    <updated>2026-07-23T22:04:58Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gofest2026-global-update</id>
+    <title>⚡ Pokémon GO Fest 2026: Global - Sunday Raid Battles update</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-global-update"/>
+    <published>2026-07-23T22:04:58Z</published>
+    <updated>2026-07-23T22:04:58Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/summer-marathon-2026</id>
+    <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/summer-marathon-2026"/>
+    <published>2026-07-23T22:04:58Z</published>
+    <updated>2026-07-23T22:04:58Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/save-the-date-go-wild-area-2026</id>
+    <title>⚡ Save the Date: Pokémon GO Wild Area 2026</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-wild-area-2026"/>
+    <published>2026-07-23T22:04:58Z</published>
+    <updated>2026-07-23T22:04:58Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/fire-and-ice-hatch-day-2026</id>
+    <title>⚡ Fire and Ice Hatch Day</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/fire-and-ice-hatch-day-2026"/>
+    <published>2026-07-23T22:04:58Z</published>
+    <updated>2026-07-23T22:04:58Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/go-pass-august-2026</id>
+    <title>⚡ The Lucky Trinket returns and Latias soars into GO Pass: August!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-pass-august-2026"/>
+    <published>2026-07-23T22:04:58Z</published>
+    <updated>2026-07-23T22:04:58Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices</id>
+    <title>🤖 Alexa Plus is getting an AI update to handle more complicated instructions</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices"/>
+    <published>2026-07-23T21:15:06Z</published>
+    <updated>2026-07-23T21:15:06Z</updated>
+    <summary type="text">Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automati</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal</id>
-    <title>🤖 Lawmakers prepare bill requiring AI ‘kill switch’</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"/>
-    <published>2026-07-23T14:13:35Z</published>
-    <updated>2026-07-23T14:13:35Z</updated>
-    <summary type="text">Lawmakers are preparing to introduce an &quot;AI Kill Switch Act&quot; that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the </summary>
+    <id>https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment</id>
+    <title>🤖 FCC Chairman Brendan Carr’s war on the First Amendment</title>
+    <link rel="alternate" href="https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment"/>
+    <published>2026-07-23T19:46:11Z</published>
+    <updated>2026-07-23T19:46:11Z</updated>
+    <summary type="text">As the chairman of the Federal Communications Commission, Brendan Carr has authority over the nation’s TV, radio, and internet. But since Donald Trump was elected to his second term, Carr has wielded that power to threaten broadcasters that have exercised their free speech rights to make jokes about</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive</id>
-    <title>🤖 Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era</title>
-    <link rel="alternate" href="https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive"/>
-    <published>2026-07-23T14:00:00Z</published>
-    <updated>2026-07-23T14:00:00Z</updated>
-    <summary type="text">Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case. The company says a </summary>
+    <id>https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai</id>
+    <title>🤖 Claude’s voice mode is now available for Opus and Sonnet</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"/>
+    <published>2026-07-23T19:00:00Z</published>
+    <updated>2026-07-23T19:00:00Z</updated>
+    <summary type="text">Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it wa</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/transportation/969919/ford-apple-maps-bluecruise-driver-assist</id>
-    <title>🤖 Ford picks Apple Maps for its next EV platform and updated BlueCruise</title>
-    <link rel="alternate" href="https://www.theverge.com/transportation/969919/ford-apple-maps-bluecruise-driver-assist"/>
-    <published>2026-07-23T13:49:51Z</published>
-    <updated>2026-07-23T13:49:51Z</updated>
-    <summary type="text">Ford plans to embed Apple Maps directly into its Universal Electric Vehicle Platform, which will start with a $30,000 midsize pickup truck set for release in 2027. In an announcement on Thursday, Ford says it will use Apple Maps to offer &quot;turn-by-turn directions using natural language, real-time tra</summary>
+    <id>https://www.theverge.com/tech/970211/patreon-layoffs-ai</id>
+    <title>🤖 Patreon is laying off 20 percent of workers</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/970211/patreon-layoffs-ai"/>
+    <published>2026-07-23T18:20:30Z</published>
+    <updated>2026-07-23T18:20:30Z</updated>
+    <summary type="text">Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes &quot;because we believe AI replaces humans,&quot; but says AI has &quot;fundamentally transformed the tech in</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview</id>
-    <title>🤖 The sci-fi movie that imagines AI isn’t so dystopian after all</title>
-    <link rel="alternate" href="https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview"/>
-    <published>2026-07-23T13:00:00Z</published>
-    <updated>2026-07-23T13:00:00Z</updated>
-    <summary type="text">Imagine you are the parent of an inquisitive seven-year-old who loves his family, playing baseball, and hanging out with his friends. It's the life you've always wanted. And then the worst thing that ever could happen happens: A freak accident takes your son away. But as it turns out, you don't have</summary>
+    <id>https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale</id>
+    <title>🤖 Corsair’s PC case with a panoramic glass design is $70 off</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale"/>
+    <published>2026-07-23T17:20:00Z</published>
+    <updated>2026-07-23T17:20:00Z</updated>
+    <summary type="text">On the hunt for a PC case that’s loaded with features and has a unique look? Amazon, Best Buy, and Corsair are selling the Corsair Frame 4500X RS for $119.99, a $70 discount from the usual price. The versatile case supports motherboards up to EATX, GPUs up to 460mm in length, and has a seamless […]</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk</id>
+    <title>🤖 Tesla’s robotaxi promises are clashing with reality</title>
+    <link rel="alternate" href="https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk"/>
+    <published>2026-07-23T17:09:31Z</published>
+    <updated>2026-07-23T17:09:31Z</updated>
+    <summary type="text">In an earnings call yesterday, Tesla CEO Elon Musk did his best to paint a positive portrait of the company's robotaxi program. New cities are being added, more miles are being driven, and more people are experiencing Tesla's unsupervised vehicles. But Musk's typical bullishness seemed to be absent </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims</id>
+    <title>🤖 OpenAI is making big claims as it rolls out ChatGPT Health to everyone</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"/>
+    <published>2026-07-23T17:00:00Z</published>
+    <updated>2026-07-23T17:00:00Z</updated>
+    <summary type="text">OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models &quot;are now capable of </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/streaming/970099/amazon-prime-video-luna-gaming</id>
+    <title>🤖 Amazon puts Luna cloud-streamed games like Fallout 4 inside Prime Video</title>
+    <link rel="alternate" href="https://www.theverge.com/streaming/970099/amazon-prime-video-luna-gaming"/>
+    <published>2026-07-23T16:39:32Z</published>
+    <updated>2026-07-23T16:39:32Z</updated>
+    <summary type="text">The new strategy that Amazon gaming exec Jeff Gattis talked to The Verge about last month is getting clearer now that Prime Video has added a new Games tab on Fire TV devices. With Prime Gaming, Amazon Game Studios, and Luna now combined into one organization, it's aiming at the more casual audience</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
@@ -82,27 +283,15 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security</id>
-    <title>🤖 Google now lets you sign in to your account using a selfie video</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security"/>
-    <published>2026-07-23T10:00:00Z</published>
-    <updated>2026-07-23T10:00:00Z</updated>
-    <summary type="text">Google announced yet another way to gain access to your account if you get locked out, forget your password, or don't have access to the phone, computer, or two-factor authentication apps you typically use. As the name implies, selfie video lets you capture a short video of your face on a mobile dev</summary>
+    <id>https://openai.com/index/health-in-chatgpt</id>
+    <title>🤖 Launching Health in ChatGPT</title>
+    <link rel="alternate" href="https://openai.com/index/health-in-chatgpt"/>
+    <published>2026-07-23T00:00:00Z</published>
+    <updated>2026-07-23T00:00:00Z</updated>
+    <summary type="text">Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.</summary>
     <category term="ai"/>
     <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates</id>
-    <title>🤖 Framework’s premium laptop is shipping with less RAM</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates"/>
-    <published>2026-07-23T09:28:30Z</published>
-    <updated>2026-07-23T09:28:30Z</updated>
-    <summary type="text">RAMageddon has claimed yet another victim, with Framework now announcing a &quot;major and unfortunate&quot; pricing update for its upcoming premium laptop - which also impacts folks who preordered it. Memory configurations for the Laptop 13 Pro have been adjusted after Framework says it received cost updates</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -166,18 +355,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/ntt-data</id>
-    <title>🤖 NTT DATA Group cuts incident analysis to 30 minutes with Codex</title>
-    <link rel="alternate" href="https://openai.com/index/ntt-data"/>
-    <published>2026-07-22T00:00:00Z</published>
-    <updated>2026-07-22T00:00:00Z</updated>
-    <summary type="text">NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717</id>
     <title>🤖 Following the questions where they lead</title>
     <link rel="alternate" href="https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717"/>
@@ -190,54 +367,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs</id>
-    <title>🤖 The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs</title>
-    <link rel="alternate" href="https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"/>
-    <published>2026-07-16T19:16:48Z</published>
-    <updated>2026-07-16T19:16:48Z</updated>
-    <summary type="text">Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a</summary>
-    <category term="ai"/>
-    <author>
-      <name>VentureBeat AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials</id>
-    <title>🤖 The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials</title>
-    <link rel="alternate" href="https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"/>
-    <published>2026-07-16T19:02:38Z</published>
-    <updated>2026-07-16T19:02:38Z</updated>
-    <summary type="text">Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents stil</summary>
-    <category term="ai"/>
-    <author>
-      <name>VentureBeat AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix</id>
-    <title>🤖 The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix</title>
-    <link rel="alternate" href="https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"/>
-    <published>2026-07-16T17:06:08Z</published>
-    <updated>2026-07-16T17:06:08Z</updated>
-    <summary type="text">Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define th</summary>
-    <category term="ai"/>
-    <author>
-      <name>VentureBeat AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway</id>
-    <title>🤖 The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway</title>
-    <link rel="alternate" href="https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"/>
-    <published>2026-07-16T16:40:48Z</published>
-    <updated>2026-07-16T16:40:48Z</updated>
-    <summary type="text">Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated ev</summary>
-    <category term="ai"/>
-    <author>
-      <name>VentureBeat AI</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716</id>
     <title>🤖 A better way to turn 2D designs into 3D models for rapid prototyping</title>
     <link rel="alternate" href="https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716"/>
@@ -247,18 +376,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents</id>
-    <title>🤖 Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</title>
-    <link rel="alternate" href="https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"/>
-    <published>2026-07-15T22:24:17Z</published>
-    <updated>2026-07-15T22:24:17Z</updated>
-    <summary type="text">Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents”</summary>
-    <category term="ai"/>
-    <author>
-      <name>VentureBeat AI</name>
     </author>
   </entry>
   <entry>
@@ -394,6 +511,66 @@
     <published>2026-01-22T14:00:00Z</published>
     <updated>2026-01-22T14:00:00Z</updated>
     <summary type="text">Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of leg</summary>
+    <category term="ai"/>
+    <author>
+      <name>VentureBeat AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</id>
+    <title>🤖 Claude Code costs up to $200 a month. Goose does the same thing for free.</title>
+    <link rel="alternate" href="https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"/>
+    <published>2026-01-19T14:00:00Z</published>
+    <updated>2026-01-19T14:00:00Z</updated>
+    <summary type="text">The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month</summary>
+    <category term="ai"/>
+    <author>
+      <name>VentureBeat AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai</id>
+    <title>🤖 Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews</title>
+    <link rel="alternate" href="https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"/>
+    <published>2026-01-16T14:01:00Z</published>
+    <updated>2026-01-16T14:01:00Z</updated>
+    <summary type="text">Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like</summary>
+    <category term="ai"/>
+    <author>
+      <name>VentureBeat AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and</id>
+    <title>🤖 Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI</title>
+    <link rel="alternate" href="https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"/>
+    <published>2026-01-13T13:00:00Z</published>
+    <updated>2026-01-13T13:00:00Z</updated>
+    <summary type="text">Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf </summary>
+    <category term="ai"/>
+    <author>
+      <name>VentureBeat AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</id>
+    <title>🤖 Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required</title>
+    <link rel="alternate" href="https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"/>
+    <published>2026-01-12T11:30:00Z</published>
+    <updated>2026-01-12T11:30:00Z</updated>
+    <summary type="text">Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself. The laun</summary>
+    <category term="ai"/>
+    <author>
+      <name>VentureBeat AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</id>
+    <title>🤖 Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
+    <link rel="alternate" href="https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"/>
+    <published>2026-01-07T20:00:00Z</published>
+    <updated>2026-01-07T20:00:00Z</updated>
+    <summary type="text">Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia's latest B200 graphics pro</summary>
     <category term="ai"/>
     <author>
       <name>VentureBeat AI</name>
