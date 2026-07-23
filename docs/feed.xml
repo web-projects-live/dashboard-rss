@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-07-22T22:04:28Z</updated>
+  <updated>2026-07-23T12:20:27Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,168 +10,39 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/go-fest-2026-global-final-details</id>
-    <title>⚡ Pokémon GO Fest 2026: Global final details!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/go-fest-2026-global-final-details"/>
-    <published>2026-07-22T22:04:27Z</published>
-    <updated>2026-07-22T22:04:27Z</updated>
-    <category term="pokemon"/>
+    <id>https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723</id>
+    <title>🤖 MIT projects selected for funding under US Department of Energy’s Genesis Mission</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723"/>
+    <published>2026-07-23T12:00:00Z</published>
+    <updated>2026-07-23T12:00:00Z</updated>
+    <summary type="text">Initial research projects advance national priorities across natural resources, manufacturing, nuclear physics, and more.</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>MIT AI News</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
-    <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
-    <published>2026-07-22T22:04:27Z</published>
-    <updated>2026-07-22T22:04:27Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security</id>
+    <title>🤖 Google now lets you sign in to your account using a selfie video</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security"/>
+    <published>2026-07-23T10:00:00Z</published>
+    <updated>2026-07-23T10:00:00Z</updated>
+    <summary type="text">Google announced yet another way to gain access to your account if you get locked out, forget your password, or don't have access to the phone, computer, or two-factor authentication apps you typically use. As the name implies, selfie video lets you capture a short video of your face on a mobile dev</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/2026_ana_red</id>
-    <title>⚡ Celebrate the launch of the Red Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_red"/>
-    <published>2026-07-22T22:04:27Z</published>
-    <updated>2026-07-22T22:04:27Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates</id>
+    <title>🤖 Framework’s premium laptop is shipping with less RAM</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates"/>
+    <published>2026-07-23T09:28:30Z</published>
+    <updated>2026-07-23T09:28:30Z</updated>
+    <summary type="text">RAMageddon has claimed yet another victim, with Framework now announcing a &quot;major and unfortunate&quot; pricing update for its upcoming premium laptop - which also impacts folks who preordered it. Memory configurations for the Laptop 13 Pro have been adjusted after Framework says it received cost updates</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/communityday-august-2026-nickit</id>
-    <title>⚡ August 2026 Community Day: Nickit</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/communityday-august-2026-nickit"/>
-    <published>2026-07-22T22:04:27Z</published>
-    <updated>2026-07-22T22:04:27Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/nationaltrust-2026</id>
-    <title>⚡ Adventure awaits with the National Trust this summer!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/nationaltrust-2026"/>
-    <published>2026-07-22T22:04:27Z</published>
-    <updated>2026-07-22T22:04:27Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/summer-quest</id>
-    <title>⚡ Welcome to Pokémon GO Summer Quest</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/summer-quest"/>
-    <published>2026-07-22T22:04:27Z</published>
-    <updated>2026-07-22T22:04:27Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition</id>
-    <title>⚡ First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition"/>
-    <published>2026-07-22T22:04:27Z</published>
-    <updated>2026-07-22T22:04:27Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/water-festival-2026</id>
-    <title>⚡ Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/water-festival-2026"/>
-    <published>2026-07-22T22:04:27Z</published>
-    <updated>2026-07-22T22:04:27Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/starmie-super-mega-raid-day-2026</id>
-    <title>⚡ Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/starmie-super-mega-raid-day-2026"/>
-    <published>2026-07-22T22:04:27Z</published>
-    <updated>2026-07-22T22:04:27Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026</id>
-    <title>⚡ That’s a big Rillaboom! Gigantamax Rillaboom drums towards Max Battle Day!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026"/>
-    <published>2026-07-22T22:04:27Z</published>
-    <updated>2026-07-22T22:04:27Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/gofest2026-global-update</id>
-    <title>⚡ Pokémon GO Fest 2026: Global - Sunday Raid Battles update</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-global-update"/>
-    <published>2026-07-22T22:04:27Z</published>
-    <updated>2026-07-22T22:04:27Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/summer-marathon-2026</id>
-    <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/summer-marathon-2026"/>
-    <published>2026-07-22T22:04:27Z</published>
-    <updated>2026-07-22T22:04:27Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/save-the-date-go-wild-area-2026</id>
-    <title>⚡ Save the Date: Pokémon GO Wild Area 2026</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-wild-area-2026"/>
-    <published>2026-07-22T22:04:27Z</published>
-    <updated>2026-07-22T22:04:27Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/fire-and-ice-hatch-day-2026</id>
-    <title>⚡ Fire and Ice Hatch Day</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/fire-and-ice-hatch-day-2026"/>
-    <published>2026-07-22T22:04:27Z</published>
-    <updated>2026-07-22T22:04:27Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/go-pass-august-2026</id>
-    <title>⚡ The Lucky Trinket returns and Latias soars into GO Pass: August!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/go-pass-august-2026"/>
-    <published>2026-07-22T22:04:27Z</published>
-    <updated>2026-07-22T22:04:27Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -208,42 +79,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/gadgets/968716/samsung-galaxy-z-flip-fold-8-ultra-how-to-buy-preorder-price-release-date</id>
-    <title>🤖 Preorders for Samsung’s new Z Fold and Flip 8 come with up to $350 in gift cards</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/968716/samsung-galaxy-z-flip-fold-8-ultra-how-to-buy-preorder-price-release-date"/>
-    <published>2026-07-22T15:42:22Z</published>
-    <updated>2026-07-22T15:42:22Z</updated>
-    <summary type="text">Samsung's newest foldables are here. At Galaxy Unpacked, the company announced the Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z Fold 8 Ultra. All three devices will be available on August 7th, but you can preorder them now starting at $1,199.99, $1,899.99, and $2,099.99, respectively. You probably</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush</id>
-    <title>🤖 Philips’ new smart toothbrush shows you where you didn’t properly brush</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush"/>
-    <published>2026-07-22T15:09:44Z</published>
-    <updated>2026-07-22T15:09:44Z</updated>
-    <summary type="text">The latest addition to Philips' Sonicare line of smart electric toothbrushes could take the guesswork out of your brushing routine. The Next-Generation DiamondClean 9900 Prestige uses a third-generation AI model to provide real-time feedback on how you're brushing through a glowing ring on its base,</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/news/969117/microsoft-xbox-games-pc-backward-compatibility</id>
-    <title>🤖 Microsoft is bringing original Xbox games to PC</title>
-    <link rel="alternate" href="https://www.theverge.com/news/969117/microsoft-xbox-games-pc-backward-compatibility"/>
-    <published>2026-07-22T15:00:00Z</published>
-    <updated>2026-07-22T15:00:00Z</updated>
-    <summary type="text">Microsoft is expanding its Xbox backward compatibility efforts today by bringing original Xbox games to PC. An early preview release will see four classic Xbox games available on PC today, as part of a bigger effort to bring more Xbox console games to PC in the future. The first four games are Blinx</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -295,12 +130,12 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/introducing-chatgpt-small-business-program</id>
-    <title>🤖 Introducing the ChatGPT for small business program</title>
-    <link rel="alternate" href="https://openai.com/index/introducing-chatgpt-small-business-program"/>
-    <published>2026-07-21T17:00:00Z</published>
-    <updated>2026-07-21T17:00:00Z</updated>
-    <summary type="text">OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.</summary>
+    <id>https://openai.com/index/ntt-data</id>
+    <title>🤖 NTT DATA Group cuts incident analysis to 30 minutes with Codex</title>
+    <link rel="alternate" href="https://openai.com/index/ntt-data"/>
+    <published>2026-07-22T00:00:00Z</published>
+    <updated>2026-07-22T00:00:00Z</updated>
+    <summary type="text">NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
@@ -433,18 +268,6 @@
     <published>2026-07-13T19:10:00Z</published>
     <updated>2026-07-13T19:10:00Z</updated>
     <summary type="text">Students from the MIT Cybersecurity Clinic help local governments and other vulnerable organizations defend against digital threats.</summary>
-    <category term="ai"/>
-    <author>
-      <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713</id>
-    <title>🤖 AI agents create virtual playgrounds to help robots get crucial training data</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713"/>
-    <published>2026-07-13T18:50:00Z</published>
-    <updated>2026-07-13T18:50:00Z</updated>
-    <summary type="text">“SceneSmith” system uses collaborative AI agents to create realistic 3D environments of places like kitchens, hotels, and living rooms, where robots can simulate everyday chores.</summary>
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
