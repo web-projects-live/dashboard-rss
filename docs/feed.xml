@@ -2,13 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-07-23T12:20:27Z</updated>
+  <updated>2026-07-23T15:55:26Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
     <name>ha-news-feed-bot</name>
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
+  <entry>
+    <id>https://www.theverge.com/gadgets/969615/amazon-fire-tv-stick-4k-plus-4k-max-anker-zolo-deal-sale</id>
+    <title>🤖 Amazon’s best 4K streaming sticks are up to 40 percent off</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/969615/amazon-fire-tv-stick-4k-plus-4k-max-anker-zolo-deal-sale"/>
+    <published>2026-07-23T15:00:00Z</published>
+    <updated>2026-07-23T15:00:00Z</updated>
+    <summary type="text">There’s no shortage of great shows and movies to watch, but discovering something new isn’t always easy. Amazon’s Fire TV Stick 4K Plus and Fire TV Stick 4K Max come with redesigned software that aims to make it easier to finding something you’ll like, and both 4K-ready streaming sticks are back to </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal</id>
+    <title>🤖 Lawmakers prepare bill requiring AI ‘kill switch’</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"/>
+    <published>2026-07-23T14:13:35Z</published>
+    <updated>2026-07-23T14:13:35Z</updated>
+    <summary type="text">Lawmakers are preparing to introduce an &quot;AI Kill Switch Act&quot; that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive</id>
+    <title>🤖 Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era</title>
+    <link rel="alternate" href="https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive"/>
+    <published>2026-07-23T14:00:00Z</published>
+    <updated>2026-07-23T14:00:00Z</updated>
+    <summary type="text">Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case. The company says a </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/transportation/969919/ford-apple-maps-bluecruise-driver-assist</id>
+    <title>🤖 Ford picks Apple Maps for its next EV platform and updated BlueCruise</title>
+    <link rel="alternate" href="https://www.theverge.com/transportation/969919/ford-apple-maps-bluecruise-driver-assist"/>
+    <published>2026-07-23T13:49:51Z</published>
+    <updated>2026-07-23T13:49:51Z</updated>
+    <summary type="text">Ford plans to embed Apple Maps directly into its Universal Electric Vehicle Platform, which will start with a $30,000 midsize pickup truck set for release in 2027. In an announcement on Thursday, Ford says it will use Apple Maps to offer &quot;turn-by-turn directions using natural language, real-time tra</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview</id>
+    <title>🤖 The sci-fi movie that imagines AI isn’t so dystopian after all</title>
+    <link rel="alternate" href="https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview"/>
+    <published>2026-07-23T13:00:00Z</published>
+    <updated>2026-07-23T13:00:00Z</updated>
+    <summary type="text">Imagine you are the parent of an inquisitive seven-year-old who loves his family, playing baseball, and hanging out with his friends. It's the life you've always wanted. And then the worst thing that ever could happen happens: A freak accident takes your son away. But as it turns out, you don't have</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
   <entry>
     <id>https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723</id>
     <title>🤖 MIT projects selected for funding under US Department of Energy’s Genesis Mission</title>
@@ -40,30 +100,6 @@
     <published>2026-07-23T09:28:30Z</published>
     <updated>2026-07-23T09:28:30Z</updated>
     <summary type="text">RAMageddon has claimed yet another victim, with Framework now announcing a &quot;major and unfortunate&quot; pricing update for its upcoming premium laptop - which also impacts folks who preordered it. Memory configurations for the Laptop 13 Pro have been adjusted after Framework says it received cost updates</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped</id>
-    <title>🤖 Meta won’t have to face the next planned social media addiction trial</title>
-    <link rel="alternate" href="https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped"/>
-    <published>2026-07-22T22:03:53Z</published>
-    <updated>2026-07-22T22:03:53Z</updated>
-    <summary type="text">Less than a week before Meta's lawyers were set to return to a Los Angeles courtroom, the plaintiff accusing the platform of inflicting harm dropped the case. Brought by 15-year-old Florida plaintiff going by initials R.K.C., the case was set to be the second in a set of bellwether trials meant to t</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27</id>
-    <title>🤖 iOS code could reportedly let Apple cut off apps when users miss iPhone payments</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27"/>
-    <published>2026-07-22T19:13:21Z</published>
-    <updated>2026-07-22T19:13:21Z</updated>
-    <summary type="text">Code found in an iOS 27 beta would allow Apple to put a financed iPhone in &quot;Restricted Mode&quot; if it detects any missed payments, 9to5Mac reports. The finding follows a story from Bloomberg earlier this week claiming Apple is preparing to launch a new &quot;Apple Upgrade&quot; financing program for leasing new </summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
