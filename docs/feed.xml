@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-07-24T15:25:41Z</updated>
+  <updated>2026-07-24T22:05:28Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,228 +10,195 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/go-fest-2026-global-final-details</id>
-    <title>⚡ Pokémon GO Fest 2026: Global final details!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/go-fest-2026-global-final-details"/>
-    <published>2026-07-24T15:25:39Z</published>
-    <updated>2026-07-24T15:25:39Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v5o2lp/ozone_ascent_leekduck/</id>
+    <title>⚡ Ozone Ascent (LeekDuck)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v5o2lp/ozone_ascent_leekduck/"/>
+    <published>2026-07-24T21:06:37Z</published>
+    <updated>2026-07-24T21:06:37Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
-    <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
-    <published>2026-07-24T15:25:39Z</published>
-    <updated>2026-07-24T15:25:39Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v5njkq/with_go_fest_done_and_mega_mewtwos_debut_what_do/</id>
+    <title>⚡ With go fest done and mega mewtwo’s debut, what do y’all think is going to be that one big chase Pokemon to come in the game?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v5njkq/with_go_fest_done_and_mega_mewtwos_debut_what_do/"/>
+    <published>2026-07-24T20:47:08Z</published>
+    <updated>2026-07-24T20:47:08Z</updated>
+    <summary type="text">With mostly all legendaries returning in raids in go fest it feels like we are in for a new phase, mostly we will see gen 9 legendaries soon, but what do you think is going to be that one big chase Pokemon which will shake Pve and introduce a new game mechanic or something submitted by /u/Accomplish</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/2026_ana_red</id>
-    <title>⚡ Celebrate the launch of the Red Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_red"/>
-    <published>2026-07-24T15:25:39Z</published>
-    <updated>2026-07-24T15:25:39Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v5md3q/ozone_ascent_timed_research/</id>
+    <title>⚡ Ozone Ascent timed research</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v5md3q/ozone_ascent_timed_research/"/>
+    <published>2026-07-24T20:04:08Z</published>
+    <updated>2026-07-24T20:04:08Z</updated>
+    <summary type="text">From the PokeMiners discord submitted by /u/aznknight613 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/communityday-august-2026-nickit</id>
-    <title>⚡ August 2026 Community Day: Nickit</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/communityday-august-2026-nickit"/>
-    <published>2026-07-24T15:25:39Z</published>
-    <updated>2026-07-24T15:25:39Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/nationaltrust-2026</id>
-    <title>⚡ Adventure awaits with the National Trust this summer!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/nationaltrust-2026"/>
-    <published>2026-07-24T15:25:39Z</published>
-    <updated>2026-07-24T15:25:39Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/summer-quest</id>
-    <title>⚡ Welcome to Pokémon GO Summer Quest</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/summer-quest"/>
-    <published>2026-07-24T15:25:39Z</published>
-    <updated>2026-07-24T15:25:39Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition</id>
-    <title>⚡ First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition"/>
-    <published>2026-07-24T15:25:39Z</published>
-    <updated>2026-07-24T15:25:39Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/water-festival-2026</id>
-    <title>⚡ Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/water-festival-2026"/>
-    <published>2026-07-24T15:25:39Z</published>
-    <updated>2026-07-24T15:25:39Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/starmie-super-mega-raid-day-2026</id>
-    <title>⚡ Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/starmie-super-mega-raid-day-2026"/>
-    <published>2026-07-24T15:25:39Z</published>
-    <updated>2026-07-24T15:25:39Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026</id>
-    <title>⚡ That’s a big Rillaboom! Gigantamax Rillaboom drums towards Max Battle Day!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026"/>
-    <published>2026-07-24T15:25:39Z</published>
-    <updated>2026-07-24T15:25:39Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/gofest2026-global-update</id>
-    <title>⚡ Pokémon GO Fest 2026: Global - Sunday Raid Battles update</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-global-update"/>
-    <published>2026-07-24T15:25:39Z</published>
-    <updated>2026-07-24T15:25:39Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/summer-marathon-2026</id>
-    <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/summer-marathon-2026"/>
-    <published>2026-07-24T15:25:39Z</published>
-    <updated>2026-07-24T15:25:39Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/save-the-date-go-wild-area-2026</id>
-    <title>⚡ Save the Date: Pokémon GO Wild Area 2026</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-wild-area-2026"/>
-    <published>2026-07-24T15:25:39Z</published>
-    <updated>2026-07-24T15:25:39Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/fire-and-ice-hatch-day-2026</id>
-    <title>⚡ Fire and Ice Hatch Day</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/fire-and-ice-hatch-day-2026"/>
-    <published>2026-07-24T15:25:39Z</published>
-    <updated>2026-07-24T15:25:39Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/go-pass-august-2026</id>
-    <title>⚡ The Lucky Trinket returns and Latias soars into GO Pass: August!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/go-pass-august-2026"/>
-    <published>2026-07-24T15:25:39Z</published>
-    <updated>2026-07-24T15:25:39Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/transportation/970560/tesla-electronic-door-crash-nhtsa-safety-rules</id>
-    <title>🤖 Tesla’s car door defect could lead to tougher rules for everyone</title>
-    <link rel="alternate" href="https://www.theverge.com/transportation/970560/tesla-electronic-door-crash-nhtsa-safety-rules"/>
-    <published>2026-07-24T15:14:04Z</published>
-    <updated>2026-07-24T15:14:04Z</updated>
-    <summary type="text">Tesla's electronic door handles that have been linked to several deaths could lead to tougher safety rules for the entire auto industry. In a notice published today, the National Highway Traffic Safety Administration said that complaints about Tesla's mechanical door release don't warrant a defect i</summary>
+    <id>https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg</id>
+    <title>🤖 Qualcomm is about to raise prices and that&amp;#8217;s bad news for everyone</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg"/>
+    <published>2026-07-24T19:14:23Z</published>
+    <updated>2026-07-24T19:14:23Z</updated>
+    <summary type="text">Qualcomm sent a letter to customers on Friday warning of plans to increase its prices by &quot;a percentage in the double digits,&quot; Bloomberg reports. The price hikes will go into effect starting with products shipped after September 1st. Qualcomm claims it has &quot;exhausted its ability to absorb higher cost</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/gadgets/970559/acer-chromebook-spin-anker-charger-nintendo-logitech-deal-sale</id>
-    <title>🤖 One of the best 2-in-1 Chromebooks is almost $200 off for today only</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/970559/acer-chromebook-spin-anker-charger-nintendo-logitech-deal-sale"/>
-    <published>2026-07-24T15:11:03Z</published>
-    <updated>2026-07-24T15:11:03Z</updated>
-    <summary type="text">Most Chromebooks ship with only 8GB of RAM, which is enough for some people, but certainly not enough for me. Multitaskers who want more memory in their next Chromebook should check out Best Buy, which is discounting Acer’s Chromebook Plus Spin 514 for the remainder of the day. Originally $749 for t</summary>
+    <id>https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition</id>
+    <title>🤖 Midjourney bought the astrology app Co-Star</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition"/>
+    <published>2026-07-24T19:06:58Z</published>
+    <updated>2026-07-24T19:06:58Z</updated>
+    <summary type="text">Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily </summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants</id>
-    <title>🤖 The tech-broification of American science has officially begun</title>
-    <link rel="alternate" href="https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants"/>
-    <published>2026-07-24T14:43:55Z</published>
-    <updated>2026-07-24T14:43:55Z</updated>
-    <summary type="text">The Trump administration unveiled the first &quot;Genesis Mission&quot; grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as &quot;comparable in urgency and ambition to the Manhattan Project.&quot; At roughly the same time, Trump's science </summary>
+    <id>https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b</id>
+    <title>🤖 Nothing confirms layoffs, but calls market exit rumors &amp;#8216;fake news&amp;#8217;</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b"/>
+    <published>2026-07-24T18:10:22Z</published>
+    <updated>2026-07-24T18:10:22Z</updated>
+    <summary type="text">In response to a report that Nothing is planning to &quot;exit 12 markets as global shipments decline,&quot; Nothing cofounder Akis Evangelidis said the company is &quot;reorganizing&quot; and laying off some of its staff, but that &quot;the reported numbers are way overblown.&quot; Evangelidis disputed a claim about underwhelmi</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason</id>
-    <title>🤖 Whack-a-drone</title>
-    <link rel="alternate" href="https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason"/>
-    <published>2026-07-24T12:00:00Z</published>
-    <updated>2026-07-24T12:00:00Z</updated>
-    <summary type="text">In Pasadena, California, there's a cute red brick courtyard where one storefront isn't like the rest. The glass doors open onto a sparse industrial hallway, which leads to a sunlit foyer with a large spiral staircase. Go up, and you'll see a typical coworking space: open tables, healthy snacks, a co</summary>
+    <id>https://www.theverge.com/streaming/970814/roku-streaming-price-increase</id>
+    <title>🤖 Roku raises streaming hardware prices by up to $50</title>
+    <link rel="alternate" href="https://www.theverge.com/streaming/970814/roku-streaming-price-increase"/>
+    <published>2026-07-24T18:07:19Z</published>
+    <updated>2026-07-24T18:07:19Z</updated>
+    <summary type="text">Roku has increased prices across its streaming hardware, with the cheapest HD Streaming Stick now priced at $39.99 instead of $29.99, as first reported by The Desk. The price hike affects all of Roku's other devices as well, with some increasing by as much as $50. Here's a rundown of the changes: Ro</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown</id>
-    <title>🤖 Microsoft pressures LG into killing unwanted McAfee ads</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown"/>
-    <published>2026-07-24T09:20:09Z</published>
-    <updated>2026-07-24T09:20:09Z</updated>
-    <summary type="text">Microsoft has intervened to stop Windows 11 users with LG monitors from being bombarded with annoying McAfee trial pop-ups. In response to complaints about the LG bloatware, Microsoft's Windows chief, Pavan Davuluri, said that LG has agreed to immediately disable the McAfee pop-up from its LG Monito</summary>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v5ixp0/rip_the_dream/</id>
+    <title>⚡ RIP the dream</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v5ixp0/rip_the_dream/"/>
+    <published>2026-07-24T18:01:16Z</published>
+    <updated>2026-07-24T18:01:16Z</updated>
+    <summary type="text">Scopely finally removed glaciate from my glitched fused Kyurem. I knew it was coming but it doesn’t make it any less painful 😔🙏. At least we’ll be able to use kyurem in ML now. submitted by /u/Flashy-Persimmon-594 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video</id>
+    <title>🤖 Blade Runner 2099’s moody dystopia streams on Amazon in November</title>
+    <link rel="alternate" href="https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video"/>
+    <published>2026-07-24T17:40:00Z</published>
+    <updated>2026-07-24T17:40:00Z</updated>
+    <summary type="text">After teasing the series with some first-look images yesterday, Amazon is finally properly unveiling its Blade Runner streaming series. Called Blade Runner 2099, the show hits Prime Video on November 25th with all eight episodes dropping at once. We also got the first trailer for the series, which i</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast</id>
+    <title>🤖 You can’t ignore Google Zero anymore</title>
+    <link rel="alternate" href="https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast"/>
+    <published>2026-07-24T17:29:48Z</published>
+    <updated>2026-07-24T17:29:48Z</updated>
+    <summary type="text">The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the [</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release</id>
+    <title>🤖 Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release"/>
+    <published>2026-07-24T17:00:00Z</published>
+    <updated>2026-07-24T17:00:00Z</updated>
+    <summary type="text">Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 &quot;comes close to the capabilities of Claude </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update</id>
+    <title>🤖 Meta is making its AI chatbot more like an assistant</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update"/>
+    <published>2026-07-24T17:00:00Z</published>
+    <updated>2026-07-24T17:00:00Z</updated>
+    <summary type="text">Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as i</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v5h5ve/scopely_issued_a_response_about_the_gym_situation/</id>
+    <title>⚡ Scopely issued a response about the gym situation.</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v5h5ve/scopely_issued_a_response_about_the_gym_situation/"/>
+    <published>2026-07-24T16:59:27Z</published>
+    <updated>2026-07-24T16:59:27Z</updated>
+    <summary type="text">submitted by /u/Mammoth7121 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v5gktw/datamined_not_all_backgrounds_may_be_eligible_for/</id>
+    <title>⚡ Datamined: Not All Backgrounds May Be Eligible for Profile Display</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v5gktw/datamined_not_all_backgrounds_may_be_eligible_for/"/>
+    <published>2026-07-24T16:38:41Z</published>
+    <updated>2026-07-24T16:38:41Z</updated>
+    <summary type="text">submitted by /u/iTaIksick [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v5c9po/tired_of_waiting_for_the_animations/</id>
+    <title>⚡ Tired of waiting for the animations...</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v5c9po/tired_of_waiting_for_the_animations/"/>
+    <published>2026-07-24T14:01:33Z</published>
+    <updated>2026-07-24T14:01:33Z</updated>
+    <summary type="text">You'd think that after playing this game for ten straight years, being a certain level...or something - the game authors would allow me to turn off animations. Evolving Pokémon, hatching eggs, etc. I get it. I know what the animation looks like....but now it is just wasting my time. submitted by /u/</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v57h47/as_pokémon_go_celebrates_its_10_years_anniversary/</id>
+    <title>⚡ As Pokémon go celebrates its 10 years anniversary, APAC reaches 10 years straight of beta testing events, and going into every single event blind. Why are we the only ones who have to play like this?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v57h47/as_pokémon_go_celebrates_its_10_years_anniversary/"/>
+    <published>2026-07-24T10:25:43Z</published>
+    <updated>2026-07-24T10:25:43Z</updated>
+    <summary type="text">Take tomorrow's event, &quot;Ozone Ascent&quot; for instance. We know when it starts, when it ends, that it's a research day, and that it rewards a Rayquaza and a meteorite. That's it. We don't know the tasks, we have no way of prepping ahead. We don't know if we should be holding off on sending or opening gi</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -244,18 +211,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices</id>
-    <title>🤖 Alexa Plus is getting an AI update to handle more complicated instructions</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices"/>
-    <published>2026-07-23T21:15:06Z</published>
-    <updated>2026-07-23T21:15:06Z</updated>
-    <summary type="text">Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automati</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -351,6 +306,30 @@
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v2hrh8/questions_answers_weekly_megathread_please_use/</id>
+    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v2hrh8/questions_answers_weekly_megathread_please_use/"/>
+    <published>2026-07-21T13:00:13Z</published>
+    <updated>2026-07-21T13:00:13Z</updated>
+    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v1zg9h/ultra_unlock_10th_anniversary_event_megathread/</id>
+    <title>⚡ Ultra Unlock 10th Anniversary Event Megathread</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v1zg9h/ultra_unlock_10th_anniversary_event_megathread/"/>
+    <published>2026-07-20T22:01:28Z</published>
+    <updated>2026-07-20T22:01:28Z</updated>
+    <summary type="text">Everything you need to know about the event, all in one place. A lot of these pieces will be verified by the Silph Research Group, so throughout the post we'll use the formatting: Italics : Reports from comments or single Research Group report Bold : Multiple Research Group reports (!s) will be used</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
