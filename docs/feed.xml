@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-07-28T12:50:46Z</updated>
+  <updated>2026-07-28T16:04:59Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/go-fest-2026-global-final-details</id>
-    <title>⚡ Pokémon GO Fest 2026: Global final details!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/go-fest-2026-global-final-details"/>
-    <published>2026-07-28T12:50:42Z</published>
-    <updated>2026-07-28T12:50:42Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
     <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
-    <published>2026-07-28T12:50:42Z</published>
-    <updated>2026-07-28T12:50:42Z</updated>
+    <published>2026-07-28T16:04:56Z</published>
+    <updated>2026-07-28T16:04:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/2026_ana_red</id>
     <title>⚡ Celebrate the launch of the Red Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_red"/>
-    <published>2026-07-28T12:50:42Z</published>
-    <updated>2026-07-28T12:50:42Z</updated>
+    <published>2026-07-28T16:04:56Z</published>
+    <updated>2026-07-28T16:04:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/communityday-august-2026-nickit</id>
     <title>⚡ August 2026 Community Day: Nickit</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communityday-august-2026-nickit"/>
-    <published>2026-07-28T12:50:42Z</published>
-    <updated>2026-07-28T12:50:42Z</updated>
+    <published>2026-07-28T16:04:56Z</published>
+    <updated>2026-07-28T16:04:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/nationaltrust-2026</id>
     <title>⚡ Adventure awaits with the National Trust this summer!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/nationaltrust-2026"/>
-    <published>2026-07-28T12:50:42Z</published>
-    <updated>2026-07-28T12:50:42Z</updated>
+    <published>2026-07-28T16:04:56Z</published>
+    <updated>2026-07-28T16:04:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/summer-quest</id>
     <title>⚡ Welcome to Pokémon GO Summer Quest</title>
     <link rel="alternate" href="https://pokemongolive.com/news/summer-quest"/>
-    <published>2026-07-28T12:50:42Z</published>
-    <updated>2026-07-28T12:50:42Z</updated>
+    <published>2026-07-28T16:04:56Z</published>
+    <updated>2026-07-28T16:04:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition</id>
     <title>⚡ First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition"/>
-    <published>2026-07-28T12:50:42Z</published>
-    <updated>2026-07-28T12:50:42Z</updated>
+    <published>2026-07-28T16:04:56Z</published>
+    <updated>2026-07-28T16:04:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/water-festival-2026</id>
     <title>⚡ Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/water-festival-2026"/>
-    <published>2026-07-28T12:50:42Z</published>
-    <updated>2026-07-28T12:50:42Z</updated>
+    <published>2026-07-28T16:04:56Z</published>
+    <updated>2026-07-28T16:04:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/starmie-super-mega-raid-day-2026</id>
     <title>⚡ Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/starmie-super-mega-raid-day-2026"/>
-    <published>2026-07-28T12:50:42Z</published>
-    <updated>2026-07-28T12:50:42Z</updated>
+    <published>2026-07-28T16:04:56Z</published>
+    <updated>2026-07-28T16:04:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026</id>
     <title>⚡ That’s a big Rillaboom! Gigantamax Rillaboom drums towards Max Battle Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026"/>
-    <published>2026-07-28T12:50:42Z</published>
-    <updated>2026-07-28T12:50:42Z</updated>
+    <published>2026-07-28T16:04:56Z</published>
+    <updated>2026-07-28T16:04:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/gofest2026-global-update</id>
     <title>⚡ Pokémon GO Fest 2026: Global - Sunday Raid Battles update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-global-update"/>
-    <published>2026-07-28T12:50:42Z</published>
-    <updated>2026-07-28T12:50:42Z</updated>
+    <published>2026-07-28T16:04:56Z</published>
+    <updated>2026-07-28T16:04:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/summer-marathon-2026</id>
     <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/summer-marathon-2026"/>
-    <published>2026-07-28T12:50:42Z</published>
-    <updated>2026-07-28T12:50:42Z</updated>
+    <published>2026-07-28T16:04:56Z</published>
+    <updated>2026-07-28T16:04:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/save-the-date-go-wild-area-2026</id>
     <title>⚡ Save the Date: Pokémon GO Wild Area 2026</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-wild-area-2026"/>
-    <published>2026-07-28T12:50:42Z</published>
-    <updated>2026-07-28T12:50:42Z</updated>
+    <published>2026-07-28T16:04:56Z</published>
+    <updated>2026-07-28T16:04:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/fire-and-ice-hatch-day-2026</id>
     <title>⚡ Fire and Ice Hatch Day</title>
     <link rel="alternate" href="https://pokemongolive.com/news/fire-and-ice-hatch-day-2026"/>
-    <published>2026-07-28T12:50:42Z</published>
-    <updated>2026-07-28T12:50:42Z</updated>
+    <published>2026-07-28T16:04:56Z</published>
+    <updated>2026-07-28T16:04:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +156,82 @@
     <id>https://pokemongolive.com/news/go-pass-august-2026</id>
     <title>⚡ The Lucky Trinket returns and Latias soars into GO Pass: August!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-august-2026"/>
-    <published>2026-07-28T12:50:42Z</published>
-    <updated>2026-07-28T12:50:42Z</updated>
+    <published>2026-07-28T16:04:56Z</published>
+    <updated>2026-07-28T16:04:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gofest2026-finale-save-the-date</id>
+    <title>⚡ Your Final Summer Adventure Begins with Pokémon GO Fest: Mega Finale</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-finale-save-the-date"/>
+    <published>2026-07-28T16:04:56Z</published>
+    <updated>2026-07-28T16:04:56Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/971790/apple-homepad-rumor-launch</id>
+    <title>🤖 Apple’s reported ‘HomePad’ may launch as early as October</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/971790/apple-homepad-rumor-launch"/>
+    <published>2026-07-28T14:39:42Z</published>
+    <updated>2026-07-28T14:39:42Z</updated>
+    <summary type="text">For years, we've heard rumors of a new home hub device from Apple, meant to take on smart home devices like the Google Nest Hub Mini and Amazon's Echo Show. Besides &quot;HomePod with a screen,&quot; details have been sparse. But now, a new report from Bloomberg's Mark Gurman sheds some light on the alleged d</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v90dcq/mega_chesnaughtdelphoxgreninja_for_mega_finale/</id>
+    <title>⚡ Mega Chesnaught/Delphox/Greninja for Mega Finale</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v90dcq/mega_chesnaughtdelphoxgreninja_for_mega_finale/"/>
+    <published>2026-07-28T14:37:47Z</published>
+    <updated>2026-07-28T14:37:47Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v8xtfs/questions_answers_weekly_megathread_please_use/</id>
+    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v8xtfs/questions_answers_weekly_megathread_please_use/"/>
+    <published>2026-07-28T13:00:28Z</published>
+    <updated>2026-07-28T13:00:28Z</updated>
+    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/970092/jisulife-10s-handheld-personal-fan</id>
+    <title>🤖 You don’t need to splurge on an expensive handheld fan to beat the heat</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/970092/jisulife-10s-handheld-personal-fan"/>
+    <published>2026-07-28T13:00:00Z</published>
+    <updated>2026-07-28T13:00:00Z</updated>
+    <summary type="text">Despite what influencers may say, you don’t need to spend $99.99 on Dyson’s HushJet Mini Cool or $149.99 for the Shark ChillPill to survive the summer whenever you leave the comfort of air-conditioning. My family has found all the comfort it needs to survive humid baseball games, sweltering concerts</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v8xnvb/go_fest_2026_mega_finale/</id>
+    <title>⚡ Go Fest 2026: Mega Finale</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v8xnvb/go_fest_2026_mega_finale/"/>
+    <published>2026-07-28T12:54:12Z</published>
+    <updated>2026-07-28T12:54:12Z</updated>
+    <summary type="text">submitted by /u/iTaIksick [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -283,30 +343,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v8mspk/dig_in_collection_challenge_not_disappearing/</id>
-    <title>⚡ Dig In Collection Challenge not disappearing</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v8mspk/dig_in_collection_challenge_not_disappearing/"/>
-    <published>2026-07-28T03:44:49Z</published>
-    <updated>2026-07-28T03:44:49Z</updated>
-    <summary type="text">I completed this collection challenge in early June while I was in Chicago for Go Fest. Does anyone know why it hasn’t disappeared yet. Call me OCD if you want but I’m tired of it showing under events when it’s long over. I like completing things and checking them off and this just staying there for</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v8hlxk/community_celebrations_gyms_are_gone_but_cant/</id>
-    <title>⚡ Community Celebrations Gyms are gone but can’t remove my defender</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v8hlxk/community_celebrations_gyms_are_gone_but_cant/"/>
-    <published>2026-07-27T23:56:41Z</published>
-    <updated>2026-07-27T23:56:41Z</updated>
-    <summary type="text">Pressing on Chonker just makes my app freeze, if you’re in an area with community celebrations gyms from GO Fest I recommend you try to get them removed before the end of the festival. I’m sure they’ll fix this. submitted by /u/BlackPresident [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.reddit.com/r/TheSilphRoad/comments/1v8frrq/after_a_week_of_pika_raidsspawns_they_really/</id>
     <title>⚡ After a week of pika raids/spawns, they really adding in normal pikas to the raid pool now?</title>
     <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v8frrq/after_a_week_of_pika_raidsspawns_they_really/"/>
@@ -328,30 +364,6 @@
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale</id>
-    <title>🤖 Razer’s analog Huntsman V3 Pro is over 20 percent off</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale"/>
-    <published>2026-07-27T21:29:22Z</published>
-    <updated>2026-07-27T21:29:22Z</updated>
-    <summary type="text">Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That’s slowly changing, with brands introducing adjustable optical switches that are more customizable and have a faster respons</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies</id>
-    <title>🤖 Why China is giving away its best AI models</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies"/>
-    <published>2026-07-27T16:51:50Z</published>
-    <updated>2026-07-27T16:51:50Z</updated>
-    <summary type="text">Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry betw</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -459,18 +471,6 @@
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v2hrh8/questions_answers_weekly_megathread_please_use/</id>
-    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v2hrh8/questions_answers_weekly_megathread_please_use/"/>
-    <published>2026-07-21T13:00:13Z</published>
-    <updated>2026-07-21T13:00:13Z</updated>
-    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
