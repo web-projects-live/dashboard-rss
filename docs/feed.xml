@@ -2,13 +2,190 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-07-31T12:51:13Z</updated>
+  <updated>2026-07-31T16:01:38Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
     <name>ha-news-feed-bot</name>
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
+  <entry>
+    <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
+    <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
+    <published>2026-07-31T16:01:37Z</published>
+    <updated>2026-07-31T16:01:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/2026_ana_red</id>
+    <title>⚡ Celebrate the launch of the Red Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_red"/>
+    <published>2026-07-31T16:01:37Z</published>
+    <updated>2026-07-31T16:01:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/communityday-august-2026-nickit</id>
+    <title>⚡ August 2026 Community Day: Nickit</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/communityday-august-2026-nickit"/>
+    <published>2026-07-31T16:01:37Z</published>
+    <updated>2026-07-31T16:01:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/nationaltrust-2026</id>
+    <title>⚡ Adventure awaits with the National Trust this summer!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/nationaltrust-2026"/>
+    <published>2026-07-31T16:01:37Z</published>
+    <updated>2026-07-31T16:01:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/summer-quest</id>
+    <title>⚡ Welcome to Pokémon GO Summer Quest</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/summer-quest"/>
+    <published>2026-07-31T16:01:37Z</published>
+    <updated>2026-07-31T16:01:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition</id>
+    <title>⚡ First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition"/>
+    <published>2026-07-31T16:01:37Z</published>
+    <updated>2026-07-31T16:01:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/water-festival-2026</id>
+    <title>⚡ Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/water-festival-2026"/>
+    <published>2026-07-31T16:01:37Z</published>
+    <updated>2026-07-31T16:01:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/starmie-super-mega-raid-day-2026</id>
+    <title>⚡ Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/starmie-super-mega-raid-day-2026"/>
+    <published>2026-07-31T16:01:37Z</published>
+    <updated>2026-07-31T16:01:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026</id>
+    <title>⚡ That’s a big Rillaboom! Gigantamax Rillaboom drums towards Max Battle Day!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026"/>
+    <published>2026-07-31T16:01:37Z</published>
+    <updated>2026-07-31T16:01:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gofest2026-global-update</id>
+    <title>⚡ Pokémon GO Fest 2026: Global - Sunday Raid Battles update</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-global-update"/>
+    <published>2026-07-31T16:01:37Z</published>
+    <updated>2026-07-31T16:01:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/summer-marathon-2026</id>
+    <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/summer-marathon-2026"/>
+    <published>2026-07-31T16:01:37Z</published>
+    <updated>2026-07-31T16:01:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/save-the-date-go-wild-area-2026</id>
+    <title>⚡ Save the Date: Pokémon GO Wild Area 2026</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-wild-area-2026"/>
+    <published>2026-07-31T16:01:37Z</published>
+    <updated>2026-07-31T16:01:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/fire-and-ice-hatch-day-2026</id>
+    <title>⚡ Fire and Ice Hatch Day</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/fire-and-ice-hatch-day-2026"/>
+    <published>2026-07-31T16:01:37Z</published>
+    <updated>2026-07-31T16:01:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/go-pass-august-2026</id>
+    <title>⚡ The Lucky Trinket returns and Latias soars into GO Pass: August!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-pass-august-2026"/>
+    <published>2026-07-31T16:01:37Z</published>
+    <updated>2026-07-31T16:01:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gofest2026-finale-save-the-date</id>
+    <title>⚡ Your Final Summer Adventure Begins with Pokémon GO Fest: Mega Finale</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-finale-save-the-date"/>
+    <published>2026-07-31T16:01:37Z</published>
+    <updated>2026-07-31T16:01:37Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation</id>
+    <title>🤖 New York sues Kalshi for allegedly running an ‘illegal gambling operation’</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation"/>
+    <published>2026-07-31T15:30:13Z</published>
+    <updated>2026-07-31T15:30:13Z</updated>
+    <summary type="text">New York is suing Kalshi over claims the prediction market is running &quot;an illegal gambling operation.&quot; In the lawsuit, New York Attorney General Letitia James accuses Kalshi of violating state laws by accepting wagers without a license from the state's gaming commission, as reported earlier by CNBC.</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
   <entry>
     <id>https://openai.com/index/advancing-responsible-ai-across-europe</id>
     <title>🤖 Advancing responsible AI across Europe</title>
@@ -22,168 +199,39 @@
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
-    <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
-    <published>2026-07-31T12:51:11Z</published>
-    <updated>2026-07-31T12:51:11Z</updated>
-    <category term="pokemon"/>
+    <id>https://openai.com/index/building-abundant-intelligence</id>
+    <title>🤖 Building abundant intelligence</title>
+    <link rel="alternate" href="https://openai.com/index/building-abundant-intelligence"/>
+    <published>2026-07-31T15:00:00Z</published>
+    <updated>2026-07-31T15:00:00Z</updated>
+    <summary type="text">A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/2026_ana_red</id>
-    <title>⚡ Celebrate the launch of the Red Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_red"/>
-    <published>2026-07-31T12:51:11Z</published>
-    <updated>2026-07-31T12:51:11Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast</id>
+    <title>🤖 It’s time to panic about AI safety</title>
+    <link rel="alternate" href="https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast"/>
+    <published>2026-07-31T14:03:04Z</published>
+    <updated>2026-07-31T14:03:04Z</updated>
+    <summary type="text">When the phrase &quot;OpenAI hacked Hugging Face&quot; has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, </summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/communityday-august-2026-nickit</id>
-    <title>⚡ August 2026 Community Day: Nickit</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/communityday-august-2026-nickit"/>
-    <published>2026-07-31T12:51:11Z</published>
-    <updated>2026-07-31T12:51:11Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests</id>
+    <title>🤖 Anthropic says Claude accidentally hacked real companies too</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests"/>
+    <published>2026-07-31T13:41:17Z</published>
+    <updated>2026-07-31T13:41:17Z</updated>
+    <summary type="text">Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face,</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/nationaltrust-2026</id>
-    <title>⚡ Adventure awaits with the National Trust this summer!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/nationaltrust-2026"/>
-    <published>2026-07-31T12:51:11Z</published>
-    <updated>2026-07-31T12:51:11Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/summer-quest</id>
-    <title>⚡ Welcome to Pokémon GO Summer Quest</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/summer-quest"/>
-    <published>2026-07-31T12:51:11Z</published>
-    <updated>2026-07-31T12:51:11Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition</id>
-    <title>⚡ First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition"/>
-    <published>2026-07-31T12:51:11Z</published>
-    <updated>2026-07-31T12:51:11Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/water-festival-2026</id>
-    <title>⚡ Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/water-festival-2026"/>
-    <published>2026-07-31T12:51:11Z</published>
-    <updated>2026-07-31T12:51:11Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/starmie-super-mega-raid-day-2026</id>
-    <title>⚡ Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/starmie-super-mega-raid-day-2026"/>
-    <published>2026-07-31T12:51:11Z</published>
-    <updated>2026-07-31T12:51:11Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026</id>
-    <title>⚡ That’s a big Rillaboom! Gigantamax Rillaboom drums towards Max Battle Day!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026"/>
-    <published>2026-07-31T12:51:11Z</published>
-    <updated>2026-07-31T12:51:11Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/gofest2026-global-update</id>
-    <title>⚡ Pokémon GO Fest 2026: Global - Sunday Raid Battles update</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-global-update"/>
-    <published>2026-07-31T12:51:11Z</published>
-    <updated>2026-07-31T12:51:11Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/summer-marathon-2026</id>
-    <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/summer-marathon-2026"/>
-    <published>2026-07-31T12:51:11Z</published>
-    <updated>2026-07-31T12:51:11Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/save-the-date-go-wild-area-2026</id>
-    <title>⚡ Save the Date: Pokémon GO Wild Area 2026</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-wild-area-2026"/>
-    <published>2026-07-31T12:51:11Z</published>
-    <updated>2026-07-31T12:51:11Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/fire-and-ice-hatch-day-2026</id>
-    <title>⚡ Fire and Ice Hatch Day</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/fire-and-ice-hatch-day-2026"/>
-    <published>2026-07-31T12:51:11Z</published>
-    <updated>2026-07-31T12:51:11Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/go-pass-august-2026</id>
-    <title>⚡ The Lucky Trinket returns and Latias soars into GO Pass: August!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/go-pass-august-2026"/>
-    <published>2026-07-31T12:51:11Z</published>
-    <updated>2026-07-31T12:51:11Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/gofest2026-finale-save-the-date</id>
-    <title>⚡ Your Final Summer Adventure Begins with Pokémon GO Fest: Mega Finale</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-finale-save-the-date"/>
-    <published>2026-07-31T12:51:11Z</published>
-    <updated>2026-07-31T12:51:11Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -271,18 +319,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button</id>
-    <title>🤖 LinkedIn actually adds a ‘seems like AI slop’ button</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button"/>
-    <published>2026-07-30T18:43:26Z</published>
-    <updated>2026-07-30T18:43:26Z</updated>
-    <summary type="text">A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that &quot;Seems like AI […]</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</id>
     <title>🤖 Advancing the price-performance frontier with GPT-5.6</title>
     <link rel="alternate" href="https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"/>
@@ -301,18 +337,6 @@
     <published>2026-07-30T00:00:00Z</published>
     <updated>2026-07-30T00:00:00Z</updated>
     <summary type="text">avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</id>
-    <title>🤖 How enabling two settings tripled our scores on the ARC-AGI-3 benchmark</title>
-    <link rel="alternate" href="https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"/>
-    <published>2026-07-29T15:00:00Z</published>
-    <updated>2026-07-29T15:00:00Z</updated>
-    <summary type="text">How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
