@@ -2,13 +2,202 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-08-02T15:01:56Z</updated>
+  <updated>2026-08-02T21:57:31Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
     <name>ha-news-feed-bot</name>
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
+  <entry>
+    <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
+    <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
+    <published>2026-08-02T21:57:30Z</published>
+    <updated>2026-08-02T21:57:30Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/2026_ana_red</id>
+    <title>⚡ Celebrate the launch of the Red Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_red"/>
+    <published>2026-08-02T21:57:30Z</published>
+    <updated>2026-08-02T21:57:30Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/communityday-august-2026-nickit</id>
+    <title>⚡ August 2026 Community Day: Nickit</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/communityday-august-2026-nickit"/>
+    <published>2026-08-02T21:57:30Z</published>
+    <updated>2026-08-02T21:57:30Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/nationaltrust-2026</id>
+    <title>⚡ Adventure awaits with the National Trust this summer!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/nationaltrust-2026"/>
+    <published>2026-08-02T21:57:30Z</published>
+    <updated>2026-08-02T21:57:30Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/summer-quest</id>
+    <title>⚡ Welcome to Pokémon GO Summer Quest</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/summer-quest"/>
+    <published>2026-08-02T21:57:30Z</published>
+    <updated>2026-08-02T21:57:30Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition</id>
+    <title>⚡ First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition"/>
+    <published>2026-08-02T21:57:30Z</published>
+    <updated>2026-08-02T21:57:30Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/water-festival-2026</id>
+    <title>⚡ Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/water-festival-2026"/>
+    <published>2026-08-02T21:57:30Z</published>
+    <updated>2026-08-02T21:57:30Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/starmie-super-mega-raid-day-2026</id>
+    <title>⚡ Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/starmie-super-mega-raid-day-2026"/>
+    <published>2026-08-02T21:57:30Z</published>
+    <updated>2026-08-02T21:57:30Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026</id>
+    <title>⚡ That’s a big Rillaboom! Gigantamax Rillaboom drums towards Max Battle Day!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026"/>
+    <published>2026-08-02T21:57:30Z</published>
+    <updated>2026-08-02T21:57:30Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gofest2026-global-update</id>
+    <title>⚡ Pokémon GO Fest 2026: Global - Sunday Raid Battles update</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-global-update"/>
+    <published>2026-08-02T21:57:30Z</published>
+    <updated>2026-08-02T21:57:30Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/summer-marathon-2026</id>
+    <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/summer-marathon-2026"/>
+    <published>2026-08-02T21:57:30Z</published>
+    <updated>2026-08-02T21:57:30Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/save-the-date-go-wild-area-2026</id>
+    <title>⚡ Save the Date: Pokémon GO Wild Area 2026</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-wild-area-2026"/>
+    <published>2026-08-02T21:57:30Z</published>
+    <updated>2026-08-02T21:57:30Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/fire-and-ice-hatch-day-2026</id>
+    <title>⚡ Fire and Ice Hatch Day</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/fire-and-ice-hatch-day-2026"/>
+    <published>2026-08-02T21:57:30Z</published>
+    <updated>2026-08-02T21:57:30Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/go-pass-august-2026</id>
+    <title>⚡ The Lucky Trinket returns and Latias soars into GO Pass: August!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-pass-august-2026"/>
+    <published>2026-08-02T21:57:30Z</published>
+    <updated>2026-08-02T21:57:30Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gofest2026-finale-save-the-date</id>
+    <title>⚡ Your Final Summer Adventure Begins with Pokémon GO Fest: Mega Finale</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-finale-save-the-date"/>
+    <published>2026-08-02T21:57:30Z</published>
+    <updated>2026-08-02T21:57:30Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review</id>
+    <title>🤖 Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing</title>
+    <link rel="alternate" href="https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review"/>
+    <published>2026-08-02T21:53:15Z</published>
+    <updated>2026-08-02T21:53:15Z</updated>
+    <summary type="text">Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Comes Crashing is almost</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music</id>
+    <title>🤖 Fender’s CEO seems to think your bandmates are just analog AI</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music"/>
+    <published>2026-08-02T19:36:08Z</published>
+    <updated>2026-08-02T19:36:08Z</updated>
+    <summary type="text">Fender CEO Edward &quot;Bud&quot; Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
   <entry>
     <id>https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties</id>
     <title>🤖 Is paying artists enough to convince them to embrace AI?</title>
@@ -40,18 +229,6 @@
     <published>2026-08-01T18:20:00Z</published>
     <updated>2026-08-01T18:20:00Z</updated>
     <summary type="text">Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track &quot;Rubberz,&quot; which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many specula</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts</id>
-    <title>🤖 The Verge’s 2026 back-to-school shopping guide</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts"/>
-    <published>2026-08-01T14:00:00Z</published>
-    <updated>2026-08-01T14:00:00Z</updated>
-    <summary type="text">Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't think they'd need to have. We're pulling our weight during the back-to-school season with a new shoppi</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
