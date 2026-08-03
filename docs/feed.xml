@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-08-02T21:57:31Z</updated>
+  <updated>2026-08-03T13:35:21Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,168 +10,111 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
-    <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
-    <published>2026-08-02T21:57:30Z</published>
-    <updated>2026-08-02T21:57:30Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vecgxs/how_to_report_a_fake_community_ambassador/</id>
+    <title>⚡ How to report a fake community ambassador</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vecgxs/how_to_report_a_fake_community_ambassador/"/>
+    <published>2026-08-03T12:47:38Z</published>
+    <updated>2026-08-03T12:47:38Z</updated>
+    <summary type="text">As the title says, is there a way to report someone pretending to be a community ambassador. The real ambassador is giving that person all the pins/rewards to hoarding for themselves and their group of friends. They are telling the rest of the community that hes been made an ambassador but he was ac</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/2026_ana_red</id>
-    <title>⚡ Celebrate the launch of the Red Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_red"/>
-    <published>2026-08-02T21:57:30Z</published>
-    <updated>2026-08-02T21:57:30Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1veb44r/promo_code_for_lego_cap/</id>
+    <title>⚡ Promo Code for Lego Cap</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1veb44r/promo_code_for_lego_cap/"/>
+    <published>2026-08-03T11:45:55Z</published>
+    <updated>2026-08-03T11:45:55Z</updated>
+    <summary type="text">https://store.pokemongo.com/offer-redemption?passcode=LEGOXPOKEMONGOXCAP submitted by /u/Cecross [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/communityday-august-2026-nickit</id>
-    <title>⚡ August 2026 Community Day: Nickit</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/communityday-august-2026-nickit"/>
-    <published>2026-08-02T21:57:30Z</published>
-    <updated>2026-08-02T21:57:30Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1veatfx/promo_code_for_10_poké_ball_berries/</id>
+    <title>⚡ Promo Code for 10 Poké Ball &amp; Berries</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1veatfx/promo_code_for_10_poké_ball_berries/"/>
+    <published>2026-08-03T11:31:01Z</published>
+    <updated>2026-08-03T11:31:01Z</updated>
+    <summary type="text">Code: LEGOxPOKEMONGOxBERRIES Redemption Link Redeem this promo code for free berries and Poké Balls! Razz Berry ×5 Poké Ball ×10 Pinap Berry ×5 Nanab Berry ×5 EDIT: There's also a Timed Research for a LEGO Pokémon Cap with code LEGOxPOKEMONGOxCAP submitted by /u/noobkiller69 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/nationaltrust-2026</id>
-    <title>⚡ Adventure awaits with the National Trust this summer!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/nationaltrust-2026"/>
-    <published>2026-08-02T21:57:30Z</published>
-    <updated>2026-08-02T21:57:30Z</updated>
-    <category term="pokemon"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai</id>
+    <title>🤖 China&amp;#8217;s Alibaba takes another swipe at America’s AI supremacy</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai"/>
+    <published>2026-08-03T11:01:11Z</published>
+    <updated>2026-08-03T11:01:11Z</updated>
+    <summary type="text">Chinese tech giant Alibaba released what it says is its largest and &quot;most capable AI model to date,&quot; claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, wi</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/summer-quest</id>
-    <title>⚡ Welcome to Pokémon GO Summer Quest</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/summer-quest"/>
-    <published>2026-08-02T21:57:30Z</published>
-    <updated>2026-08-02T21:57:30Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ve8ow4/lego_pikachu_raids_cannot_be_remote_raided/</id>
+    <title>⚡ Lego Pikachu Raids cannot be remote raided</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ve8ow4/lego_pikachu_raids_cannot_be_remote_raided/"/>
+    <published>2026-08-03T09:35:38Z</published>
+    <updated>2026-08-03T09:35:38Z</updated>
+    <summary type="text">Invited friends via RSVP to a Pikachu raid - they were unable to join the raid. Haven't seen any posts about this so thought a PSA would be in order. submitted by /u/9thGearEX [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition</id>
-    <title>⚡ First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition"/>
-    <published>2026-08-02T21:57:30Z</published>
-    <updated>2026-08-02T21:57:30Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ve3zip/pokémon_go_city_safari_brisbane/</id>
+    <title>⚡ Pokémon GO City Safari: Brisbane</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ve3zip/pokémon_go_city_safari_brisbane/"/>
+    <published>2026-08-03T05:07:20Z</published>
+    <updated>2026-08-03T05:07:20Z</updated>
+    <summary type="text">submitted by /u/hootymore [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/water-festival-2026</id>
-    <title>⚡ Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/water-festival-2026"/>
-    <published>2026-08-02T21:57:30Z</published>
-    <updated>2026-08-02T21:57:30Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1ve07x5/lego_stamp_rally_stamps/</id>
+    <title>⚡ Lego Stamp Rally stamps</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1ve07x5/lego_stamp_rally_stamps/"/>
+    <published>2026-08-03T01:58:45Z</published>
+    <updated>2026-08-03T01:58:45Z</updated>
+    <summary type="text">Creating this thread for community members to post any Lego Stamp Rally stamps and where they are from! My first two are from Melbourne, Australia: - Blastoise : Legoland Chadstone - Eevee : Lego Store Eastland submitted by /u/Born_Ocelot4312 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/starmie-super-mega-raid-day-2026</id>
-    <title>⚡ Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/starmie-super-mega-raid-day-2026"/>
-    <published>2026-08-02T21:57:30Z</published>
-    <updated>2026-08-02T21:57:30Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vdz3vx/pokémon_go_and_lego_collaboration_timed_research/</id>
+    <title>⚡ Pokémon GO and LEGO Collaboration Timed Research</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vdz3vx/pokémon_go_and_lego_collaboration_timed_research/"/>
+    <published>2026-08-03T01:05:30Z</published>
+    <updated>2026-08-03T01:05:30Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026</id>
-    <title>⚡ That’s a big Rillaboom! Gigantamax Rillaboom drums towards Max Battle Day!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026"/>
-    <published>2026-08-02T21:57:30Z</published>
-    <updated>2026-08-02T21:57:30Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vdxbmd/august_pokémon_spotlight_hours_leekduck/</id>
+    <title>⚡ August Pokémon Spotlight Hours (LeekDuck)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vdxbmd/august_pokémon_spotlight_hours_leekduck/"/>
+    <published>2026-08-02T23:44:48Z</published>
+    <updated>2026-08-02T23:44:48Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/gofest2026-global-update</id>
-    <title>⚡ Pokémon GO Fest 2026: Global - Sunday Raid Battles update</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-global-update"/>
-    <published>2026-08-02T21:57:30Z</published>
-    <updated>2026-08-02T21:57:30Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/summer-marathon-2026</id>
-    <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/summer-marathon-2026"/>
-    <published>2026-08-02T21:57:30Z</published>
-    <updated>2026-08-02T21:57:30Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/save-the-date-go-wild-area-2026</id>
-    <title>⚡ Save the Date: Pokémon GO Wild Area 2026</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-wild-area-2026"/>
-    <published>2026-08-02T21:57:30Z</published>
-    <updated>2026-08-02T21:57:30Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/fire-and-ice-hatch-day-2026</id>
-    <title>⚡ Fire and Ice Hatch Day</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/fire-and-ice-hatch-day-2026"/>
-    <published>2026-08-02T21:57:30Z</published>
-    <updated>2026-08-02T21:57:30Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/go-pass-august-2026</id>
-    <title>⚡ The Lucky Trinket returns and Latias soars into GO Pass: August!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/go-pass-august-2026"/>
-    <published>2026-08-02T21:57:30Z</published>
-    <updated>2026-08-02T21:57:30Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/gofest2026-finale-save-the-date</id>
-    <title>⚡ Your Final Summer Adventure Begins with Pokémon GO Fest: Mega Finale</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-finale-save-the-date"/>
-    <published>2026-08-02T21:57:30Z</published>
-    <updated>2026-08-02T21:57:30Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -180,7 +123,7 @@
     <link rel="alternate" href="https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review"/>
     <published>2026-08-02T21:53:15Z</published>
     <updated>2026-08-02T21:53:15Z</updated>
-    <summary type="text">Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Comes Crashing is almost</summary>
+    <summary type="text">Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Come Crashing is almost </summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
@@ -205,30 +148,6 @@
     <published>2026-08-02T13:00:00Z</published>
     <updated>2026-08-02T13:00:00Z</updated>
     <summary type="text">Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the tec</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak</id>
-    <title>🤖 Pixel 11 specs and price leak with no surprises</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak"/>
-    <published>2026-08-01T21:31:24Z</published>
-    <updated>2026-08-01T21:31:24Z</updated>
-    <summary type="text">Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but will come with 256GB […</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop</id>
-    <title>🤖 Is this Billboard Hot 100 hit AI slop?</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop"/>
-    <published>2026-08-01T18:20:00Z</published>
-    <updated>2026-08-01T18:20:00Z</updated>
-    <summary type="text">Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track &quot;Rubberz,&quot; which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many specula</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
@@ -353,6 +272,18 @@
     </author>
   </entry>
   <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v8xtfs/questions_answers_weekly_megathread_please_use/</id>
+    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v8xtfs/questions_answers_weekly_megathread_please_use/"/>
+    <published>2026-07-28T13:00:28Z</published>
+    <updated>2026-07-28T13:00:28Z</updated>
+    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
     <id>https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724</id>
     <title>🤖 Working to automate nuclear plant operations</title>
     <link rel="alternate" href="https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724"/>
@@ -397,6 +328,18 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1v1zg9h/ultra_unlock_10th_anniversary_event_megathread/</id>
+    <title>⚡ Ultra Unlock 10th Anniversary Event Megathread</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1v1zg9h/ultra_unlock_10th_anniversary_event_megathread/"/>
+    <published>2026-07-20T22:01:28Z</published>
+    <updated>2026-07-20T22:01:28Z</updated>
+    <summary type="text">Everything you need to know about the event, all in one place. A lot of these pieces will be verified by the Silph Research Group, so throughout the post we'll use the formatting: Italics : Reports from comments or single Research Group report Bold : Multiple Research Group reports (!s) will be used</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
