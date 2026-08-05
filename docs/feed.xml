@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-08-05T16:00:52Z</updated>
+  <updated>2026-08-05T22:12:52Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/pokemongo-10th-anniversary-art</id>
-    <title>⚡ Happy 10th anniversary to Pokémon GO!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-10th-anniversary-art"/>
-    <published>2026-08-05T16:00:51Z</published>
-    <updated>2026-08-05T16:00:51Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/2026_ana_red</id>
     <title>⚡ Celebrate the launch of the Red Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_red"/>
-    <published>2026-08-05T16:00:51Z</published>
-    <updated>2026-08-05T16:00:51Z</updated>
+    <published>2026-08-05T22:12:51Z</published>
+    <updated>2026-08-05T22:12:51Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/communityday-august-2026-nickit</id>
     <title>⚡ August 2026 Community Day: Nickit</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communityday-august-2026-nickit"/>
-    <published>2026-08-05T16:00:51Z</published>
-    <updated>2026-08-05T16:00:51Z</updated>
+    <published>2026-08-05T22:12:51Z</published>
+    <updated>2026-08-05T22:12:51Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/nationaltrust-2026</id>
     <title>⚡ Adventure awaits with the National Trust this summer!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/nationaltrust-2026"/>
-    <published>2026-08-05T16:00:51Z</published>
-    <updated>2026-08-05T16:00:51Z</updated>
+    <published>2026-08-05T22:12:51Z</published>
+    <updated>2026-08-05T22:12:51Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/summer-quest</id>
     <title>⚡ Welcome to Pokémon GO Summer Quest</title>
     <link rel="alternate" href="https://pokemongolive.com/news/summer-quest"/>
-    <published>2026-08-05T16:00:51Z</published>
-    <updated>2026-08-05T16:00:51Z</updated>
+    <published>2026-08-05T22:12:51Z</published>
+    <updated>2026-08-05T22:12:51Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition</id>
     <title>⚡ First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition"/>
-    <published>2026-08-05T16:00:51Z</published>
-    <updated>2026-08-05T16:00:51Z</updated>
+    <published>2026-08-05T22:12:51Z</published>
+    <updated>2026-08-05T22:12:51Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/water-festival-2026</id>
     <title>⚡ Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/water-festival-2026"/>
-    <published>2026-08-05T16:00:51Z</published>
-    <updated>2026-08-05T16:00:51Z</updated>
+    <published>2026-08-05T22:12:51Z</published>
+    <updated>2026-08-05T22:12:51Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/starmie-super-mega-raid-day-2026</id>
     <title>⚡ Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/starmie-super-mega-raid-day-2026"/>
-    <published>2026-08-05T16:00:51Z</published>
-    <updated>2026-08-05T16:00:51Z</updated>
+    <published>2026-08-05T22:12:51Z</published>
+    <updated>2026-08-05T22:12:51Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026</id>
     <title>⚡ That’s a big Rillaboom! Gigantamax Rillaboom drums towards Max Battle Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026"/>
-    <published>2026-08-05T16:00:51Z</published>
-    <updated>2026-08-05T16:00:51Z</updated>
+    <published>2026-08-05T22:12:51Z</published>
+    <updated>2026-08-05T22:12:51Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/gofest2026-global-update</id>
     <title>⚡ Pokémon GO Fest 2026: Global - Sunday Raid Battles update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-global-update"/>
-    <published>2026-08-05T16:00:51Z</published>
-    <updated>2026-08-05T16:00:51Z</updated>
+    <published>2026-08-05T22:12:51Z</published>
+    <updated>2026-08-05T22:12:51Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/summer-marathon-2026</id>
     <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/summer-marathon-2026"/>
-    <published>2026-08-05T16:00:51Z</published>
-    <updated>2026-08-05T16:00:51Z</updated>
+    <published>2026-08-05T22:12:51Z</published>
+    <updated>2026-08-05T22:12:51Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/save-the-date-go-wild-area-2026</id>
     <title>⚡ Save the Date: Pokémon GO Wild Area 2026</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-wild-area-2026"/>
-    <published>2026-08-05T16:00:51Z</published>
-    <updated>2026-08-05T16:00:51Z</updated>
+    <published>2026-08-05T22:12:51Z</published>
+    <updated>2026-08-05T22:12:51Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/fire-and-ice-hatch-day-2026</id>
     <title>⚡ Fire and Ice Hatch Day</title>
     <link rel="alternate" href="https://pokemongolive.com/news/fire-and-ice-hatch-day-2026"/>
-    <published>2026-08-05T16:00:51Z</published>
-    <updated>2026-08-05T16:00:51Z</updated>
+    <published>2026-08-05T22:12:51Z</published>
+    <updated>2026-08-05T22:12:51Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/go-pass-august-2026</id>
     <title>⚡ The Lucky Trinket returns and Latias soars into GO Pass: August!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-august-2026"/>
-    <published>2026-08-05T16:00:51Z</published>
-    <updated>2026-08-05T16:00:51Z</updated>
+    <published>2026-08-05T22:12:51Z</published>
+    <updated>2026-08-05T22:12:51Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +156,142 @@
     <id>https://pokemongolive.com/news/gofest2026-finale-save-the-date</id>
     <title>⚡ Your Final Summer Adventure Begins with Pokémon GO Fest: Mega Finale</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-finale-save-the-date"/>
-    <published>2026-08-05T16:00:51Z</published>
-    <updated>2026-08-05T16:00:51Z</updated>
+    <published>2026-08-05T22:12:51Z</published>
+    <updated>2026-08-05T22:12:51Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/world-championships-event-2026</id>
+    <title>⚡ Celebrate PokémonXP and the 2026 Pokémon World Championships in Pokémon GO!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/world-championships-event-2026"/>
+    <published>2026-08-05T22:12:51Z</published>
+    <updated>2026-08-05T22:12:51Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vgipiq/rant_i_absolutely_despise_the_pokédex_ui/</id>
+    <title>⚡ [rant] I absolutely despise the Pokédex UI</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vgipiq/rant_i_absolutely_despise_the_pokédex_ui/"/>
+    <published>2026-08-05T20:16:45Z</published>
+    <updated>2026-08-05T20:16:45Z</updated>
+    <summary type="text">I don’t mind to have a way to track which Pokemon I have catched that fill in some categories, but having the different category dexes on all the time just make the UI clustered. I feel like completing a shiny or even a dark/purified dex is something achievable and a goal to work towards, but a luck</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vge6te/world_championship_event_flareblaze/</id>
+    <title>⚡ World Championship Event (FlareBlaze)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vge6te/world_championship_event_flareblaze/"/>
+    <published>2026-08-05T17:36:34Z</published>
+    <updated>2026-08-05T17:36:34Z</updated>
+    <summary type="text">submitted by /u/redwineandbeer [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership</id>
+    <title>🤖 Uber CEO brushes off reports of a Waymo break-up</title>
+    <link rel="alternate" href="https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership"/>
+    <published>2026-08-05T17:34:48Z</published>
+    <updated>2026-08-05T17:34:48Z</updated>
+    <summary type="text">After Uber and Waymo ended their partnership in Phoenix earlier this year, experts and robotaxi watchers wondered whether the companies' improbable bromance was fraying. Not so, Uber CEO Dara Khosrowshahi said today. The two companies are committed to continue working together in Atlanta and Austin,</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vgd91f/pokémon_xp_2026_pokémon_world_championships_event/</id>
+    <title>⚡ Pokémon XP &amp; 2026 Pokémon World Championships Event Niantic Infographic</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vgd91f/pokémon_xp_2026_pokémon_world_championships_event/"/>
+    <published>2026-08-05T17:03:27Z</published>
+    <updated>2026-08-05T17:03:27Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vgd6uq/celebrate_pokémonxp_and_the_2026_pokémon_world/</id>
+    <title>⚡ Celebrate PokémonXP and the 2026 Pokémon World Championships in Pokémon GO!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vgd6uq/celebrate_pokémonxp_and_the_2026_pokémon_world/"/>
+    <published>2026-08-05T17:01:21Z</published>
+    <updated>2026-08-05T17:01:21Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale</id>
+    <title>🤖 Apple’s selling refurbished MacBook Neos with a $100 discount</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale"/>
+    <published>2026-08-05T16:59:23Z</published>
+    <updated>2026-08-05T16:59:23Z</updated>
+    <summary type="text">Apple’s most affordable laptop, the MacBook Neo, is available once again at its pre-price hike price. All four colors are currently discounted and available refurbished through the company, with the base 256GB model listed for $599 (usually $699 new), and the upgraded version with 512GB of storage a</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo</id>
+    <title>🤖 Sure seems like Fenix Flexin used AI music generator Treblo</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo"/>
+    <published>2026-08-05T16:57:25Z</published>
+    <updated>2026-08-05T16:57:25Z</updated>
+    <summary type="text">We were pretty sure that Fenix Flexin's &quot;Rubberz&quot; was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup</id>
+    <title>🤖 Google just announced a major shakeup of its top AI leadership</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup"/>
+    <published>2026-08-05T16:47:23Z</published>
+    <updated>2026-08-05T16:47:23Z</updated>
+    <summary type="text">Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Isomo</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vgcs5q/did_the_shiny_rate_for_grunts_change/</id>
+    <title>⚡ Did the shiny rate for grunts change?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vgcs5q/did_the_shiny_rate_for_grunts_change/"/>
+    <published>2026-08-05T16:46:48Z</published>
+    <updated>2026-08-05T16:46:48Z</updated>
+    <summary type="text">I always thought the shiny rate for regular grunts is 1/256. However, since the most recent taken over event, the shiny drop rate has massively increased. I did about 150 grunts since the Taken Over event and got 6 shinies, including back to back shiny tangela + onix. To put this in perspective, Ive</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space</id>
+    <title>🤖 SpaceX is barely Space and mostly X</title>
+    <link rel="alternate" href="https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space"/>
+    <published>2026-08-05T16:35:56Z</published>
+    <updated>2026-08-05T16:35:56Z</updated>
+    <summary type="text">Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is primarily a telecom company and a company that rents compute, according to S</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -187,6 +307,18 @@
     </author>
   </entry>
   <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vgbcfy/plenty_of_rewards_for_watching_the_pokémon_xp/</id>
+    <title>⚡ Plenty of rewards for watching the Pokémon XP &amp; Worlds livestreams</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vgbcfy/plenty_of_rewards_for_watching_the_pokémon_xp/"/>
+    <published>2026-08-05T15:56:10Z</published>
+    <updated>2026-08-05T15:56:10Z</updated>
+    <summary type="text">submitted by /u/boonju [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
     <id>https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking</id>
     <title>🤖 Rogue AI agents created fake online identities in another hacking attempt</title>
     <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking"/>
@@ -199,27 +331,27 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown</id>
-    <title>🤖 Google Assistant will disappear from your phone next month</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown"/>
-    <published>2026-08-05T11:12:50Z</published>
-    <updated>2026-08-05T11:12:50Z</updated>
-    <summary type="text">Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4th. The announcement </summary>
-    <category term="ai"/>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vg8z18/incarnate_genies_still_unable_to_learm_signature/</id>
+    <title>⚡ Incarnate Genies STILL unable to learm signature moves</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vg8z18/incarnate_genies_still_unable_to_learm_signature/"/>
+    <published>2026-08-05T14:29:57Z</published>
+    <updated>2026-08-05T14:29:57Z</updated>
+    <summary type="text">For those who were unaware, the Incarnate forms for Tornadus, Thundurus and Landorus if caught specifically during Unova Tour weekend and not during the lead up event, were given access to their signature moves Bleakwind Storm, Wildbolt Storm and Sandsear Storm respectively, which was otherwise lock</summary>
+    <category term="pokemon"/>
     <author>
-      <name>The Verge — AI</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded</id>
-    <title>🤖 Trump’s AI testing plan is limited and vague</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded"/>
-    <published>2026-08-05T10:29:47Z</published>
-    <updated>2026-08-05T10:29:47Z</updated>
-    <summary type="text">The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core comp</summary>
-    <category term="ai"/>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vfro5e/assets_were_added_for_pikachu_both_wcs_2026_and/</id>
+    <title>⚡ Assets were added for Pikachu (both WCS 2026 and PXP), Mega Chesnaught, Mega Delphox, and Mega Greninja</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vfro5e/assets_were_added_for_pikachu_both_wcs_2026_and/"/>
+    <published>2026-08-05T00:15:37Z</published>
+    <updated>2026-08-05T00:15:37Z</updated>
+    <summary type="text">( Credits: Pokeminers ) submitted by /u/iTaIksick [link] [comments]</summary>
+    <category term="pokemon"/>
     <author>
-      <name>The Verge — AI</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -247,6 +379,18 @@
     </author>
   </entry>
   <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vf9p0n/questions_answers_weekly_megathread_please_use/</id>
+    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vf9p0n/questions_answers_weekly_megathread_please_use/"/>
+    <published>2026-08-04T13:00:30Z</published>
+    <updated>2026-08-04T13:00:30Z</updated>
+    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
     <id>https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804</id>
     <title>🤖 The benefits of medical AI assistance vary based on user expertise</title>
     <link rel="alternate" href="https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804"/>
@@ -268,6 +412,18 @@
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1verg3b/summer_marathon_arctic_embers_event_megathread/</id>
+    <title>⚡ Summer Marathon: Arctic Embers Event Megathread</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1verg3b/summer_marathon_arctic_embers_event_megathread/"/>
+    <published>2026-08-03T22:02:00Z</published>
+    <updated>2026-08-03T22:02:00Z</updated>
+    <summary type="text">Everything you need to know about the event, all in one place. A lot of these pieces will be verified by the Silph Research Group, so throughout the post we'll use the formatting: Italics : Reports from comments or single Research Group report Bold : Multiple Research Group reports (!s) will be used</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
