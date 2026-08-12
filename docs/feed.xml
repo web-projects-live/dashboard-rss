@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-08-11T21:49:28Z</updated>
+  <updated>2026-08-12T11:41:37Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,33 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/nationaltrust-2026</id>
-    <title>⚡ Adventure awaits with the National Trust this summer!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/nationaltrust-2026"/>
-    <published>2026-08-11T21:49:27Z</published>
-    <updated>2026-08-11T21:49:27Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/summer-quest</id>
-    <title>⚡ Welcome to Pokémon GO Summer Quest</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/summer-quest"/>
-    <published>2026-08-11T21:49:27Z</published>
-    <updated>2026-08-11T21:49:27Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition</id>
     <title>⚡ First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition"/>
-    <published>2026-08-11T21:49:27Z</published>
-    <updated>2026-08-11T21:49:27Z</updated>
+    <published>2026-08-12T11:41:35Z</published>
+    <updated>2026-08-12T11:41:35Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +24,8 @@
     <id>https://pokemongolive.com/news/water-festival-2026</id>
     <title>⚡ Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/water-festival-2026"/>
-    <published>2026-08-11T21:49:27Z</published>
-    <updated>2026-08-11T21:49:27Z</updated>
+    <published>2026-08-12T11:41:35Z</published>
+    <updated>2026-08-12T11:41:35Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +35,8 @@
     <id>https://pokemongolive.com/news/starmie-super-mega-raid-day-2026</id>
     <title>⚡ Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/starmie-super-mega-raid-day-2026"/>
-    <published>2026-08-11T21:49:27Z</published>
-    <updated>2026-08-11T21:49:27Z</updated>
+    <published>2026-08-12T11:41:35Z</published>
+    <updated>2026-08-12T11:41:35Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +46,8 @@
     <id>https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026</id>
     <title>⚡ That’s a big Rillaboom! Gigantamax Rillaboom drums towards Max Battle Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026"/>
-    <published>2026-08-11T21:49:27Z</published>
-    <updated>2026-08-11T21:49:27Z</updated>
+    <published>2026-08-12T11:41:35Z</published>
+    <updated>2026-08-12T11:41:35Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +57,8 @@
     <id>https://pokemongolive.com/news/gofest2026-global-update</id>
     <title>⚡ Pokémon GO Fest 2026: Global - Sunday Raid Battles update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-global-update"/>
-    <published>2026-08-11T21:49:27Z</published>
-    <updated>2026-08-11T21:49:27Z</updated>
+    <published>2026-08-12T11:41:35Z</published>
+    <updated>2026-08-12T11:41:35Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +68,8 @@
     <id>https://pokemongolive.com/news/summer-marathon-2026</id>
     <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/summer-marathon-2026"/>
-    <published>2026-08-11T21:49:27Z</published>
-    <updated>2026-08-11T21:49:27Z</updated>
+    <published>2026-08-12T11:41:35Z</published>
+    <updated>2026-08-12T11:41:35Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +79,8 @@
     <id>https://pokemongolive.com/news/save-the-date-go-wild-area-2026</id>
     <title>⚡ Save the Date: Pokémon GO Wild Area 2026</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-wild-area-2026"/>
-    <published>2026-08-11T21:49:27Z</published>
-    <updated>2026-08-11T21:49:27Z</updated>
+    <published>2026-08-12T11:41:35Z</published>
+    <updated>2026-08-12T11:41:35Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +90,8 @@
     <id>https://pokemongolive.com/news/fire-and-ice-hatch-day-2026</id>
     <title>⚡ Fire and Ice Hatch Day</title>
     <link rel="alternate" href="https://pokemongolive.com/news/fire-and-ice-hatch-day-2026"/>
-    <published>2026-08-11T21:49:27Z</published>
-    <updated>2026-08-11T21:49:27Z</updated>
+    <published>2026-08-12T11:41:35Z</published>
+    <updated>2026-08-12T11:41:35Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +101,8 @@
     <id>https://pokemongolive.com/news/go-pass-august-2026</id>
     <title>⚡ The Lucky Trinket returns and Latias soars into GO Pass: August!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-august-2026"/>
-    <published>2026-08-11T21:49:27Z</published>
-    <updated>2026-08-11T21:49:27Z</updated>
+    <published>2026-08-12T11:41:35Z</published>
+    <updated>2026-08-12T11:41:35Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +112,8 @@
     <id>https://pokemongolive.com/news/gofest2026-finale-save-the-date</id>
     <title>⚡ Your Final Summer Adventure Begins with Pokémon GO Fest: Mega Finale</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-finale-save-the-date"/>
-    <published>2026-08-11T21:49:27Z</published>
-    <updated>2026-08-11T21:49:27Z</updated>
+    <published>2026-08-12T11:41:35Z</published>
+    <updated>2026-08-12T11:41:35Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +123,8 @@
     <id>https://pokemongolive.com/news/world-championships-event-2026</id>
     <title>⚡ Celebrate PokémonXP and the 2026 Pokémon World Championships in Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/world-championships-event-2026"/>
-    <published>2026-08-11T21:49:27Z</published>
-    <updated>2026-08-11T21:49:27Z</updated>
+    <published>2026-08-12T11:41:35Z</published>
+    <updated>2026-08-12T11:41:35Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +134,8 @@
     <id>https://pokemongolive.com/news/save-the-date-s24</id>
     <title>⚡ Save the dates for next Season’s Community Days!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-s24"/>
-    <published>2026-08-11T21:49:27Z</published>
-    <updated>2026-08-11T21:49:27Z</updated>
+    <published>2026-08-12T11:41:35Z</published>
+    <updated>2026-08-12T11:41:35Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +145,57 @@
     <id>https://pokemongolive.com/news/gofest2026-mega-finale-incoming</id>
     <title>⚡ A Final Summer Surge of Mega Energy Is Approaching</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-mega-finale-incoming"/>
-    <published>2026-08-11T21:49:27Z</published>
-    <updated>2026-08-11T21:49:27Z</updated>
+    <published>2026-08-12T11:41:35Z</published>
+    <updated>2026-08-12T11:41:35Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/event-apac-30th-anniversary-2026</id>
+    <title>⚡ Pokémon’s 30th anniversary celebration, PokéXciting!, is the most exciting Pokémon party ever!!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/event-apac-30th-anniversary-2026"/>
+    <published>2026-08-12T11:41:35Z</published>
+    <updated>2026-08-12T11:41:35Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/event-apac-stamp-rally-2026</id>
+    <title>⚡ PokéXciting! cross-region GO Stamp Rally—get ready to explore the Asia-Pacific region!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/event-apac-stamp-rally-2026"/>
+    <published>2026-08-12T11:41:35Z</published>
+    <updated>2026-08-12T11:41:35Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive</id>
+    <title>🤖 Saber denies replacing Rideshare Stimulator&amp;#8217;s writers with ChatGPT</title>
+    <link rel="alternate" href="https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive"/>
+    <published>2026-08-12T00:39:26Z</published>
+    <updated>2026-08-12T00:39:26Z</updated>
+    <summary type="text">After a former lead writer claimed Saber &quot;replaced me with ChatGPT,&quot; CEO Matthew Karch now claims, &quot;Neither Saber nor Unigine have replaced any writers with AI,&quot; for the Rideshare &quot;Stimulator&quot; game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posti</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen</id>
+    <title>🤖 Xbox Elite 3 prototype pad leaks with tiny built-in screen</title>
+    <link rel="alternate" href="https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen"/>
+    <published>2026-08-11T22:36:35Z</published>
+    <updated>2026-08-11T22:36:35Z</updated>
+    <summary type="text">Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xbox Elite Series 3. Incredibly, they claim they bought the pad for $200 on OfferUp. In May, a Brazilian regulator's leaked</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -241,18 +265,6 @@
     <published>2026-08-11T17:00:00Z</published>
     <updated>2026-08-11T17:00:00Z</updated>
     <summary type="text">Last year's Made by Google event for the Pixel 10 resembled a late night talk show, complete with Jimmy Fallon as host, and it aired an hour after the phones were revealed. Spec dives and executive appearances were replaced with celebrity cameos and awkward skits, to the confusion of many diehard Pi</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack</id>
-    <title>🤖 ‘Zoomsday’ hack uncovered using fewer than 20 AI prompts</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack"/>
-    <published>2026-08-11T14:45:44Z</published>
-    <updated>2026-08-11T14:45:44Z</updated>
-    <summary type="text">Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using &quot;fewer than 20 prompts on publicly available AI models,&quot; as reported earlier by Wired. The e</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
