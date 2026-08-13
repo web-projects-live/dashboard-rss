@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-08-12T21:46:27Z</updated>
+  <updated>2026-08-13T11:41:12Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition</id>
-    <title>⚡ First partner and costumed Pokémon galore in Ultra Unlock: 10th Anniversary Edition!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/ultraunlock-10th-anniversary-edition"/>
-    <published>2026-08-12T21:46:25Z</published>
-    <updated>2026-08-12T21:46:25Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/water-festival-2026</id>
     <title>⚡ Arrokuda and Cramorant splash into Pokémon GO during Ultra Unlock: Water Festival!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/water-festival-2026"/>
-    <published>2026-08-12T21:46:25Z</published>
-    <updated>2026-08-12T21:46:25Z</updated>
+    <published>2026-08-13T11:41:10Z</published>
+    <updated>2026-08-13T11:41:10Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/starmie-super-mega-raid-day-2026</id>
     <title>⚡ Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/starmie-super-mega-raid-day-2026"/>
-    <published>2026-08-12T21:46:25Z</published>
-    <updated>2026-08-12T21:46:25Z</updated>
+    <published>2026-08-13T11:41:10Z</published>
+    <updated>2026-08-13T11:41:10Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026</id>
     <title>⚡ That’s a big Rillaboom! Gigantamax Rillaboom drums towards Max Battle Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026"/>
-    <published>2026-08-12T21:46:25Z</published>
-    <updated>2026-08-12T21:46:25Z</updated>
+    <published>2026-08-13T11:41:10Z</published>
+    <updated>2026-08-13T11:41:10Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/gofest2026-global-update</id>
     <title>⚡ Pokémon GO Fest 2026: Global - Sunday Raid Battles update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-global-update"/>
-    <published>2026-08-12T21:46:25Z</published>
-    <updated>2026-08-12T21:46:25Z</updated>
+    <published>2026-08-13T11:41:10Z</published>
+    <updated>2026-08-13T11:41:10Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/summer-marathon-2026</id>
     <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/summer-marathon-2026"/>
-    <published>2026-08-12T21:46:25Z</published>
-    <updated>2026-08-12T21:46:25Z</updated>
+    <published>2026-08-13T11:41:10Z</published>
+    <updated>2026-08-13T11:41:10Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/save-the-date-go-wild-area-2026</id>
     <title>⚡ Save the Date: Pokémon GO Wild Area 2026</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-wild-area-2026"/>
-    <published>2026-08-12T21:46:25Z</published>
-    <updated>2026-08-12T21:46:25Z</updated>
+    <published>2026-08-13T11:41:10Z</published>
+    <updated>2026-08-13T11:41:10Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/fire-and-ice-hatch-day-2026</id>
     <title>⚡ Fire and Ice Hatch Day</title>
     <link rel="alternate" href="https://pokemongolive.com/news/fire-and-ice-hatch-day-2026"/>
-    <published>2026-08-12T21:46:25Z</published>
-    <updated>2026-08-12T21:46:25Z</updated>
+    <published>2026-08-13T11:41:10Z</published>
+    <updated>2026-08-13T11:41:10Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/go-pass-august-2026</id>
     <title>⚡ The Lucky Trinket returns and Latias soars into GO Pass: August!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-august-2026"/>
-    <published>2026-08-12T21:46:25Z</published>
-    <updated>2026-08-12T21:46:25Z</updated>
+    <published>2026-08-13T11:41:10Z</published>
+    <updated>2026-08-13T11:41:10Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/gofest2026-finale-save-the-date</id>
     <title>⚡ Your Final Summer Adventure Begins with Pokémon GO Fest: Mega Finale</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-finale-save-the-date"/>
-    <published>2026-08-12T21:46:25Z</published>
-    <updated>2026-08-12T21:46:25Z</updated>
+    <published>2026-08-13T11:41:10Z</published>
+    <updated>2026-08-13T11:41:10Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/world-championships-event-2026</id>
     <title>⚡ Celebrate PokémonXP and the 2026 Pokémon World Championships in Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/world-championships-event-2026"/>
-    <published>2026-08-12T21:46:25Z</published>
-    <updated>2026-08-12T21:46:25Z</updated>
+    <published>2026-08-13T11:41:10Z</published>
+    <updated>2026-08-13T11:41:10Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/save-the-date-s24</id>
     <title>⚡ Save the dates for next Season’s Community Days!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-s24"/>
-    <published>2026-08-12T21:46:25Z</published>
-    <updated>2026-08-12T21:46:25Z</updated>
+    <published>2026-08-13T11:41:10Z</published>
+    <updated>2026-08-13T11:41:10Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/gofest2026-mega-finale-incoming</id>
     <title>⚡ A Final Summer Surge of Mega Energy Is Approaching</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-mega-finale-incoming"/>
-    <published>2026-08-12T21:46:25Z</published>
-    <updated>2026-08-12T21:46:25Z</updated>
+    <published>2026-08-13T11:41:10Z</published>
+    <updated>2026-08-13T11:41:10Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/event-apac-30th-anniversary-2026</id>
     <title>⚡ Pokémon’s 30th anniversary celebration, PokéXciting!, is the most exciting Pokémon party ever!!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-apac-30th-anniversary-2026"/>
-    <published>2026-08-12T21:46:25Z</published>
-    <updated>2026-08-12T21:46:25Z</updated>
+    <published>2026-08-13T11:41:10Z</published>
+    <updated>2026-08-13T11:41:10Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,8 +156,19 @@
     <id>https://pokemongolive.com/news/event-apac-stamp-rally-2026</id>
     <title>⚡ PokéXciting! cross-region GO Stamp Rally—get ready to explore the Asia-Pacific region!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-apac-stamp-rally-2026"/>
-    <published>2026-08-12T21:46:25Z</published>
-    <updated>2026-08-12T21:46:25Z</updated>
+    <published>2026-08-13T11:41:10Z</published>
+    <updated>2026-08-13T11:41:10Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/10th-anniversary-celebration</id>
+    <title>⚡ Every Trainer can celebrate 10 years of Pokémon GO with a special Mewtwo!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/10th-anniversary-celebration"/>
+    <published>2026-08-13T11:41:10Z</published>
+    <updated>2026-08-13T11:41:10Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -199,18 +199,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vmqgrp/in_game_coin_shop_now_directly_shows_benefit_of/</id>
-    <title>⚡ In game coin shop now directly shows benefit of using the web store</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vmqgrp/in_game_coin_shop_now_directly_shows_benefit_of/"/>
-    <published>2026-08-12T20:59:43Z</published>
-    <updated>2026-08-12T20:59:43Z</updated>
-    <summary type="text">submitted by /u/Candid-Soup8369 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed</id>
     <title>🤖 It looks like Apple&amp;#8217;s iPhone 18 really will skip the fall launch this year</title>
     <link rel="alternate" href="https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed"/>
@@ -220,18 +208,6 @@
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vmnnzy/primal_groudon_got_bigger/</id>
-    <title>⚡ Primal Groudon got bigger?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vmnnzy/primal_groudon_got_bigger/"/>
-    <published>2026-08-12T19:13:59Z</published>
-    <updated>2026-08-12T19:13:59Z</updated>
-    <summary type="text">So I was playing and I noticed my primal groudon got bigger and heavier for some reason. When it reverts to normal it has the same size and weight as before. So specifically primal got bigger for some reason. was there a change? I have before and after picture from a screenshot I took of my groudon </summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -259,54 +235,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vmg3vx/staraptor_super_mega_raid_day_september_19_2pm_5pm/</id>
-    <title>⚡ Staraptor Super Mega Raid Day September 19 (2pm – 5pm)</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vmg3vx/staraptor_super_mega_raid_day_september_19_2pm_5pm/"/>
-    <published>2026-08-12T14:43:23Z</published>
-    <updated>2026-08-12T14:43:23Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vm95b0/since_receiving_and_using_the_explorer_gadget/</id>
-    <title>⚡ Since receiving and using the explorer gadget, attempting to delete items from my bag creates a glitched effect.</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vm95b0/since_receiving_and_using_the_explorer_gadget/"/>
-    <published>2026-08-12T09:23:05Z</published>
-    <updated>2026-08-12T09:23:05Z</updated>
-    <summary type="text">submitted by /u/magicboten [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vm6trg/pokéxciting_crossregion_go_stamp_rally/</id>
-    <title>⚡ PokéXciting! cross-region GO Stamp Rally</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vm6trg/pokéxciting_crossregion_go_stamp_rally/"/>
-    <published>2026-08-12T07:04:36Z</published>
-    <updated>2026-08-12T07:04:36Z</updated>
-    <summary type="text">submitted by /u/iTaIksick [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vm5t76/what_are_the_nuances_of_the_explorer_gadget/</id>
-    <title>⚡ What are the nuances of the explorer gadget?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vm5t76/what_are_the_nuances_of_the_explorer_gadget/"/>
-    <published>2026-08-12T06:06:02Z</published>
-    <updated>2026-08-12T06:06:02Z</updated>
-    <summary type="text">I get how it's supposed to work but it doesn't feel like it's working properly at all. submitted by /u/DR4k0N_G [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://openai.com/index/how-enterprises-put-ai-to-work</id>
     <title>🤖 From assistance to execution: How enterprises put AI to work</title>
     <link rel="alternate" href="https://openai.com/index/how-enterprises-put-ai-to-work"/>
@@ -319,39 +247,15 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vlvrhi/go_fest_mega_finale_g47ix/</id>
-    <title>⚡ GO Fest: Mega Finale (G47IX)</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vlvrhi/go_fest_mega_finale_g47ix/"/>
-    <published>2026-08-11T22:13:28Z</published>
-    <updated>2026-08-11T22:13:28Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
+    <id>https://openai.com/index/ringcentral</id>
+    <title>🤖 How RingCentral builds AI-native work from engineering to ops</title>
+    <link rel="alternate" href="https://openai.com/index/ringcentral"/>
+    <published>2026-08-12T00:00:00Z</published>
+    <updated>2026-08-12T00:00:00Z</updated>
+    <summary type="text">See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.</summary>
+    <category term="ai"/>
     <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vlvgmh/pokémon_go_fest_2026_mega_finale/</id>
-    <title>⚡ Pokémon GO Fest 2026: Mega Finale</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vlvgmh/pokémon_go_fest_2026_mega_finale/"/>
-    <published>2026-08-11T22:01:31Z</published>
-    <updated>2026-08-11T22:01:31Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vlgt2w/questions_answers_weekly_megathread_please_use/</id>
-    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vlgt2w/questions_answers_weekly_megathread_please_use/"/>
-    <published>2026-08-11T13:00:28Z</published>
-    <updated>2026-08-11T13:00:28Z</updated>
-    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -414,18 +318,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/model-ml</id>
-    <title>🤖 Model ML completes finance work more efficiently with GPT-5.6 Sol</title>
-    <link rel="alternate" href="https://openai.com/index/model-ml"/>
-    <published>2026-08-10T12:00:00Z</published>
-    <updated>2026-08-10T12:00:00Z</updated>
-    <summary type="text">Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804</id>
     <title>🤖 Solving the solvent problem</title>
     <link rel="alternate" href="https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804"/>
@@ -447,18 +339,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1verg3b/summer_marathon_arctic_embers_event_megathread/</id>
-    <title>⚡ Summer Marathon: Arctic Embers Event Megathread</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1verg3b/summer_marathon_arctic_embers_event_megathread/"/>
-    <published>2026-08-03T22:02:00Z</published>
-    <updated>2026-08-03T22:02:00Z</updated>
-    <summary type="text">Everything you need to know about the event, all in one place. A lot of these pieces will be verified by the Silph Research Group, so throughout the post we'll use the formatting: Italics : Reports from comments or single Research Group report Bold : Multiple Research Group reports (!s) will be used</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
