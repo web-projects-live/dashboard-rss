@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-08-13T21:46:43Z</updated>
+  <updated>2026-08-14T11:39:10Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,33 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/starmie-super-mega-raid-day-2026</id>
-    <title>⚡ Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/starmie-super-mega-raid-day-2026"/>
-    <published>2026-08-13T21:46:40Z</published>
-    <updated>2026-08-13T21:46:40Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026</id>
-    <title>⚡ That’s a big Rillaboom! Gigantamax Rillaboom drums towards Max Battle Day!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-rillaboom-max-battle-day-2026"/>
-    <published>2026-08-13T21:46:40Z</published>
-    <updated>2026-08-13T21:46:40Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/gofest2026-global-update</id>
     <title>⚡ Pokémon GO Fest 2026: Global - Sunday Raid Battles update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-global-update"/>
-    <published>2026-08-13T21:46:40Z</published>
-    <updated>2026-08-13T21:46:40Z</updated>
+    <published>2026-08-14T11:39:09Z</published>
+    <updated>2026-08-14T11:39:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +24,8 @@
     <id>https://pokemongolive.com/news/summer-marathon-2026</id>
     <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/summer-marathon-2026"/>
-    <published>2026-08-13T21:46:40Z</published>
-    <updated>2026-08-13T21:46:40Z</updated>
+    <published>2026-08-14T11:39:09Z</published>
+    <updated>2026-08-14T11:39:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +35,8 @@
     <id>https://pokemongolive.com/news/save-the-date-go-wild-area-2026</id>
     <title>⚡ Save the Date: Pokémon GO Wild Area 2026</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-wild-area-2026"/>
-    <published>2026-08-13T21:46:40Z</published>
-    <updated>2026-08-13T21:46:40Z</updated>
+    <published>2026-08-14T11:39:09Z</published>
+    <updated>2026-08-14T11:39:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +46,8 @@
     <id>https://pokemongolive.com/news/fire-and-ice-hatch-day-2026</id>
     <title>⚡ Fire and Ice Hatch Day</title>
     <link rel="alternate" href="https://pokemongolive.com/news/fire-and-ice-hatch-day-2026"/>
-    <published>2026-08-13T21:46:40Z</published>
-    <updated>2026-08-13T21:46:40Z</updated>
+    <published>2026-08-14T11:39:09Z</published>
+    <updated>2026-08-14T11:39:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +57,8 @@
     <id>https://pokemongolive.com/news/go-pass-august-2026</id>
     <title>⚡ The Lucky Trinket returns and Latias soars into GO Pass: August!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-august-2026"/>
-    <published>2026-08-13T21:46:40Z</published>
-    <updated>2026-08-13T21:46:40Z</updated>
+    <published>2026-08-14T11:39:09Z</published>
+    <updated>2026-08-14T11:39:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +68,8 @@
     <id>https://pokemongolive.com/news/gofest2026-finale-save-the-date</id>
     <title>⚡ Your Final Summer Adventure Begins with Pokémon GO Fest: Mega Finale</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-finale-save-the-date"/>
-    <published>2026-08-13T21:46:40Z</published>
-    <updated>2026-08-13T21:46:40Z</updated>
+    <published>2026-08-14T11:39:09Z</published>
+    <updated>2026-08-14T11:39:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +79,8 @@
     <id>https://pokemongolive.com/news/world-championships-event-2026</id>
     <title>⚡ Celebrate PokémonXP and the 2026 Pokémon World Championships in Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/world-championships-event-2026"/>
-    <published>2026-08-13T21:46:40Z</published>
-    <updated>2026-08-13T21:46:40Z</updated>
+    <published>2026-08-14T11:39:09Z</published>
+    <updated>2026-08-14T11:39:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +90,8 @@
     <id>https://pokemongolive.com/news/save-the-date-s24</id>
     <title>⚡ Save the dates for next Season’s Community Days!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-s24"/>
-    <published>2026-08-13T21:46:40Z</published>
-    <updated>2026-08-13T21:46:40Z</updated>
+    <published>2026-08-14T11:39:09Z</published>
+    <updated>2026-08-14T11:39:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +101,8 @@
     <id>https://pokemongolive.com/news/gofest2026-mega-finale-incoming</id>
     <title>⚡ A Final Summer Surge of Mega Energy Is Approaching</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-mega-finale-incoming"/>
-    <published>2026-08-13T21:46:40Z</published>
-    <updated>2026-08-13T21:46:40Z</updated>
+    <published>2026-08-14T11:39:09Z</published>
+    <updated>2026-08-14T11:39:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +112,8 @@
     <id>https://pokemongolive.com/news/event-apac-30th-anniversary-2026</id>
     <title>⚡ Pokémon’s 30th anniversary celebration, PokéXciting!, is the most exciting Pokémon party ever!!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-apac-30th-anniversary-2026"/>
-    <published>2026-08-13T21:46:40Z</published>
-    <updated>2026-08-13T21:46:40Z</updated>
+    <published>2026-08-14T11:39:09Z</published>
+    <updated>2026-08-14T11:39:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +123,8 @@
     <id>https://pokemongolive.com/news/event-apac-stamp-rally-2026</id>
     <title>⚡ PokéXciting! cross-region GO Stamp Rally—get ready to explore the Asia-Pacific region!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-apac-stamp-rally-2026"/>
-    <published>2026-08-13T21:46:40Z</published>
-    <updated>2026-08-13T21:46:40Z</updated>
+    <published>2026-08-14T11:39:09Z</published>
+    <updated>2026-08-14T11:39:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +134,8 @@
     <id>https://pokemongolive.com/news/10th-anniversary-celebration</id>
     <title>⚡ Every Trainer can celebrate 10 years of Pokémon GO with a special Mewtwo!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/10th-anniversary-celebration"/>
-    <published>2026-08-13T21:46:40Z</published>
-    <updated>2026-08-13T21:46:40Z</updated>
+    <published>2026-08-14T11:39:09Z</published>
+    <updated>2026-08-14T11:39:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +145,81 @@
     <id>https://pokemongolive.com/news/pgo-explorer-gadget-2026</id>
     <title>⚡ The Explorer Gadget Debuts!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pgo-explorer-gadget-2026"/>
-    <published>2026-08-13T21:46:40Z</published>
-    <updated>2026-08-13T21:46:40Z</updated>
+    <published>2026-08-14T11:39:09Z</published>
+    <updated>2026-08-14T11:39:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/dancing-in-the-moonlight-2026</id>
+    <title>⚡ Dance Under the Moon with Clefairy</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/dancing-in-the-moonlight-2026"/>
+    <published>2026-08-14T11:39:09Z</published>
+    <updated>2026-08-14T11:39:09Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/event-kuala-lumpur-30th-anniversary-2026</id>
+    <title>⚡ PokéXciting! Comes to KLCC Park — Get Ready, Kuala Lumpur!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/event-kuala-lumpur-30th-anniversary-2026"/>
+    <published>2026-08-14T11:39:09Z</published>
+    <updated>2026-08-14T11:39:09Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld</id>
+    <title>🤖 The MSI Claw EX is the most important handheld since Steam Deck — I still wouldn’t buy one</title>
+    <link rel="alternate" href="https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld"/>
+    <published>2026-08-14T11:00:00Z</published>
+    <updated>2026-08-14T11:00:00Z</updated>
+    <summary type="text">As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip and improved MSI design, the Claw EX is the most powerful handheld that truly feels […]</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba</id>
+    <title>🤖 Apple trained its own AI model for China with help from Alibaba</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"/>
+    <published>2026-08-14T09:21:17Z</published>
+    <updated>2026-08-14T09:21:17Z</updated>
+    <summary type="text">Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained wi</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument</id>
+    <title>🤖 Help build a monument to that ‘sad little bitch’ Elon Musk</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument"/>
+    <published>2026-08-14T08:40:13Z</published>
+    <updated>2026-08-14T08:40:13Z</updated>
+    <summary type="text">Cards Against Humanity is gearing up to build &quot;something that will annoy Elon Musk,&quot; and it's crowdfunding the project with its usual flavor of vulgarity. The company behind the card game announced plans to build &quot;a grand monument&quot; to Musk on the parcel of land it owns near Starbase, Texas, with the</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts</id>
+    <title>🤖 Trump declares 100 percent tariffs on many drones and all aircraft parts</title>
+    <link rel="alternate" href="https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts"/>
+    <published>2026-08-14T01:06:15Z</published>
+    <updated>2026-08-14T01:06:15Z</updated>
+    <summary type="text">The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. I</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -184,138 +232,6 @@
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vnlm7a/the_explorer_gadget_debuts/</id>
-    <title>⚡ The Explorer Gadget Debuts!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vnlm7a/the_explorer_gadget_debuts/"/>
-    <published>2026-08-13T20:01:19Z</published>
-    <updated>2026-08-13T20:01:19Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vnl1wj/kalos_starters_gaining_mega_energy_from_catching/</id>
-    <title>⚡ Kalos starters gaining mega energy from catching deleted from Mega Finale page</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vnl1wj/kalos_starters_gaining_mega_energy_from_catching/"/>
-    <published>2026-08-13T19:40:25Z</published>
-    <updated>2026-08-13T19:40:25Z</updated>
-    <summary type="text">submitted by /u/jdanp8 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure</id>
-    <title>🤖 OpenAI is losing its second executive this week</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure"/>
-    <published>2026-08-13T19:28:39Z</published>
-    <updated>2026-08-13T19:28:39Z</updated>
-    <summary type="text">Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the &quot;coming weeks&quot; to &quot;pursue other opportunities,&quot; she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, wi</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms</id>
-    <title>🤖 The Trump admin will start letting private firms launch international cyberattacks</title>
-    <link rel="alternate" href="https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms"/>
-    <published>2026-08-13T18:56:13Z</published>
-    <updated>2026-08-13T18:56:13Z</updated>
-    <summary type="text">The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate &quot;under the control and oversight&quot; of the federal government, giving them permission to surveil and di</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame</id>
-    <title>🤖 I finally found a robot lawnmower I’d trust with my yard</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame"/>
-    <published>2026-08-13T18:30:00Z</published>
-    <updated>2026-08-13T18:30:00Z</updated>
-    <summary type="text">Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’ yard, you’re still going to need to keep an eye on </summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vngt15/stats_were_added_for_mega_chesnaught_mega_delphox/</id>
-    <title>⚡ Stats were added for Mega Chesnaught, Mega Delphox, and Mega Greninja.</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vngt15/stats_were_added_for_mega_chesnaught_mega_delphox/"/>
-    <published>2026-08-13T17:10:57Z</published>
-    <updated>2026-08-13T17:10:57Z</updated>
-    <summary type="text">Courtesy of Matt in the PokeMiners Discord submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant</id>
-    <title>🤖 Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul</title>
-    <link rel="alternate" href="https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant"/>
-    <published>2026-08-13T16:23:18Z</published>
-    <updated>2026-08-13T16:23:18Z</updated>
-    <summary type="text">Ford said today that its next-generation electric vehicle - recently dubbed Fathom - will go into production at the automaker's recently overhauled Louisville Assembly Plant in the first quarter of 2027. The first Fathoms will be prototypes, with Ford's team in Louisville already in the production-l</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vnefaa/unlike_the_go_plus_you_must_be_moving_for_the/</id>
-    <title>⚡ Unlike the GO Plus+, you must be moving for the Explorer Gadget to work</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vnefaa/unlike_the_go_plus_you_must_be_moving_for_the/"/>
-    <published>2026-08-13T15:46:02Z</published>
-    <updated>2026-08-13T15:46:02Z</updated>
-    <summary type="text">submitted by /u/jobddt [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vncmue/dont_forget_dynamax_mewtwo_is_still_a_thing/</id>
-    <title>⚡ Don't forget Dynamax Mewtwo is still a thing.</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vncmue/dont_forget_dynamax_mewtwo_is_still_a_thing/"/>
-    <published>2026-08-13T14:41:36Z</published>
-    <updated>2026-08-13T14:41:36Z</updated>
-    <summary type="text">As the Pokémon community swings between loving the Mewtwo bonus and hating it, remember, kiddos: the grind for levels of rarity will always exist. Backgrounds mess with perfects. Dynamax messes with non-Dynamax. And so on. So, for those feeling like the Mewtwo giveaways have killed all rarity… just </summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vnc46p/is_the_go_plus_also_terrible_at_catching/</id>
-    <title>⚡ Is the Go Plus also terrible at catching?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vnc46p/is_the_go_plus_also_terrible_at_catching/"/>
-    <published>2026-08-13T14:21:52Z</published>
-    <updated>2026-08-13T14:21:52Z</updated>
-    <summary type="text">I've never used a Go Plus so I don't have anything to compare to the new gadget. But the gadget seems terrible at actually catching pokemon. Is this normal? I know it can only throw regular balls but I catch most things manually with a regular ball. There are lots of spawns around and I've tried a c</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vnav1l/pokémon_caught_in_go_safari_balls_will_be/</id>
-    <title>⚡ Pokémon caught in GO Safari Balls will be transferable to Pokémon HOME after its October 2026 update</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vnav1l/pokémon_caught_in_go_safari_balls_will_be/"/>
-    <published>2026-08-13T13:33:12Z</published>
-    <updated>2026-08-13T13:33:12Z</updated>
-    <summary type="text">submitted by /u/davebybab [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -355,30 +271,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vmtmjy/every_trainer_can_celebrate_10_years_of_pokémon/</id>
-    <title>⚡ Every Trainer can celebrate 10 years of Pokémon GO with a special Mewtwo!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vmtmjy/every_trainer_can_celebrate_10_years_of_pokémon/"/>
-    <published>2026-08-12T23:05:25Z</published>
-    <updated>2026-08-12T23:05:25Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vmtjyw/free_mewtwo_and_master_ball/</id>
-    <title>⚡ Free Mewtwo and Master ball</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vmtjyw/free_mewtwo_and_master_ball/"/>
-    <published>2026-08-12T23:02:27Z</published>
-    <updated>2026-08-12T23:02:27Z</updated>
-    <summary type="text">Probably the easiest master ball and legendary we will ever get.. Available in the UK right now, 13th August. Edit: it’s a gaurenteed 100% with background it seems… submitted by /u/Apprehensive-Lie1486 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://openai.com/index/how-enterprises-put-ai-to-work</id>
     <title>🤖 From assistance to execution: How enterprises put AI to work</title>
     <link rel="alternate" href="https://openai.com/index/how-enterprises-put-ai-to-work"/>
@@ -400,18 +292,6 @@
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vlgt2w/questions_answers_weekly_megathread_please_use/</id>
-    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vlgt2w/questions_answers_weekly_megathread_please_use/"/>
-    <published>2026-08-11T13:00:28Z</published>
-    <updated>2026-08-11T13:00:28Z</updated>
-    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
