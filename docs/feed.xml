@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-08-23T21:22:29Z</updated>
+  <updated>2026-08-24T11:20:42Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/gofest2026-global-update</id>
-    <title>⚡ Pokémon GO Fest 2026: Global - Sunday Raid Battles update</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-global-update"/>
-    <published>2026-08-23T21:22:28Z</published>
-    <updated>2026-08-23T21:22:28Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/summer-marathon-2026</id>
     <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/summer-marathon-2026"/>
-    <published>2026-08-23T21:22:28Z</published>
-    <updated>2026-08-23T21:22:28Z</updated>
+    <published>2026-08-24T11:20:40Z</published>
+    <updated>2026-08-24T11:20:40Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/save-the-date-go-wild-area-2026</id>
     <title>⚡ Save the Date: Pokémon GO Wild Area 2026</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-wild-area-2026"/>
-    <published>2026-08-23T21:22:28Z</published>
-    <updated>2026-08-23T21:22:28Z</updated>
+    <published>2026-08-24T11:20:40Z</published>
+    <updated>2026-08-24T11:20:40Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/fire-and-ice-hatch-day-2026</id>
     <title>⚡ Fire and Ice Hatch Day</title>
     <link rel="alternate" href="https://pokemongolive.com/news/fire-and-ice-hatch-day-2026"/>
-    <published>2026-08-23T21:22:28Z</published>
-    <updated>2026-08-23T21:22:28Z</updated>
+    <published>2026-08-24T11:20:40Z</published>
+    <updated>2026-08-24T11:20:40Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/go-pass-august-2026</id>
     <title>⚡ The Lucky Trinket returns and Latias soars into GO Pass: August!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-august-2026"/>
-    <published>2026-08-23T21:22:28Z</published>
-    <updated>2026-08-23T21:22:28Z</updated>
+    <published>2026-08-24T11:20:40Z</published>
+    <updated>2026-08-24T11:20:40Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/gofest2026-finale-save-the-date</id>
     <title>⚡ Your Final Summer Adventure Begins with Pokémon GO Fest: Mega Finale</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-finale-save-the-date"/>
-    <published>2026-08-23T21:22:28Z</published>
-    <updated>2026-08-23T21:22:28Z</updated>
+    <published>2026-08-24T11:20:40Z</published>
+    <updated>2026-08-24T11:20:40Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/world-championships-event-2026</id>
     <title>⚡ Celebrate PokémonXP and the 2026 Pokémon World Championships in Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/world-championships-event-2026"/>
-    <published>2026-08-23T21:22:28Z</published>
-    <updated>2026-08-23T21:22:28Z</updated>
+    <published>2026-08-24T11:20:40Z</published>
+    <updated>2026-08-24T11:20:40Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/save-the-date-s24</id>
     <title>⚡ Save the dates for next Season’s Community Days!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-s24"/>
-    <published>2026-08-23T21:22:28Z</published>
-    <updated>2026-08-23T21:22:28Z</updated>
+    <published>2026-08-24T11:20:40Z</published>
+    <updated>2026-08-24T11:20:40Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/gofest2026-mega-finale-incoming</id>
     <title>⚡ A Final Summer Surge of Mega Energy Is Approaching</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-mega-finale-incoming"/>
-    <published>2026-08-23T21:22:28Z</published>
-    <updated>2026-08-23T21:22:28Z</updated>
+    <published>2026-08-24T11:20:40Z</published>
+    <updated>2026-08-24T11:20:40Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/event-apac-30th-anniversary-2026</id>
     <title>⚡ Pokémon’s 30th anniversary celebration, PokéXciting!, is the most exciting Pokémon party ever!!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-apac-30th-anniversary-2026"/>
-    <published>2026-08-23T21:22:28Z</published>
-    <updated>2026-08-23T21:22:28Z</updated>
+    <published>2026-08-24T11:20:40Z</published>
+    <updated>2026-08-24T11:20:40Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/event-apac-stamp-rally-2026</id>
     <title>⚡ PokéXciting! cross-region GO Stamp Rally—get ready to explore the Asia-Pacific region!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-apac-stamp-rally-2026"/>
-    <published>2026-08-23T21:22:28Z</published>
-    <updated>2026-08-23T21:22:28Z</updated>
+    <published>2026-08-24T11:20:40Z</published>
+    <updated>2026-08-24T11:20:40Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/10th-anniversary-celebration</id>
     <title>⚡ Every Trainer can celebrate 10 years of Pokémon GO with a special Mewtwo!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/10th-anniversary-celebration"/>
-    <published>2026-08-23T21:22:28Z</published>
-    <updated>2026-08-23T21:22:28Z</updated>
+    <published>2026-08-24T11:20:40Z</published>
+    <updated>2026-08-24T11:20:40Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/pgo-explorer-gadget-2026</id>
     <title>⚡ The Explorer Gadget Debuts!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pgo-explorer-gadget-2026"/>
-    <published>2026-08-23T21:22:28Z</published>
-    <updated>2026-08-23T21:22:28Z</updated>
+    <published>2026-08-24T11:20:40Z</published>
+    <updated>2026-08-24T11:20:40Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/dancing-in-the-moonlight-2026</id>
     <title>⚡ Dance Under the Moon with Clefairy</title>
     <link rel="alternate" href="https://pokemongolive.com/news/dancing-in-the-moonlight-2026"/>
-    <published>2026-08-23T21:22:28Z</published>
-    <updated>2026-08-23T21:22:28Z</updated>
+    <published>2026-08-24T11:20:40Z</published>
+    <updated>2026-08-24T11:20:40Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +156,45 @@
     <id>https://pokemongolive.com/news/event-kuala-lumpur-30th-anniversary-2026</id>
     <title>⚡ PokéXciting! Comes to KLCC Park — Get Ready, Kuala Lumpur!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-kuala-lumpur-30th-anniversary-2026"/>
-    <published>2026-08-23T21:22:28Z</published>
-    <updated>2026-08-23T21:22:28Z</updated>
+    <published>2026-08-24T11:20:40Z</published>
+    <updated>2026-08-24T11:20:40Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/2026_ana_green</id>
+    <title>⚡ Celebrate the launch of the Green Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_green"/>
+    <published>2026-08-24T11:20:40Z</published>
+    <updated>2026-08-24T11:20:40Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://supercell.com/en/games/brawlstars/blog/esports/first-look-at-bsc-2027</id>
+    <title>🏆 First Look at BSC 2027</title>
+    <link rel="alternate" href="https://supercell.com/en/games/brawlstars/blog/esports/first-look-at-bsc-2027"/>
+    <published>2026-08-24T11:00:00Z</published>
+    <updated>2026-08-24T11:00:00Z</updated>
+    <category term="brawlstars"/>
+    <author>
+      <name>Brawl Stars Official Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026</id>
+    <title>🤖 Humanoid robots smash Usain Bolt&amp;#8217;s 100-meter record</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026"/>
+    <published>2026-08-24T09:10:40Z</published>
+    <updated>2026-08-24T09:10:40Z</updated>
+    <summary type="text">The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing. In a preliminary heat on Saturday, Tiangong Ultra, made by the Beijing Humanoid Robot Innovation ​Center, ran the distance in 9.39 seconds, </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -241,18 +264,6 @@
     <published>2026-08-21T22:14:11Z</published>
     <updated>2026-08-21T22:14:11Z</updated>
     <summary type="text">I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be forced to abandon shi</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa</id>
-    <title>🤖 TikTok will pay $400 million to settle DOJ child privacy lawsuit</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa"/>
-    <published>2026-08-21T22:13:34Z</published>
-    <updated>2026-08-21T22:13:34Z</updated>
-    <summary type="text">The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without notifying parents or ob</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
@@ -476,17 +487,6 @@
     <link rel="alternate" href="https://supercell.com/en/games/brawlstars/blog/esports/last-chance-qualifier-format-2"/>
     <published>2026-07-23T09:00:00Z</published>
     <updated>2026-07-23T09:00:00Z</updated>
-    <category term="brawlstars"/>
-    <author>
-      <name>Brawl Stars Official Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://supercell.com/en/games/brawlstars/blog/community/the-adidas-starr-cup-is-on</id>
-    <title>🏆 THE ADIDAS STARR CUP IS ON!</title>
-    <link rel="alternate" href="https://supercell.com/en/games/brawlstars/blog/community/the-adidas-starr-cup-is-on"/>
-    <published>2026-06-17T21:00:00Z</published>
-    <updated>2026-06-17T21:00:00Z</updated>
     <category term="brawlstars"/>
     <author>
       <name>Brawl Stars Official Blog</name>
