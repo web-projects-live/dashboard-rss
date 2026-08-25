@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-08-25T14:44:28Z</updated>
+  <updated>2026-08-25T21:29:04Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,33 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/summer-marathon-2026</id>
-    <title>⚡ Fire up or chill out during Summer Marathon: Arctic Embers!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/summer-marathon-2026"/>
-    <published>2026-08-25T14:44:27Z</published>
-    <updated>2026-08-25T14:44:27Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/save-the-date-go-wild-area-2026</id>
-    <title>⚡ Save the Date: Pokémon GO Wild Area 2026</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-wild-area-2026"/>
-    <published>2026-08-25T14:44:27Z</published>
-    <updated>2026-08-25T14:44:27Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/fire-and-ice-hatch-day-2026</id>
     <title>⚡ Fire and Ice Hatch Day</title>
     <link rel="alternate" href="https://pokemongolive.com/news/fire-and-ice-hatch-day-2026"/>
-    <published>2026-08-25T14:44:27Z</published>
-    <updated>2026-08-25T14:44:27Z</updated>
+    <published>2026-08-25T21:29:02Z</published>
+    <updated>2026-08-25T21:29:02Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +24,8 @@
     <id>https://pokemongolive.com/news/go-pass-august-2026</id>
     <title>⚡ The Lucky Trinket returns and Latias soars into GO Pass: August!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-august-2026"/>
-    <published>2026-08-25T14:44:27Z</published>
-    <updated>2026-08-25T14:44:27Z</updated>
+    <published>2026-08-25T21:29:02Z</published>
+    <updated>2026-08-25T21:29:02Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +35,8 @@
     <id>https://pokemongolive.com/news/gofest2026-finale-save-the-date</id>
     <title>⚡ Your Final Summer Adventure Begins with Pokémon GO Fest: Mega Finale</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-finale-save-the-date"/>
-    <published>2026-08-25T14:44:27Z</published>
-    <updated>2026-08-25T14:44:27Z</updated>
+    <published>2026-08-25T21:29:02Z</published>
+    <updated>2026-08-25T21:29:02Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +46,8 @@
     <id>https://pokemongolive.com/news/world-championships-event-2026</id>
     <title>⚡ Celebrate PokémonXP and the 2026 Pokémon World Championships in Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/world-championships-event-2026"/>
-    <published>2026-08-25T14:44:27Z</published>
-    <updated>2026-08-25T14:44:27Z</updated>
+    <published>2026-08-25T21:29:02Z</published>
+    <updated>2026-08-25T21:29:02Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +57,8 @@
     <id>https://pokemongolive.com/news/save-the-date-s24</id>
     <title>⚡ Save the dates for next Season’s Community Days!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-s24"/>
-    <published>2026-08-25T14:44:27Z</published>
-    <updated>2026-08-25T14:44:27Z</updated>
+    <published>2026-08-25T21:29:02Z</published>
+    <updated>2026-08-25T21:29:02Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +68,8 @@
     <id>https://pokemongolive.com/news/gofest2026-mega-finale-incoming</id>
     <title>⚡ A Final Summer Surge of Mega Energy Is Approaching</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-mega-finale-incoming"/>
-    <published>2026-08-25T14:44:27Z</published>
-    <updated>2026-08-25T14:44:27Z</updated>
+    <published>2026-08-25T21:29:02Z</published>
+    <updated>2026-08-25T21:29:02Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +79,8 @@
     <id>https://pokemongolive.com/news/event-apac-30th-anniversary-2026</id>
     <title>⚡ Pokémon’s 30th anniversary celebration, PokéXciting!, is the most exciting Pokémon party ever!!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-apac-30th-anniversary-2026"/>
-    <published>2026-08-25T14:44:27Z</published>
-    <updated>2026-08-25T14:44:27Z</updated>
+    <published>2026-08-25T21:29:02Z</published>
+    <updated>2026-08-25T21:29:02Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +90,8 @@
     <id>https://pokemongolive.com/news/event-apac-stamp-rally-2026</id>
     <title>⚡ PokéXciting! cross-region GO Stamp Rally—get ready to explore the Asia-Pacific region!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-apac-stamp-rally-2026"/>
-    <published>2026-08-25T14:44:27Z</published>
-    <updated>2026-08-25T14:44:27Z</updated>
+    <published>2026-08-25T21:29:02Z</published>
+    <updated>2026-08-25T21:29:02Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +101,8 @@
     <id>https://pokemongolive.com/news/10th-anniversary-celebration</id>
     <title>⚡ Every Trainer can celebrate 10 years of Pokémon GO with a special Mewtwo!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/10th-anniversary-celebration"/>
-    <published>2026-08-25T14:44:27Z</published>
-    <updated>2026-08-25T14:44:27Z</updated>
+    <published>2026-08-25T21:29:02Z</published>
+    <updated>2026-08-25T21:29:02Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +112,8 @@
     <id>https://pokemongolive.com/news/pgo-explorer-gadget-2026</id>
     <title>⚡ The Explorer Gadget Debuts!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pgo-explorer-gadget-2026"/>
-    <published>2026-08-25T14:44:27Z</published>
-    <updated>2026-08-25T14:44:27Z</updated>
+    <published>2026-08-25T21:29:02Z</published>
+    <updated>2026-08-25T21:29:02Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +123,8 @@
     <id>https://pokemongolive.com/news/dancing-in-the-moonlight-2026</id>
     <title>⚡ Dance Under the Moon with Clefairy</title>
     <link rel="alternate" href="https://pokemongolive.com/news/dancing-in-the-moonlight-2026"/>
-    <published>2026-08-25T14:44:27Z</published>
-    <updated>2026-08-25T14:44:27Z</updated>
+    <published>2026-08-25T21:29:02Z</published>
+    <updated>2026-08-25T21:29:02Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +134,8 @@
     <id>https://pokemongolive.com/news/event-kuala-lumpur-30th-anniversary-2026</id>
     <title>⚡ PokéXciting! Comes to KLCC Park — Get Ready, Kuala Lumpur!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-kuala-lumpur-30th-anniversary-2026"/>
-    <published>2026-08-25T14:44:27Z</published>
-    <updated>2026-08-25T14:44:27Z</updated>
+    <published>2026-08-25T21:29:02Z</published>
+    <updated>2026-08-25T21:29:02Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,83 +145,117 @@
     <id>https://pokemongolive.com/news/2026_ana_green</id>
     <title>⚡ Celebrate the launch of the Green Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_green"/>
-    <published>2026-08-25T14:44:27Z</published>
-    <updated>2026-08-25T14:44:27Z</updated>
+    <published>2026-08-25T21:29:02Z</published>
+    <updated>2026-08-25T21:29:02Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks</id>
-    <title>🤖 OpenAI says its Jalapeño chip can power faster AI responses than the competition</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks"/>
-    <published>2026-08-25T14:00:00Z</published>
-    <updated>2026-08-25T14:00:00Z</updated>
-    <summary type="text">OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the &quot;best of both worlds&quot; with l</summary>
+    <id>https://pokemongolive.com/news/go-pass-september-2026</id>
+    <title>⚡ Latios soars in faster than a jet for GO Pass: September!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-pass-september-2026"/>
+    <published>2026-08-25T21:29:02Z</published>
+    <updated>2026-08-25T21:29:02Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/seasons--twilight-trails</id>
+    <title>⚡ Welcome to Pokémon GO: Twilight Trails</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/seasons--twilight-trails"/>
+    <published>2026-08-25T21:29:02Z</published>
+    <updated>2026-08-25T21:29:02Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale</id>
+    <title>🤖 At just $8, you owe it to yourself to grab Inscryption</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale"/>
+    <published>2026-08-25T20:38:37Z</published>
+    <updated>2026-08-25T20:38:37Z</updated>
+    <summary type="text">If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of him, get a crash course with a fantastic discount on Inscryption. Humble is currently selling Steam versions</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder</id>
-    <title>🤖 Where to preorder the updated Mac Mini and Mac Studio</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder"/>
-    <published>2026-08-25T13:02:18Z</published>
-    <updated>2026-08-25T13:02:18Z</updated>
-    <summary type="text">Apple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping for most configurations starting on September 22nd, 2026. The Mac Mini starts at $8</summary>
+    <id>https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer</id>
+    <title>🤖 The Witcher 3 is getting a remaster</title>
+    <link rel="alternate" href="https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer"/>
+    <published>2026-08-25T20:24:24Z</published>
+    <updated>2026-08-25T20:24:24Z</updated>
+    <summary type="text">CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a &quot;reimagined&quot; skill tree, and more, and it also inclu</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/transportation/983926/uber-teen-account-live-video-driver-selfie-camera</id>
-    <title>🤖 Uber is letting parents check in on their teens through drivers’ selfie cameras</title>
-    <link rel="alternate" href="https://www.theverge.com/transportation/983926/uber-teen-account-live-video-driver-selfie-camera"/>
-    <published>2026-08-25T13:00:00Z</published>
-    <updated>2026-08-25T13:00:00Z</updated>
-    <summary type="text">Uber is updating its teen account feature to allow parents to use the selfie cameras on Uber drivers' phones to check in on their teenage children during ridehail trips. Since first launching teen accounts in 2023, Uber has touted the myriad ways parents can keep tabs on their children, from PIN ver</summary>
+    <id>https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down</id>
+    <title>🤖 Dreame’s dream of a rocket-powered car is dead</title>
+    <link rel="alternate" href="https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down"/>
+    <published>2026-08-25T18:52:53Z</published>
+    <updated>2026-08-25T18:52:53Z</updated>
+    <summary type="text">Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project after funding from the government dried up. According to CarNewsChina, the company's automotive division called &quot;Project Starry Sky&quot; once employed over 1,000 people, bu</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio</id>
-    <title>🤖 Apple&amp;#8217;s new M6 chip gets more cores and more AI compute</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio"/>
-    <published>2026-08-25T13:00:00Z</published>
-    <updated>2026-08-25T13:00:00Z</updated>
-    <summary type="text">Apple has announced a new M6 chip for Macs, along with an M5 Ultra that it says is its &quot;most powerful chip ever,&quot; designed for tasks like 3D rendering and running frontier AI models. The M6 is Apple's first 2nm chip, which Apple says will bring improvements in performance and power efficiency, and i</summary>
+    <id>https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories</id>
+    <title>🤖 Take a look at Microsoft&amp;#8217;s new 25th anniversary Halo accessories</title>
+    <link rel="alternate" href="https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories"/>
+    <published>2026-08-25T18:16:29Z</published>
+    <updated>2026-08-25T18:16:29Z</updated>
+    <summary type="text">The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to the Halo special edition of the original Xbox, almost everything in the collection is translucent &quot;OG Green,&quot; matching the Xbox Series X25 limited editi</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs</id>
-    <title>🤖 Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs"/>
-    <published>2026-08-25T13:00:00Z</published>
-    <updated>2026-08-25T13:00:00Z</updated>
-    <summary type="text">Apple is announcing a new generation of the Mac Mini, once again offering two models: one with a new M6 chip and a higher-end model with the M5 Pro found in this year's MacBook Pro. The new Minis have the same tiny design and footprint as the 2024 M4 / M4 Pro models, but with […]</summary>
+    <id>https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley</id>
+    <title>🤖 Gamescom Opening Night Live 2026: The biggest announcements and trailers</title>
+    <link rel="alternate" href="https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley"/>
+    <published>2026-08-25T17:20:00Z</published>
+    <updated>2026-08-25T17:20:00Z</updated>
+    <summary type="text">The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Red that’s launching in September. But the show also featured a bunch of trailers for others games, inclu</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/games/984139/the-oled-xbox-ally-x20-officially-starts-at-1300</id>
-    <title>🤖 The OLED Xbox Ally X20 officially starts at $1,300</title>
-    <link rel="alternate" href="https://www.theverge.com/games/984139/the-oled-xbox-ally-x20-officially-starts-at-1300"/>
-    <published>2026-08-25T12:30:00Z</published>
-    <updated>2026-08-25T12:30:00Z</updated>
-    <summary type="text">The Asus Xbox Ally X20 looked like it could be one of the best handheld gaming PCs yet made - but originally, Asus wanted you to buy a bundle pairing it with pricy AR glasses. In July, we told you that bundle would no longer be necessary, and today it's official: you can pre-order a […]</summary>
+    <id>https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump</id>
+    <title>🤖 Polestar claims it was blindsided by sales ban</title>
+    <link rel="alternate" href="https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump"/>
+    <published>2026-08-25T16:14:45Z</published>
+    <updated>2026-08-25T16:14:45Z</updated>
+    <summary type="text">Polestar said the Trump administration strung it along for months before finally rejecting its request to continue selling its electric vehicles in the US under a rule outlawing vehicles with connected software from China. In an August 18th letter sent to dealers and obtained by The Verge, Polestar </summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/the-full-stack-behind-abundant-intelligence</id>
+    <title>🤖 The full stack behind abundant intelligence</title>
+    <link rel="alternate" href="https://openai.com/index/the-full-stack-behind-abundant-intelligence"/>
+    <published>2026-08-25T07:05:00Z</published>
+    <updated>2026-08-25T07:05:00Z</updated>
+    <summary type="text">OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -265,6 +277,18 @@
     <published>2026-08-25T00:00:00Z</published>
     <updated>2026-08-25T00:00:00Z</updated>
     <summary type="text">OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/introducing-admin-plugin</id>
+    <title>🤖 Introducing the Admin plugin for ChatGPT Work and Codex</title>
+    <link rel="alternate" href="https://openai.com/index/introducing-admin-plugin"/>
+    <published>2026-08-25T00:00:00Z</published>
+    <updated>2026-08-25T00:00:00Z</updated>
+    <summary type="text">Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
@@ -315,30 +339,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/introducing-ai-futures</id>
-    <title>🤖 Introducing AI Futures</title>
-    <link rel="alternate" href="https://openai.com/index/introducing-ai-futures"/>
-    <published>2026-08-20T07:00:00Z</published>
-    <updated>2026-08-20T07:00:00Z</updated>
-    <summary type="text">Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/stampli</id>
-    <title>🤖 Stampli cuts launch hours by 68% using ChatGPT Work</title>
-    <link rel="alternate" href="https://openai.com/index/stampli"/>
-    <published>2026-08-20T00:00:00Z</published>
-    <updated>2026-08-20T00:00:00Z</updated>
-    <summary type="text">With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
