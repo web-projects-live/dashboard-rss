@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-08-30T23:15:40Z</updated>
+  <updated>2026-08-31T17:47:04Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,55 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/go-pass-august-2026</id>
-    <title>⚡ The Lucky Trinket returns and Latias soars into GO Pass: August!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/go-pass-august-2026"/>
-    <published>2026-08-30T23:15:38Z</published>
-    <updated>2026-08-30T23:15:38Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/gofest2026-finale-save-the-date</id>
-    <title>⚡ Your Final Summer Adventure Begins with Pokémon GO Fest: Mega Finale</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-finale-save-the-date"/>
-    <published>2026-08-30T23:15:38Z</published>
-    <updated>2026-08-30T23:15:38Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/world-championships-event-2026</id>
-    <title>⚡ Celebrate PokémonXP and the 2026 Pokémon World Championships in Pokémon GO!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/world-championships-event-2026"/>
-    <published>2026-08-30T23:15:38Z</published>
-    <updated>2026-08-30T23:15:38Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/save-the-date-s24</id>
-    <title>⚡ Save the dates for next Season’s Community Days!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-s24"/>
-    <published>2026-08-30T23:15:38Z</published>
-    <updated>2026-08-30T23:15:38Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/gofest2026-mega-finale-incoming</id>
     <title>⚡ A Final Summer Surge of Mega Energy Is Approaching</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gofest2026-mega-finale-incoming"/>
-    <published>2026-08-30T23:15:38Z</published>
-    <updated>2026-08-30T23:15:38Z</updated>
+    <published>2026-08-31T17:47:01Z</published>
+    <updated>2026-08-31T17:47:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +24,8 @@
     <id>https://pokemongolive.com/news/event-apac-30th-anniversary-2026</id>
     <title>⚡ Pokémon’s 30th anniversary celebration, PokéXciting!, is the most exciting Pokémon party ever!!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-apac-30th-anniversary-2026"/>
-    <published>2026-08-30T23:15:38Z</published>
-    <updated>2026-08-30T23:15:38Z</updated>
+    <published>2026-08-31T17:47:01Z</published>
+    <updated>2026-08-31T17:47:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +35,8 @@
     <id>https://pokemongolive.com/news/event-apac-stamp-rally-2026</id>
     <title>⚡ PokéXciting! cross-region GO Stamp Rally—get ready to explore the Asia-Pacific region!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-apac-stamp-rally-2026"/>
-    <published>2026-08-30T23:15:38Z</published>
-    <updated>2026-08-30T23:15:38Z</updated>
+    <published>2026-08-31T17:47:01Z</published>
+    <updated>2026-08-31T17:47:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +46,8 @@
     <id>https://pokemongolive.com/news/10th-anniversary-celebration</id>
     <title>⚡ Every Trainer can celebrate 10 years of Pokémon GO with a special Mewtwo!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/10th-anniversary-celebration"/>
-    <published>2026-08-30T23:15:38Z</published>
-    <updated>2026-08-30T23:15:38Z</updated>
+    <published>2026-08-31T17:47:01Z</published>
+    <updated>2026-08-31T17:47:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +57,8 @@
     <id>https://pokemongolive.com/news/pgo-explorer-gadget-2026</id>
     <title>⚡ The Explorer Gadget Debuts!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pgo-explorer-gadget-2026"/>
-    <published>2026-08-30T23:15:38Z</published>
-    <updated>2026-08-30T23:15:38Z</updated>
+    <published>2026-08-31T17:47:01Z</published>
+    <updated>2026-08-31T17:47:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +68,8 @@
     <id>https://pokemongolive.com/news/dancing-in-the-moonlight-2026</id>
     <title>⚡ Dance Under the Moon with Clefairy</title>
     <link rel="alternate" href="https://pokemongolive.com/news/dancing-in-the-moonlight-2026"/>
-    <published>2026-08-30T23:15:38Z</published>
-    <updated>2026-08-30T23:15:38Z</updated>
+    <published>2026-08-31T17:47:01Z</published>
+    <updated>2026-08-31T17:47:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +79,8 @@
     <id>https://pokemongolive.com/news/event-kuala-lumpur-30th-anniversary-2026</id>
     <title>⚡ PokéXciting! Comes to KLCC Park — Get Ready, Kuala Lumpur!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-kuala-lumpur-30th-anniversary-2026"/>
-    <published>2026-08-30T23:15:38Z</published>
-    <updated>2026-08-30T23:15:38Z</updated>
+    <published>2026-08-31T17:47:01Z</published>
+    <updated>2026-08-31T17:47:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +90,8 @@
     <id>https://pokemongolive.com/news/2026_ana_green</id>
     <title>⚡ Celebrate the launch of the Green Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_green"/>
-    <published>2026-08-30T23:15:38Z</published>
-    <updated>2026-08-30T23:15:38Z</updated>
+    <published>2026-08-31T17:47:01Z</published>
+    <updated>2026-08-31T17:47:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +101,8 @@
     <id>https://pokemongolive.com/news/go-pass-september-2026</id>
     <title>⚡ Latios soars in faster than a jet for GO Pass: September!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-september-2026"/>
-    <published>2026-08-30T23:15:38Z</published>
-    <updated>2026-08-30T23:15:38Z</updated>
+    <published>2026-08-31T17:47:01Z</published>
+    <updated>2026-08-31T17:47:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +112,8 @@
     <id>https://pokemongolive.com/news/seasons--twilight-trails</id>
     <title>⚡ Welcome to Pokémon GO: Twilight Trails</title>
     <link rel="alternate" href="https://pokemongolive.com/news/seasons--twilight-trails"/>
-    <published>2026-08-30T23:15:38Z</published>
-    <updated>2026-08-30T23:15:38Z</updated>
+    <published>2026-08-31T17:47:01Z</published>
+    <updated>2026-08-31T17:47:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,95 +123,259 @@
     <id>https://pokemongolive.com/news/catch-mastery-phantump-2026</id>
     <title>⚡ Get ready for a Catch Mastery event featuring Phantump, the Stump Pokémon!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/catch-mastery-phantump-2026"/>
-    <published>2026-08-30T23:15:38Z</published>
-    <updated>2026-08-30T23:15:38Z</updated>
+    <published>2026-08-31T17:47:01Z</published>
+    <updated>2026-08-31T17:47:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3</id>
-    <title>🤖 Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets</title>
-    <link rel="alternate" href="https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3"/>
-    <published>2026-08-30T19:14:08Z</published>
-    <updated>2026-08-30T19:14:08Z</updated>
-    <summary type="text">Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-Life 2: Episode 3, content cut from Portal</summary>
+    <id>https://pokemongolive.com/news/megafinale-2026-armored-mewtwo</id>
+    <title>⚡ Armored Mewtwo Returns for the Mega Finale</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/megafinale-2026-armored-mewtwo"/>
+    <published>2026-08-31T17:47:01Z</published>
+    <updated>2026-08-31T17:47:01Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/more-mega-updates-2026</id>
+    <title>⚡ More mega moments! Additional Charged Attacks and Mega Mewtwo Adventure Effects debut during Mega Finale!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/more-mega-updates-2026"/>
+    <published>2026-08-31T17:47:01Z</published>
+    <updated>2026-08-31T17:47:01Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/go-battle-league-twilight-trails</id>
+    <title>⚡ GO Battle League: Twilight Trails Update</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-battle-league-twilight-trails"/>
+    <published>2026-08-31T17:47:01Z</published>
+    <updated>2026-08-31T17:47:01Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/communitydayclassic-gible-september-2026</id>
+    <title>⚡ September 2026 Community Day Classic: Gible</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/communitydayclassic-gible-september-2026"/>
+    <published>2026-08-31T17:47:01Z</published>
+    <updated>2026-08-31T17:47:01Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w3jtlz/september_2026_community_day_classic_gible/</id>
+    <title>⚡ September 2026 Community Day Classic: Gible</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w3jtlz/september_2026_community_day_classic_gible/"/>
+    <published>2026-08-31T17:02:25Z</published>
+    <updated>2026-08-31T17:02:25Z</updated>
+    <summary type="text">submitted by /u/iTaIksick [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/986847/markiplier-gopro-investor</id>
+    <title>🤖 Markiplier is now GoPro’s biggest shareholder</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/986847/markiplier-gopro-investor"/>
+    <published>2026-08-31T16:38:10Z</published>
+    <updated>2026-08-31T16:38:10Z</updated>
+    <summary type="text">YouTuber Mark &quot;Markiplier&quot; Fischbach has invested enough in GoPro to become its single largest shareholder, with an 8.5 percent stake in the company, Bloomberg reports. Speaking to Bloomberg, Fischbach said he thought GoPro &quot;seems undervalued&quot; and sees his investment as &quot;part of a larger mission to </summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras</id>
-    <title>🤖 Texas Governor Abbott blocks funding for more Flock cameras</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"/>
-    <published>2026-08-30T15:35:10Z</published>
-    <updated>2026-08-30T15:35:10Z</updated>
-    <summary type="text">As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacki</summary>
+    <id>https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff</id>
+    <title>🤖 Read Tim Cook&amp;#8217;s final message to Apple staff as CEO</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff"/>
+    <published>2026-08-31T16:30:45Z</published>
+    <updated>2026-08-31T16:30:45Z</updated>
+    <summary type="text">Steve Jobs' successor carried the torch of the iPhone and built Apple into a global powerhouse with few rivals. Since becoming CEO in 2011, Tim Cook has led the company to become one of the most dominant forces in the daily lives of billions of people. Today is his last day as CEO. We'll have […]</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/games/986302/chess-poker-expansion-gambit</id>
-    <title>🤖 Chess.com launched a poker site and is planning even more classic games</title>
-    <link rel="alternate" href="https://www.theverge.com/games/986302/chess-poker-expansion-gambit"/>
-    <published>2026-08-30T13:00:00Z</published>
-    <updated>2026-08-30T13:00:00Z</updated>
-    <summary type="text">Chess.com has done one thing, and one thing very well, for almost 20 years, but now it's going beyond its domain name. The biggest name in online chess quietly launched its first companion site in beta back in May: Gambit, a free online poker website where players can learn the game without risking </summary>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w3i9kf/mewtwo_y_adventure_cost_effect_too_high_a_cost/</id>
+    <title>⚡ Mewtwo Y adventure cost effect too high a cost for what it is</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w3i9kf/mewtwo_y_adventure_cost_effect_too_high_a_cost/"/>
+    <published>2026-08-31T16:08:41Z</published>
+    <updated>2026-08-31T16:08:41Z</updated>
+    <summary type="text">at 75 Mega energy and 5 candy for 12 minutes of use it is too high i suggest at this cost it should reveal the stats on the map i contend the cost either needs to be reduced or the effect buffed i used it for 24 mins while using daily incense and 3 i got the pop up, its just not worth it in its curr</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy</id>
+    <title>🤖 Debian won&amp;#8217;t ban AI code from its Linux distribution</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"/>
+    <published>2026-08-31T15:34:58Z</published>
+    <updated>2026-08-31T15:34:58Z</updated>
+    <summary type="text">Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's &quot;development, maintenance, [and] documentation.&quot; The new policy on AI acknowledges that &quot;responsible&quot; use of AI can improve developers' productivity, and goes on to say, &quot;generative AI is neither exem</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/986167/china-humanoid-robot-games-race</id>
-    <title>🤖 China’s robots race ahead</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/986167/china-humanoid-robot-games-race"/>
-    <published>2026-08-30T12:00:00Z</published>
-    <updated>2026-08-30T12:00:00Z</updated>
-    <summary type="text">This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on falling robots and the US-China AI race, follow Robert Hart. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started I've admitted m</summary>
+    <id>https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response</id>
+    <title>🤖 New York governor to 3D-printed gun leader: &amp;#8216;tell Cody I will get ahead of him&amp;#8217;</title>
+    <link rel="alternate" href="https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response"/>
+    <published>2026-08-31T14:20:00Z</published>
+    <updated>2026-08-31T14:20:00Z</updated>
+    <summary type="text">Cody Wilson, the creator of the first 3D-printed gun, announced a tool last week aimed at skirting a New York law that prevents 3D printers from making firearms - and taunting governor Kathy Hochul in the process. But Hochul isn't having it. In this week's episode of Decoder, Hochul responded to Wil</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale</id>
-    <title>🤖 Vicariously hike the Appalachian in the gorgeous A Trail Tale</title>
-    <link rel="alternate" href="https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale"/>
-    <published>2026-08-29T20:59:26Z</published>
-    <updated>2026-08-29T20:59:26Z</updated>
-    <summary type="text">I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you disappearing for three months.) But I've been longing […]</summary>
+    <id>https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras</id>
+    <title>🤖 New York Governor Kathy Hochul thinks AI should be ‘less evil’</title>
+    <link rel="alternate" href="https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras"/>
+    <published>2026-08-31T14:00:00Z</published>
+    <updated>2026-08-31T14:00:00Z</updated>
+    <summary type="text">Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there is. For example, Me</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice</id>
-    <title>🤖 Alt-right troll Milo Yiannopoulos has been deported</title>
-    <link rel="alternate" href="https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice"/>
-    <published>2026-08-29T19:49:59Z</published>
-    <updated>2026-08-29T19:49:59Z</updated>
-    <summary type="text">Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court </summary>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w3e9ct/if_you_hadnt_realized_by_now_armored_mewtwo/</id>
+    <title>⚡ If you hadn't realized by now, Armored Mewtwo Re-Release should be the real wake up call to the fact that nothing in this game can be trusted to be &quot;rare&quot;, and therefore you should never give in to FOMO if some Pokemon is available for a short time</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w3e9ct/if_you_hadnt_realized_by_now_armored_mewtwo/"/>
+    <published>2026-08-31T13:44:37Z</published>
+    <updated>2026-08-31T13:44:37Z</updated>
+    <summary type="text">EDIT: Apparently this post came off as salty, which was not my intention. I don't own an Armored Mewtwo as I don't care about collecting things that don't have a function in battles, so I doubt I'll even grab one now. This post was meant to be an observation of what is happening and what kind of min</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa</id>
+    <title>🤖 ChatGPT to face tougher regulation in the EU</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa"/>
+    <published>2026-08-31T13:27:36Z</published>
+    <updated>2026-08-31T13:27:36Z</updated>
+    <summary type="text">OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws </summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright</id>
-    <title>🤖 Sony Music Publishing and Warner Chappell are suing Anthropic</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"/>
-    <published>2026-08-29T18:19:53Z</published>
-    <updated>2026-08-29T18:19:53Z</updated>
-    <summary type="text">Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for &quot;tens of thousands&quot; copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when iden</summary>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w3dtel/legacy_moves_for_kalos_starters/</id>
+    <title>⚡ Legacy moves for Kalos Starters</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w3dtel/legacy_moves_for_kalos_starters/"/>
+    <published>2026-08-31T13:27:21Z</published>
+    <updated>2026-08-31T13:27:21Z</updated>
+    <summary type="text">There’s an unannounced bonus: the starter you choose will learn its legacy move when evolved! I just got Blast Burn on my Delphox (i picked Fennekin) Wife did Fennekin evolution and did not get Blast Burn (she picked Froakie) submitted by /u/g47onik [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop</id>
+    <title>🤖 Instagram cracks down on AI accounts pretending to be human</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop"/>
+    <published>2026-08-31T13:00:00Z</published>
+    <updated>2026-08-31T13:00:00Z</updated>
+    <summary type="text">Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the &quot;AI creator&quot; label to &quot;AI-generated profile&quot; to make it clear when a profile features an AI-generated person that's not a real human being. &quot;We've heard that p</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w3btj0/has_scopely_sold_you_on_the_mega_finale/</id>
+    <title>⚡ Has Scopely sold you on the Mega Finale?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w3btj0/has_scopely_sold_you_on_the_mega_finale/"/>
+    <published>2026-08-31T12:05:48Z</published>
+    <updated>2026-08-31T12:05:48Z</updated>
+    <summary type="text">With all the information out, and Mega Ascension starting today? Are you going to do anything for this week? Or spend any money? Personally. No. Been playing for years and I just see nothing other than Armored Mewtwo to grab. I'll be skipping this and only doing normal daily things and raiding a few</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w34cq3/100_iv_vs_98_iv_difference_future_sight_adventure/</id>
+    <title>⚡ 100% IV vs 98% IV difference - Future Sight+ (Adventure Effect)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w34cq3/100_iv_vs_98_iv_difference_future_sight_adventure/"/>
+    <published>2026-08-31T05:25:19Z</published>
+    <updated>2026-08-31T05:25:19Z</updated>
+    <summary type="text">I swear it's new information! I checked! Honestly an underwhelming adventure effect. In the overworld you cannot tell if a Pokemon is a hundo or not, you still have to encounter it. The animation is useful, but not as an adventure effect. As it stands, this is at least somewhat better than the Necro</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w32ymz/new_adventure_effects_and_third_charged_attacks/</id>
+    <title>⚡ New Adventure Effects and Third Charged Attacks Overview (G47IX)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w32ymz/new_adventure_effects_and_third_charged_attacks/"/>
+    <published>2026-08-31T04:13:06Z</published>
+    <updated>2026-08-31T04:13:06Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831</id>
+    <title>🤖 How an MIT research project became a global programming language</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831"/>
+    <published>2026-08-31T04:00:00Z</published>
+    <updated>2026-08-31T04:00:00Z</updated>
+    <summary type="text">With millions of users across the world, Julia has been used to conduct cutting-edge research and to design new drugs, jet engines, heat pumps, and more.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</id>
+    <title>🤖 A milestone in expanding access to AI</title>
+    <link rel="alternate" href="https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"/>
+    <published>2026-08-31T04:00:00Z</published>
+    <updated>2026-08-31T04:00:00Z</updated>
+    <summary type="text">ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w32h19/armored_mewtwo_returns_for_the_mega_finale/</id>
+    <title>⚡ Armored Mewtwo Returns for the Mega Finale</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w32h19/armored_mewtwo_returns_for_the_mega_finale/"/>
+    <published>2026-08-31T03:49:03Z</published>
+    <updated>2026-08-31T03:49:03Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -355,18 +475,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/learning-never-stops</id>
-    <title>🤖 Learning never stops: How AI makes learning continuous</title>
-    <link rel="alternate" href="https://openai.com/index/learning-never-stops"/>
-    <published>2026-08-26T10:00:00Z</published>
-    <updated>2026-08-26T10:00:00Z</updated>
-    <summary type="text">OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826</id>
     <title>🤖 AI helps design new materials that work in the real world</title>
     <link rel="alternate" href="https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826"/>
@@ -376,6 +484,30 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vxz6j9/questions_answers_weekly_megathread_please_use/</id>
+    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vxz6j9/questions_answers_weekly_megathread_please_use/"/>
+    <published>2026-08-25T13:00:15Z</published>
+    <updated>2026-08-25T13:00:15Z</updated>
+    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1vxh03s/pokemonxpworlds_celebration_event_megathread/</id>
+    <title>⚡ PokemonXP/Worlds Celebration Event Megathread</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1vxh03s/pokemonxpworlds_celebration_event_megathread/"/>
+    <published>2026-08-24T22:02:29Z</published>
+    <updated>2026-08-24T22:02:29Z</updated>
+    <summary type="text">Everything you need to know about the event, all in one place. A lot of these pieces will be verified by the Silph Research Group, so throughout the post we'll use the formatting: Italics : Reports from comments or single Research Group report Bold : Multiple Research Group reports (!s) will be used</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -470,18 +602,6 @@
     <category term="brawlstars"/>
     <author>
       <name>Brawl Stars Official Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804</id>
-    <title>🤖 Solving the solvent problem</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804"/>
-    <published>2026-08-04T18:50:00Z</published>
-    <updated>2026-08-04T18:50:00Z</updated>
-    <summary type="text">By focusing on electrolytes, MIT scientists are making sodium-metal batteries a more practical energy storage option.</summary>
-    <category term="ai"/>
-    <author>
-      <name>MIT AI News</name>
     </author>
   </entry>
   <entry>
