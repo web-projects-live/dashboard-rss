@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-09-01T15:21:09Z</updated>
+  <updated>2026-09-01T17:39:08Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/event-apac-stamp-rally-2026</id>
-    <title>⚡ PokéXciting! cross-region GO Stamp Rally—get ready to explore the Asia-Pacific region!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/event-apac-stamp-rally-2026"/>
-    <published>2026-09-01T15:21:06Z</published>
-    <updated>2026-09-01T15:21:06Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/10th-anniversary-celebration</id>
     <title>⚡ Every Trainer can celebrate 10 years of Pokémon GO with a special Mewtwo!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/10th-anniversary-celebration"/>
-    <published>2026-09-01T15:21:06Z</published>
-    <updated>2026-09-01T15:21:06Z</updated>
+    <published>2026-09-01T17:39:06Z</published>
+    <updated>2026-09-01T17:39:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/pgo-explorer-gadget-2026</id>
     <title>⚡ The Explorer Gadget Debuts!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pgo-explorer-gadget-2026"/>
-    <published>2026-09-01T15:21:06Z</published>
-    <updated>2026-09-01T15:21:06Z</updated>
+    <published>2026-09-01T17:39:06Z</published>
+    <updated>2026-09-01T17:39:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/dancing-in-the-moonlight-2026</id>
     <title>⚡ Dance Under the Moon with Clefairy</title>
     <link rel="alternate" href="https://pokemongolive.com/news/dancing-in-the-moonlight-2026"/>
-    <published>2026-09-01T15:21:06Z</published>
-    <updated>2026-09-01T15:21:06Z</updated>
+    <published>2026-09-01T17:39:06Z</published>
+    <updated>2026-09-01T17:39:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/event-kuala-lumpur-30th-anniversary-2026</id>
     <title>⚡ PokéXciting! Comes to KLCC Park — Get Ready, Kuala Lumpur!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-kuala-lumpur-30th-anniversary-2026"/>
-    <published>2026-09-01T15:21:06Z</published>
-    <updated>2026-09-01T15:21:06Z</updated>
+    <published>2026-09-01T17:39:06Z</published>
+    <updated>2026-09-01T17:39:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/2026_ana_green</id>
     <title>⚡ Celebrate the launch of the Green Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_green"/>
-    <published>2026-09-01T15:21:06Z</published>
-    <updated>2026-09-01T15:21:06Z</updated>
+    <published>2026-09-01T17:39:06Z</published>
+    <updated>2026-09-01T17:39:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/go-pass-september-2026</id>
     <title>⚡ Latios soars in faster than a jet for GO Pass: September!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-september-2026"/>
-    <published>2026-09-01T15:21:06Z</published>
-    <updated>2026-09-01T15:21:06Z</updated>
+    <published>2026-09-01T17:39:06Z</published>
+    <updated>2026-09-01T17:39:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/seasons--twilight-trails</id>
     <title>⚡ Welcome to Pokémon GO: Twilight Trails</title>
     <link rel="alternate" href="https://pokemongolive.com/news/seasons--twilight-trails"/>
-    <published>2026-09-01T15:21:06Z</published>
-    <updated>2026-09-01T15:21:06Z</updated>
+    <published>2026-09-01T17:39:06Z</published>
+    <updated>2026-09-01T17:39:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/catch-mastery-phantump-2026</id>
     <title>⚡ Get ready for a Catch Mastery event featuring Phantump, the Stump Pokémon!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/catch-mastery-phantump-2026"/>
-    <published>2026-09-01T15:21:06Z</published>
-    <updated>2026-09-01T15:21:06Z</updated>
+    <published>2026-09-01T17:39:06Z</published>
+    <updated>2026-09-01T17:39:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/megafinale-2026-armored-mewtwo</id>
     <title>⚡ Armored Mewtwo Returns for the Mega Finale</title>
     <link rel="alternate" href="https://pokemongolive.com/news/megafinale-2026-armored-mewtwo"/>
-    <published>2026-09-01T15:21:06Z</published>
-    <updated>2026-09-01T15:21:06Z</updated>
+    <published>2026-09-01T17:39:06Z</published>
+    <updated>2026-09-01T17:39:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/more-mega-updates-2026</id>
     <title>⚡ More mega moments! Additional Charged Attacks and Mega Mewtwo Adventure Effects debut during Mega Finale!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/more-mega-updates-2026"/>
-    <published>2026-09-01T15:21:06Z</published>
-    <updated>2026-09-01T15:21:06Z</updated>
+    <published>2026-09-01T17:39:06Z</published>
+    <updated>2026-09-01T17:39:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/go-battle-league-twilight-trails</id>
     <title>⚡ GO Battle League: Twilight Trails Update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-battle-league-twilight-trails"/>
-    <published>2026-09-01T15:21:06Z</published>
-    <updated>2026-09-01T15:21:06Z</updated>
+    <published>2026-09-01T17:39:06Z</published>
+    <updated>2026-09-01T17:39:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/communitydayclassic-gible-september-2026</id>
     <title>⚡ September 2026 Community Day Classic: Gible</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communitydayclassic-gible-september-2026"/>
-    <published>2026-09-01T15:21:06Z</published>
-    <updated>2026-09-01T15:21:06Z</updated>
+    <published>2026-09-01T17:39:06Z</published>
+    <updated>2026-09-01T17:39:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/mega-finale-2026-community</id>
     <title>⚡ #PokemonGOFest2026: Mega Finale Global Challenge</title>
     <link rel="alternate" href="https://pokemongolive.com/news/mega-finale-2026-community"/>
-    <published>2026-09-01T15:21:06Z</published>
-    <updated>2026-09-01T15:21:06Z</updated>
+    <published>2026-09-01T17:39:06Z</published>
+    <updated>2026-09-01T17:39:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +156,94 @@
     <id>https://pokemongolive.com/news/mega-squads-2026</id>
     <title>⚡ Pick up where Mega Finale leaves off, and get energized for the Mega Squads event!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/mega-squads-2026"/>
-    <published>2026-09-01T15:21:06Z</published>
-    <updated>2026-09-01T15:21:06Z</updated>
+    <published>2026-09-01T17:39:06Z</published>
+    <updated>2026-09-01T17:39:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/staraptor-super-mega-raid-day-2026</id>
+    <title>⚡ Ready yourself to courageously challenge Staraptor Super Mega Raid Day!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/staraptor-super-mega-raid-day-2026"/>
+    <published>2026-09-01T17:39:06Z</published>
+    <updated>2026-09-01T17:39:06Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w4iijm/mega_staraptor_day_flareblaze/</id>
+    <title>⚡ Mega Staraptor Day (FlareBlaze)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w4iijm/mega_staraptor_day_flareblaze/"/>
+    <published>2026-09-01T17:20:36Z</published>
+    <updated>2026-09-01T17:20:36Z</updated>
+    <summary type="text">submitted by /u/redwineandbeer [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w4ick3/staraptor_super_mega_raid_day_niantic_infographic/</id>
+    <title>⚡ Staraptor Super Mega Raid Day Niantic Infographic</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w4ick3/staraptor_super_mega_raid_day_niantic_infographic/"/>
+    <published>2026-09-01T17:14:47Z</published>
+    <updated>2026-09-01T17:14:47Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w4hzlw/ready_yourself_to_courageously_challenge/</id>
+    <title>⚡ Ready yourself to courageously challenge Staraptor Super Mega Raid Day!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w4hzlw/ready_yourself_to_courageously_challenge/"/>
+    <published>2026-09-01T17:02:35Z</published>
+    <updated>2026-09-01T17:02:35Z</updated>
+    <summary type="text">submitted by /u/iTaIksick [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/ai-native-company-workflows</id>
+    <title>🤖 How AI-native companies turn workflows into operating capability</title>
+    <link rel="alternate" href="https://openai.com/index/ai-native-company-workflows"/>
+    <published>2026-09-01T17:00:00Z</published>
+    <updated>2026-09-01T17:00:00Z</updated>
+    <summary type="text">Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot</id>
+    <title>🤖 John Deere launched an AI chatbot for farmers</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot"/>
+    <published>2026-09-01T16:00:52Z</published>
+    <updated>2026-09-01T16:00:52Z</updated>
+    <summary type="text">John Deere is testing a new &quot;JD&quot; AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their &quot;field, machine and operational data&quot; to answer questions on topics like equipment settings, fuel usage</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator</id>
+    <title>🤖 Google Pics is like Canva, but with even more AI</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator"/>
+    <published>2026-09-01T16:00:00Z</published>
+    <updated>2026-09-01T16:00:00Z</updated>
+    <summary type="text">Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating &quot;professional-grade&quot; AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -184,18 +256,6 @@
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w4dt86/the_basic_greatultramaster_leagues_only_occur_3x/</id>
-    <title>⚡ The basic Great/Ultra/Master leagues only occur 3x each next season. That does not seem like enough time to experience the updated meta</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w4dt86/the_basic_greatultramaster_leagues_only_occur_3x/"/>
-    <published>2026-09-01T14:36:25Z</published>
-    <updated>2026-09-01T14:36:25Z</updated>
-    <summary type="text">The basic version of the leagues only occur 3x each, while Mega versions are around 6x. With the new move changes, it takes time for players to experiment with updated Pokemon and find good team synergies. At the beginning of the season many people cling to old Pokemon who have been nerfed, or try n</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -223,51 +283,26 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27</id>
-    <title>🤖 Nvidia&amp;#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27"/>
-    <published>2026-09-01T13:00:00Z</published>
-    <updated>2026-09-01T13:00:00Z</updated>
-    <summary type="text">Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a &quot;real-time generative AI filter for video games&quot; and &quot;motion smoothing for video games, but worse.&quot; DLSS 5 will officially be available on RTX 50-series desktop and</summary>
-    <category term="ai"/>
+    <id>https://supercell.com/en/games/brawlstars/blog/esports/matcherino-just-levelled-up</id>
+    <title>🏆 Matcherino just levelled UP</title>
+    <link rel="alternate" href="https://supercell.com/en/games/brawlstars/blog/esports/matcherino-just-levelled-up"/>
+    <published>2026-09-01T12:00:00Z</published>
+    <updated>2026-09-01T12:00:00Z</updated>
+    <category term="brawlstars"/>
     <author>
-      <name>The Verge — AI</name>
+      <name>Brawl Stars Official Blog</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/games/986980/nvidias-dlss-5-explained</id>
-    <title>🤖 Nvidia’s DLSS 5, explained</title>
-    <link rel="alternate" href="https://www.theverge.com/games/986980/nvidias-dlss-5-explained"/>
-    <published>2026-09-01T13:00:00Z</published>
-    <updated>2026-09-01T13:00:00Z</updated>
-    <summary type="text">Nvidia knows that DLSS 5 left a bad first impression. In March, many gamers took one look at Resident Evil Requiem protagonist Grace Ashcroft's DLSS 5-ified face and declared it AI slop. So this week, the company's re-introducing its controversial &quot;neural rendering&quot; with firm messaging about how it </summary>
+    <id>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</id>
+    <title>🤖 Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
+    <link rel="alternate" href="https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"/>
+    <published>2026-09-01T12:00:00Z</published>
+    <updated>2026-09-01T12:00:00Z</updated>
+    <summary type="text">ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.</summary>
     <category term="ai"/>
     <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/987148/roku-oled-tv-announcement</id>
-    <title>🤖 Roku’s first OLED TVs undercut the midrange competition</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/987148/roku-oled-tv-announcement"/>
-    <published>2026-09-01T13:00:00Z</published>
-    <updated>2026-09-01T13:00:00Z</updated>
-    <summary type="text">Just a few weeks ago the only midrange OLED options available were from LG and Samsung. But after Sony officially announced the Bravia 6 last week, Roku has now launched its first-ever OLED TV - the Roku Pro Series - which will be followed by the step-up Pro Series LX next month. The Roku Pro […]</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w4964g/mega_latios_duo_with_mega_mewtwo_y_blade_boost/</id>
-    <title>⚡ Mega Latios Duo With Mega Mewtwo Y Blade Boost</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w4964g/mega_latios_duo_with_mega_mewtwo_y_blade_boost/"/>
-    <published>2026-09-01T11:27:02Z</published>
-    <updated>2026-09-01T11:27:02Z</updated>
-    <summary type="text">Video: https://youtu.be/Ot4BpG-y3Qg Short(video on 2×speed): https://youtube.com/shorts/1lCfoqLo63Y?feature=share submitted by /u/Primary_Doughnut_662 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -354,18 +389,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w3jtlz/september_2026_community_day_classic_gible/</id>
-    <title>⚡ September 2026 Community Day Classic: Gible</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w3jtlz/september_2026_community_day_classic_gible/"/>
-    <published>2026-08-31T17:02:25Z</published>
-    <updated>2026-08-31T17:02:25Z</updated>
-    <summary type="text">submitted by /u/iTaIksick [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.reddit.com/r/TheSilphRoad/comments/1w3e9ct/if_you_hadnt_realized_by_now_armored_mewtwo/</id>
     <title>⚡ If you hadn't realized by now, Armored Mewtwo Re-Release should be the real wake up call to the fact that nothing in this game can be trusted to be &quot;rare&quot;, and therefore you should never give in to FOMO if some Pokemon is available for a short time</title>
     <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w3e9ct/if_you_hadnt_realized_by_now_armored_mewtwo/"/>
@@ -420,30 +443,6 @@
     <published>2026-08-31T04:00:00Z</published>
     <updated>2026-08-31T04:00:00Z</updated>
     <summary type="text">ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</id>
-    <title>🤖 Our decision on Cursor following its acquisition by SpaceX</title>
-    <link rel="alternate" href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"/>
-    <published>2026-08-28T06:00:00Z</published>
-    <updated>2026-08-28T06:00:00Z</updated>
-    <summary type="text">Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/supporting-next-generation-ai-startups-thailand</id>
-    <title>🤖 Supporting Thailand’s next generation of AI startups</title>
-    <link rel="alternate" href="https://openai.com/index/supporting-next-generation-ai-startups-thailand"/>
-    <published>2026-08-28T02:00:00Z</published>
-    <updated>2026-08-28T02:00:00Z</updated>
-    <summary type="text">OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
@@ -597,17 +596,6 @@
     <link rel="alternate" href="https://supercell.com/en/games/brawlstars/blog/release-notes/release-notes-june-2026"/>
     <published>2026-08-03T21:00:00Z</published>
     <updated>2026-08-03T21:00:00Z</updated>
-    <category term="brawlstars"/>
-    <author>
-      <name>Brawl Stars Official Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://supercell.com/en/games/brawlstars/blog/esports/matcherino-just-levelled-up</id>
-    <title>🏆 Matcherino just levelled UP</title>
-    <link rel="alternate" href="https://supercell.com/en/games/brawlstars/blog/esports/matcherino-just-levelled-up"/>
-    <published>2026-08-01T12:00:00Z</published>
-    <updated>2026-08-01T12:00:00Z</updated>
     <category term="brawlstars"/>
     <author>
       <name>Brawl Stars Official Blog</name>
