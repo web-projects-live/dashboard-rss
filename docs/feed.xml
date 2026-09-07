@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-09-07T18:37:02Z</updated>
+  <updated>2026-09-07T23:19:08Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,33 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/dancing-in-the-moonlight-2026</id>
-    <title>⚡ Dance Under the Moon with Clefairy</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/dancing-in-the-moonlight-2026"/>
-    <published>2026-09-07T18:37:00Z</published>
-    <updated>2026-09-07T18:37:00Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/event-kuala-lumpur-30th-anniversary-2026</id>
-    <title>⚡ PokéXciting! Comes to KLCC Park — Get Ready, Kuala Lumpur!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/event-kuala-lumpur-30th-anniversary-2026"/>
-    <published>2026-09-07T18:37:00Z</published>
-    <updated>2026-09-07T18:37:00Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/2026_ana_green</id>
     <title>⚡ Celebrate the launch of the Green Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_green"/>
-    <published>2026-09-07T18:37:00Z</published>
-    <updated>2026-09-07T18:37:00Z</updated>
+    <published>2026-09-07T23:19:06Z</published>
+    <updated>2026-09-07T23:19:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +24,8 @@
     <id>https://pokemongolive.com/news/go-pass-september-2026</id>
     <title>⚡ Latios soars in faster than a jet for GO Pass: September!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-september-2026"/>
-    <published>2026-09-07T18:37:00Z</published>
-    <updated>2026-09-07T18:37:00Z</updated>
+    <published>2026-09-07T23:19:06Z</published>
+    <updated>2026-09-07T23:19:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +35,8 @@
     <id>https://pokemongolive.com/news/seasons--twilight-trails</id>
     <title>⚡ Welcome to Pokémon GO: Twilight Trails</title>
     <link rel="alternate" href="https://pokemongolive.com/news/seasons--twilight-trails"/>
-    <published>2026-09-07T18:37:00Z</published>
-    <updated>2026-09-07T18:37:00Z</updated>
+    <published>2026-09-07T23:19:06Z</published>
+    <updated>2026-09-07T23:19:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +46,8 @@
     <id>https://pokemongolive.com/news/catch-mastery-phantump-2026</id>
     <title>⚡ Get ready for a Catch Mastery event featuring Phantump, the Stump Pokémon!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/catch-mastery-phantump-2026"/>
-    <published>2026-09-07T18:37:00Z</published>
-    <updated>2026-09-07T18:37:00Z</updated>
+    <published>2026-09-07T23:19:06Z</published>
+    <updated>2026-09-07T23:19:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +57,8 @@
     <id>https://pokemongolive.com/news/megafinale-2026-armored-mewtwo</id>
     <title>⚡ Armored Mewtwo Returns for the Mega Finale</title>
     <link rel="alternate" href="https://pokemongolive.com/news/megafinale-2026-armored-mewtwo"/>
-    <published>2026-09-07T18:37:00Z</published>
-    <updated>2026-09-07T18:37:00Z</updated>
+    <published>2026-09-07T23:19:06Z</published>
+    <updated>2026-09-07T23:19:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +68,8 @@
     <id>https://pokemongolive.com/news/more-mega-updates-2026</id>
     <title>⚡ More mega moments! Additional Charged Attacks and Mega Mewtwo Adventure Effects debut during Mega Finale!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/more-mega-updates-2026"/>
-    <published>2026-09-07T18:37:00Z</published>
-    <updated>2026-09-07T18:37:00Z</updated>
+    <published>2026-09-07T23:19:06Z</published>
+    <updated>2026-09-07T23:19:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +79,8 @@
     <id>https://pokemongolive.com/news/go-battle-league-twilight-trails</id>
     <title>⚡ GO Battle League: Twilight Trails Update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-battle-league-twilight-trails"/>
-    <published>2026-09-07T18:37:00Z</published>
-    <updated>2026-09-07T18:37:00Z</updated>
+    <published>2026-09-07T23:19:06Z</published>
+    <updated>2026-09-07T23:19:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +90,8 @@
     <id>https://pokemongolive.com/news/communitydayclassic-gible-september-2026</id>
     <title>⚡ September 2026 Community Day Classic: Gible</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communitydayclassic-gible-september-2026"/>
-    <published>2026-09-07T18:37:00Z</published>
-    <updated>2026-09-07T18:37:00Z</updated>
+    <published>2026-09-07T23:19:06Z</published>
+    <updated>2026-09-07T23:19:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +101,8 @@
     <id>https://pokemongolive.com/news/mega-finale-2026-community</id>
     <title>⚡ #PokemonGOFest2026: Mega Finale Global Challenge</title>
     <link rel="alternate" href="https://pokemongolive.com/news/mega-finale-2026-community"/>
-    <published>2026-09-07T18:37:00Z</published>
-    <updated>2026-09-07T18:37:00Z</updated>
+    <published>2026-09-07T23:19:06Z</published>
+    <updated>2026-09-07T23:19:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +112,8 @@
     <id>https://pokemongolive.com/news/mega-squads-2026</id>
     <title>⚡ Pick up where Mega Finale leaves off, and get energized for the Mega Squads event!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/mega-squads-2026"/>
-    <published>2026-09-07T18:37:00Z</published>
-    <updated>2026-09-07T18:37:00Z</updated>
+    <published>2026-09-07T23:19:06Z</published>
+    <updated>2026-09-07T23:19:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +123,8 @@
     <id>https://pokemongolive.com/news/staraptor-super-mega-raid-day-2026</id>
     <title>⚡ Ready yourself to courageously challenge Staraptor Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/staraptor-super-mega-raid-day-2026"/>
-    <published>2026-09-07T18:37:00Z</published>
-    <updated>2026-09-07T18:37:00Z</updated>
+    <published>2026-09-07T23:19:06Z</published>
+    <updated>2026-09-07T23:19:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +134,8 @@
     <id>https://pokemongolive.com/news/pokemon-horizons-celebration-event-2026</id>
     <title>⚡ The “Pokémon Horizons: The Series” Celebration Event returns!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-horizons-celebration-event-2026"/>
-    <published>2026-09-07T18:37:00Z</published>
-    <updated>2026-09-07T18:37:00Z</updated>
+    <published>2026-09-07T23:19:06Z</published>
+    <updated>2026-09-07T23:19:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +145,105 @@
     <id>https://pokemongolive.com/news/harvest-festival-2026</id>
     <title>⚡ Enjoy a bountiful Harvest Festival event with Shiny Applin’s Pokémon GO debut!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/harvest-festival-2026"/>
-    <published>2026-09-07T18:37:00Z</published>
-    <updated>2026-09-07T18:37:00Z</updated>
+    <published>2026-09-07T23:19:06Z</published>
+    <updated>2026-09-07T23:19:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/harvest-festival-tgr-2026</id>
+    <title>⚡ Rescue Shadow Zekrom during Harvest Festival: Taken Over!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/harvest-festival-tgr-2026"/>
+    <published>2026-09-07T23:19:06Z</published>
+    <updated>2026-09-07T23:19:06Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gowildarea-sendai-ticket-update</id>
+    <title>⚡ Ticketing Update: Pokémon GO Wild Area: Sendai • Tohoku</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-sendai-ticket-update"/>
+    <published>2026-09-07T23:19:06Z</published>
+    <updated>2026-09-07T23:19:06Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wa6cgq/harvest_festival_taken_over/</id>
+    <title>⚡ Harvest Festival: Taken Over</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wa6cgq/harvest_festival_taken_over/"/>
+    <published>2026-09-07T22:20:40Z</published>
+    <updated>2026-09-07T22:20:40Z</updated>
+    <summary type="text">submitted by /u/redwineandbeer [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wa5wt4/mega_squads_event_megathread/</id>
+    <title>⚡ Mega Squads Event Megathread</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wa5wt4/mega_squads_event_megathread/"/>
+    <published>2026-09-07T22:02:59Z</published>
+    <updated>2026-09-07T22:02:59Z</updated>
+    <summary type="text">Twilight Trails Field Research Everything you need to know about the event, all in one place. A lot of these pieces will be verified by the Silph Research Group, so throughout the post we'll use the formatting: Italics : Reports from comments or single Research Group report Bold : Multiple Research </summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wa3uhg/gobsmacked_that_giovanni_is_still_not_in_balloons/</id>
+    <title>⚡ Gobsmacked that Giovanni is still not in balloons</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wa3uhg/gobsmacked_that_giovanni_is_still_not_in_balloons/"/>
+    <published>2026-09-07T20:41:56Z</published>
+    <updated>2026-09-07T20:41:56Z</updated>
+    <summary type="text">I feel ridiculously naive, but when Scopely pulled Giovanni from balloons months ago as an &quot;emergency measure&quot; to get through a major event, I actually believed that they would prioritize fixing the bug and restoring Giovanni to balloons. Yet here we are, about to start a new season, and Giovanni is</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wa2v35/shroodle_family_shiny_comparison/</id>
+    <title>⚡ Shroodle family shiny comparison</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wa2v35/shroodle_family_shiny_comparison/"/>
+    <published>2026-09-07T20:04:56Z</published>
+    <updated>2026-09-07T20:04:56Z</updated>
+    <summary type="text">submitted by /u/TopAssistance2 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price</id>
+    <title>🤖 Audi’s new A2 E-tron is its most affordable and efficient EV yet</title>
+    <link rel="alternate" href="https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price"/>
+    <published>2026-09-07T20:03:41Z</published>
+    <updated>2026-09-07T20:03:41Z</updated>
+    <summary type="text">When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the distance? Be ready to p</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wa2r23/rescue_shadow_zekrom_during_harvest_festival/</id>
+    <title>⚡ Rescue Shadow Zekrom during Harvest Festival: Taken Over!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wa2r23/rescue_shadow_zekrom_during_harvest_festival/"/>
+    <published>2026-09-07T20:00:50Z</published>
+    <updated>2026-09-07T20:00:50Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -181,18 +253,6 @@
     <published>2026-09-07T17:08:31Z</published>
     <updated>2026-09-07T17:08:31Z</updated>
     <summary type="text">submitted by /u/TopAssistance2 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w9xt7q/harvest_festival_scopely_infographic/</id>
-    <title>⚡ Harvest Festival Scopely Infographic</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w9xt7q/harvest_festival_scopely_infographic/"/>
-    <published>2026-09-07T17:02:04Z</published>
-    <updated>2026-09-07T17:02:04Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
@@ -235,30 +295,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w9ubgh/hexshadow_ball_for_guaranteed_no_dynamax_phase/</id>
-    <title>⚡ Hex/Shadow Ball for guaranteed no Dynamax Phase</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w9ubgh/hexshadow_ball_for_guaranteed_no_dynamax_phase/"/>
-    <published>2026-09-07T14:52:25Z</published>
-    <updated>2026-09-07T14:52:25Z</updated>
-    <summary type="text">No matter the damage boost from zero to any number of Pokemon at the spot boosting the damage. This particular Gengar is level 37, but I think the safe window is large enough that it doesn't really matter. submitted by /u/ReasonNotTheNeed-- [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w9qshh/im_so_glad_i_got_back_into_pokemon_go/</id>
-    <title>⚡ I'm so glad I got back into Pokemon Go</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w9qshh/im_so_glad_i_got_back_into_pokemon_go/"/>
-    <published>2026-09-07T12:27:09Z</published>
-    <updated>2026-09-07T12:27:09Z</updated>
-    <summary type="text">So, like a lot of people, I downloaded Pokemon Go when it first came out, and after a year or two of playing, lost interest. My wife works in pediatric mental health and one of the children she supports plays Pokemon Go, and so she decided to redownload it so they she could incorporate it into their</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone</id>
     <title>🤖 The real reason your phone is getting more expensive</title>
     <link rel="alternate" href="https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone"/>
@@ -292,30 +328,6 @@
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w9jio4/lucky_trinket_disappeared_before_expiring/</id>
-    <title>⚡ Lucky trinket disappeared before expiring</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w9jio4/lucky_trinket_disappeared_before_expiring/"/>
-    <published>2026-09-07T05:50:19Z</published>
-    <updated>2026-09-07T05:50:19Z</updated>
-    <summary type="text">I just bought the Go Pass Deluxe August to get my lucky trinket. The expiry date should be 13th September 2026 according to official web. However, after I claimed the trinket, it never appeared in my inventory. Does this happen to anybody? What should I do? submitted by /u/No_Tune_1262 [link] [comme</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1w9dqn4/armored_mewtwo_isnt_done_yet/</id>
-    <title>⚡ Armored Mewtwo isn’t done yet.</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1w9dqn4/armored_mewtwo_isnt_done_yet/"/>
-    <published>2026-09-07T01:02:12Z</published>
-    <updated>2026-09-07T01:02:12Z</updated>
-    <summary type="text">Armored Mewtwo isn’t done yet. Keep an eye to the sky for its return later this year. submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -361,18 +373,6 @@
     <published>2026-09-06T16:28:58Z</published>
     <updated>2026-09-06T16:28:58Z</updated>
     <summary type="text">Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to […]</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/990436/fairphone-6-plus-review</id>
-    <title>🤖 The Fairphone 6 Plus is the midrange phone we desperately needed</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/990436/fairphone-6-plus-review"/>
-    <published>2026-09-06T13:00:00Z</published>
-    <updated>2026-09-06T13:00:00Z</updated>
-    <summary type="text">The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devices. But the phones themselves required a lot of s</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
