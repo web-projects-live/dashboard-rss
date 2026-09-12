@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-09-11T23:02:37Z</updated>
+  <updated>2026-09-12T13:49:26Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,11 +10,23 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
+    <id>https://openai.com/index/perplexity-improving-accuracy-with-astra</id>
+    <title>🤖 Perplexity trusts GPT-6 Astra with end-to-end systems</title>
+    <link rel="alternate" href="https://openai.com/index/perplexity-improving-accuracy-with-astra"/>
+    <published>2026-09-14T00:00:00Z</published>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary type="text">Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
     <id>https://pokemongolive.com/news/catch-mastery-phantump-2026</id>
     <title>⚡ Get ready for a Catch Mastery event featuring Phantump, the Stump Pokémon!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/catch-mastery-phantump-2026"/>
-    <published>2026-09-11T23:02:35Z</published>
-    <updated>2026-09-11T23:02:35Z</updated>
+    <published>2026-09-12T13:49:25Z</published>
+    <updated>2026-09-12T13:49:25Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -24,8 +36,8 @@
     <id>https://pokemongolive.com/news/megafinale-2026-armored-mewtwo</id>
     <title>⚡ Armored Mewtwo Returns for the Mega Finale</title>
     <link rel="alternate" href="https://pokemongolive.com/news/megafinale-2026-armored-mewtwo"/>
-    <published>2026-09-11T23:02:35Z</published>
-    <updated>2026-09-11T23:02:35Z</updated>
+    <published>2026-09-12T13:49:25Z</published>
+    <updated>2026-09-12T13:49:25Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +47,8 @@
     <id>https://pokemongolive.com/news/more-mega-updates-2026</id>
     <title>⚡ More mega moments! Additional Charged Attacks and Mega Mewtwo Adventure Effects debut during Mega Finale!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/more-mega-updates-2026"/>
-    <published>2026-09-11T23:02:35Z</published>
-    <updated>2026-09-11T23:02:35Z</updated>
+    <published>2026-09-12T13:49:25Z</published>
+    <updated>2026-09-12T13:49:25Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +58,8 @@
     <id>https://pokemongolive.com/news/go-battle-league-twilight-trails</id>
     <title>⚡ GO Battle League: Twilight Trails Update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-battle-league-twilight-trails"/>
-    <published>2026-09-11T23:02:35Z</published>
-    <updated>2026-09-11T23:02:35Z</updated>
+    <published>2026-09-12T13:49:25Z</published>
+    <updated>2026-09-12T13:49:25Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +69,8 @@
     <id>https://pokemongolive.com/news/communitydayclassic-gible-september-2026</id>
     <title>⚡ September 2026 Community Day Classic: Gible</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communitydayclassic-gible-september-2026"/>
-    <published>2026-09-11T23:02:35Z</published>
-    <updated>2026-09-11T23:02:35Z</updated>
+    <published>2026-09-12T13:49:25Z</published>
+    <updated>2026-09-12T13:49:25Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +80,8 @@
     <id>https://pokemongolive.com/news/mega-finale-2026-community</id>
     <title>⚡ #PokemonGOFest2026: Mega Finale Global Challenge</title>
     <link rel="alternate" href="https://pokemongolive.com/news/mega-finale-2026-community"/>
-    <published>2026-09-11T23:02:35Z</published>
-    <updated>2026-09-11T23:02:35Z</updated>
+    <published>2026-09-12T13:49:25Z</published>
+    <updated>2026-09-12T13:49:25Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +91,8 @@
     <id>https://pokemongolive.com/news/mega-squads-2026</id>
     <title>⚡ Pick up where Mega Finale leaves off, and get energized for the Mega Squads event!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/mega-squads-2026"/>
-    <published>2026-09-11T23:02:35Z</published>
-    <updated>2026-09-11T23:02:35Z</updated>
+    <published>2026-09-12T13:49:25Z</published>
+    <updated>2026-09-12T13:49:25Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +102,8 @@
     <id>https://pokemongolive.com/news/staraptor-super-mega-raid-day-2026</id>
     <title>⚡ Ready yourself to courageously challenge Staraptor Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/staraptor-super-mega-raid-day-2026"/>
-    <published>2026-09-11T23:02:35Z</published>
-    <updated>2026-09-11T23:02:35Z</updated>
+    <published>2026-09-12T13:49:25Z</published>
+    <updated>2026-09-12T13:49:25Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +113,8 @@
     <id>https://pokemongolive.com/news/pokemon-horizons-celebration-event-2026</id>
     <title>⚡ The “Pokémon Horizons: The Series” Celebration Event returns!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-horizons-celebration-event-2026"/>
-    <published>2026-09-11T23:02:35Z</published>
-    <updated>2026-09-11T23:02:35Z</updated>
+    <published>2026-09-12T13:49:25Z</published>
+    <updated>2026-09-12T13:49:25Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +124,8 @@
     <id>https://pokemongolive.com/news/harvest-festival-2026</id>
     <title>⚡ Enjoy a bountiful Harvest Festival event with Shiny Applin’s Pokémon GO debut!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/harvest-festival-2026"/>
-    <published>2026-09-11T23:02:35Z</published>
-    <updated>2026-09-11T23:02:35Z</updated>
+    <published>2026-09-12T13:49:25Z</published>
+    <updated>2026-09-12T13:49:25Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +135,8 @@
     <id>https://pokemongolive.com/news/harvest-festival-tgr-2026</id>
     <title>⚡ Rescue Shadow Zekrom during Harvest Festival: Taken Over!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/harvest-festival-tgr-2026"/>
-    <published>2026-09-11T23:02:35Z</published>
-    <updated>2026-09-11T23:02:35Z</updated>
+    <published>2026-09-12T13:49:25Z</published>
+    <updated>2026-09-12T13:49:25Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +146,8 @@
     <id>https://pokemongolive.com/news/gowildarea-sendai-ticket-update</id>
     <title>⚡ Ticketing Update: Pokémon GO Wild Area: Sendai • Tohoku</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-sendai-ticket-update"/>
-    <published>2026-09-11T23:02:35Z</published>
-    <updated>2026-09-11T23:02:35Z</updated>
+    <published>2026-09-12T13:49:25Z</published>
+    <updated>2026-09-12T13:49:25Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +157,8 @@
     <id>https://pokemongolive.com/news/gigantamax-cinderace-max-battle-day-2026</id>
     <title>⚡ Fireball of fury as Gigantamax Cinderace storms into Max Battle Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-cinderace-max-battle-day-2026"/>
-    <published>2026-09-11T23:02:35Z</published>
-    <updated>2026-09-11T23:02:35Z</updated>
+    <published>2026-09-12T13:49:25Z</published>
+    <updated>2026-09-12T13:49:25Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +168,8 @@
     <id>https://pokemongolive.com/news/boston-city-safari-know-before-you-go</id>
     <title>⚡ Pokémon GO City Safari: Boston – Know Before You GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/boston-city-safari-know-before-you-go"/>
-    <published>2026-09-11T23:02:35Z</published>
-    <updated>2026-09-11T23:02:35Z</updated>
+    <published>2026-09-12T13:49:25Z</published>
+    <updated>2026-09-12T13:49:25Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,20 +179,128 @@
     <id>https://pokemongolive.com/news/patterns-of-the-wild-2026</id>
     <title>⚡ Patterns of the Wild brings Pikachu wearing a batik shirt with a Special Background!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/patterns-of-the-wild-2026"/>
-    <published>2026-09-11T23:02:35Z</published>
-    <updated>2026-09-11T23:02:35Z</updated>
+    <published>2026-09-12T13:49:25Z</published>
+    <updated>2026-09-12T13:49:25Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wducdm/will_shadow_legendary_raids_be_the_new_super_mega/</id>
-    <title>⚡ Will shadow legendary raids be the new super mega raids?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wducdm/will_shadow_legendary_raids_be_the_new_super_mega/"/>
-    <published>2026-09-11T22:07:05Z</published>
-    <updated>2026-09-11T22:07:05Z</updated>
-    <summary type="text">With the drastic reduction in rocket balloons, it's inevitable that more players will have less gems to subdue the shadow legendary raid bosses. It won't surprise me to see healthy lobbies of people fail these raids now without the correct amount of gems. The thing that makes this worse is, unlike s</summary>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1weci1c/elite_collection_medals_are_back/</id>
+    <title>⚡ Elite Collection Medals are back.</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1weci1c/elite_collection_medals_are_back/"/>
+    <published>2026-09-12T13:20:57Z</published>
+    <updated>2026-09-12T13:20:57Z</updated>
+    <summary type="text">Hopefully sticks around submitted by /u/SirWobblyOfSausage [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian</id>
+    <title>🤖 Laika’s stop-motion fantasy Wildwood looks so smooth</title>
+    <link rel="alternate" href="https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian"/>
+    <published>2026-09-12T13:00:00Z</published>
+    <updated>2026-09-12T13:00:00Z</updated>
+    <summary type="text">Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year. Even if you don't know the name […]</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy</id>
+    <title>🤖 Where to preorder the iPhone 18 Pro and Pro Max</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy"/>
+    <published>2026-09-12T12:00:00Z</published>
+    <updated>2026-09-12T12:00:00Z</updated>
+    <summary type="text">The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 &quot;Sunrise and shine&quot; event alongside the iPhone Duo and other new gear, the two upgraded phones feature the faster A20 Pro processor with more GPU power as well as more neural cores for AI-related tasks, plus some w</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition</id>
+    <title>🤖 OpenAI just wants to win</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition"/>
+    <published>2026-09-12T11:00:00Z</published>
+    <updated>2026-09-12T11:00:00Z</updated>
+    <summary type="text">OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. In</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1we4xan/dont_forget_to_evolve_at_least_one_gible_before/</id>
+    <title>⚡ Don't forget to evolve at least one Gible before 5pm if you want some Garchomp Mega Energy</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1we4xan/dont_forget_to_evolve_at_least_one_gible_before/"/>
+    <published>2026-09-12T06:31:21Z</published>
+    <updated>2026-09-12T06:31:21Z</updated>
+    <summary type="text">https://preview.redd.it/u04q2gw0a1ph1.png?width=1188&amp;format=png&amp;auto=webp&amp;s=afd17181f485a9d27d707b983698e708aa28c09c I know some people were hoping for energy on catch, but in any case if you want some Garchomp mega energy you need to evolve! I didn't realize there was a collection challenge at firs</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1we4m19/pokéxciting_kuala_lumpur_malaysia_region_exclusive/</id>
+    <title>⚡ PokéxCiting, Kuala Lumpur ( Malaysia ) Region Exclusive</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1we4m19/pokéxciting_kuala_lumpur_malaysia_region_exclusive/"/>
+    <published>2026-09-12T06:14:10Z</published>
+    <updated>2026-09-12T06:14:10Z</updated>
+    <summary type="text">( Credits: G47IX ) submitted by /u/iTaIksick [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wdzvxn/pokexiciting_pikachu_with_kuala_lumpur_background/</id>
+    <title>⚡ PokeXiciting Pikachu with Kuala Lumpur Background</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wdzvxn/pokexiciting_pikachu_with_kuala_lumpur_background/"/>
+    <published>2026-09-12T02:14:06Z</published>
+    <updated>2026-09-12T02:14:06Z</updated>
+    <summary type="text">submitted by /u/Diligent-Conflict69 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wdyf7j/gible_community_day_classic_leekduck/</id>
+    <title>⚡ Gible Community Day Classic (LeekDuck)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wdyf7j/gible_community_day_classic_leekduck/"/>
+    <published>2026-09-12T01:05:13Z</published>
+    <updated>2026-09-12T01:05:13Z</updated>
+    <summary type="text">Full Details: https://leekduck.com/events/september-communitydayclassic2026/ submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wdx7dw/gible_community_day_classic_saturday_not_that_i/</id>
+    <title>⚡ Gible Community Day Classic Saturday, not that I almost forgot or anything..</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wdx7dw/gible_community_day_classic_saturday_not_that_i/"/>
+    <published>2026-09-12T00:09:39Z</published>
+    <updated>2026-09-12T00:09:39Z</updated>
+    <summary type="text">submitted by /u/CaptGoldfish [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wdwhe6/update_from_scopely_on_team_go_rocket_balloons/</id>
+    <title>⚡ Update from Scopely on Team GO Rocket Balloons</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wdwhe6/update_from_scopely_on_team_go_rocket_balloons/"/>
+    <published>2026-09-11T23:38:13Z</published>
+    <updated>2026-09-11T23:38:13Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
@@ -196,18 +316,6 @@
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wdr1oo/computer_jumpscare/</id>
-    <title>⚡ Computer jumpscare</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wdr1oo/computer_jumpscare/"/>
-    <published>2026-09-11T20:00:56Z</published>
-    <updated>2026-09-11T20:00:56Z</updated>
-    <summary type="text">submitted by /u/Phoenix_Solace [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -232,18 +340,6 @@
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wdlsm4/pvpoke_rank_changes_highlight_great_league/</id>
-    <title>⚡ PvPoke Rank Changes Highlight: Great League</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wdlsm4/pvpoke_rank_changes_highlight_great_league/"/>
-    <published>2026-09-11T16:53:13Z</published>
-    <updated>2026-09-11T16:53:13Z</updated>
-    <summary type="text">pvp resource : pvpoke submitted by /u/bulbavisual [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -283,15 +379,15 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy</id>
-    <title>🤖 Where to preorder the Apple AirPods 5</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy"/>
-    <published>2026-09-11T15:31:00Z</published>
-    <updated>2026-09-11T15:31:00Z</updated>
-    <summary type="text">The Apple AirPods 5 are bringing active noise cancellation to the masses, and they're now available for preorder at a variety of retailers. They'll officially launch on September 18th, the same day as the Apple Watch Series 12 and Ultra 4, as well as the iPhone 18 Pro and Pro Max. There are two vers</summary>
+    <id>https://openai.com/index/cognition-devin-testing-with-astra</id>
+    <title>🤖 Cognition helps Devin test its own work with GPT‑6 Astra</title>
+    <link rel="alternate" href="https://openai.com/index/cognition-devin-testing-with-astra"/>
+    <published>2026-09-11T16:00:00Z</published>
+    <updated>2026-09-11T16:00:00Z</updated>
+    <summary type="text">GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.</summary>
     <category term="ai"/>
     <author>
-      <name>The Verge — AI</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -304,18 +400,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wdesqg/one_day_event_pikachu_wearing_a_batik_shirt_with/</id>
-    <title>⚡ One Day Event - Pikachu wearing a batik shirt with a Special Background!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wdesqg/one_day_event_pikachu_wearing_a_batik_shirt_with/"/>
-    <published>2026-09-11T12:24:28Z</published>
-    <updated>2026-09-11T12:24:28Z</updated>
-    <summary type="text">submitted by /u/ch33psh33p [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -342,42 +426,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wdb0lo/pokémon_go_city_safari_2026/</id>
-    <title>⚡ Pokémon Go City Safari 2026</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wdb0lo/pokémon_go_city_safari_2026/"/>
-    <published>2026-09-11T09:11:44Z</published>
-    <updated>2026-09-11T09:11:44Z</updated>
-    <summary type="text">( Credits: G47IX ) submitted by /u/iTaIksick [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wdac0f/reduced_rocket_balloon_spawns_but_increased/</id>
-    <title>⚡ Reduced rocket balloon spawns but increased rocket stop spawns?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wdac0f/reduced_rocket_balloon_spawns_but_increased/"/>
-    <published>2026-09-11T08:32:42Z</published>
-    <updated>2026-09-11T08:32:42Z</updated>
-    <summary type="text">I may be being AB tested, but I’ve noticed a strange increase in stops spawning grunts over the past week or so. I would say I spin stops relatively consistently in terms of number per day, which is ballpark in the few hundred unique stops every day. In terms of stops total daily it’s probably in th</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wcyk12/can_someone_tell_me_whats_wrong_with_this_staryu/</id>
-    <title>⚡ Can someone tell me whats wrong with this staryu?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wcyk12/can_someone_tell_me_whats_wrong_with_this_staryu/"/>
-    <published>2026-09-10T22:52:43Z</published>
-    <updated>2026-09-10T22:52:43Z</updated>
-    <summary type="text">submitted by /u/Ordinary_Island_6727 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</id>
     <title>🤖 How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules</title>
     <link rel="alternate" href="https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"/>
@@ -396,30 +444,6 @@
     <published>2026-09-10T15:00:00Z</published>
     <updated>2026-09-10T15:00:00Z</updated>
     <summary type="text">Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/introducing-chatgpt-financial-services</id>
-    <title>🤖 Introducing ChatGPT for Financial Services</title>
-    <link rel="alternate" href="https://openai.com/index/introducing-chatgpt-financial-services"/>
-    <published>2026-09-10T07:00:00Z</published>
-    <updated>2026-09-10T07:00:00Z</updated>
-    <summary type="text">Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/expanding-ai-access-us-government</id>
-    <title>🤖 Expanding AI access and cyber defense for federal, state, local, and tribal governments</title>
-    <link rel="alternate" href="https://openai.com/index/expanding-ai-access-us-government"/>
-    <published>2026-09-10T07:00:00Z</published>
-    <updated>2026-09-10T07:00:00Z</updated>
-    <summary type="text">OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
