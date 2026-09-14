@@ -2,13 +2,358 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-09-13T22:57:07Z</updated>
+  <updated>2026-09-14T16:43:33Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
     <name>ha-news-feed-bot</name>
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
+  <entry>
+    <id>https://pokemongolive.com/news/megafinale-2026-armored-mewtwo</id>
+    <title>⚡ Armored Mewtwo Returns for the Mega Finale</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/megafinale-2026-armored-mewtwo"/>
+    <published>2026-09-14T16:43:31Z</published>
+    <updated>2026-09-14T16:43:31Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/more-mega-updates-2026</id>
+    <title>⚡ More mega moments! Additional Charged Attacks and Mega Mewtwo Adventure Effects debut during Mega Finale!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/more-mega-updates-2026"/>
+    <published>2026-09-14T16:43:31Z</published>
+    <updated>2026-09-14T16:43:31Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/go-battle-league-twilight-trails</id>
+    <title>⚡ GO Battle League: Twilight Trails Update</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-battle-league-twilight-trails"/>
+    <published>2026-09-14T16:43:31Z</published>
+    <updated>2026-09-14T16:43:31Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/communitydayclassic-gible-september-2026</id>
+    <title>⚡ September 2026 Community Day Classic: Gible</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/communitydayclassic-gible-september-2026"/>
+    <published>2026-09-14T16:43:31Z</published>
+    <updated>2026-09-14T16:43:31Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/mega-finale-2026-community</id>
+    <title>⚡ #PokemonGOFest2026: Mega Finale Global Challenge</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/mega-finale-2026-community"/>
+    <published>2026-09-14T16:43:31Z</published>
+    <updated>2026-09-14T16:43:31Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/mega-squads-2026</id>
+    <title>⚡ Pick up where Mega Finale leaves off, and get energized for the Mega Squads event!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/mega-squads-2026"/>
+    <published>2026-09-14T16:43:31Z</published>
+    <updated>2026-09-14T16:43:31Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/staraptor-super-mega-raid-day-2026</id>
+    <title>⚡ Ready yourself to courageously challenge Staraptor Super Mega Raid Day!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/staraptor-super-mega-raid-day-2026"/>
+    <published>2026-09-14T16:43:31Z</published>
+    <updated>2026-09-14T16:43:31Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/pokemon-horizons-celebration-event-2026</id>
+    <title>⚡ The “Pokémon Horizons: The Series” Celebration Event returns!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pokemon-horizons-celebration-event-2026"/>
+    <published>2026-09-14T16:43:31Z</published>
+    <updated>2026-09-14T16:43:31Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/harvest-festival-2026</id>
+    <title>⚡ Enjoy a bountiful Harvest Festival event with Shiny Applin’s Pokémon GO debut!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/harvest-festival-2026"/>
+    <published>2026-09-14T16:43:31Z</published>
+    <updated>2026-09-14T16:43:31Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/harvest-festival-tgr-2026</id>
+    <title>⚡ Rescue Shadow Zekrom during Harvest Festival: Taken Over!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/harvest-festival-tgr-2026"/>
+    <published>2026-09-14T16:43:31Z</published>
+    <updated>2026-09-14T16:43:31Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gowildarea-sendai-ticket-update</id>
+    <title>⚡ Ticketing Update: Pokémon GO Wild Area: Sendai • Tohoku</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-sendai-ticket-update"/>
+    <published>2026-09-14T16:43:31Z</published>
+    <updated>2026-09-14T16:43:31Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gigantamax-cinderace-max-battle-day-2026</id>
+    <title>⚡ Fireball of fury as Gigantamax Cinderace storms into Max Battle Day!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-cinderace-max-battle-day-2026"/>
+    <published>2026-09-14T16:43:31Z</published>
+    <updated>2026-09-14T16:43:31Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/boston-city-safari-know-before-you-go</id>
+    <title>⚡ Pokémon GO City Safari: Boston – Know Before You GO!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/boston-city-safari-know-before-you-go"/>
+    <published>2026-09-14T16:43:31Z</published>
+    <updated>2026-09-14T16:43:31Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/patterns-of-the-wild-2026</id>
+    <title>⚡ Patterns of the Wild brings Pikachu wearing a batik shirt with a Special Background!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/patterns-of-the-wild-2026"/>
+    <published>2026-09-14T16:43:31Z</published>
+    <updated>2026-09-14T16:43:31Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/city-safaris-europe-2026</id>
+    <title>⚡ Pokémon GO City Safaris in Europe: Venues and Activities</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/city-safaris-europe-2026"/>
+    <published>2026-09-14T16:43:31Z</published>
+    <updated>2026-09-14T16:43:31Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wg7m2x/dmax_dialga_and_palkia_are_op_because/</id>
+    <title>⚡ DMAX Dialga and Palkia are OP Because…</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wg7m2x/dmax_dialga_and_palkia_are_op_because/"/>
+    <published>2026-09-14T16:05:45Z</published>
+    <updated>2026-09-14T16:05:45Z</updated>
+    <summary type="text">You can put them into Dens after Max Battles and farm candy for their Adventure Effects!!! I just had this realization right now (idk if anyone else did, they probably did) but that makes it really convenient and lessens the Rare Candy sink. What do you think? submitted by /u/Speedster012 [link] [co</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wg70ym/special_trade_fatigue/</id>
+    <title>⚡ Special Trade Fatigue</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wg70ym/special_trade_fatigue/"/>
+    <published>2026-09-14T15:44:43Z</published>
+    <updated>2026-09-14T15:44:43Z</updated>
+    <summary type="text">This is both a vent but also discussion post and I would like to hear from other players what they think and what their experience has been with regard to special and lucky trades. I think most of us were very thrilled when the option for remote trade was added to the game! To finally be able to do </summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wg6mk0/how_many_sinnoh_stones_do_you_guys_keep/</id>
+    <title>⚡ How many Sinnoh Stones do you guys keep?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wg6mk0/how_many_sinnoh_stones_do_you_guys_keep/"/>
+    <published>2026-09-14T15:29:59Z</published>
+    <updated>2026-09-14T15:29:59Z</updated>
+    <summary type="text">submitted by /u/BertilBertilsson66 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wg6idf/the_best_megas_for_great_and_ultra_leagues_a_pvp/</id>
+    <title>⚡ The Best Megas for Great and Ultra Leagues: A PvP Analysis</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wg6idf/the_best_megas_for_great_and_ultra_leagues_a_pvp/"/>
+    <published>2026-09-14T15:25:34Z</published>
+    <updated>2026-09-14T15:25:34Z</updated>
+    <summary type="text">Mega Great League is already WELL underway, though returning a couple times later this season. Meanwhile, Mega Ultra League continues for another week (and will also return several times this season. So sorry for the tardiness, but I'm finally ready to discuss some of my personal recommendations for</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/podcast/991471/adam-conover-youtube-tv-media-union-labor-ai</id>
+    <title>🤖 Adam Conover explains how YouTube ruined everything</title>
+    <link rel="alternate" href="https://www.theverge.com/podcast/991471/adam-conover-youtube-tv-media-union-labor-ai"/>
+    <published>2026-09-14T15:00:00Z</published>
+    <updated>2026-09-14T15:00:00Z</updated>
+    <summary type="text">Today, I’m joined by comedian, podcast host, and YouTuber Adam Conover. Adam is a familiar face to anyone who’s spent time on the internet. He got his start, like so many successful comedy writers, at CollegeHumor back in the day. That was before transitioning into cable TV with Adam Ruins Everythin</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wg5imr/dynamax_shiny_odds/</id>
+    <title>⚡ Dynamax Shiny Odds</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wg5imr/dynamax_shiny_odds/"/>
+    <published>2026-09-14T14:48:40Z</published>
+    <updated>2026-09-14T14:48:40Z</updated>
+    <summary type="text">Hi guys, for anyone trying to collect data to figure out dynamax shiny odds or for anyone curious in general, It took me 165 max battles and 7,350 coins (3-packs of particles) to get shiny Dynamax Rhyhorn. I also got a couple 4* out of it as well. Thanks that’s all. submitted by /u/castleghoul9 [lin</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026</id>
+    <title>🤖 The four-hour-long Elon Musk documentary might be preaching to the choir</title>
+    <link rel="alternate" href="https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026"/>
+    <published>2026-09-14T13:50:00Z</published>
+    <updated>2026-09-14T13:50:00Z</updated>
+    <summary type="text">It makes sense that Musk is a long film. The latest from Alex Gibney, who has previously directed documentaries about Theranos and Steve Jobs, is an impressively thorough retelling of the story of Elon Musk, from his early days as a dot-com millionaire to &quot;taking a wood chipper&quot; to vital US governme</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct</id>
+    <title>🤖 Microsoft says ‘people matter more than AI’ following safety concerns</title>
+    <link rel="alternate" href="https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"/>
+    <published>2026-09-14T13:00:00Z</published>
+    <updated>2026-09-14T13:00:00Z</updated>
+    <summary type="text">Microsoft is publishing a 37-page &quot;humanist AI code of conduct&quot; today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our abi</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/fyxer</id>
+    <title>🤖 How Fyxer built an AI executive assistant people trust</title>
+    <link rel="alternate" href="https://openai.com/index/fyxer"/>
+    <published>2026-09-14T12:00:00Z</published>
+    <updated>2026-09-14T12:00:00Z</updated>
+    <summary type="text">Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy</id>
+    <title>🤖 What happens after a town de-Flocks</title>
+    <link rel="alternate" href="https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy"/>
+    <published>2026-09-14T11:00:00Z</published>
+    <updated>2026-09-14T11:00:00Z</updated>
+    <summary type="text">From Florida to Washington state, local governments across the country are canceling their contracts with Flock, the company behind the controversial AI-enabled license plate readers, in response to public outcry. But ending the contracts doesn't necessarily mean the cameras will come down immediate</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wfzgim/fix_for_recent_battery_drain_and_heat_issues_on/</id>
+    <title>⚡ Fix for recent Battery drain and heat issues on Samsung* phones</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wfzgim/fix_for_recent_battery_drain_and_heat_issues_on/"/>
+    <published>2026-09-14T10:18:14Z</published>
+    <updated>2026-09-14T10:18:14Z</updated>
+    <summary type="text">TL;DR quick fix on Samsung* phones: Download Goodlock (official Samsung app) &gt; download the Game Booster+ module &gt; CPU and GPU settings &gt; Pokemon Go &gt; limit CPU and GPU to the 1/3 setting and hit save. re-open the app and check. Nothing about fluidity changed for me, just drain and heat improved sig</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wfwbcx/use_crowned_zamazenta_with_ice_fang_to_avoid/</id>
+    <title>⚡ Use Crowned Zamazenta with Ice Fang to avoid dynamax-ing for Rhyhorn max battles.</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wfwbcx/use_crowned_zamazenta_with_ice_fang_to_avoid/"/>
+    <published>2026-09-14T07:07:45Z</published>
+    <updated>2026-09-14T07:07:45Z</updated>
+    <summary type="text">5 Ice Fangs + Behemoth Bash does the job - no hits taken and no dynamaxxing. submitted by /u/Superbat898 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914</id>
+    <title>🤖 New method enables AI for safety-critical situations</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914"/>
+    <published>2026-09-14T04:00:00Z</published>
+    <updated>2026-09-14T04:00:00Z</updated>
+    <summary type="text">The “HardFlow” algorithm could help generative AI models produce high-quality outputs that obey strict requirements when “pretty close” doesn’t cut it.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914</id>
+    <title>🤖 MIT spinout turns plastic waste into resilient building materials</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914"/>
+    <published>2026-09-14T04:00:00Z</published>
+    <updated>2026-09-14T04:00:00Z</updated>
+    <summary type="text">Atlas Building Composites is commercializing MIT research to turn plastic waste into parts for buildings and other infrastructure.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wfokxf/bonus_storage_4_eggs/</id>
+    <title>⚡ Bonus storage 4 eggs?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wfokxf/bonus_storage_4_eggs/"/>
+    <published>2026-09-14T00:35:37Z</published>
+    <updated>2026-09-14T00:35:37Z</updated>
+    <summary type="text">My mother walked over 50km, and she received 2 eggs although she already had 11 eggs(9+bonus storage 2). Is this an error? submitted by /u/Commercial-Stop-8307 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
   <entry>
     <id>https://openai.com/index/perplexity-improving-accuracy-with-astra</id>
     <title>🤖 Perplexity trusts GPT-6 Astra with end-to-end systems</title>
@@ -22,309 +367,12 @@
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/catch-mastery-phantump-2026</id>
-    <title>⚡ Get ready for a Catch Mastery event featuring Phantump, the Stump Pokémon!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/catch-mastery-phantump-2026"/>
-    <published>2026-09-13T22:57:05Z</published>
-    <updated>2026-09-13T22:57:05Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/megafinale-2026-armored-mewtwo</id>
-    <title>⚡ Armored Mewtwo Returns for the Mega Finale</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/megafinale-2026-armored-mewtwo"/>
-    <published>2026-09-13T22:57:05Z</published>
-    <updated>2026-09-13T22:57:05Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/more-mega-updates-2026</id>
-    <title>⚡ More mega moments! Additional Charged Attacks and Mega Mewtwo Adventure Effects debut during Mega Finale!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/more-mega-updates-2026"/>
-    <published>2026-09-13T22:57:05Z</published>
-    <updated>2026-09-13T22:57:05Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/go-battle-league-twilight-trails</id>
-    <title>⚡ GO Battle League: Twilight Trails Update</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/go-battle-league-twilight-trails"/>
-    <published>2026-09-13T22:57:05Z</published>
-    <updated>2026-09-13T22:57:05Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/communitydayclassic-gible-september-2026</id>
-    <title>⚡ September 2026 Community Day Classic: Gible</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/communitydayclassic-gible-september-2026"/>
-    <published>2026-09-13T22:57:05Z</published>
-    <updated>2026-09-13T22:57:05Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/mega-finale-2026-community</id>
-    <title>⚡ #PokemonGOFest2026: Mega Finale Global Challenge</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/mega-finale-2026-community"/>
-    <published>2026-09-13T22:57:05Z</published>
-    <updated>2026-09-13T22:57:05Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/mega-squads-2026</id>
-    <title>⚡ Pick up where Mega Finale leaves off, and get energized for the Mega Squads event!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/mega-squads-2026"/>
-    <published>2026-09-13T22:57:05Z</published>
-    <updated>2026-09-13T22:57:05Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/staraptor-super-mega-raid-day-2026</id>
-    <title>⚡ Ready yourself to courageously challenge Staraptor Super Mega Raid Day!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/staraptor-super-mega-raid-day-2026"/>
-    <published>2026-09-13T22:57:05Z</published>
-    <updated>2026-09-13T22:57:05Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/pokemon-horizons-celebration-event-2026</id>
-    <title>⚡ The “Pokémon Horizons: The Series” Celebration Event returns!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/pokemon-horizons-celebration-event-2026"/>
-    <published>2026-09-13T22:57:05Z</published>
-    <updated>2026-09-13T22:57:05Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/harvest-festival-2026</id>
-    <title>⚡ Enjoy a bountiful Harvest Festival event with Shiny Applin’s Pokémon GO debut!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/harvest-festival-2026"/>
-    <published>2026-09-13T22:57:05Z</published>
-    <updated>2026-09-13T22:57:05Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/harvest-festival-tgr-2026</id>
-    <title>⚡ Rescue Shadow Zekrom during Harvest Festival: Taken Over!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/harvest-festival-tgr-2026"/>
-    <published>2026-09-13T22:57:05Z</published>
-    <updated>2026-09-13T22:57:05Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/gowildarea-sendai-ticket-update</id>
-    <title>⚡ Ticketing Update: Pokémon GO Wild Area: Sendai • Tohoku</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-sendai-ticket-update"/>
-    <published>2026-09-13T22:57:05Z</published>
-    <updated>2026-09-13T22:57:05Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/gigantamax-cinderace-max-battle-day-2026</id>
-    <title>⚡ Fireball of fury as Gigantamax Cinderace storms into Max Battle Day!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-cinderace-max-battle-day-2026"/>
-    <published>2026-09-13T22:57:05Z</published>
-    <updated>2026-09-13T22:57:05Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/boston-city-safari-know-before-you-go</id>
-    <title>⚡ Pokémon GO City Safari: Boston – Know Before You GO!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/boston-city-safari-know-before-you-go"/>
-    <published>2026-09-13T22:57:05Z</published>
-    <updated>2026-09-13T22:57:05Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/patterns-of-the-wild-2026</id>
-    <title>⚡ Patterns of the Wild brings Pikachu wearing a batik shirt with a Special Background!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/patterns-of-the-wild-2026"/>
-    <published>2026-09-13T22:57:05Z</published>
-    <updated>2026-09-13T22:57:05Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wficur/upcoming_week_in_pokémon_go_monday_september_14/</id>
-    <title>⚡ Upcoming Week in Pokémon GO (Monday, September 14 - Sunday, September 20, 2026)</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wficur/upcoming_week_in_pokémon_go_monday_september_14/"/>
-    <published>2026-09-13T20:12:48Z</published>
-    <updated>2026-09-13T20:12:48Z</updated>
-    <summary type="text">submitted by /u/pgomav [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting</id>
     <title>🤖 Trump and Mike Johnson think the AI industry is overreacting</title>
     <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting"/>
     <published>2026-09-13T19:41:48Z</published>
     <updated>2026-09-13T19:41:48Z</updated>
     <summary type="text">Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to &quot;pace the frontier&quot; and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's prop</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wfejiy/future_sight_adventure_effect_was_a_missed/</id>
-    <title>⚡ Future Sight+ Adventure effect was a missed opportunity to show shiny on map</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wfejiy/future_sight_adventure_effect_was_a_missed/"/>
-    <published>2026-09-13T17:51:58Z</published>
-    <updated>2026-09-13T17:51:58Z</updated>
-    <summary type="text">I think that Future Sight+ adventure effect is one of the least interesting. It would have been great that, in addition to IV highlight, this adventure effect would show shiny Pokémon spawn as shiny on the map. What do you think? Would Scopely ever add such an effect? submitted by /u/CryptographerMa</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wfcb8s/i_didnt_buy_the_mega_squads_pass_and_im/</id>
-    <title>⚡ I didn't buy the Mega Squads pass, and I'm exclusively getting 10km eggs from spins.</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wfcb8s/i_didnt_buy_the_mega_squads_pass_and_im/"/>
-    <published>2026-09-13T16:28:40Z</published>
-    <updated>2026-09-13T16:28:40Z</updated>
-    <summary type="text">Someone else in my community also noted they've been getting way more 10km eggs. For an event where the advertised Pokémon come from 5km eggs, this feels like a slap in the face. Can anyone else chime in on this? submitted by /u/Whole_Kogan [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wfblj9/dynamax_rhyhorn_is_tier_1/</id>
-    <title>⚡ Dynamax Rhyhorn is Tier 1</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wfblj9/dynamax_rhyhorn_is_tier_1/"/>
-    <published>2026-09-13T16:01:45Z</published>
-    <updated>2026-09-13T16:01:45Z</updated>
-    <summary type="text">submitted by /u/Traditional_North647 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wfbl3i/dynamax_rhyhorn_is_1/</id>
-    <title>⚡ Dynamax Rhyhorn is 1*</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wfbl3i/dynamax_rhyhorn_is_1/"/>
-    <published>2026-09-13T16:01:17Z</published>
-    <updated>2026-09-13T16:01:17Z</updated>
-    <summary type="text">submitted by /u/CreamOfPotatoSoup [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wfb1zj/the_tm_system_really_needs_a_revamp/</id>
-    <title>⚡ The TM system really needs a revamp</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wfb1zj/the_tm_system_really_needs_a_revamp/"/>
-    <published>2026-09-13T15:41:25Z</published>
-    <updated>2026-09-13T15:41:25Z</updated>
-    <summary type="text">This distinguished gentledog has taken up 29 Fast TMs so far with me trying to get Incinerate on it. I checked twice that it's not a legacy move. I'm still stuck with Snarl at the moment and out of TMs. It also took 18 Charged TMs to get the charged moves Flamethrower and Trailblaze. (I started keep</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wf3igd/is_it_possible_to_catch_shiny_shaymin_with_a/</id>
-    <title>⚡ Is it possible to catch Shiny Shaymin with a Master Ball?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wf3igd/is_it_possible_to_catch_shiny_shaymin_with_a/"/>
-    <published>2026-09-13T09:57:32Z</published>
-    <updated>2026-09-13T09:57:32Z</updated>
-    <summary type="text">I saw someone post this on Facebook. I thought Mythical Pokémon could only be caught with regular Poké Balls. I can think of three possibilities: 1. A bug 2. An AI image 3. Some kind of exploit or game data manipulation Apparently, it’s a Shundo Shaymin caught with a Master Ball, with the location s</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wevz8c/gigantamax_venusaur_gigantamax_charizard_and/</id>
-    <title>⚡ Gigantamax Venusaur, Gigantamax Charizard, and Gigantamax Blastoise are now appearing at the &quot;PokéXciting!&quot; event in Kuala Lumpur, Malaysia!｜Remote Raids are available.</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wevz8c/gigantamax_venusaur_gigantamax_charizard_and/"/>
-    <published>2026-09-13T02:56:21Z</published>
-    <updated>2026-09-13T02:56:21Z</updated>
-    <summary type="text">Gigantamax Venusaur, Gigantamax Charizard, and Gigantamax Blastoise are now appearing at the &quot;PokéXciting!&quot; event in Kuala Lumpur, Malaysia! ・Remote Raids are available. * The &quot;PokéXciting!&quot; event is part of the Pokémon 30th Anniversary celebration. * Event hours: 10:00 AM – 10:00 PM local time acro</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack</id>
-    <title>🤖 OpenAI’s rogue AI tried to hack another company in May</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack"/>
-    <published>2026-09-12T21:41:36Z</published>
-    <updated>2026-09-12T21:41:36Z</updated>
-    <summary type="text">In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems d</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised</id>
-    <title>🤖 Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised"/>
-    <published>2026-09-12T21:16:28Z</published>
-    <updated>2026-09-12T21:16:28Z</updated>
-    <summary type="text">OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was be</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter</id>
-    <title>🤖 StarCraft returns in 2030 as an open-world shooter</title>
-    <link rel="alternate" href="https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter"/>
-    <published>2026-09-12T20:08:09Z</published>
-    <updated>2026-09-12T20:08:09Z</updated>
-    <summary type="text">Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard is giving it another go with the simply </summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
@@ -384,18 +432,6 @@
     <published>2026-09-10T16:00:00Z</published>
     <updated>2026-09-10T16:00:00Z</updated>
     <summary type="text">César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/put-data-to-work</id>
-    <title>🤖 Now everyone can put data to work</title>
-    <link rel="alternate" href="https://openai.com/index/put-data-to-work"/>
-    <published>2026-09-10T15:00:00Z</published>
-    <updated>2026-09-10T15:00:00Z</updated>
-    <summary type="text">Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
@@ -502,30 +538,6 @@
     <published>2026-09-01T04:00:00Z</published>
     <updated>2026-09-01T04:00:00Z</updated>
     <summary type="text">The PhD student works to give young people an active role in shaping digital technologies that can support their own well-being.</summary>
-    <category term="ai"/>
-    <author>
-      <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831</id>
-    <title>🤖 MIT Quantum Initiative launches postdoctoral fellowship program</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831"/>
-    <published>2026-08-31T19:30:00Z</published>
-    <updated>2026-08-31T19:30:00Z</updated>
-    <summary type="text">The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research.</summary>
-    <category term="ai"/>
-    <author>
-      <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831</id>
-    <title>🤖 How an MIT research project became a global programming language</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831"/>
-    <published>2026-08-31T04:00:00Z</published>
-    <updated>2026-08-31T04:00:00Z</updated>
-    <summary type="text">With millions of users across the world, Julia has been used to conduct cutting-edge research and to design new drugs, jet engines, heat pumps, and more.</summary>
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
