@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-09-19T17:01:07Z</updated>
+  <updated>2026-09-19T22:42:42Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/communitydayclassic-gible-september-2026</id>
-    <title>⚡ September 2026 Community Day Classic: Gible</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/communitydayclassic-gible-september-2026"/>
-    <published>2026-09-19T17:01:06Z</published>
-    <updated>2026-09-19T17:01:06Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/mega-finale-2026-community</id>
     <title>⚡ #PokemonGOFest2026: Mega Finale Global Challenge</title>
     <link rel="alternate" href="https://pokemongolive.com/news/mega-finale-2026-community"/>
-    <published>2026-09-19T17:01:06Z</published>
-    <updated>2026-09-19T17:01:06Z</updated>
+    <published>2026-09-19T22:42:41Z</published>
+    <updated>2026-09-19T22:42:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/mega-squads-2026</id>
     <title>⚡ Pick up where Mega Finale leaves off, and get energized for the Mega Squads event!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/mega-squads-2026"/>
-    <published>2026-09-19T17:01:06Z</published>
-    <updated>2026-09-19T17:01:06Z</updated>
+    <published>2026-09-19T22:42:41Z</published>
+    <updated>2026-09-19T22:42:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/staraptor-super-mega-raid-day-2026</id>
     <title>⚡ Ready yourself to courageously challenge Staraptor Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/staraptor-super-mega-raid-day-2026"/>
-    <published>2026-09-19T17:01:06Z</published>
-    <updated>2026-09-19T17:01:06Z</updated>
+    <published>2026-09-19T22:42:41Z</published>
+    <updated>2026-09-19T22:42:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/pokemon-horizons-celebration-event-2026</id>
     <title>⚡ The “Pokémon Horizons: The Series” Celebration Event returns!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-horizons-celebration-event-2026"/>
-    <published>2026-09-19T17:01:06Z</published>
-    <updated>2026-09-19T17:01:06Z</updated>
+    <published>2026-09-19T22:42:41Z</published>
+    <updated>2026-09-19T22:42:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/harvest-festival-2026</id>
     <title>⚡ Enjoy a bountiful Harvest Festival event with Shiny Applin’s Pokémon GO debut!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/harvest-festival-2026"/>
-    <published>2026-09-19T17:01:06Z</published>
-    <updated>2026-09-19T17:01:06Z</updated>
+    <published>2026-09-19T22:42:41Z</published>
+    <updated>2026-09-19T22:42:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/harvest-festival-tgr-2026</id>
     <title>⚡ Rescue Shadow Zekrom during Harvest Festival: Taken Over!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/harvest-festival-tgr-2026"/>
-    <published>2026-09-19T17:01:06Z</published>
-    <updated>2026-09-19T17:01:06Z</updated>
+    <published>2026-09-19T22:42:41Z</published>
+    <updated>2026-09-19T22:42:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/gowildarea-sendai-ticket-update</id>
     <title>⚡ Ticketing Update: Pokémon GO Wild Area: Sendai • Tohoku</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-sendai-ticket-update"/>
-    <published>2026-09-19T17:01:06Z</published>
-    <updated>2026-09-19T17:01:06Z</updated>
+    <published>2026-09-19T22:42:41Z</published>
+    <updated>2026-09-19T22:42:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/gigantamax-cinderace-max-battle-day-2026</id>
     <title>⚡ Fireball of fury as Gigantamax Cinderace storms into Max Battle Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-cinderace-max-battle-day-2026"/>
-    <published>2026-09-19T17:01:06Z</published>
-    <updated>2026-09-19T17:01:06Z</updated>
+    <published>2026-09-19T22:42:41Z</published>
+    <updated>2026-09-19T22:42:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/boston-city-safari-know-before-you-go</id>
     <title>⚡ Pokémon GO City Safari: Boston – Know Before You GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/boston-city-safari-know-before-you-go"/>
-    <published>2026-09-19T17:01:06Z</published>
-    <updated>2026-09-19T17:01:06Z</updated>
+    <published>2026-09-19T22:42:41Z</published>
+    <updated>2026-09-19T22:42:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/patterns-of-the-wild-2026</id>
     <title>⚡ Patterns of the Wild brings Pikachu wearing a batik shirt with a Special Background!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/patterns-of-the-wild-2026"/>
-    <published>2026-09-19T17:01:06Z</published>
-    <updated>2026-09-19T17:01:06Z</updated>
+    <published>2026-09-19T22:42:41Z</published>
+    <updated>2026-09-19T22:42:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/city-safaris-europe-2026</id>
     <title>⚡ Pokémon GO City Safaris in Europe: Venues and Activities</title>
     <link rel="alternate" href="https://pokemongolive.com/news/city-safaris-europe-2026"/>
-    <published>2026-09-19T17:01:06Z</published>
-    <updated>2026-09-19T17:01:06Z</updated>
+    <published>2026-09-19T22:42:41Z</published>
+    <updated>2026-09-19T22:42:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/choose-your-path-twilight-trails-2026</id>
     <title>⚡ Blaze your own trail with new Timed Research during Twilight Trails!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/choose-your-path-twilight-trails-2026"/>
-    <published>2026-09-19T17:01:06Z</published>
-    <updated>2026-09-19T17:01:06Z</updated>
+    <published>2026-09-19T22:42:41Z</published>
+    <updated>2026-09-19T22:42:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/communityday-october-2026-zorua</id>
     <title>⚡ October 2026 Community Day: Zorua</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communityday-october-2026-zorua"/>
-    <published>2026-09-19T17:01:06Z</published>
-    <updated>2026-09-19T17:01:06Z</updated>
+    <published>2026-09-19T22:42:41Z</published>
+    <updated>2026-09-19T22:42:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +156,94 @@
     <id>https://pokemongolive.com/news/city-safari-brisbane-know-before-you-go</id>
     <title>⚡ Pokémon GO City Safari: Brisbane – Know Before You GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/city-safari-brisbane-know-before-you-go"/>
-    <published>2026-09-19T17:01:06Z</published>
-    <updated>2026-09-19T17:01:06Z</updated>
+    <published>2026-09-19T22:42:41Z</published>
+    <updated>2026-09-19T22:42:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/european-space-agency-event</id>
+    <title>⚡ Pokémon GO partners with the European Space Agency</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/european-space-agency-event"/>
+    <published>2026-09-19T22:42:41Z</published>
+    <updated>2026-09-19T22:42:41Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy</id>
+    <title>🤖 Meta’s Muse is creepy, but maybe not for the reasons you think</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy"/>
+    <published>2026-09-19T20:44:40Z</published>
+    <updated>2026-09-19T20:44:40Z</updated>
+    <summary type="text">Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazin</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wkw30m/canada_pogo_plus_restocked/</id>
+    <title>⚡ CANADA: Pogo Plus + Restocked</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wkw30m/canada_pogo_plus_restocked/"/>
+    <published>2026-09-19T20:03:54Z</published>
+    <updated>2026-09-19T20:03:54Z</updated>
+    <summary type="text">Can’t post links but Amazon Canada has restocked the Pokemon Go Plus +. Apparently might be limited? Link in comments. submitted by /u/sx2015to [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wkvsky/theory_calyrex_may_be_able_to_dynamax_when_caught/</id>
+    <title>⚡ [Theory] calyrex may be able to dynamax when caught from raids like zacian and zamazenta.</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wkvsky/theory_calyrex_may_be_able_to_dynamax_when_caught/"/>
+    <published>2026-09-19T19:52:47Z</published>
+    <updated>2026-09-19T19:52:47Z</updated>
+    <summary type="text">Calyrex in sword and shield has a blue glow and no clouds when you dynamax it. This has led to a lot of people believing it can dynamax on its own without dynamax particles. I think it's possible that when Calyrex is added to Pokémon go this will be reflected and we'll be able to use calyrex in max </summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wkv3r1/something_caught_their_attention/</id>
+    <title>⚡ Something caught their attention</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wkv3r1/something_caught_their_attention/"/>
+    <published>2026-09-19T19:25:02Z</published>
+    <updated>2026-09-19T19:25:02Z</updated>
+    <summary type="text">submitted by /u/shidphard [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wkt6wf/pokémon_go_partners_with_the_european_space_agency/</id>
+    <title>⚡ Pokémon GO partners with the European Space Agency</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wkt6wf/pokémon_go_partners_with_the_european_space_agency/"/>
+    <published>2026-09-19T18:10:26Z</published>
+    <updated>2026-09-19T18:10:26Z</updated>
+    <summary type="text">submitted by /u/iTaIksick [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wkrr7n/super_mega_staraptor_duo_ae_x_windy_sand/</id>
+    <title>⚡ Super Mega Staraptor Duo, AE: X, Windy, Sand Attack/Close Combat, Mega Mewtwo Y Only</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wkrr7n/super_mega_staraptor_duo_ae_x_windy_sand/"/>
+    <published>2026-09-19T17:13:18Z</published>
+    <updated>2026-09-19T17:13:18Z</updated>
+    <summary type="text">First ever super mega duo done, thx u/Kelpo _Splat2000 for the duo! ❤️‍🔥 submitted by /u/xRage7243 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -184,6 +256,18 @@
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wkoefn/defeated_mega_staraptor_yet_this_didnt_unlock/</id>
+    <title>⚡ defeated mega staraptor, yet this didn't unlock?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wkoefn/defeated_mega_staraptor_yet_this_didnt_unlock/"/>
+    <published>2026-09-19T14:58:00Z</published>
+    <updated>2026-09-19T14:58:00Z</updated>
+    <summary type="text">submitted by /u/Substantial-Ad-9945 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -223,6 +307,18 @@
     </author>
   </entry>
   <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wkhfij/fyi_forceclosing_the_app_is_23x_faster_than_the/</id>
+    <title>⚡ FYI: Force-closing the app is 2-3x faster than the evolution animation</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wkhfij/fyi_forceclosing_the_app_is_23x_faster_than_the/"/>
+    <published>2026-09-19T09:16:28Z</published>
+    <updated>2026-09-19T09:16:28Z</updated>
+    <summary type="text">Based on the performance of the new iPhone 18 Pro, I noticed that Pokémon GO opens much faster compared to my iPhone 15. Now I was curious to see how big the difference is between letting the evolving animation run through vs closing the app and reopening it. As you can see in the video, closing and</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
     <id>https://supercell.com/en/games/brawlstars/blog/community/brawl-stars-x-duolingo</id>
     <title>🏆 Brawl Stars x Duolingo</title>
     <link rel="alternate" href="https://supercell.com/en/games/brawlstars/blog/community/brawl-stars-x-duolingo"/>
@@ -231,6 +327,18 @@
     <category term="brawlstars"/>
     <author>
       <name>Brawl Stars Official Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wkcun5/these_are_all_the_adventures_effects_in_the_game/</id>
+    <title>⚡ These are all the adventures effects in the game at the moment.</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wkcun5/these_are_all_the_adventures_effects_in_the_game/"/>
+    <published>2026-09-19T04:59:21Z</published>
+    <updated>2026-09-19T04:59:21Z</updated>
+    <summary type="text">submitted by /u/Original-Teach-7089 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -252,30 +360,6 @@
     <published>2026-09-18T18:29:17Z</published>
     <updated>2026-09-18T18:29:17Z</updated>
     <summary type="text">Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch o</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai</id>
-    <title>🤖 Disney’s first CTO is Character.AI’s former CEO</title>
-    <link rel="alternate" href="https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai"/>
-    <published>2026-09-18T18:27:04Z</published>
-    <updated>2026-09-18T18:27:04Z</updated>
-    <summary type="text">You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will repo</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera</id>
-    <title>🤖 The real story of the iPhone 18 Pro&amp;#8217;s camera</title>
-    <link rel="alternate" href="https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera"/>
-    <published>2026-09-18T17:06:37Z</published>
-    <updated>2026-09-18T17:06:37Z</updated>
-    <summary type="text">It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low light shots and make the aperture smaller for better depth of field in […]</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
@@ -375,6 +459,30 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1whedem/pokémon_horizons_event_megathread/</id>
+    <title>⚡ Pokémon Horizons Event Megathread</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1whedem/pokémon_horizons_event_megathread/"/>
+    <published>2026-09-15T22:02:53Z</published>
+    <updated>2026-09-15T22:02:53Z</updated>
+    <summary type="text">Twilight Trails Field Research Everything you need to know about the event, all in one place. A lot of these pieces will be verified by the Silph Research Group, so throughout the post we'll use the formatting: Italics : Reports from comments or single Research Group report Bold : Multiple Research </summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wgzq7c/questions_answers_weekly_megathread_please_use/</id>
+    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wgzq7c/questions_answers_weekly_megathread_please_use/"/>
+    <published>2026-09-15T13:00:15Z</published>
+    <updated>2026-09-15T13:00:15Z</updated>
+    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
