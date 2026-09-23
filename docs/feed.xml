@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-09-22T23:30:57Z</updated>
+  <updated>2026-09-23T18:16:41Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,23 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/pokemon-horizons-celebration-event-2026</id>
-    <title>⚡ The “Pokémon Horizons: The Series” Celebration Event returns!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/pokemon-horizons-celebration-event-2026"/>
-    <published>2026-09-22T23:30:55Z</published>
-    <updated>2026-09-22T23:30:55Z</updated>
-    <category term="pokemon"/>
+    <id>https://openai.com/index/ringg</id>
+    <title>🤖 Ringg’s AI agents resolve up to 65% of customer calls with OpenAI</title>
+    <link rel="alternate" href="https://openai.com/index/ringg"/>
+    <published>2026-09-24T12:00:00Z</published>
+    <updated>2026-09-24T12:00:00Z</updated>
+    <summary type="text">Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.</summary>
+    <category term="ai"/>
     <author>
-      <name>Pokémon GO Official News</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
     <id>https://pokemongolive.com/news/harvest-festival-2026</id>
     <title>⚡ Enjoy a bountiful Harvest Festival event with Shiny Applin’s Pokémon GO debut!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/harvest-festival-2026"/>
-    <published>2026-09-22T23:30:55Z</published>
-    <updated>2026-09-22T23:30:55Z</updated>
+    <published>2026-09-23T18:16:39Z</published>
+    <updated>2026-09-23T18:16:39Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +36,8 @@
     <id>https://pokemongolive.com/news/harvest-festival-tgr-2026</id>
     <title>⚡ Rescue Shadow Zekrom during Harvest Festival: Taken Over!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/harvest-festival-tgr-2026"/>
-    <published>2026-09-22T23:30:55Z</published>
-    <updated>2026-09-22T23:30:55Z</updated>
+    <published>2026-09-23T18:16:39Z</published>
+    <updated>2026-09-23T18:16:39Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +47,8 @@
     <id>https://pokemongolive.com/news/gowildarea-sendai-ticket-update</id>
     <title>⚡ Ticketing Update: Pokémon GO Wild Area: Sendai • Tohoku</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-sendai-ticket-update"/>
-    <published>2026-09-22T23:30:55Z</published>
-    <updated>2026-09-22T23:30:55Z</updated>
+    <published>2026-09-23T18:16:39Z</published>
+    <updated>2026-09-23T18:16:39Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +58,8 @@
     <id>https://pokemongolive.com/news/gigantamax-cinderace-max-battle-day-2026</id>
     <title>⚡ Fireball of fury as Gigantamax Cinderace storms into Max Battle Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gigantamax-cinderace-max-battle-day-2026"/>
-    <published>2026-09-22T23:30:55Z</published>
-    <updated>2026-09-22T23:30:55Z</updated>
+    <published>2026-09-23T18:16:39Z</published>
+    <updated>2026-09-23T18:16:39Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +69,8 @@
     <id>https://pokemongolive.com/news/boston-city-safari-know-before-you-go</id>
     <title>⚡ Pokémon GO City Safari: Boston – Know Before You GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/boston-city-safari-know-before-you-go"/>
-    <published>2026-09-22T23:30:55Z</published>
-    <updated>2026-09-22T23:30:55Z</updated>
+    <published>2026-09-23T18:16:39Z</published>
+    <updated>2026-09-23T18:16:39Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +80,8 @@
     <id>https://pokemongolive.com/news/patterns-of-the-wild-2026</id>
     <title>⚡ Patterns of the Wild brings Pikachu wearing a batik shirt with a Special Background!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/patterns-of-the-wild-2026"/>
-    <published>2026-09-22T23:30:55Z</published>
-    <updated>2026-09-22T23:30:55Z</updated>
+    <published>2026-09-23T18:16:39Z</published>
+    <updated>2026-09-23T18:16:39Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +91,8 @@
     <id>https://pokemongolive.com/news/city-safaris-europe-2026</id>
     <title>⚡ Pokémon GO City Safaris in Europe: Venues and Activities</title>
     <link rel="alternate" href="https://pokemongolive.com/news/city-safaris-europe-2026"/>
-    <published>2026-09-22T23:30:55Z</published>
-    <updated>2026-09-22T23:30:55Z</updated>
+    <published>2026-09-23T18:16:39Z</published>
+    <updated>2026-09-23T18:16:39Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +102,8 @@
     <id>https://pokemongolive.com/news/choose-your-path-twilight-trails-2026</id>
     <title>⚡ Blaze your own trail with new Timed Research during Twilight Trails!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/choose-your-path-twilight-trails-2026"/>
-    <published>2026-09-22T23:30:55Z</published>
-    <updated>2026-09-22T23:30:55Z</updated>
+    <published>2026-09-23T18:16:39Z</published>
+    <updated>2026-09-23T18:16:39Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +113,8 @@
     <id>https://pokemongolive.com/news/communityday-october-2026-zorua</id>
     <title>⚡ October 2026 Community Day: Zorua</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communityday-october-2026-zorua"/>
-    <published>2026-09-22T23:30:55Z</published>
-    <updated>2026-09-22T23:30:55Z</updated>
+    <published>2026-09-23T18:16:39Z</published>
+    <updated>2026-09-23T18:16:39Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +124,8 @@
     <id>https://pokemongolive.com/news/city-safari-brisbane-know-before-you-go</id>
     <title>⚡ Pokémon GO City Safari: Brisbane – Know Before You GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/city-safari-brisbane-know-before-you-go"/>
-    <published>2026-09-22T23:30:55Z</published>
-    <updated>2026-09-22T23:30:55Z</updated>
+    <published>2026-09-23T18:16:39Z</published>
+    <updated>2026-09-23T18:16:39Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +135,8 @@
     <id>https://pokemongolive.com/news/european-space-agency-event</id>
     <title>⚡ Pokémon GO partners with the European Space Agency</title>
     <link rel="alternate" href="https://pokemongolive.com/news/european-space-agency-event"/>
-    <published>2026-09-22T23:30:55Z</published>
-    <updated>2026-09-22T23:30:55Z</updated>
+    <published>2026-09-23T18:16:39Z</published>
+    <updated>2026-09-23T18:16:39Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +146,8 @@
     <id>https://pokemongolive.com/news/pokemongo-iitdelhi-2026</id>
     <title>⚡ Pokémon GO is coming to IIT-Delhi for Rendezvous 2026!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-iitdelhi-2026"/>
-    <published>2026-09-22T23:30:55Z</published>
-    <updated>2026-09-22T23:30:55Z</updated>
+    <published>2026-09-23T18:16:39Z</published>
+    <updated>2026-09-23T18:16:39Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +157,8 @@
     <id>https://pokemongolive.com/news/world-space-week-2026</id>
     <title>⚡ Blast off with Astronaut Pikachu during World Space Week!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/world-space-week-2026"/>
-    <published>2026-09-22T23:30:55Z</published>
-    <updated>2026-09-22T23:30:55Z</updated>
+    <published>2026-09-23T18:16:39Z</published>
+    <updated>2026-09-23T18:16:39Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +168,238 @@
     <id>https://pokemongolive.com/news/go-pass-october-2026</id>
     <title>⚡ Kyogre makes waves and the Lucky Trinket returns in GO Pass: October!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-october-2026"/>
-    <published>2026-09-22T23:30:55Z</published>
-    <updated>2026-09-22T23:30:55Z</updated>
+    <published>2026-09-23T18:16:39Z</published>
+    <updated>2026-09-23T18:16:39Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/apac-mall-exploration-2026</id>
+    <title>⚡ Pokémon GO joins Pokémon 30th Anniversary Mall Exploration!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/apac-mall-exploration-2026"/>
+    <published>2026-09-23T18:16:39Z</published>
+    <updated>2026-09-23T18:16:39Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr</id>
+    <title>🤖 Anthropic&amp;#8217;s biolab made a discovery it&amp;#8217;s comparing to Crispr</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr"/>
+    <published>2026-09-23T18:00:00Z</published>
+    <updated>2026-09-23T18:00:00Z</updated>
+    <summary type="text">Anthropic says its AI Claude has &quot;autonomously discovered&quot; a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. T</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wobvjz/assets_for_astronaut_pikachu_bramblin_and/</id>
+    <title>⚡ Assets for Astronaut Pikachu, Bramblin, and Brambleghast were added</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wobvjz/assets_for_astronaut_pikachu_bramblin_and/"/>
+    <published>2026-09-23T17:07:27Z</published>
+    <updated>2026-09-23T17:07:27Z</updated>
+    <summary type="text">( Credits: Pokeminers ) submitted by /u/iTaIksick [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wobj85/all_pokestops_in_area_lured_by_bots/</id>
+    <title>⚡ All Pokestops in Area Lured by Bots</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wobj85/all_pokestops_in_area_lured_by_bots/"/>
+    <published>2026-09-23T16:55:04Z</published>
+    <updated>2026-09-23T16:55:04Z</updated>
+    <summary type="text">My friend was in NYC for a day and sent over this video of nearly every pokestop they could see lured by bots. We both have never seen something like this before and was wondering if anyone else has seen something like this before submitted by /u/thomallama4 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act</id>
+    <title>🤖 Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"/>
+    <published>2026-09-23T16:23:05Z</published>
+    <updated>2026-09-23T16:23:05Z</updated>
+    <summary type="text">Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the &quot;destruction or disempowerment of humanity,&quot; including by overthrowing the government. Under th</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1woaa2d/pokéxciting_pikachu_best_buddy_badge_placement/</id>
+    <title>⚡ PokéXciting Pikachu Best Buddy Badge Placement</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1woaa2d/pokéxciting_pikachu_best_buddy_badge_placement/"/>
+    <published>2026-09-23T16:10:02Z</published>
+    <updated>2026-09-23T16:10:02Z</updated>
+    <summary type="text">PokéXciting Pikachu Best Buddy Badge Placement submitted by /u/pinakasuperman [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability</id>
+    <title>🤖 Logitech’s new Blue Yeti 2 mic adjusts itself to where you are</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability"/>
+    <published>2026-09-23T16:01:45Z</published>
+    <updated>2026-09-23T16:01:45Z</updated>
+    <summary type="text">The original Blue Yeti has been one of the most recognizable go-to USB microphones for content creators since it launched in 2009, and now it finally has a successor. Launching today under Logitech G, the Blue Yeti 2 adds some modern upgrades, including an interactive LED display, AI de-noising, and</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price</id>
+    <title>🤖 Logitech’s new haptics-based gaming mouse is a little better and $20 more</title>
+    <link rel="alternate" href="https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price"/>
+    <published>2026-09-23T16:00:00Z</published>
+    <updated>2026-09-23T16:00:00Z</updated>
+    <summary type="text">The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click can be super subtle, more jolty, or turned </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/two-years-of-openai-academy</id>
+    <title>🤖 Two years of OpenAI Academy</title>
+    <link rel="alternate" href="https://openai.com/index/two-years-of-openai-academy"/>
+    <published>2026-09-23T16:00:00Z</published>
+    <updated>2026-09-23T16:00:00Z</updated>
+    <summary type="text">Marking two years of OpenAI Academy and bringing AI skills to even more communities.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923</id>
+    <title>🤖 MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923"/>
+    <published>2026-09-23T15:30:00Z</published>
+    <updated>2026-09-23T15:30:00Z</updated>
+    <summary type="text">Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/999380/una-watch-sports-gps-modular</id>
+    <title>🤖 This $199 GPS sports watch is repairable, modular, and open-source</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/999380/una-watch-sports-gps-modular"/>
+    <published>2026-09-23T15:01:16Z</published>
+    <updated>2026-09-23T15:01:16Z</updated>
+    <summary type="text">The Una Watch costs less than most Garmin watches now that its price has been lowered from the Kickstarter offer of $350 to $199, but its modular, repairable design grabbed my attention first. It features a 1.2-inch MIP LCD display and up to 10 days of battery life, similar to the Garmin Forerunner </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests</id>
+    <title>🤖 YouTube is building AI creator tools that do almost everything for them</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests"/>
+    <published>2026-09-23T14:30:00Z</published>
+    <updated>2026-09-23T14:30:00Z</updated>
+    <summary type="text">Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling creators what they should do. At the annual creator-focused Mad</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wo797u/dynamax_articuno_solo_with_only_zacian_mushroom/</id>
+    <title>⚡ Dynamax Articuno Solo with only Zacian, Mushroom + Ethernatos AE, No Weather Boost, No Glove Helper (Ancient Power/Triple Axel)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wo797u/dynamax_articuno_solo_with_only_zacian_mushroom/"/>
+    <published>2026-09-23T14:16:44Z</published>
+    <updated>2026-09-23T14:16:44Z</updated>
+    <summary type="text">Zacian is max level, with 14/15/15 in IV, Guard and Blade is level 3 (and Health level 1 but I didn't use it). PS : Didn't know that the AE of Ethernatos doesn't benefit Zacian (and Zamazenta), bye 30k stardust 😢 PS2 : The Articuno is 100% and shiny ! 🤩 submitted by /u/Wixos [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads</id>
+    <title>🤖 McDonald’s is testing ads on its drive-thru menus</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads"/>
+    <published>2026-09-23T13:52:39Z</published>
+    <updated>2026-09-23T13:52:39Z</updated>
+    <summary type="text">McDonald's is putting ads on its drive-thru menu as part of a &quot;limited&quot; pilot at company-owned restaurants, according to a report from Bloomberg. Drive-thru locations included in the test will show ads from other brands on digital menu boards after a customer places their order, which they'll see wh</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</id>
+    <title>🤖 OpenAI extends cyber access to Ukraine for civilian defense</title>
+    <link rel="alternate" href="https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"/>
+    <published>2026-09-23T13:00:00Z</published>
+    <updated>2026-09-23T13:00:00Z</updated>
+    <summary type="text">OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wo552p/spawnpoints_changed_again_and_a_new_pattern_is/</id>
+    <title>⚡ Spawnpoints changed again and a new pattern is forming</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wo552p/spawnpoints_changed_again_and_a_new_pattern_is/"/>
+    <published>2026-09-23T12:51:45Z</published>
+    <updated>2026-09-23T12:51:45Z</updated>
+    <summary type="text">Hi there! In July and August, spawnpoints were reshuffled on the 23th day of the month. So, i was anticipating that that would happen again on the same day in September, and it did. In earlier times, there were separate updates for spawnpoints related to POIs (around Points Of Interest: pokestops, g</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wns6t6/choose_your_path_research_is_nerfed/</id>
+    <title>⚡ Choose Your Path Research is nerfed</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wns6t6/choose_your_path_research_is_nerfed/"/>
+    <published>2026-09-23T01:26:59Z</published>
+    <updated>2026-09-23T01:26:59Z</updated>
+    <summary type="text">The daily timed research rewards also have been changed, and nerfed IMO. No more Pokemon encounters and fewer rare candies. The choices for the CYP Timed Research now only offers the following: 2x Catch Candy, 2x Stardust, 5x XP for spinning stops, or extra grunt mysterious components. submitted by </summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wns2qp/my_choose_your_path_for_this_week_is_daily/</id>
+    <title>⚡ My Choose Your Path for this week is daily research with only 4 options (no half hatch distance option!)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wns2qp/my_choose_your_path_for_this_week_is_daily/"/>
+    <published>2026-09-23T01:21:54Z</published>
+    <updated>2026-09-23T01:21:54Z</updated>
+    <summary type="text">Reddit cropped the image badly, the team rocket option is the 4th. The bonuses for the remaining options are the same as they normally are. Reporting from Australia. There could still be A/B testing so this may not be the case for everyone! submitted by /u/MetaRidley15 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/grab-openai-ai-skills-southeast-asia</id>
+    <title>🤖 Grab and OpenAI bring practical AI skills to Southeast Asia</title>
+    <link rel="alternate" href="https://openai.com/index/grab-openai-ai-skills-southeast-asia"/>
+    <published>2026-09-23T00:00:00Z</published>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <summary type="text">OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -199,78 +427,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3</id>
-    <title>🤖 Rabbit’s new AI agent doesn’t need an R1 to run</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3"/>
-    <published>2026-09-22T20:52:40Z</published>
-    <updated>2026-09-22T20:52:40Z</updated>
-    <summary type="text">Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 &quot;agentic operating system&quot; runs in the cloud but operates locally across Windows, Mac, and Linux devices. A</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wnl9sb/does_this_hint_at_the_return_of_fragment_pika/</id>
-    <title>⚡ Does this hint at the return of fragment pika next week?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wnl9sb/does_this_hint_at_the_return_of_fragment_pika/"/>
-    <published>2026-09-22T20:38:26Z</published>
-    <updated>2026-09-22T20:38:26Z</updated>
-    <summary type="text">I kinda hope not submitted by /u/harmlesssheep [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot</id>
-    <title>🤖 Saudi Arabia’s new Exobot EVs make the Cybertruck look normal</title>
-    <link rel="alternate" href="https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot"/>
-    <published>2026-09-22T20:14:54Z</published>
-    <updated>2026-09-22T20:14:54Z</updated>
-    <summary type="text">The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not necessarily cars and auto manufacturing, and certainly not electric vehicle production. So it was a little surprising on Monday when a Saudi startup called Ceer unveiled a pair of hy</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6</id>
-    <title>🤖 Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6"/>
-    <published>2026-09-22T20:00:00Z</published>
-    <updated>2026-09-22T20:00:00Z</updated>
-    <summary type="text">Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extre</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6</id>
-    <title>🤖 Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6"/>
-    <published>2026-09-22T20:00:00Z</published>
-    <updated>2026-09-22T20:00:00Z</updated>
-    <summary type="text">Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will fi</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style</id>
-    <title>🤖 Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style"/>
-    <published>2026-09-22T19:48:08Z</published>
-    <updated>2026-09-22T19:48:08Z</updated>
-    <summary type="text">Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earlier this month, would be &quot;available&quot; on older devi</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922</id>
     <title>🤖 Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research</title>
     <link rel="alternate" href="https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922"/>
@@ -283,90 +439,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/introducing-gpt-6-sol-and-luna</id>
-    <title>🤖 Introducing GPT-6 Sol and Luna</title>
-    <link rel="alternate" href="https://openai.com/index/introducing-gpt-6-sol-and-luna"/>
-    <published>2026-09-22T18:00:00Z</published>
-    <updated>2026-09-22T18:00:00Z</updated>
-    <summary type="text">Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco</id>
-    <title>🤖 San Francisco sues Trump Media for selling early access to Trump posts</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco"/>
-    <published>2026-09-22T17:43:50Z</published>
-    <updated>2026-09-22T17:43:50Z</updated>
-    <summary type="text">San Francisco is suing the Trump Media &amp; Technology Group, the parent company behind Truth Social, for selling early access to President Donald Trump's posts on the social media site. The lawsuit, filed today in California state court, alleges that the Truth API feed is a &quot;corrupt business scheme&quot; t</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wng94z/ultra_beasts_and_mega_malamar_raid_guides_info/</id>
-    <title>⚡ Ultra Beasts and Mega Malamar raid guides. Info from Pokebattler.com</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wng94z/ultra_beasts_and_mega_malamar_raid_guides_info/"/>
-    <published>2026-09-22T17:39:04Z</published>
-    <updated>2026-09-22T17:39:04Z</updated>
-    <summary type="text">submitted by /u/CaptGoldfish [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wnfhr5/pikachu_undresses_before_the_end_of_the_event/</id>
-    <title>⚡ Pikachu undresses before the end of the event</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wnfhr5/pikachu_undresses_before_the_end_of_the_event/"/>
-    <published>2026-09-22T17:12:14Z</published>
-    <updated>2026-09-22T17:12:14Z</updated>
-    <summary type="text">Saw at least two outside of nests, incense or lures submitted by /u/Siemgi [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wnf7is/go_pass_october_scopely_infographic/</id>
-    <title>⚡ GO Pass: October Scopely Infographic</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wnf7is/go_pass_october_scopely_infographic/"/>
-    <published>2026-09-22T17:02:14Z</published>
-    <updated>2026-09-22T17:02:14Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wnf6ln/kyogre_makes_waves_and_the_lucky_trinket_returns/</id>
-    <title>⚡ Kyogre makes waves and the Lucky Trinket returns in GO Pass: October!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wnf6ln/kyogre_makes_waves_and_the_lucky_trinket_returns/"/>
-    <published>2026-09-22T17:01:20Z</published>
-    <updated>2026-09-22T17:01:20Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wn9l9z/pokémon_go_plus_arrived_from_nintendo/</id>
-    <title>⚡ Pokémon Go plus+ arrived from nintendo.</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wn9l9z/pokémon_go_plus_arrived_from_nintendo/"/>
-    <published>2026-09-22T13:30:55Z</published>
-    <updated>2026-09-22T13:30:55Z</updated>
-    <summary type="text">I ordered it the 18/09 on Nintendo store in Europe (France) and I received it today ! It seems like they have started producing and selling it again around the world. They will almost certainly launch them in several waves. (It was listed as out of stock when I ordered it. But I saw that by refreshi</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.reddit.com/r/TheSilphRoad/comments/1wn8ub4/questions_answers_weekly_megathread_please_use/</id>
     <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
     <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wn8ub4/questions_answers_weekly_megathread_please_use/"/>
@@ -376,54 +448,6 @@
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/parallel-cuts-time-and-cost-with-astra</id>
-    <title>🤖 Parallel cut research time and cost in half with GPT‑6 Astra</title>
-    <link rel="alternate" href="https://openai.com/index/parallel-cuts-time-and-cost-with-astra"/>
-    <published>2026-09-22T12:00:00Z</published>
-    <updated>2026-09-22T12:00:00Z</updated>
-    <summary type="text">GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wn6iiu/scopely_making_the_week_long_go_passes_harder_to/</id>
-    <title>⚡ Scopely making the week long Go Pass(es) harder to max is making me play less, not more. How about you?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wn6iiu/scopely_making_the_week_long_go_passes_harder_to/"/>
-    <published>2026-09-22T11:09:54Z</published>
-    <updated>2026-09-22T11:09:54Z</updated>
-    <summary type="text">Their plan to make it take more play time / raids / etc. to max these week long go passes is actually making it easier for me to not feel FOMO / Bad about not maxing the pass to lvl 30/100, and therefore making it easier for me to play less than before they changed it. \ Having the dailies only add </summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/priorities-principles-third-party-assessments</id>
-    <title>🤖 Priorities and principles for effective third party assessments</title>
-    <link rel="alternate" href="https://openai.com/index/priorities-principles-third-party-assessments"/>
-    <published>2026-09-22T00:00:00Z</published>
-    <updated>2026-09-22T00:00:00Z</updated>
-    <summary type="text">OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</id>
-    <title>🤖 Higgsfield AI ships new video features in a day with GPT-6 Astra</title>
-    <link rel="alternate" href="https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"/>
-    <published>2026-09-21T12:00:00Z</published>
-    <updated>2026-09-21T12:00:00Z</updated>
-    <summary type="text">With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -474,18 +498,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1whedem/pokémon_horizons_event_megathread/</id>
-    <title>⚡ Pokémon Horizons Event Megathread</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1whedem/pokémon_horizons_event_megathread/"/>
-    <published>2026-09-15T22:02:53Z</published>
-    <updated>2026-09-15T22:02:53Z</updated>
-    <summary type="text">Twilight Trails Field Research Everything you need to know about the event, all in one place. A lot of these pieces will be verified by the Silph Research Group, so throughout the post we'll use the formatting: Italics : Reports from comments or single Research Group report Bold : Multiple Research </summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914</id>
     <title>🤖 New method enables AI for safety-critical situations</title>
     <link rel="alternate" href="https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914"/>
@@ -533,15 +545,15 @@
     </author>
   </entry>
   <entry>
-    <id>https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909</id>
-    <title>🤖 MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909"/>
-    <published>2026-09-09T20:40:00Z</published>
-    <updated>2026-09-09T20:40:00Z</updated>
-    <summary type="text">A weeklong summer workshop brought higher education faculty to campus to explore how AI and machine learning materials can be adapted for their classrooms.</summary>
-    <category term="ai"/>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wa5wt0/twilight_trails_field_research_megathread/</id>
+    <title>⚡ Twilight Trails Field Research Megathread</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wa5wt0/twilight_trails_field_research_megathread/"/>
+    <published>2026-09-07T22:02:59Z</published>
+    <updated>2026-09-07T22:02:59Z</updated>
+    <summary type="text">This thread will be updated as reports come in. Let us know what you've found! The Twilight Trails season starts on 8 Sept 2026, at 10 am local time. Website version here Italics : Report from comments or single Research Group report Normal: Multiple Research Group reports (!s): This Pokémon encount</summary>
+    <category term="pokemon"/>
     <author>
-      <name>MIT AI News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
