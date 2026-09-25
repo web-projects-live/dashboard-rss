@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-09-25T15:41:58Z</updated>
+  <updated>2026-09-25T18:14:55Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,11 +10,23 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
+    <id>https://openai.com/index/proaction</id>
+    <title>🤖 Proaction boosts sales 60% and saves 75+ hours with Codex</title>
+    <link rel="alternate" href="https://openai.com/index/proaction"/>
+    <published>2026-09-25T19:00:00Z</published>
+    <updated>2026-09-25T19:00:00Z</updated>
+    <summary type="text">With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
     <id>https://pokemongolive.com/news/city-safaris-europe-2026</id>
     <title>⚡ Pokémon GO City Safaris in Europe: Venues and Activities</title>
     <link rel="alternate" href="https://pokemongolive.com/news/city-safaris-europe-2026"/>
-    <published>2026-09-25T15:41:56Z</published>
-    <updated>2026-09-25T15:41:56Z</updated>
+    <published>2026-09-25T18:14:54Z</published>
+    <updated>2026-09-25T18:14:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -24,8 +36,8 @@
     <id>https://pokemongolive.com/news/choose-your-path-twilight-trails-2026</id>
     <title>⚡ Blaze your own trail with new Timed Research during Twilight Trails!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/choose-your-path-twilight-trails-2026"/>
-    <published>2026-09-25T15:41:56Z</published>
-    <updated>2026-09-25T15:41:56Z</updated>
+    <published>2026-09-25T18:14:54Z</published>
+    <updated>2026-09-25T18:14:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +47,8 @@
     <id>https://pokemongolive.com/news/communityday-october-2026-zorua</id>
     <title>⚡ October 2026 Community Day: Zorua</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communityday-october-2026-zorua"/>
-    <published>2026-09-25T15:41:56Z</published>
-    <updated>2026-09-25T15:41:56Z</updated>
+    <published>2026-09-25T18:14:54Z</published>
+    <updated>2026-09-25T18:14:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +58,8 @@
     <id>https://pokemongolive.com/news/city-safari-brisbane-know-before-you-go</id>
     <title>⚡ Pokémon GO City Safari: Brisbane – Know Before You GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/city-safari-brisbane-know-before-you-go"/>
-    <published>2026-09-25T15:41:56Z</published>
-    <updated>2026-09-25T15:41:56Z</updated>
+    <published>2026-09-25T18:14:54Z</published>
+    <updated>2026-09-25T18:14:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +69,8 @@
     <id>https://pokemongolive.com/news/european-space-agency-event</id>
     <title>⚡ Pokémon GO partners with the European Space Agency</title>
     <link rel="alternate" href="https://pokemongolive.com/news/european-space-agency-event"/>
-    <published>2026-09-25T15:41:56Z</published>
-    <updated>2026-09-25T15:41:56Z</updated>
+    <published>2026-09-25T18:14:54Z</published>
+    <updated>2026-09-25T18:14:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +80,8 @@
     <id>https://pokemongolive.com/news/pokemongo-iitdelhi-2026</id>
     <title>⚡ Pokémon GO is coming to IIT-Delhi for Rendezvous 2026!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-iitdelhi-2026"/>
-    <published>2026-09-25T15:41:56Z</published>
-    <updated>2026-09-25T15:41:56Z</updated>
+    <published>2026-09-25T18:14:54Z</published>
+    <updated>2026-09-25T18:14:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +91,8 @@
     <id>https://pokemongolive.com/news/world-space-week-2026</id>
     <title>⚡ Blast off with Astronaut Pikachu during World Space Week!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/world-space-week-2026"/>
-    <published>2026-09-25T15:41:56Z</published>
-    <updated>2026-09-25T15:41:56Z</updated>
+    <published>2026-09-25T18:14:54Z</published>
+    <updated>2026-09-25T18:14:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +102,8 @@
     <id>https://pokemongolive.com/news/go-pass-october-2026</id>
     <title>⚡ Kyogre makes waves and the Lucky Trinket returns in GO Pass: October!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-october-2026"/>
-    <published>2026-09-25T15:41:56Z</published>
-    <updated>2026-09-25T15:41:56Z</updated>
+    <published>2026-09-25T18:14:54Z</published>
+    <updated>2026-09-25T18:14:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +113,8 @@
     <id>https://pokemongolive.com/news/apac-mall-exploration-2026</id>
     <title>⚡ Pokémon GO joins Pokémon 30th Anniversary Mall Exploration!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/apac-mall-exploration-2026"/>
-    <published>2026-09-25T15:41:56Z</published>
-    <updated>2026-09-25T15:41:56Z</updated>
+    <published>2026-09-25T18:14:54Z</published>
+    <updated>2026-09-25T18:14:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +124,8 @@
     <id>https://pokemongolive.com/news/fall-marathon-buddy-trek-2026</id>
     <title>⚡ Fall Marathon: Buddy Trek will bring Bramblin’s Pokémon GO debut!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/fall-marathon-buddy-trek-2026"/>
-    <published>2026-09-25T15:41:56Z</published>
-    <updated>2026-09-25T15:41:56Z</updated>
+    <published>2026-09-25T18:14:54Z</published>
+    <updated>2026-09-25T18:14:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +135,8 @@
     <id>https://pokemongolive.com/news/save-the-date-go-tour-2027</id>
     <title>⚡ Save the Date: Pokémon GO Tour 2027</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-tour-2027"/>
-    <published>2026-09-25T15:41:56Z</published>
-    <updated>2026-09-25T15:41:56Z</updated>
+    <published>2026-09-25T18:14:54Z</published>
+    <updated>2026-09-25T18:14:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +146,8 @@
     <id>https://pokemongolive.com/news/pokemon-x-adidas-2026</id>
     <title>⚡ Avatar items from the adidas | Pokémon collection are coming to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-x-adidas-2026"/>
-    <published>2026-09-25T15:41:56Z</published>
-    <updated>2026-09-25T15:41:56Z</updated>
+    <published>2026-09-25T18:14:54Z</published>
+    <updated>2026-09-25T18:14:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +157,8 @@
     <id>https://pokemongolive.com/news/city-safari-boston-update</id>
     <title>⚡ Event Update: City Safari Boston</title>
     <link rel="alternate" href="https://pokemongolive.com/news/city-safari-boston-update"/>
-    <published>2026-09-25T15:41:56Z</published>
-    <updated>2026-09-25T15:41:56Z</updated>
+    <published>2026-09-25T18:14:54Z</published>
+    <updated>2026-09-25T18:14:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +168,8 @@
     <id>https://pokemongolive.com/news/sandile-hatch-day-2026</id>
     <title>⚡ Dig in during Sandile Hatch Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/sandile-hatch-day-2026"/>
-    <published>2026-09-25T15:41:56Z</published>
-    <updated>2026-09-25T15:41:56Z</updated>
+    <published>2026-09-25T18:14:54Z</published>
+    <updated>2026-09-25T18:14:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +179,95 @@
     <id>https://pokemongolive.com/news/festival-of-lights-2026</id>
     <title>⚡ Celebrate the Festival of Lights with the return of Pikachu wearing a saree and Pikachu wearing a kurta!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/festival-of-lights-2026"/>
-    <published>2026-09-25T15:41:56Z</published>
-    <updated>2026-09-25T15:41:56Z</updated>
+    <published>2026-09-25T18:14:54Z</published>
+    <updated>2026-09-25T18:14:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wq38t1/location_backgrounds_for_the_nfl_cardinals_and/</id>
+    <title>⚡ Location Backgrounds for the NFL Cardinals and Nagano Poké Lids were added</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wq38t1/location_backgrounds_for_the_nfl_cardinals_and/"/>
+    <published>2026-09-25T18:00:40Z</published>
+    <updated>2026-09-25T18:00:40Z</updated>
+    <summary type="text">( Credits: Pokeminers ) submitted by /u/iTaIksick [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera</id>
+    <title>🤖 These camera apps give you more control over the iPhone 18 Pro’s aperture</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera"/>
+    <published>2026-09-25T17:23:30Z</published>
+    <updated>2026-09-25T17:23:30Z</updated>
+    <summary type="text">One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f/1.8, f/2.8, and f/4. Those same limitations are also in place when the app is adjusting the iris it</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands</id>
+    <title>🤖 Tesla&amp;#8217;s Optimus robot is going through growing pains</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands"/>
+    <published>2026-09-25T17:01:36Z</published>
+    <updated>2026-09-25T17:01:36Z</updated>
+    <summary type="text">Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced &quot;several hundred robots a week&quot; last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year. However, this strategy</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem</id>
+    <title>🤖 Meta makes the Muse filesystem even more accessible</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem"/>
+    <published>2026-09-25T16:49:53Z</published>
+    <updated>2026-09-25T16:49:53Z</updated>
+    <summary type="text">Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, i</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wq1axj/best_websites_for_pve_rankings_of_dynamax_and/</id>
+    <title>⚡ Best website(s) for PvE rankings of Dynamax and Gigantamax Pokemon? Hopefully, one that is accurate and frequently updated (I use DialgaDex for regular Pokémon)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wq1axj/best_websites_for_pve_rankings_of_dynamax_and/"/>
+    <published>2026-09-25T16:44:36Z</published>
+    <updated>2026-09-25T16:44:36Z</updated>
+    <summary type="text">DialgaDex is my favorite Pokemon GO site and I wish it had a Dynamax and Gigantamax section. If there's anything similar to that, I'd appreciate knowing. Thanks! submitted by /u/PokeMondes [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k</id>
+    <title>🤖 Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k"/>
+    <published>2026-09-25T16:22:05Z</published>
+    <updated>2026-09-25T16:22:05Z</updated>
+    <summary type="text">Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The updated products will include a new version of the HomePod mini, the iPad mini 8, and the Apple TV 4K, according to details and images discov</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music</id>
+    <title>🤖 Sony and UMG are suing Suno again</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music"/>
+    <published>2026-09-25T15:51:56Z</published>
+    <updated>2026-09-25T15:51:56Z</updated>
+    <summary type="text">Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources. Sony and UMG a</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -184,18 +280,6 @@
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wpxjs1/retro_cup_teams_going_into_the_weekend/</id>
-    <title>⚡ RETRO CUP Teams Going into the Weekend</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wpxjs1/retro_cup_teams_going_into_the_weekend/"/>
-    <published>2026-09-25T14:17:52Z</published>
-    <updated>2026-09-25T14:17:52Z</updated>
-    <summary type="text">Retro Cup has been feeling surprisingly healthy in terms of meta-distribution. I've been having fun with Oranguru as the lead, but after last nights run, I think I'm going to move Oranguru to the switch and make Lunatone my lead. Been nearly zero Kingdra or Sliggoo, very few Regidrago or Dusclops. M</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -217,18 +301,6 @@
     <published>2026-09-25T13:00:00Z</published>
     <updated>2026-09-25T13:00:00Z</updated>
     <summary type="text">A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a &quot;motion detected&quot; notification from my security camera. &quot;</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot</id>
-    <title>🤖 Microsoft thinks its new Copilot ‘super app’ will be as influential as Office</title>
-    <link rel="alternate" href="https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot"/>
-    <published>2026-09-25T12:00:00Z</published>
-    <updated>2026-09-25T12:00:00Z</updated>
-    <summary type="text">After teasing its new Copilot &quot;super app&quot; last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unve</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
@@ -271,30 +343,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer</id>
-    <title>🤖 Here’s the Tesla Semi… again</title>
-    <link rel="alternate" href="https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer"/>
-    <published>2026-09-25T02:12:57Z</published>
-    <updated>2026-09-25T02:12:57Z</updated>
-    <summary type="text">Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers a</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand</id>
-    <title>🤖 Microsoft is killing off the ‘Copilot Plus PC’ brand</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand"/>
-    <published>2026-09-25T01:25:53Z</published>
-    <updated>2026-09-25T01:25:53Z</updated>
-    <summary type="text">Remember when Microsoft wanted everyone to know that &quot;Copilot Plus PCs&quot; were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central's</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.reddit.com/r/TheSilphRoad/comments/1wphyum/adidas_timed_research_is_available_spin_the/</id>
     <title>⚡ Adidas Timed Research is available. Spin the exclusive pokestop to get the Research.</title>
     <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wphyum/adidas_timed_research_is_available_spin_the/"/>
@@ -307,18 +355,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats</id>
-    <title>🤖 Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats"/>
-    <published>2026-09-24T23:50:55Z</published>
-    <updated>2026-09-24T23:50:55Z</updated>
-    <summary type="text">Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, whi</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924</id>
     <title>🤖 Estimating suicide risk from text</title>
     <link rel="alternate" href="https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924"/>
@@ -328,18 +364,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wp88rk/sandile_hatch_day/</id>
-    <title>⚡ Sandile Hatch Day</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wp88rk/sandile_hatch_day/"/>
-    <published>2026-09-24T17:39:49Z</published>
-    <updated>2026-09-24T17:39:49Z</updated>
-    <summary type="text">( Credits: G47IX ) submitted by /u/iTaIksick [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -433,18 +457,6 @@
     <published>2026-09-23T12:00:00Z</published>
     <updated>2026-09-23T12:00:00Z</updated>
     <summary type="text">GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/invideo-builds-with-gpt-6-astra</id>
-    <title>🤖 How invideo improves color grading 3x with GPT‑6 Astra</title>
-    <link rel="alternate" href="https://openai.com/index/invideo-builds-with-gpt-6-astra"/>
-    <published>2026-09-23T12:00:00Z</published>
-    <updated>2026-09-23T12:00:00Z</updated>
-    <summary type="text">With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
