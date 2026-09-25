@@ -2,13 +2,238 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-09-25T18:14:55Z</updated>
+  <updated>2026-09-25T23:52:42Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
     <name>ha-news-feed-bot</name>
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
+  <entry>
+    <id>https://pokemongolive.com/news/city-safaris-europe-2026</id>
+    <title>⚡ Pokémon GO City Safaris in Europe: Venues and Activities</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/city-safaris-europe-2026"/>
+    <published>2026-09-25T23:52:40Z</published>
+    <updated>2026-09-25T23:52:40Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/choose-your-path-twilight-trails-2026</id>
+    <title>⚡ Blaze your own trail with new Timed Research during Twilight Trails!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/choose-your-path-twilight-trails-2026"/>
+    <published>2026-09-25T23:52:40Z</published>
+    <updated>2026-09-25T23:52:40Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/communityday-october-2026-zorua</id>
+    <title>⚡ October 2026 Community Day: Zorua</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/communityday-october-2026-zorua"/>
+    <published>2026-09-25T23:52:40Z</published>
+    <updated>2026-09-25T23:52:40Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/city-safari-brisbane-know-before-you-go</id>
+    <title>⚡ Pokémon GO City Safari: Brisbane – Know Before You GO!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/city-safari-brisbane-know-before-you-go"/>
+    <published>2026-09-25T23:52:40Z</published>
+    <updated>2026-09-25T23:52:40Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/european-space-agency-event</id>
+    <title>⚡ Pokémon GO partners with the European Space Agency</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/european-space-agency-event"/>
+    <published>2026-09-25T23:52:40Z</published>
+    <updated>2026-09-25T23:52:40Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/pokemongo-iitdelhi-2026</id>
+    <title>⚡ Pokémon GO is coming to IIT-Delhi for Rendezvous 2026!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-iitdelhi-2026"/>
+    <published>2026-09-25T23:52:40Z</published>
+    <updated>2026-09-25T23:52:40Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/world-space-week-2026</id>
+    <title>⚡ Blast off with Astronaut Pikachu during World Space Week!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/world-space-week-2026"/>
+    <published>2026-09-25T23:52:40Z</published>
+    <updated>2026-09-25T23:52:40Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/go-pass-october-2026</id>
+    <title>⚡ Kyogre makes waves and the Lucky Trinket returns in GO Pass: October!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-pass-october-2026"/>
+    <published>2026-09-25T23:52:40Z</published>
+    <updated>2026-09-25T23:52:40Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/apac-mall-exploration-2026</id>
+    <title>⚡ Pokémon GO joins Pokémon 30th Anniversary Mall Exploration!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/apac-mall-exploration-2026"/>
+    <published>2026-09-25T23:52:40Z</published>
+    <updated>2026-09-25T23:52:40Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/fall-marathon-buddy-trek-2026</id>
+    <title>⚡ Fall Marathon: Buddy Trek will bring Bramblin’s Pokémon GO debut!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/fall-marathon-buddy-trek-2026"/>
+    <published>2026-09-25T23:52:40Z</published>
+    <updated>2026-09-25T23:52:40Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/save-the-date-go-tour-2027</id>
+    <title>⚡ Save the Date: Pokémon GO Tour 2027</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-tour-2027"/>
+    <published>2026-09-25T23:52:40Z</published>
+    <updated>2026-09-25T23:52:40Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/pokemon-x-adidas-2026</id>
+    <title>⚡ Avatar items from the adidas | Pokémon collection are coming to Pokémon GO!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pokemon-x-adidas-2026"/>
+    <published>2026-09-25T23:52:40Z</published>
+    <updated>2026-09-25T23:52:40Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/city-safari-boston-update</id>
+    <title>⚡ Event Update: City Safari Boston</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/city-safari-boston-update"/>
+    <published>2026-09-25T23:52:40Z</published>
+    <updated>2026-09-25T23:52:40Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/sandile-hatch-day-2026</id>
+    <title>⚡ Dig in during Sandile Hatch Day!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/sandile-hatch-day-2026"/>
+    <published>2026-09-25T23:52:40Z</published>
+    <updated>2026-09-25T23:52:40Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/festival-of-lights-2026</id>
+    <title>⚡ Celebrate the Festival of Lights with the return of Pikachu wearing a saree and Pikachu wearing a kurta!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/festival-of-lights-2026"/>
+    <published>2026-09-25T23:52:40Z</published>
+    <updated>2026-09-25T23:52:40Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wq96py/new_raid_type_found_in_latest_apk/</id>
+    <title>⚡ New raid type found in latest apk</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wq96py/new_raid_type_found_in_latest_apk/"/>
+    <published>2026-09-25T21:58:51Z</published>
+    <updated>2026-09-25T21:58:51Z</updated>
+    <summary type="text">Courtesy of Matt in the PokeMiners discord. For those unfamiliar, Ultra Burst is the name of the transformation Necrozma undergoes to turn into Ultra Necrozma. submitted by /u/aznknight613 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wq8s4i/can_anyone_let_me_know_how_long_the_phantump/</id>
+    <title>⚡ Can anyone let me know how long the Phantump Catch Mastery tasks took (unpaid and paid, preferably)?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wq8s4i/can_anyone_let_me_know_how_long_the_phantump/"/>
+    <published>2026-09-25T21:41:14Z</published>
+    <updated>2026-09-25T21:41:14Z</updated>
+    <summary type="text">I checked LeekDuck, and nothing. Trying to plan my Saturday and wondering how long I'll need to set aside to complete the tasks. I'd like to sleep in and manage the weather (still 100 degrees here, ick). But I don't know if I'm going to need multiple hours to knock it out at the park, or if I'm look</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925</id>
+    <title>🤖 MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925"/>
+    <published>2026-09-25T20:15:00Z</published>
+    <updated>2026-09-25T20:15:00Z</updated>
+    <summary type="text">The PKG Center for Social Impact expands Code.Tulsa experiential learning program.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wq6fld/phantump_catch_mastery_leekduck/</id>
+    <title>⚡ Phantump Catch Mastery (LeekDuck)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wq6fld/phantump_catch_mastery_leekduck/"/>
+    <published>2026-09-25T20:05:41Z</published>
+    <updated>2026-09-25T20:05:41Z</updated>
+    <summary type="text">Full Details: https://leekduck.com/events/catch-mastery-phantump-2026 submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wq65sk/5_star_not_dynamax_articuno_raids_currently/</id>
+    <title>⚡ 5 Star (Not Dynamax) Articuno Raids Currently Appearing</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wq65sk/5_star_not_dynamax_articuno_raids_currently/"/>
+    <published>2026-09-25T19:55:26Z</published>
+    <updated>2026-09-25T19:55:26Z</updated>
+    <summary type="text">Around 5.30am currently here in Brisbane and majority of the 5 star raids around me have turned in to Articuno raids. Dynamax birds are still appearing, but I haven’t seen any information to suggest they would be available in normal raids this weekend. I have a city safari ticket but I’m quite a whi</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
   <entry>
     <id>https://openai.com/index/proaction</id>
     <title>🤖 Proaction boosts sales 60% and saves 75+ hours with Codex</title>
@@ -22,168 +247,15 @@
     </author>
   </entry>
   <entry>
-    <id>https://pokemongolive.com/news/city-safaris-europe-2026</id>
-    <title>⚡ Pokémon GO City Safaris in Europe: Venues and Activities</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/city-safaris-europe-2026"/>
-    <published>2026-09-25T18:14:54Z</published>
-    <updated>2026-09-25T18:14:54Z</updated>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wq4b1r/pokemon_go_plus_back_in_store_on_the_nintendo_web/</id>
+    <title>⚡ Pokemon Go Plus + Back in Store on the Nintendo Web Store</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wq4b1r/pokemon_go_plus_back_in_store_on_the_nintendo_web/"/>
+    <published>2026-09-25T18:42:14Z</published>
+    <updated>2026-09-25T18:42:14Z</updated>
+    <summary type="text">Typing fast so hopefully this works: https://www.nintendo.com/us/store/products/pokemon-go-plus-plus-112387/ EDIT: KEEP TRYING!! submitted by /u/Professional-Jury930 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/choose-your-path-twilight-trails-2026</id>
-    <title>⚡ Blaze your own trail with new Timed Research during Twilight Trails!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/choose-your-path-twilight-trails-2026"/>
-    <published>2026-09-25T18:14:54Z</published>
-    <updated>2026-09-25T18:14:54Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/communityday-october-2026-zorua</id>
-    <title>⚡ October 2026 Community Day: Zorua</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/communityday-october-2026-zorua"/>
-    <published>2026-09-25T18:14:54Z</published>
-    <updated>2026-09-25T18:14:54Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/city-safari-brisbane-know-before-you-go</id>
-    <title>⚡ Pokémon GO City Safari: Brisbane – Know Before You GO!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/city-safari-brisbane-know-before-you-go"/>
-    <published>2026-09-25T18:14:54Z</published>
-    <updated>2026-09-25T18:14:54Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/european-space-agency-event</id>
-    <title>⚡ Pokémon GO partners with the European Space Agency</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/european-space-agency-event"/>
-    <published>2026-09-25T18:14:54Z</published>
-    <updated>2026-09-25T18:14:54Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/pokemongo-iitdelhi-2026</id>
-    <title>⚡ Pokémon GO is coming to IIT-Delhi for Rendezvous 2026!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-iitdelhi-2026"/>
-    <published>2026-09-25T18:14:54Z</published>
-    <updated>2026-09-25T18:14:54Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/world-space-week-2026</id>
-    <title>⚡ Blast off with Astronaut Pikachu during World Space Week!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/world-space-week-2026"/>
-    <published>2026-09-25T18:14:54Z</published>
-    <updated>2026-09-25T18:14:54Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/go-pass-october-2026</id>
-    <title>⚡ Kyogre makes waves and the Lucky Trinket returns in GO Pass: October!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/go-pass-october-2026"/>
-    <published>2026-09-25T18:14:54Z</published>
-    <updated>2026-09-25T18:14:54Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/apac-mall-exploration-2026</id>
-    <title>⚡ Pokémon GO joins Pokémon 30th Anniversary Mall Exploration!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/apac-mall-exploration-2026"/>
-    <published>2026-09-25T18:14:54Z</published>
-    <updated>2026-09-25T18:14:54Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/fall-marathon-buddy-trek-2026</id>
-    <title>⚡ Fall Marathon: Buddy Trek will bring Bramblin’s Pokémon GO debut!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/fall-marathon-buddy-trek-2026"/>
-    <published>2026-09-25T18:14:54Z</published>
-    <updated>2026-09-25T18:14:54Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/save-the-date-go-tour-2027</id>
-    <title>⚡ Save the Date: Pokémon GO Tour 2027</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-tour-2027"/>
-    <published>2026-09-25T18:14:54Z</published>
-    <updated>2026-09-25T18:14:54Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/pokemon-x-adidas-2026</id>
-    <title>⚡ Avatar items from the adidas | Pokémon collection are coming to Pokémon GO!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/pokemon-x-adidas-2026"/>
-    <published>2026-09-25T18:14:54Z</published>
-    <updated>2026-09-25T18:14:54Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/city-safari-boston-update</id>
-    <title>⚡ Event Update: City Safari Boston</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/city-safari-boston-update"/>
-    <published>2026-09-25T18:14:54Z</published>
-    <updated>2026-09-25T18:14:54Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/sandile-hatch-day-2026</id>
-    <title>⚡ Dig in during Sandile Hatch Day!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/sandile-hatch-day-2026"/>
-    <published>2026-09-25T18:14:54Z</published>
-    <updated>2026-09-25T18:14:54Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/festival-of-lights-2026</id>
-    <title>⚡ Celebrate the Festival of Lights with the return of Pikachu wearing a saree and Pikachu wearing a kurta!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/festival-of-lights-2026"/>
-    <published>2026-09-25T18:14:54Z</published>
-    <updated>2026-09-25T18:14:54Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -235,18 +307,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wq1axj/best_websites_for_pve_rankings_of_dynamax_and/</id>
-    <title>⚡ Best website(s) for PvE rankings of Dynamax and Gigantamax Pokemon? Hopefully, one that is accurate and frequently updated (I use DialgaDex for regular Pokémon)</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wq1axj/best_websites_for_pve_rankings_of_dynamax_and/"/>
-    <published>2026-09-25T16:44:36Z</published>
-    <updated>2026-09-25T16:44:36Z</updated>
-    <summary type="text">DialgaDex is my favorite Pokemon GO site and I wish it had a Dynamax and Gigantamax section. If there's anything similar to that, I'd appreciate knowing. Thanks! submitted by /u/PokeMondes [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k</id>
     <title>🤖 Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K</title>
     <link rel="alternate" href="https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k"/>
@@ -295,36 +355,12 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review</id>
-    <title>🤖 Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review"/>
-    <published>2026-09-25T13:00:00Z</published>
-    <updated>2026-09-25T13:00:00Z</updated>
-    <summary type="text">A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a &quot;motion detected&quot; notification from my security camera. &quot;</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.reddit.com/r/TheSilphRoad/comments/1wpstgs/celebrate_the_festival_of_lights_with_the_return/</id>
     <title>⚡ Celebrate the Festival of Lights with the return of Pikachu wearing a saree and Pikachu wearing a kurta!</title>
     <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wpstgs/celebrate_the_festival_of_lights_with_the_return/"/>
     <published>2026-09-25T10:31:31Z</published>
     <updated>2026-09-25T10:31:31Z</updated>
     <summary type="text">submitted by /u/iTaIksick [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wps2wo/wild_area_sendai_tickets_open_sale_from_930/</id>
-    <title>⚡ Wild Area Sendai tickets - open sale from 9/30</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wps2wo/wild_area_sendai_tickets_open_sale_from_930/"/>
-    <published>2026-09-25T09:47:25Z</published>
-    <updated>2026-09-25T09:47:25Z</updated>
-    <summary type="text">It’s not been posted in English yet, but it’s been announced that all players who pre-registered and did not get the option to purchase in the first or second wave of tickets will be able to purchase tickets on a first come first serve basis from 8 AM JST on 9/30. Please note that Saturday (11/7) is</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
@@ -343,18 +379,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wphyum/adidas_timed_research_is_available_spin_the/</id>
-    <title>⚡ Adidas Timed Research is available. Spin the exclusive pokestop to get the Research.</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wphyum/adidas_timed_research_is_available_spin_the/"/>
-    <published>2026-09-25T00:16:36Z</published>
-    <updated>2026-09-25T00:16:36Z</updated>
-    <summary type="text">​ For guidance to find a pokestop near you, try this : https://leekduck.com/events/pokemon-x-adidas-2026/ &gt; Best of Luck. submitted by /u/RevolutionaryFig9437 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924</id>
     <title>🤖 Estimating suicide risk from text</title>
     <link rel="alternate" href="https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924"/>
@@ -364,30 +388,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wp7u6k/rattata_spotlight_hour_384_caught_85_tiny_3_xxs_2/</id>
-    <title>⚡ Rattata spotlight hour: 384 caught; 85 tiny; 3 XXS; 2 XXL. Disappointing.</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wp7u6k/rattata_spotlight_hour_384_caught_85_tiny_3_xxs_2/"/>
-    <published>2026-09-24T17:24:44Z</published>
-    <updated>2026-09-24T17:24:44Z</updated>
-    <summary type="text">85 tiny in 384 catches comes out at a 22.1% rate at getting tinies. I legit was hoping for at least 50%, maybe even up towards 60-70% for this 1 hour event. At 22.1% you would still have to catch 4525 Rattata to reach 1000 tiny, which is ridiculous. Even at those rates, which are the &quot;boosted&quot; rates</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wp77m8/dig_in_during_sandile_hatch_day/</id>
-    <title>⚡ Dig in during Sandile Hatch Day!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wp77m8/dig_in_during_sandile_hatch_day/"/>
-    <published>2026-09-24T17:01:18Z</published>
-    <updated>2026-09-24T17:01:18Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -528,18 +528,6 @@
     <published>2026-09-16T04:00:00Z</published>
     <updated>2026-09-16T04:00:00Z</updated>
     <summary type="text">Naoki Egami has become a standout in political methodology, helping refine tools that give scholars durable results.</summary>
-    <category term="ai"/>
-    <author>
-      <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914</id>
-    <title>🤖 New method enables AI for safety-critical situations</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914"/>
-    <published>2026-09-14T04:00:00Z</published>
-    <updated>2026-09-14T04:00:00Z</updated>
-    <summary type="text">The “HardFlow” algorithm could help generative AI models produce high-quality outputs that obey strict requirements when “pretty close” doesn’t cut it.</summary>
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
