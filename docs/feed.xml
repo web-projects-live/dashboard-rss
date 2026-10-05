@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-10-04T23:51:24Z</updated>
+  <updated>2026-10-05T19:32:44Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/pokemongo-iitdelhi-2026</id>
-    <title>⚡ Pokémon GO is coming to IIT-Delhi for Rendezvous 2026!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/pokemongo-iitdelhi-2026"/>
-    <published>2026-10-04T23:51:22Z</published>
-    <updated>2026-10-04T23:51:22Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/world-space-week-2026</id>
     <title>⚡ Blast off with Astronaut Pikachu during World Space Week!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/world-space-week-2026"/>
-    <published>2026-10-04T23:51:22Z</published>
-    <updated>2026-10-04T23:51:22Z</updated>
+    <published>2026-10-05T19:32:41Z</published>
+    <updated>2026-10-05T19:32:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/go-pass-october-2026</id>
     <title>⚡ Kyogre makes waves and the Lucky Trinket returns in GO Pass: October!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-october-2026"/>
-    <published>2026-10-04T23:51:22Z</published>
-    <updated>2026-10-04T23:51:22Z</updated>
+    <published>2026-10-05T19:32:41Z</published>
+    <updated>2026-10-05T19:32:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/apac-mall-exploration-2026</id>
     <title>⚡ Pokémon GO joins Pokémon 30th Anniversary Mall Exploration!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/apac-mall-exploration-2026"/>
-    <published>2026-10-04T23:51:22Z</published>
-    <updated>2026-10-04T23:51:22Z</updated>
+    <published>2026-10-05T19:32:41Z</published>
+    <updated>2026-10-05T19:32:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/fall-marathon-buddy-trek-2026</id>
     <title>⚡ Fall Marathon: Buddy Trek will bring Bramblin’s Pokémon GO debut!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/fall-marathon-buddy-trek-2026"/>
-    <published>2026-10-04T23:51:22Z</published>
-    <updated>2026-10-04T23:51:22Z</updated>
+    <published>2026-10-05T19:32:41Z</published>
+    <updated>2026-10-05T19:32:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/save-the-date-go-tour-2027</id>
     <title>⚡ Save the Date: Pokémon GO Tour 2027</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-tour-2027"/>
-    <published>2026-10-04T23:51:22Z</published>
-    <updated>2026-10-04T23:51:22Z</updated>
+    <published>2026-10-05T19:32:41Z</published>
+    <updated>2026-10-05T19:32:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/pokemon-x-adidas-2026</id>
     <title>⚡ Avatar items from the adidas | Pokémon collection are coming to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-x-adidas-2026"/>
-    <published>2026-10-04T23:51:22Z</published>
-    <updated>2026-10-04T23:51:22Z</updated>
+    <published>2026-10-05T19:32:41Z</published>
+    <updated>2026-10-05T19:32:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/city-safari-boston-update</id>
     <title>⚡ Event Update: City Safari Boston</title>
     <link rel="alternate" href="https://pokemongolive.com/news/city-safari-boston-update"/>
-    <published>2026-10-04T23:51:22Z</published>
-    <updated>2026-10-04T23:51:22Z</updated>
+    <published>2026-10-05T19:32:41Z</published>
+    <updated>2026-10-05T19:32:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/sandile-hatch-day-2026</id>
     <title>⚡ Dig in during Sandile Hatch Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/sandile-hatch-day-2026"/>
-    <published>2026-10-04T23:51:22Z</published>
-    <updated>2026-10-04T23:51:22Z</updated>
+    <published>2026-10-05T19:32:41Z</published>
+    <updated>2026-10-05T19:32:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/festival-of-lights-2026</id>
     <title>⚡ Celebrate the Festival of Lights with the return of Pikachu wearing a saree and Pikachu wearing a kurta!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/festival-of-lights-2026"/>
-    <published>2026-10-04T23:51:22Z</published>
-    <updated>2026-10-04T23:51:22Z</updated>
+    <published>2026-10-05T19:32:41Z</published>
+    <updated>2026-10-05T19:32:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/tcg-30th-celebration-event</id>
     <title>⚡ Pokémon TCG 30th Celebration Event</title>
     <link rel="alternate" href="https://pokemongolive.com/news/tcg-30th-celebration-event"/>
-    <published>2026-10-04T23:51:22Z</published>
-    <updated>2026-10-04T23:51:22Z</updated>
+    <published>2026-10-05T19:32:41Z</published>
+    <updated>2026-10-05T19:32:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/minior-meteor-showers-2026</id>
     <title>⚡ Explore by starlight during meteor showers for a chance to encounter Minior!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/minior-meteor-showers-2026"/>
-    <published>2026-10-04T23:51:22Z</published>
-    <updated>2026-10-04T23:51:22Z</updated>
+    <published>2026-10-05T19:32:41Z</published>
+    <updated>2026-10-05T19:32:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-2026</id>
     <title>⚡ Rising from the forgotten tides, Uxie, Mesprit, and Azelf make their Dynamax debut!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-2026"/>
-    <published>2026-10-04T23:51:22Z</published>
-    <updated>2026-10-04T23:51:22Z</updated>
+    <published>2026-10-05T19:32:41Z</published>
+    <updated>2026-10-05T19:32:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/city-safari-boston-rescheduled</id>
     <title>⚡ Pokémon GO City Safari: Boston Update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/city-safari-boston-rescheduled"/>
-    <published>2026-10-04T23:51:22Z</published>
-    <updated>2026-10-04T23:51:22Z</updated>
+    <published>2026-10-05T19:32:41Z</published>
+    <updated>2026-10-05T19:32:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,164 +156,235 @@
     <id>https://pokemongolive.com/news/pokemon-night-out-twitch-drops2026</id>
     <title>⚡ Get codes for exclusive Timed Research during the Pokémon Night Out Twitch broadcast!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-night-out-twitch-drops2026"/>
-    <published>2026-10-04T23:51:22Z</published>
-    <updated>2026-10-04T23:51:22Z</updated>
+    <published>2026-10-05T19:32:41Z</published>
+    <updated>2026-10-05T19:32:41Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wxtkwq/it_would_be_nice_to_be_able_to_spin_pokestops/</id>
-    <title>⚡ It would be nice to be able to spin Pokestops with a full Item Bag</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wxtkwq/it_would_be_nice_to_be_able_to_spin_pokestops/"/>
-    <published>2026-10-04T23:22:27Z</published>
-    <updated>2026-10-04T23:22:27Z</updated>
-    <summary type="text">Tomorrow is going to be a momentous day: I will collect the Monday rewards for walking 50 km, I will collect the prizes for Go Pass: Harvest Festival and Go Pass: September, AND I will be leveling up to Level 80 (yay me!). As such, my Item Bag is going to figuratively explode, even with the 100 item</summary>
+    <id>https://pokemongolive.com/news/halloween-part-1-2026</id>
+    <title>⚡ Trick or Treat with costumed Pikachu, Zubat, and Sinistea during Halloween 2026 Part I!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/halloween-part-1-2026"/>
+    <published>2026-10-05T19:32:41Z</published>
+    <updated>2026-10-05T19:32:41Z</updated>
     <category term="pokemon"/>
     <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wxqrzp/this_harvest_festival_was_one_of_the_least_fun/</id>
-    <title>⚡ This Harvest Festival was one of the least fun events I’ve played in the game</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wxqrzp/this_harvest_festival_was_one_of_the_least_fun/"/>
-    <published>2026-10-04T21:13:27Z</published>
-    <updated>2026-10-04T21:13:27Z</updated>
-    <summary type="text">This was maybe the most unfun and tedious event I’ve played in this game. To get the full Applin line you need 1,000 candy total, plus 20 Sweet Apples, 20 Tart Apples, and 20 Syrupy Apples. Which, okay, fine, I guess the apples are supposed to be the gimmick. Except the apples/Applin spawn at an abs</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wxnzze/dynamax_sizzlipede_is_tier_1/</id>
-    <title>⚡ Dynamax Sizzlipede is tier 1</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wxnzze/dynamax_sizzlipede_is_tier_1/"/>
-    <published>2026-10-04T19:17:32Z</published>
-    <updated>2026-10-04T19:17:32Z</updated>
-    <summary type="text">should be easy tier 1 for anyone need to complete leveling task submitted by /u/Kumuru [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wxn5h9/potential_future_applin_day/</id>
-    <title>⚡ Potential future Applin day?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wxn5h9/potential_future_applin_day/"/>
-    <published>2026-10-04T18:43:38Z</published>
-    <updated>2026-10-04T18:43:38Z</updated>
-    <summary type="text">So, seeing as how they threw this GoRocket Takeover event right in the middle of the Harvest Festival event....I feel like most of the pokestop tasks have been &quot;taken over&quot; making the shiny granny smith even more difficult to obtain... Does anyone think that there will be a potential future Applin d</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true</id>
-    <title>🤖 NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true"/>
-    <published>2026-10-04T16:16:04Z</published>
-    <updated>2026-10-04T16:16:04Z</updated>
-    <summary type="text">New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularl</summary>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution</id>
+    <title>🤖 All the drama around AI&amp;#8217;s takeover of mathematics</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution"/>
+    <published>2026-10-05T19:28:59Z</published>
+    <updated>2026-10-05T19:28:59Z</updated>
+    <summary type="text">This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in class</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft</id>
-    <title>🤖 An AI couldn’t beat humans at StarCraft, so it decided to cheat</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft"/>
-    <published>2026-10-04T15:21:59Z</published>
-    <updated>2026-10-04T15:21:59Z</updated>
-    <summary type="text">StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off ag</summary>
+    <id>https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage</id>
+    <title>🤖 Wikipedia operator says OpenAI&amp;#8217;s &amp;#8216;rogue&amp;#8217; bots may be linked to a May outage</title>
+    <link rel="alternate" href="https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"/>
+    <published>2026-10-05T19:05:19Z</published>
+    <updated>2026-10-05T19:05:19Z</updated>
+    <summary type="text">Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it &quot;can confirm that we have discovered some activity&quot; by &quot;rogue&quot; OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia w</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale</id>
-    <title>🤖 The AirPods Pro 3 are a fantastic deal at $179</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale"/>
-    <published>2026-10-04T13:00:00Z</published>
-    <updated>2026-10-04T13:00:00Z</updated>
-    <summary type="text">It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear tip sizes, live translation, and […]</summary>
+    <id>https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share</id>
+    <title>🤖 Hyundai CEO says only a ‘level playing field’ can minimize damage from China</title>
+    <link rel="alternate" href="https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share"/>
+    <published>2026-10-05T18:41:48Z</published>
+    <updated>2026-10-05T18:41:48Z</updated>
+    <summary type="text">There's been a lot of doom and gloom from the auto industry lately when the subject of China comes up. Automaker CEOs, in particular, warn that allowing low-cost, high-tech Chinese electric vehicles to be sold in the US would effectively spell the end of their businesses. Hyundai CEO José Muñoz is n</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale</id>
-    <title>🤖 The MacBook Air M5 is $200 off for the first time in months</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale"/>
-    <published>2026-10-04T12:34:01Z</published>
-    <updated>2026-10-04T12:34:01Z</updated>
-    <summary type="text">Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s significantly faster than Apple’s $699 MacBook Neo. T</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale</id>
-    <title>🤖 The iPad Mini is slightly cheaper again during Prime Day</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale"/>
-    <published>2026-10-04T12:31:50Z</published>
-    <updated>2026-10-04T12:31:50Z</updated>
-    <summary type="text">Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off. The Wi-Fi version with 128GB of storage is currently $499, t</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wxdptx/about_max_move_upgrade/</id>
-    <title>⚡ About MAX move upgrade</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wxdptx/about_max_move_upgrade/"/>
-    <published>2026-10-04T11:46:03Z</published>
-    <updated>2026-10-04T11:46:03Z</updated>
-    <summary type="text">First of all i came after like 4 years so apologies if a similar post was already done but i couldn't find one.. I wanted to test if upgrading Dynamax moves is actually worth the cost. I used the exact same Level 40 Excadrill against the exact same Electabuzz Max Battle to compare the yellow damage </summary>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wygcmt/go_plus_is_in_stock_at_nintendo_nyc/</id>
+    <title>⚡ Go Plus+ is in stock at Nintendo NYC</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wygcmt/go_plus_is_in_stock_at_nintendo_nyc/"/>
+    <published>2026-10-05T18:33:13Z</published>
+    <updated>2026-10-05T18:33:13Z</updated>
+    <summary type="text">Sorry if this isn’t news, I thought it was. I had to ask at the till for it on a longshot and they had a whole drawer full. Came to $65.31 after tax submitted by /u/LoneWanderer2277 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wxbkrf/pokemon_go_esa_event_spawns_can_have_location/</id>
-    <title>⚡ Pokemon Go ESA event spawns can have location background from field researches.</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wxbkrf/pokemon_go_esa_event_spawns_can_have_location/"/>
-    <published>2026-10-04T09:34:46Z</published>
-    <updated>2026-10-04T09:34:46Z</updated>
-    <summary type="text">Disclaimer: I'm not playing in Europe. A friend shared this info with me. The collab with the European Space Agency happening in several European countries will have field researches, and will reward event theme Pokemon with location background. They include: Pikachu (Normal) Pikachu (Astronaut Cost</summary>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wyfzfa/settings_for_the_following_avatar_items_were_added/</id>
+    <title>⚡ Settings for the following avatar items were added:</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wyfzfa/settings_for_the_following_avatar_items_were_added/"/>
+    <published>2026-10-05T18:19:19Z</published>
+    <updated>2026-10-05T18:19:19Z</updated>
+    <summary type="text">( Credits: Pokeminers ) submitted by /u/iTaIksick [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wx68pk/blipbug_shiny/</id>
-    <title>⚡ Blipbug Shiny</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wx68pk/blipbug_shiny/"/>
-    <published>2026-10-04T04:06:15Z</published>
-    <updated>2026-10-04T04:06:15Z</updated>
-    <summary type="text">🚀 Some Trainers are reporting that Blipbug is appearing in its Shiny form✨ during the local Pokémon GO x ESA event, which is taking place at six participating museums across Europe. 🤨 Could this be a surprise debut for this event, or is it happening globally too? Or perhaps it was activated by mista</summary>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act</id>
+    <title>🤖 OpenAI is adding text watermarking in ChatGPT and Codex</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"/>
+    <published>2026-10-05T18:08:39Z</published>
+    <updated>2026-10-05T18:08:39Z</updated>
+    <summary type="text">An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking &quot;matched or exceeded&quot; other approaches like Google DeepMind's SynthID for text, which is also the basis for the water</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wye4wx/halloween_part1_2026/</id>
+    <title>⚡ Halloween Part-1 2026</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wye4wx/halloween_part1_2026/"/>
+    <published>2026-10-05T17:09:23Z</published>
+    <updated>2026-10-05T17:09:23Z</updated>
+    <summary type="text">( Credits: G47IX ) submitted by /u/iTaIksick [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wx6022/shiny_astronaut_pikachu_confirmed/</id>
-    <title>⚡ Shiny Astronaut Pikachu Confirmed</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wx6022/shiny_astronaut_pikachu_confirmed/"/>
-    <published>2026-10-04T03:53:02Z</published>
-    <updated>2026-10-04T03:53:02Z</updated>
-    <summary type="text">First raid after no Shiny G-Max Cinderace yesterday. submitted by /u/noobkiller69 [link] [comments]</summary>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wydxfb/halloween_2026_part_1_scopely_infographic/</id>
+    <title>⚡ Halloween 2026 Part 1 Scopely Infographic</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wydxfb/halloween_2026_part_1_scopely_infographic/"/>
+    <published>2026-10-05T17:01:15Z</published>
+    <updated>2026-10-05T17:01:15Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wydwnh/trick_or_treat_with_costumed_pikachu_zubat_and/</id>
+    <title>⚡ Trick or Treat with costumed Pikachu, Zubat, and Sinistea during Halloween 2026 Part I!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wydwnh/trick_or_treat_with_costumed_pikachu_zubat_and/"/>
+    <published>2026-10-05T17:00:28Z</published>
+    <updated>2026-10-05T17:00:28Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr</id>
+    <title>🤖 OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&amp;#8217;s suicide</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr"/>
+    <published>2026-10-05T16:55:42Z</published>
+    <updated>2026-10-05T16:55:42Z</updated>
+    <summary type="text">An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to &quot;move o</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff</id>
+    <title>🤖 Sam Altman says ‘some bad things&amp;#8217; will happen, but AI is totally worth it</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff"/>
+    <published>2026-10-05T16:44:21Z</published>
+    <updated>2026-10-05T16:44:21Z</updated>
+    <summary type="text">Sam Altman thinks that the benefits of AI will be so great that &quot;the world should accept some bad things happening&quot; along the way. The OpenAI CEO pointed to hacks, scams, and &quot;other bad things&quot; as costs society should expect to tolerate because &quot;people will do tremendously orders of magnitude more g</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wycgs6/new_catch_screen/</id>
+    <title>⚡ New Catch Screen?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wycgs6/new_catch_screen/"/>
+    <published>2026-10-05T16:05:23Z</published>
+    <updated>2026-10-05T16:05:23Z</updated>
+    <summary type="text">submitted by /u/TMC_Glass33 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/eu-text-provenance</id>
+    <title>🤖 Our approach to EU text provenance rules</title>
+    <link rel="alternate" href="https://openai.com/index/eu-text-provenance"/>
+    <published>2026-10-05T15:00:00Z</published>
+    <updated>2026-10-05T15:00:00Z</updated>
+    <summary type="text">How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros</id>
+    <title>🤖 CNN&amp;#8217;s boss will remain as Paramount and WBD merge into Skydance</title>
+    <link rel="alternate" href="https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros"/>
+    <published>2026-10-05T14:42:34Z</published>
+    <updated>2026-10-05T14:42:34Z</updated>
+    <summary type="text">CNN CEO Mark Thompson will remain at the head of the news network when Paramount's $110 billion Warner Bros. Discovery acquisition closes this week. Thompson wrote in a memo to employees that he believes the combined company will &quot;fully support the principle and practice of the kind of independent n</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption</id>
+    <title>🤖 Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time</title>
+    <link rel="alternate" href="https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption"/>
+    <published>2026-10-05T14:30:00Z</published>
+    <updated>2026-10-05T14:30:00Z</updated>
+    <summary type="text">Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about how we might regulate anything related to the tech </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wy997z/shiny_sprite_of_shadow_pancham_is_correct/</id>
+    <title>⚡ Shiny sprite of shadow pancham is correct?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wy997z/shiny_sprite_of_shadow_pancham_is_correct/"/>
+    <published>2026-10-05T13:58:14Z</published>
+    <updated>2026-10-05T13:58:14Z</updated>
+    <summary type="text">I think normal shiny pancham has brown eye pockets while the shadow shiny got black. Is it intentional? submitted by /u/lylelylehk [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/new-chatgpt-ads-format-and-measurement</id>
+    <title>🤖 Building advertising for the way people use AI</title>
+    <link rel="alternate" href="https://openai.com/index/new-chatgpt-ads-format-and-measurement"/>
+    <published>2026-10-05T10:00:00Z</published>
+    <updated>2026-10-05T10:00:00Z</updated>
+    <summary type="text">OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1wy0bem/anyone_noticed_the_swiping_behavior_difference_on/</id>
+    <title>⚡ Anyone noticed the swiping behavior difference on gift screen?</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wy0bem/anyone_noticed_the_swiping_behavior_difference_on/"/>
+    <published>2026-10-05T05:19:05Z</published>
+    <updated>2026-10-05T05:19:05Z</updated>
+    <summary type="text">Don’t remember when the change happened or if I can clearly describe it…. But when I swipe up on the Gifts screen, as long as my finger initially touches a gift, the screen doesn’t scroll. Instead, it immediately selects that gift. This issue does not occur on the Pokémon or items screen. I’m iPhone</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
@@ -415,18 +475,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/albertsons-reimagining-retail</id>
-    <title>🤖 How Albertsons Companies is reimagining retail from the inside out</title>
-    <link rel="alternate" href="https://openai.com/index/albertsons-reimagining-retail"/>
-    <published>2026-10-01T16:00:00Z</published>
-    <updated>2026-10-01T16:00:00Z</updated>
-    <summary type="text">Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.reddit.com/r/TheSilphRoad/comments/1wuwhuy/harvest_festival_taken_over_rocket_lineup/</id>
     <title>⚡ Harvest Festival: Taken Over Rocket Lineup Megathread</title>
     <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1wuwhuy/harvest_festival_taken_over_rocket_lineup/"/>
@@ -439,15 +487,14 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/the-den-family-social</id>
-    <title>🤖 The Den frees up 10-15 hours a week to grow with ChatGPT Work</title>
-    <link rel="alternate" href="https://openai.com/index/the-den-family-social"/>
-    <published>2026-10-01T00:00:00Z</published>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <summary type="text">As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.</summary>
-    <category term="ai"/>
+    <id>https://supercell.com/en/games/brawlstars/blog/esports/your-path-to-bsc-2027</id>
+    <title>🏆 Your Path to BSC 2027</title>
+    <link rel="alternate" href="https://supercell.com/en/games/brawlstars/blog/esports/your-path-to-bsc-2027"/>
+    <published>2026-10-01T08:00:00Z</published>
+    <updated>2026-10-01T08:00:00Z</updated>
+    <category term="brawlstars"/>
     <author>
-      <name>OpenAI Blog</name>
+      <name>Brawl Stars Official Blog</name>
     </author>
   </entry>
   <entry>
@@ -560,17 +607,6 @@
     <link rel="alternate" href="https://supercell.com/en/games/brawlstars/blog/esports/first-look-at-bsc-2027"/>
     <published>2026-08-24T11:00:00Z</published>
     <updated>2026-08-24T11:00:00Z</updated>
-    <category term="brawlstars"/>
-    <author>
-      <name>Brawl Stars Official Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://supercell.com/en/games/brawlstars/blog/esports/brawl-stars-challengers-finals-format--2</id>
-    <title>🏆 Brawl Stars Challengers Finals Format</title>
-    <link rel="alternate" href="https://supercell.com/en/games/brawlstars/blog/esports/brawl-stars-challengers-finals-format--2"/>
-    <published>2026-08-10T12:00:00Z</published>
-    <updated>2026-08-10T12:00:00Z</updated>
     <category term="brawlstars"/>
     <author>
       <name>Brawl Stars Official Blog</name>
