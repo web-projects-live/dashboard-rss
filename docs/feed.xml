@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-10-08T17:40:35Z</updated>
+  <updated>2026-10-08T19:41:12Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/apac-mall-exploration-2026</id>
-    <title>⚡ Pokémon GO joins Pokémon 30th Anniversary Mall Exploration!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/apac-mall-exploration-2026"/>
-    <published>2026-10-08T17:40:33Z</published>
-    <updated>2026-10-08T17:40:33Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/fall-marathon-buddy-trek-2026</id>
     <title>⚡ Fall Marathon: Buddy Trek will bring Bramblin’s Pokémon GO debut!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/fall-marathon-buddy-trek-2026"/>
-    <published>2026-10-08T17:40:33Z</published>
-    <updated>2026-10-08T17:40:33Z</updated>
+    <published>2026-10-08T19:41:09Z</published>
+    <updated>2026-10-08T19:41:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/save-the-date-go-tour-2027</id>
     <title>⚡ Save the Date: Pokémon GO Tour 2027</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-tour-2027"/>
-    <published>2026-10-08T17:40:33Z</published>
-    <updated>2026-10-08T17:40:33Z</updated>
+    <published>2026-10-08T19:41:09Z</published>
+    <updated>2026-10-08T19:41:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/pokemon-x-adidas-2026</id>
     <title>⚡ Avatar items from the adidas | Pokémon collection are coming to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-x-adidas-2026"/>
-    <published>2026-10-08T17:40:33Z</published>
-    <updated>2026-10-08T17:40:33Z</updated>
+    <published>2026-10-08T19:41:09Z</published>
+    <updated>2026-10-08T19:41:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/city-safari-boston-update</id>
     <title>⚡ Event Update: City Safari Boston</title>
     <link rel="alternate" href="https://pokemongolive.com/news/city-safari-boston-update"/>
-    <published>2026-10-08T17:40:33Z</published>
-    <updated>2026-10-08T17:40:33Z</updated>
+    <published>2026-10-08T19:41:09Z</published>
+    <updated>2026-10-08T19:41:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/sandile-hatch-day-2026</id>
     <title>⚡ Dig in during Sandile Hatch Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/sandile-hatch-day-2026"/>
-    <published>2026-10-08T17:40:33Z</published>
-    <updated>2026-10-08T17:40:33Z</updated>
+    <published>2026-10-08T19:41:09Z</published>
+    <updated>2026-10-08T19:41:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/festival-of-lights-2026</id>
     <title>⚡ Celebrate the Festival of Lights with the return of Pikachu wearing a saree and Pikachu wearing a kurta!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/festival-of-lights-2026"/>
-    <published>2026-10-08T17:40:33Z</published>
-    <updated>2026-10-08T17:40:33Z</updated>
+    <published>2026-10-08T19:41:09Z</published>
+    <updated>2026-10-08T19:41:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/tcg-30th-celebration-event</id>
     <title>⚡ Pokémon TCG 30th Celebration Event</title>
     <link rel="alternate" href="https://pokemongolive.com/news/tcg-30th-celebration-event"/>
-    <published>2026-10-08T17:40:33Z</published>
-    <updated>2026-10-08T17:40:33Z</updated>
+    <published>2026-10-08T19:41:09Z</published>
+    <updated>2026-10-08T19:41:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/minior-meteor-showers-2026</id>
     <title>⚡ Explore by starlight during meteor showers for a chance to encounter Minior!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/minior-meteor-showers-2026"/>
-    <published>2026-10-08T17:40:33Z</published>
-    <updated>2026-10-08T17:40:33Z</updated>
+    <published>2026-10-08T19:41:09Z</published>
+    <updated>2026-10-08T19:41:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-2026</id>
     <title>⚡ Rising from the forgotten tides, Uxie, Mesprit, and Azelf make their Dynamax debut!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-2026"/>
-    <published>2026-10-08T17:40:33Z</published>
-    <updated>2026-10-08T17:40:33Z</updated>
+    <published>2026-10-08T19:41:09Z</published>
+    <updated>2026-10-08T19:41:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/city-safari-boston-rescheduled</id>
     <title>⚡ Pokémon GO City Safari: Boston Update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/city-safari-boston-rescheduled"/>
-    <published>2026-10-08T17:40:33Z</published>
-    <updated>2026-10-08T17:40:33Z</updated>
+    <published>2026-10-08T19:41:09Z</published>
+    <updated>2026-10-08T19:41:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/pokemon-night-out-twitch-drops2026</id>
     <title>⚡ Get codes for exclusive Timed Research during the Pokémon Night Out Twitch broadcast!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-night-out-twitch-drops2026"/>
-    <published>2026-10-08T17:40:33Z</published>
-    <updated>2026-10-08T17:40:33Z</updated>
+    <published>2026-10-08T19:41:09Z</published>
+    <updated>2026-10-08T19:41:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/halloween-part-1-2026</id>
     <title>⚡ Trick or Treat with costumed Pikachu, Zubat, and Sinistea during Halloween 2026 Part I!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/halloween-part-1-2026"/>
-    <published>2026-10-08T17:40:33Z</published>
-    <updated>2026-10-08T17:40:33Z</updated>
+    <published>2026-10-08T19:41:09Z</published>
+    <updated>2026-10-08T19:41:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/event-singapore-30th-anniversary-2026</id>
     <title>⚡ PokéXciting! lands at Changi Airport and Jewel — get ready, Singapore!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-singapore-30th-anniversary-2026"/>
-    <published>2026-10-08T17:40:33Z</published>
-    <updated>2026-10-08T17:40:33Z</updated>
+    <published>2026-10-08T19:41:09Z</published>
+    <updated>2026-10-08T19:41:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +156,118 @@
     <id>https://pokemongolive.com/news/halloween-part-2-2026</id>
     <title>⚡ Mega Sableye powers up and Shiny Greavard makes its Pokémon GO debut during Halloween 2026 Part II!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/halloween-part-2-2026"/>
-    <published>2026-10-08T17:40:33Z</published>
-    <updated>2026-10-08T17:40:33Z</updated>
+    <published>2026-10-08T19:41:09Z</published>
+    <updated>2026-10-08T19:41:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/pgo-gameplay-update-oct-2026</id>
+    <title>⚡ Pokémon GO Gameplay and Quality-of-Life Updates</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pgo-gameplay-update-oct-2026"/>
+    <published>2026-10-08T19:41:09Z</published>
+    <updated>2026-10-08T19:41:09Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie</id>
+    <title>🤖 Paramount is making a Cyberpunk 2077 film</title>
+    <link rel="alternate" href="https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie"/>
+    <published>2026-10-08T19:14:03Z</published>
+    <updated>2026-10-08T19:14:03Z</updated>
+    <summary type="text">Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premiere. But Deadline says that Lorenzo di Bonaventura, who is k</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x0zhau/shiny_greavard_family_comparison/</id>
+    <title>⚡ Shiny Greavard Family Comparison</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x0zhau/shiny_greavard_family_comparison/"/>
+    <published>2026-10-08T18:58:55Z</published>
+    <updated>2026-10-08T18:58:55Z</updated>
+    <summary type="text">submitted by /u/YelloWool [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x0zaan/pokémon_go_gameplay_and_qualityoflife_updates/</id>
+    <title>⚡ Pokémon GO Gameplay and Quality-of-Life Updates</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x0zaan/pokémon_go_gameplay_and_qualityoflife_updates/"/>
+    <published>2026-10-08T18:51:34Z</published>
+    <updated>2026-10-08T18:51:34Z</updated>
+    <summary type="text">submitted by /u/iTaIksick [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo</id>
+    <title>🤖 Tim Cook says &amp;#8216;I&amp;#8217;m not meddling&amp;#8217; in the new Apple CEO&amp;#8217;s business</title>
+    <link rel="alternate" href="https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo"/>
+    <published>2026-10-08T18:48:36Z</published>
+    <updated>2026-10-08T18:48:36Z</updated>
+    <summary type="text">Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed attending a state dinner at the White House. But in an intervi</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x0yjkn/new_warnings_have_been_added_when_attempting_to/</id>
+    <title>⚡ New warnings have been added when attempting to transfer Pokémon with maxed-out stats</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x0yjkn/new_warnings_have_been_added_when_attempting_to/"/>
+    <published>2026-10-08T18:23:45Z</published>
+    <updated>2026-10-08T18:23:45Z</updated>
+    <summary type="text">submitted by /u/mattyoukhana [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x0y36e/qol_update_zygarde_cells/</id>
+    <title>⚡ QoL update: Zygarde Cells</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x0y36e/qol_update_zygarde_cells/"/>
+    <published>2026-10-08T18:06:30Z</published>
+    <updated>2026-10-08T18:06:30Z</updated>
+    <summary type="text">Zygarde cells were not appearing in the overworld but at completion of a route a new screen appeared that awarded a cell. submitted by /u/beardcarecub [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit</id>
+    <title>🤖 USA Today becomes the latest publisher to sue OpenAI</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit"/>
+    <published>2026-10-08T17:58:33Z</published>
+    <updated>2026-10-08T17:58:33Z</updated>
+    <summary type="text">USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied &quot;hundreds of thousands&quot; of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson</id>
+    <title>🤖 SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson"/>
+    <published>2026-10-08T17:57:01Z</published>
+    <updated>2026-10-08T17:57:01Z</updated>
+    <summary type="text">If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and donating $1.5 million worth of Grok tokens to David Heinemeier </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -181,18 +277,6 @@
     <published>2026-10-08T17:04:09Z</published>
     <updated>2026-10-08T17:04:09Z</updated>
     <summary type="text">( Credits: G47IX ) submitted by /u/iTaIksick [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x0wd4a/halloween_2026_part_ii_scopely_infographic/</id>
-    <title>⚡ Halloween 2026 Part II Scopely Infographic</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x0wd4a/halloween_2026_part_ii_scopely_infographic/"/>
-    <published>2026-10-08T17:01:08Z</published>
-    <updated>2026-10-08T17:01:08Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
@@ -247,42 +331,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features</id>
-    <title>🤖 New York accuses TikTok of serving users ‘placebo’ safety features</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features"/>
-    <published>2026-10-08T16:53:49Z</published>
-    <updated>2026-10-08T16:53:49Z</updated>
-    <summary type="text">New York is alleging that thousands of TikTok users, including kids and teens, were unknowingly given &quot;ghost&quot; versions of the platform's safety features rather than the working versions. Reuters reports the allegation is part of an &quot;updated, sealed version&quot; of New York's 2024 lawsuit against TikTok,</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/1006069/instagram-facebook-full-screen-reels-test-tiktok</id>
-    <title>🤖 Are you ready for everything to look like TikTok?</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1006069/instagram-facebook-full-screen-reels-test-tiktok"/>
-    <published>2026-10-08T16:45:00Z</published>
-    <updated>2026-10-08T16:45:00Z</updated>
-    <summary type="text">Since TikTok burst into mainstream consciousness, many things have been called a &quot;TikTok clone&quot;: YouTube Shorts, Instagram Reels, Snapchat Spotlight, Netflix's Clips, LinkedIn's vertical video feed, and countless other, less recognizable names like Triller, Zynn, and Byte. For years now, Facebook an</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay</id>
-    <title>🤖 Amazon is phasing out Fire Tablets because they weren&amp;#8217;t &amp;#8216;giving customers what they were asking for&amp;#8217;</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay"/>
-    <published>2026-10-08T16:34:57Z</published>
-    <updated>2026-10-08T16:34:57Z</updated>
-    <summary type="text">In an interview with Bloomberg, Amazon's head of consumer electronics, Panos Panay, confirmed the company would phase out the Fire brand in favor of Alexa Tablets. The new lineup runs proper Android, instead of the custom Fire OS, and has full access to the Play Store, which wasn't available on Fire</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://openai.com/index/oracle</id>
     <title>🤖 How Oracle turns days of work into minutes with ChatGPT and Codex</title>
     <link rel="alternate" href="https://openai.com/index/oracle"/>
@@ -295,60 +343,12 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline</id>
-    <title>🤖 Google’s AI note-taking app transcribes your meetings completely offline</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline"/>
-    <published>2026-10-08T15:27:30Z</published>
-    <updated>2026-10-08T15:27:30Z</updated>
-    <summary type="text">Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model. Similar to AI note-ta</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.reddit.com/r/TheSilphRoad/comments/1x0tsuh/this_happened_on_my_wifes_account/</id>
     <title>⚡ This happened on my wife’s account</title>
     <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x0tsuh/this_happened_on_my_wifes_account/"/>
     <published>2026-10-08T15:23:39Z</published>
     <updated>2026-10-08T15:23:39Z</updated>
     <summary type="text">My wife woke up to this today on her account. Day one player, never used an off brand auto catcher or anything of the sort. The only application tied to her account is a Go Plus+, but I don’t think that would count would it? Has this happened to anyone else and what came of it? It’s just a warning f</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/gadgets/1007804/october-prime-day-leftover-deals</id>
-    <title>🤖 75 great October Prime Day deals are still happening</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/1007804/october-prime-day-leftover-deals"/>
-    <published>2026-10-08T14:28:31Z</published>
-    <updated>2026-10-08T14:28:31Z</updated>
-    <summary type="text">It’s always a little awkward when this many deals survive what was supposed to be the “end” of a big Amazon sale. Nevertheless, I’m happy to say that most of the sale’s heaviest-hitting deals are still around — Apple’s discounts on its Mac Mini, MacBook Air, and AirPods Pro 3, plus all of Sony’s cur</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x0s7ax/would_metagross_or_latias_be_better_to_defend/</id>
-    <title>⚡ Would Metagross or Latias be better to defend against Dynamax Azelf?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x0s7ax/would_metagross_or_latias_be_better_to_defend/"/>
-    <published>2026-10-08T14:20:48Z</published>
-    <updated>2026-10-08T14:20:48Z</updated>
-    <summary type="text">I can probably get Latias to level 31 or a bit higher and max out its max move, but I'm curious if that investment is worth it over Metagross. Azelf has normal, psychic, and fire moves. submitted by /u/Royal_Aegislash1209 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x0qe8m/shadow_landorus_raid_guide_info_from/</id>
-    <title>⚡ Shadow Landorus raid guide. Info from pokebattler.com</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x0qe8m/shadow_landorus_raid_guide_info_from/"/>
-    <published>2026-10-08T13:04:40Z</published>
-    <updated>2026-10-08T13:04:40Z</updated>
-    <summary type="text">submitted by /u/CaptGoldfish [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
@@ -376,18 +376,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x0ei5w/mega_chandelure_banner_found/</id>
-    <title>⚡ Mega Chandelure banner found</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x0ei5w/mega_chandelure_banner_found/"/>
-    <published>2026-10-08T01:44:32Z</published>
-    <updated>2026-10-08T01:44:32Z</updated>
-    <summary type="text">Courtesy of Matt in the PokeMiners discord submitted by /u/aznknight613 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
