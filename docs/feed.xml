@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-10-13T17:53:06Z</updated>
+  <updated>2026-10-13T20:05:58Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/fall-marathon-buddy-trek-2026</id>
-    <title>⚡ Fall Marathon: Buddy Trek will bring Bramblin’s Pokémon GO debut!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/fall-marathon-buddy-trek-2026"/>
-    <published>2026-10-13T17:53:04Z</published>
-    <updated>2026-10-13T17:53:04Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/save-the-date-go-tour-2027</id>
     <title>⚡ Save the Date: Pokémon GO Tour 2027</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-tour-2027"/>
-    <published>2026-10-13T17:53:04Z</published>
-    <updated>2026-10-13T17:53:04Z</updated>
+    <published>2026-10-13T20:05:56Z</published>
+    <updated>2026-10-13T20:05:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/pokemon-x-adidas-2026</id>
     <title>⚡ Avatar items from the adidas | Pokémon collection are coming to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-x-adidas-2026"/>
-    <published>2026-10-13T17:53:04Z</published>
-    <updated>2026-10-13T17:53:04Z</updated>
+    <published>2026-10-13T20:05:56Z</published>
+    <updated>2026-10-13T20:05:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/city-safari-boston-update</id>
     <title>⚡ Event Update: City Safari Boston</title>
     <link rel="alternate" href="https://pokemongolive.com/news/city-safari-boston-update"/>
-    <published>2026-10-13T17:53:04Z</published>
-    <updated>2026-10-13T17:53:04Z</updated>
+    <published>2026-10-13T20:05:56Z</published>
+    <updated>2026-10-13T20:05:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/sandile-hatch-day-2026</id>
     <title>⚡ Dig in during Sandile Hatch Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/sandile-hatch-day-2026"/>
-    <published>2026-10-13T17:53:04Z</published>
-    <updated>2026-10-13T17:53:04Z</updated>
+    <published>2026-10-13T20:05:56Z</published>
+    <updated>2026-10-13T20:05:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/festival-of-lights-2026</id>
     <title>⚡ Celebrate the Festival of Lights with the return of Pikachu wearing a saree and Pikachu wearing a kurta!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/festival-of-lights-2026"/>
-    <published>2026-10-13T17:53:04Z</published>
-    <updated>2026-10-13T17:53:04Z</updated>
+    <published>2026-10-13T20:05:56Z</published>
+    <updated>2026-10-13T20:05:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/tcg-30th-celebration-event</id>
     <title>⚡ Pokémon TCG 30th Celebration Event</title>
     <link rel="alternate" href="https://pokemongolive.com/news/tcg-30th-celebration-event"/>
-    <published>2026-10-13T17:53:04Z</published>
-    <updated>2026-10-13T17:53:04Z</updated>
+    <published>2026-10-13T20:05:56Z</published>
+    <updated>2026-10-13T20:05:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/minior-meteor-showers-2026</id>
     <title>⚡ Explore by starlight during meteor showers for a chance to encounter Minior!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/minior-meteor-showers-2026"/>
-    <published>2026-10-13T17:53:04Z</published>
-    <updated>2026-10-13T17:53:04Z</updated>
+    <published>2026-10-13T20:05:56Z</published>
+    <updated>2026-10-13T20:05:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-2026</id>
     <title>⚡ Rising from the forgotten tides, Uxie, Mesprit, and Azelf make their Dynamax debut!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-2026"/>
-    <published>2026-10-13T17:53:04Z</published>
-    <updated>2026-10-13T17:53:04Z</updated>
+    <published>2026-10-13T20:05:56Z</published>
+    <updated>2026-10-13T20:05:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/city-safari-boston-rescheduled</id>
     <title>⚡ Pokémon GO City Safari: Boston Update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/city-safari-boston-rescheduled"/>
-    <published>2026-10-13T17:53:04Z</published>
-    <updated>2026-10-13T17:53:04Z</updated>
+    <published>2026-10-13T20:05:56Z</published>
+    <updated>2026-10-13T20:05:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/pokemon-night-out-twitch-drops2026</id>
     <title>⚡ Get codes for exclusive Timed Research during the Pokémon Night Out Twitch broadcast!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-night-out-twitch-drops2026"/>
-    <published>2026-10-13T17:53:04Z</published>
-    <updated>2026-10-13T17:53:04Z</updated>
+    <published>2026-10-13T20:05:56Z</published>
+    <updated>2026-10-13T20:05:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/halloween-part-1-2026</id>
     <title>⚡ Trick or Treat with costumed Pikachu, Zubat, and Sinistea during Halloween 2026 Part I!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/halloween-part-1-2026"/>
-    <published>2026-10-13T17:53:04Z</published>
-    <updated>2026-10-13T17:53:04Z</updated>
+    <published>2026-10-13T20:05:56Z</published>
+    <updated>2026-10-13T20:05:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/event-singapore-30th-anniversary-2026</id>
     <title>⚡ PokéXciting! lands at Changi Airport and Jewel — get ready, Singapore!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-singapore-30th-anniversary-2026"/>
-    <published>2026-10-13T17:53:04Z</published>
-    <updated>2026-10-13T17:53:04Z</updated>
+    <published>2026-10-13T20:05:56Z</published>
+    <updated>2026-10-13T20:05:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/halloween-part-2-2026</id>
     <title>⚡ Mega Sableye powers up and Shiny Greavard makes its Pokémon GO debut during Halloween 2026 Part II!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/halloween-part-2-2026"/>
-    <published>2026-10-13T17:53:04Z</published>
-    <updated>2026-10-13T17:53:04Z</updated>
+    <published>2026-10-13T20:05:56Z</published>
+    <updated>2026-10-13T20:05:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +156,118 @@
     <id>https://pokemongolive.com/news/pgo-gameplay-update-oct-2026</id>
     <title>⚡ Pokémon GO Gameplay and Quality-of-Life Updates</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pgo-gameplay-update-oct-2026"/>
-    <published>2026-10-13T17:53:04Z</published>
-    <updated>2026-10-13T17:53:04Z</updated>
+    <published>2026-10-13T20:05:56Z</published>
+    <updated>2026-10-13T20:05:56Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/chandelure-super-mega-raid-day-2026</id>
+    <title>⚡ A haunting glow awaits with the Chandelure Super Mega Raid Day!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/chandelure-super-mega-raid-day-2026"/>
+    <published>2026-10-13T20:05:56Z</published>
+    <updated>2026-10-13T20:05:56Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x5740c/a_haunting_glow_awaits_with_the_chandelure_super/</id>
+    <title>⚡ A haunting glow awaits with the Chandelure Super Mega Raid Day!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x5740c/a_haunting_glow_awaits_with_the_chandelure_super/"/>
+    <published>2026-10-13T20:01:14Z</published>
+    <updated>2026-10-13T20:01:14Z</updated>
+    <summary type="text">submitted by /u/iTaIksick [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x573ll/chandelure_super_mega_raid_day_scopely_infographic/</id>
+    <title>⚡ Chandelure Super Mega Raid Day Scopely Infographic</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x573ll/chandelure_super_mega_raid_day_scopely_infographic/"/>
+    <published>2026-10-13T20:00:51Z</published>
+    <updated>2026-10-13T20:00:51Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</id>
+    <title>🤖 Shopify opens its catalog up to more AI agents</title>
+    <link rel="alternate" href="https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"/>
+    <published>2026-10-13T19:42:42Z</published>
+    <updated>2026-10-13T19:42:42Z</updated>
+    <summary type="text">More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x55lvb/mega_chandelure_and_ominous_wind_stats_added/</id>
+    <title>⚡ Mega Chandelure and Ominous Wind+ stats added</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x55lvb/mega_chandelure_and_ominous_wind_stats_added/"/>
+    <published>2026-10-13T19:05:05Z</published>
+    <updated>2026-10-13T19:05:05Z</updated>
+    <summary type="text">Courtesy of Matt in the PokeMiners discord submitted by /u/aznknight613 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration</id>
+    <title>🤖 Xbox is officially embracing the chaos of AI-powered game ports</title>
+    <link rel="alternate" href="https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"/>
+    <published>2026-10-13T19:00:48Z</published>
+    <updated>2026-10-13T19:00:48Z</updated>
+    <summary type="text">Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded into Call of Duty a</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale</id>
+    <title>🤖 The Nothing Headphone A are half off for the first time</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale"/>
+    <published>2026-10-13T18:33:14Z</published>
+    <updated>2026-10-13T18:33:14Z</updated>
+    <summary type="text">One of the best deals we’ve seen today bundles together a great pair of headphones with a solid album. When you add the Nothing Headphone A in black or white and the CD version of the Charli XCX album Music, Fashion, Film to your Amazon cart, you’ll save 33 percent on your order, bringing the […]</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy</id>
+    <title>🤖 Russian bot farms are still trolling, even after Ukraine&amp;#8217;s drone strikes on Yandex</title>
+    <link rel="alternate" href="https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy"/>
+    <published>2026-10-13T18:31:31Z</published>
+    <updated>2026-10-13T18:31:31Z</updated>
+    <summary type="text">Days after Ukrainian military drones took down several Russian data centers, President Volodymyr Zelenskyy claimed that the campaign had hurt Russia's disinformation efforts. &quot;It suddenly became a little easier to breathe on many social platforms,&quot; Zelenskyy said Monday. &quot;There was less hate, less d</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x532oi/raid_boss_rotation_updatefrom_600_am_on_wednesday/</id>
+    <title>⚡ Raid Boss Rotation Update｜From 6:00 a.m. on Wednesday, October 14 to around 9:30 p.m. on Tuesday, October 20, 2026 (Local Time)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x532oi/raid_boss_rotation_updatefrom_600_am_on_wednesday/"/>
+    <published>2026-10-13T17:32:13Z</published>
+    <updated>2026-10-13T17:32:13Z</updated>
+    <summary type="text">Raid Boss Rotation Update From 6:00 a.m. on Wednesday, October 14 to around 9:30 p.m. on Tuesday, October 20, 2026 (Local Time) ・TIER 5: Dialga ・TIER 4: Mega Dragonite ・TIER 3: Hisuian Arcanine, Snorlax, Kleavor ・TIER 1: Galarian Slowpoke, Hisuian Voltorb, Nincada, Beldum --- Note: Dialga has a &quot;fun</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -181,54 +277,6 @@
     <published>2026-10-13T17:01:31Z</published>
     <updated>2026-10-13T17:01:31Z</updated>
     <summary type="text">Facebook's new &quot;Your Algorithm&quot; feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations &quot;respond right away&quot; after you make updates using the new feature by hitting &quot;interested&quot; or &quot;not interested&quot; for different topics. Your</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch</id>
-    <title>🤖 Google makes it easier to launch your vibe-coded apps</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch"/>
-    <published>2026-10-13T17:00:00Z</published>
-    <updated>2026-10-13T17:00:00Z</updated>
-    <summary type="text">The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to v</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/1009877/apple-homeview-smart-home-display-hands-on</id>
-    <title>🤖 I tried out Apple&amp;#8217;s HomeView smart display</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1009877/apple-homeview-smart-home-display-hands-on"/>
-    <published>2026-10-13T16:55:02Z</published>
-    <updated>2026-10-13T16:55:02Z</updated>
-    <summary type="text">Apple has just announced the HomeView, its first smart home display - and I just got hands-on with the device, which features a gorgeous 7-inch square touchscreen and built-in Siri AI. It's designed as a smart home controller, personal assistant, and home hub for your household, so there was a lot t</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce</id>
-    <title>🤖 Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce"/>
-    <published>2026-10-13T16:42:51Z</published>
-    <updated>2026-10-13T16:42:51Z</updated>
-    <summary type="text">Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The post shows Goth in a T-shirt that reads &quot;MY EX IS MY BIGGEST FAN&quot; in bold black </summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon</id>
-    <title>🤖 Google finally releases Gemini 4 Argon</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"/>
-    <published>2026-10-13T16:00:00Z</published>
-    <updated>2026-10-13T16:00:00Z</updated>
-    <summary type="text">After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers &quot;frontier reasoning and improved performance across complex workflows,&quot; while </summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
@@ -271,15 +319,15 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x4n6rh/cool_looking_powerspot/</id>
-    <title>⚡ Cool looking powerspot</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x4n6rh/cool_looking_powerspot/"/>
-    <published>2026-10-13T04:23:23Z</published>
-    <updated>2026-10-13T04:23:23Z</updated>
-    <summary type="text">They should all look like this imo submitted by /u/subtoPinkZR [link] [comments]</summary>
-    <category term="pokemon"/>
+    <id>https://openai.com/index/higgsfield-longer-videos-voice</id>
+    <title>🤖 Higgsfield takes AI video from 1 minute to over 10</title>
+    <link rel="alternate" href="https://openai.com/index/higgsfield-longer-videos-voice"/>
+    <published>2026-10-13T12:00:00Z</published>
+    <updated>2026-10-13T12:00:00Z</updated>
+    <summary type="text">Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.</summary>
+    <category term="ai"/>
     <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -301,42 +349,6 @@
     <published>2026-10-13T01:19:53Z</published>
     <updated>2026-10-13T01:19:53Z</updated>
     <summary type="text">Full Details: https://leekduck.com/events/fall-marathon-buddy-trek-2026/ submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x4ivqi/research_which_requires_find_a_zygarde_cell/</id>
-    <title>⚡ Research which requires “Find a Zygarde cell” broken after the recent QoL update</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x4ivqi/research_which_requires_find_a_zygarde_cell/"/>
-    <published>2026-10-13T00:45:42Z</published>
-    <updated>2026-10-13T00:45:42Z</updated>
-    <summary type="text">My partner recently came back to the game after years away, and is unable to progress the “From A to Zygarde” special research past step 4, despite having found Zygarde cells from multiple routes over several days now. I suspect that any research that requires finding Zygarde cells is broken after t</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x4eh3q/make_staraptor_your_buddy_for_fall_marathon_event/</id>
-    <title>⚡ Make Staraptor your buddy for Fall Marathon event</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x4eh3q/make_staraptor_your_buddy_for_fall_marathon_event/"/>
-    <published>2026-10-12T21:26:07Z</published>
-    <updated>2026-10-12T21:26:07Z</updated>
-    <summary type="text">For people that haven't got 5000 mega energy to get Super Mega level 4 for Staraptor, consider making it your buddy for this event. At least before GoPass rank 20 when we can gain x5 Manectric mega energy from walking. There is a event Field research that rewards the newly released Bramblin, Earn a </summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x4e5hb/is_halloween_2026_the_weakest_pokémon_go/</id>
-    <title>⚡ Is Halloween 2026 the weakest Pokémon GO Halloween event in years, or is it just me?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x4e5hb/is_halloween_2026_the_weakest_pokémon_go/"/>
-    <published>2026-10-12T21:13:24Z</published>
-    <updated>2026-10-12T21:13:24Z</updated>
-    <summary type="text">Halloween has always been one of my favourite Pokémon GO events, but looking at what’s been announced for 2026, I can’t help feeling meh this year . I compared the last four years: 🎃 2023 ● Greavard and Houndstone debut. ● Shiny Phantump and Shiny Zorua debut. ● Halloween-costumed Pikachu and Gengar</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
@@ -391,9 +403,9 @@
     </author>
   </entry>
   <entry>
-    <id>https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925</id>
+    <id>https://news.mit.edu/2026/3-questions-best-path-forward-for-ai-academia-1008</id>
     <title>🤖 3 Questions: What is the best path forward for AI in academia?</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925"/>
+    <link rel="alternate" href="https://news.mit.edu/2026/3-questions-best-path-forward-for-ai-academia-1008"/>
     <published>2026-10-08T21:25:00Z</published>
     <updated>2026-10-08T21:25:00Z</updated>
     <summary type="text">MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions.</summary>
@@ -421,18 +433,6 @@
     <published>2026-10-08T12:00:00Z</published>
     <updated>2026-10-08T12:00:00Z</updated>
     <summary type="text">With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/legalon-halves-codex-costs</id>
-    <title>🤖 LegalOn halves Codex costs while maintaining development speed</title>
-    <link rel="alternate" href="https://openai.com/index/legalon-halves-codex-costs"/>
-    <published>2026-10-08T12:00:00Z</published>
-    <updated>2026-10-08T12:00:00Z</updated>
-    <summary type="text">LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
