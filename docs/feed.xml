@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-10-14T15:39:45Z</updated>
+  <updated>2026-10-14T18:19:45Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/save-the-date-go-tour-2027</id>
-    <title>⚡ Save the Date: Pokémon GO Tour 2027</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-go-tour-2027"/>
-    <published>2026-10-14T15:39:44Z</published>
-    <updated>2026-10-14T15:39:44Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/pokemon-x-adidas-2026</id>
     <title>⚡ Avatar items from the adidas | Pokémon collection are coming to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-x-adidas-2026"/>
-    <published>2026-10-14T15:39:44Z</published>
-    <updated>2026-10-14T15:39:44Z</updated>
+    <published>2026-10-14T18:19:44Z</published>
+    <updated>2026-10-14T18:19:44Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/city-safari-boston-update</id>
     <title>⚡ Event Update: City Safari Boston</title>
     <link rel="alternate" href="https://pokemongolive.com/news/city-safari-boston-update"/>
-    <published>2026-10-14T15:39:44Z</published>
-    <updated>2026-10-14T15:39:44Z</updated>
+    <published>2026-10-14T18:19:44Z</published>
+    <updated>2026-10-14T18:19:44Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/sandile-hatch-day-2026</id>
     <title>⚡ Dig in during Sandile Hatch Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/sandile-hatch-day-2026"/>
-    <published>2026-10-14T15:39:44Z</published>
-    <updated>2026-10-14T15:39:44Z</updated>
+    <published>2026-10-14T18:19:44Z</published>
+    <updated>2026-10-14T18:19:44Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/festival-of-lights-2026</id>
     <title>⚡ Celebrate the Festival of Lights with the return of Pikachu wearing a saree and Pikachu wearing a kurta!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/festival-of-lights-2026"/>
-    <published>2026-10-14T15:39:44Z</published>
-    <updated>2026-10-14T15:39:44Z</updated>
+    <published>2026-10-14T18:19:44Z</published>
+    <updated>2026-10-14T18:19:44Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/tcg-30th-celebration-event</id>
     <title>⚡ Pokémon TCG 30th Celebration Event</title>
     <link rel="alternate" href="https://pokemongolive.com/news/tcg-30th-celebration-event"/>
-    <published>2026-10-14T15:39:44Z</published>
-    <updated>2026-10-14T15:39:44Z</updated>
+    <published>2026-10-14T18:19:44Z</published>
+    <updated>2026-10-14T18:19:44Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/minior-meteor-showers-2026</id>
     <title>⚡ Explore by starlight during meteor showers for a chance to encounter Minior!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/minior-meteor-showers-2026"/>
-    <published>2026-10-14T15:39:44Z</published>
-    <updated>2026-10-14T15:39:44Z</updated>
+    <published>2026-10-14T18:19:44Z</published>
+    <updated>2026-10-14T18:19:44Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-2026</id>
     <title>⚡ Rising from the forgotten tides, Uxie, Mesprit, and Azelf make their Dynamax debut!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-2026"/>
-    <published>2026-10-14T15:39:44Z</published>
-    <updated>2026-10-14T15:39:44Z</updated>
+    <published>2026-10-14T18:19:44Z</published>
+    <updated>2026-10-14T18:19:44Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/city-safari-boston-rescheduled</id>
     <title>⚡ Pokémon GO City Safari: Boston Update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/city-safari-boston-rescheduled"/>
-    <published>2026-10-14T15:39:44Z</published>
-    <updated>2026-10-14T15:39:44Z</updated>
+    <published>2026-10-14T18:19:44Z</published>
+    <updated>2026-10-14T18:19:44Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/pokemon-night-out-twitch-drops2026</id>
     <title>⚡ Get codes for exclusive Timed Research during the Pokémon Night Out Twitch broadcast!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-night-out-twitch-drops2026"/>
-    <published>2026-10-14T15:39:44Z</published>
-    <updated>2026-10-14T15:39:44Z</updated>
+    <published>2026-10-14T18:19:44Z</published>
+    <updated>2026-10-14T18:19:44Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/halloween-part-1-2026</id>
     <title>⚡ Trick or Treat with costumed Pikachu, Zubat, and Sinistea during Halloween 2026 Part I!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/halloween-part-1-2026"/>
-    <published>2026-10-14T15:39:44Z</published>
-    <updated>2026-10-14T15:39:44Z</updated>
+    <published>2026-10-14T18:19:44Z</published>
+    <updated>2026-10-14T18:19:44Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/event-singapore-30th-anniversary-2026</id>
     <title>⚡ PokéXciting! lands at Changi Airport and Jewel — get ready, Singapore!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-singapore-30th-anniversary-2026"/>
-    <published>2026-10-14T15:39:44Z</published>
-    <updated>2026-10-14T15:39:44Z</updated>
+    <published>2026-10-14T18:19:44Z</published>
+    <updated>2026-10-14T18:19:44Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/halloween-part-2-2026</id>
     <title>⚡ Mega Sableye powers up and Shiny Greavard makes its Pokémon GO debut during Halloween 2026 Part II!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/halloween-part-2-2026"/>
-    <published>2026-10-14T15:39:44Z</published>
-    <updated>2026-10-14T15:39:44Z</updated>
+    <published>2026-10-14T18:19:44Z</published>
+    <updated>2026-10-14T18:19:44Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/pgo-gameplay-update-oct-2026</id>
     <title>⚡ Pokémon GO Gameplay and Quality-of-Life Updates</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pgo-gameplay-update-oct-2026"/>
-    <published>2026-10-14T15:39:44Z</published>
-    <updated>2026-10-14T15:39:44Z</updated>
+    <published>2026-10-14T18:19:44Z</published>
+    <updated>2026-10-14T18:19:44Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,59 +156,130 @@
     <id>https://pokemongolive.com/news/chandelure-super-mega-raid-day-2026</id>
     <title>⚡ A haunting glow awaits with the Chandelure Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/chandelure-super-mega-raid-day-2026"/>
-    <published>2026-10-14T15:39:44Z</published>
-    <updated>2026-10-14T15:39:44Z</updated>
+    <published>2026-10-14T18:19:44Z</published>
+    <updated>2026-10-14T18:19:44Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk</id>
-    <title>🤖 Anthropic’s self-replicating AI warning is an alarming deja vu</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk"/>
-    <published>2026-10-14T15:19:02Z</published>
-    <updated>2026-10-14T15:19:02Z</updated>
-    <summary type="text">Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-replicating AI models that spread from device to device and prove remarkably difficult to contain. Welcome </summary>
+    <id>https://pokemongolive.com/news/into-the-wild-2026</id>
+    <title>⚡ It’s time to head back Into the Wild for a Steel- and Dragon-type adventure!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/into-the-wild-2026"/>
+    <published>2026-10-14T18:19:44Z</published>
+    <updated>2026-10-14T18:19:44Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x5y28c/diaglog_box_blocking_connect_pokémon_go_plus/</id>
+    <title>⚡ Diaglog Box blocking Connect Pokémon Go Plus Device Icon</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x5y28c/diaglog_box_blocking_connect_pokémon_go_plus/"/>
+    <published>2026-10-14T17:52:04Z</published>
+    <updated>2026-10-14T17:52:04Z</updated>
+    <summary type="text">I am getting tgis annoying bug now where the pop up diaglog boxes are blocking the Pokémon Go Plus icon making it hard to connect to my device when those boxes SPAM my game back to back to back to back. When I try clicking to connect to my device, I end up clicking the diaglog box and opening up tha</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x5wvpc/into_the_wild_event_2026/</id>
+    <title>⚡ Into The Wild Event 2026</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x5wvpc/into_the_wild_event_2026/"/>
+    <published>2026-10-14T17:07:22Z</published>
+    <updated>2026-10-14T17:07:22Z</updated>
+    <summary type="text">( Credits: G47IX ) submitted by /u/iTaIksick [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x5wp9b/its_time_to_head_back_into_the_wild_for_a_steel/</id>
+    <title>⚡ It’s time to head back Into the Wild for a Steel- and Dragon-type adventure!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x5wp9b/its_time_to_head_back_into_the_wild_for_a_steel/"/>
+    <published>2026-10-14T17:00:57Z</published>
+    <updated>2026-10-14T17:00:57Z</updated>
+    <summary type="text">submitted by /u/iTaIksick [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health</id>
+    <title>🤖 My AI doppelganger tells me what to eat</title>
+    <link rel="alternate" href="https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health"/>
+    <published>2026-10-14T17:00:00Z</published>
+    <updated>2026-10-14T17:00:00Z</updated>
+    <summary type="text">This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings have had a new rhythm. When I wake up, the </summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1011058/netflix-layoff-six-percent-thousand-employees</id>
-    <title>🤖 Netflix is laying off around 1,000 employees</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1011058/netflix-layoff-six-percent-thousand-employees"/>
-    <published>2026-10-14T15:12:58Z</published>
-    <updated>2026-10-14T15:12:58Z</updated>
-    <summary type="text">Following a report last week that Netflix was planning to lay off five percent of the company, today the streamer's co-CEOs Ted Sarandos and Greg Peters announced in an email that it would actually be laying off six percent of its workforce, or around 1,000 employees, according to Variety, which obt</summary>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans</id>
+    <title>🤖 OpenAI claims an ex-employee took its product plans and presented them to Apple</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans"/>
+    <published>2026-10-14T16:43:24Z</published>
+    <updated>2026-10-14T16:43:24Z</updated>
+    <summary type="text">OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1011062/apple-homeview-airplay-apps-streaming</id>
-    <title>🤖 HomeView doesn’t natively support any video apps yet — not even Apple’s</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1011062/apple-homeview-airplay-apps-streaming"/>
-    <published>2026-10-14T15:10:12Z</published>
-    <updated>2026-10-14T15:10:12Z</updated>
-    <summary type="text">Apple says HomeView is &quot;the perfect way&quot; to enjoy its audio and video entertainment apps, but some notable examples like Apple TV only work if you AirPlay it through your iPhone. As noted on the HomeView spec page, Apple TV, Apple Books audiobooks, Apple Music Classical, and Apple News Plus aren't n</summary>
+    <id>https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare</id>
+    <title>🤖 Repairing the iPhone Duo&amp;#8217;s folding screen costs as much as a new iPhone</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare"/>
+    <published>2026-10-14T16:21:28Z</published>
+    <updated>2026-10-14T16:21:28Z</updated>
+    <summary type="text">If you don't get AppleCare Plus for the iPhone Duo, any repairs are going to be pretty expensive. Apple published the estimated repair costs for the iPhone Duo without AppleCare Plus today, as reported by MacRumors, and they can be high: Battery service, for example, will cost $229, inner display da</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/science/1011110/ukraine-starlink-restrictions-drone-mission-disruptions</id>
-    <title>🤖 Ukraine claims Starlink is suddenly disrupting service for its military</title>
-    <link rel="alternate" href="https://www.theverge.com/science/1011110/ukraine-starlink-restrictions-drone-mission-disruptions"/>
-    <published>2026-10-14T15:06:12Z</published>
-    <updated>2026-10-14T15:06:12Z</updated>
-    <summary type="text">Ukrainian officials claim the Elon Musk-owned Starlink put new limits on its service in the area without warning, disrupting the country's drone operations and missions, according to reports from Reuters and the Financial Times. The move comes just days after Musk wrote on X that Ukrainian President</summary>
+    <id>https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft</id>
+    <title>🤖 Microsoft has a new machine learning tool to improve weather forecasts</title>
+    <link rel="alternate" href="https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft"/>
+    <published>2026-10-14T16:05:21Z</published>
+    <updated>2026-10-14T16:05:21Z</updated>
+    <summary type="text">Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cost-effective way to make more accurate weather forecasts two </summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1009086/square-kiosk</id>
+    <title>🤖 Square’s new kiosk lets you talk to AI for help with your order</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/1009086/square-kiosk"/>
+    <published>2026-10-14T16:00:00Z</published>
+    <updated>2026-10-14T16:00:00Z</updated>
+    <summary type="text">Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an &quot;agentic, conversational voice layer&quot; that &quot;fully understands a seller's menu and listens and</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x5twbl/dialga_solo_cloudy_no_adventure_effect_dragon/</id>
+    <title>⚡ Dialga Solo, Cloudy, No Adventure Effect, Dragon Breath/Draco Meteor</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x5twbl/dialga_solo_cloudy_no_adventure_effect_dragon/"/>
+    <published>2026-10-14T15:15:06Z</published>
+    <updated>2026-10-14T15:15:06Z</updated>
+    <summary type="text">submitted by /u/xRage7243 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -247,54 +307,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/gadgets/1011050/humble-choice-valve-index-borderlands-odyssey-deal-sale</id>
-    <title>🤖 $15 gets you Psychonauts 2, the latest Like a Dragon game, and more</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/1011050/humble-choice-valve-index-borderlands-odyssey-deal-sale"/>
-    <published>2026-10-14T14:45:45Z</published>
-    <updated>2026-10-14T14:45:45Z</updated>
-    <summary type="text">There are several deals happening right now on video games and gaming-related tech that are worth sharing. To start, this month’s Humble Choice drop of Steam PC games is really good. The $14.99 per month service is offering subscribers Like A Dragon: Pirate Yakuza in Hawaii, Price of Persia: The Los</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/gadgets/1011069/apple-tv-remote-find-my</id>
-    <title>🤖 Apple&amp;#8217;s new Find My-compatible remote will also work with your old Apple TV</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/1011069/apple-tv-remote-find-my"/>
-    <published>2026-10-14T14:39:32Z</published>
-    <updated>2026-10-14T14:39:32Z</updated>
-    <summary type="text">You don't need to buy the new Apple TV 4K just to get the updated Siri Remote with Find My and a built-in speaker, as it works with every model released going back to the Apple TV HD and is available to buy standalone for $59. Previous Siri Remotes had a basic iOS feature to […]</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny</id>
-    <title>🤖 Halo&amp;#8217;s co-creator wrote a novel about AI taking over the world</title>
-    <link rel="alternate" href="https://www.theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny"/>
-    <published>2026-10-14T14:00:00Z</published>
-    <updated>2026-10-14T14:00:00Z</updated>
-    <summary type="text">Back in 2019, author Margaret Stohl was handed a manuscript written by Jason Jones, who's best known as the co-creator of sci-fi gaming series Halo and Destiny. The two had worked together at Bungie, and Jones wanted Stohl's opinion on a book he was writing about AI taking over the world. It was an </summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux</id>
-    <title>🤖 Epic&amp;#8217;s new games launcher is ‘vibe coded’</title>
-    <link rel="alternate" href="https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux"/>
-    <published>2026-10-14T13:55:02Z</published>
-    <updated>2026-10-14T13:55:02Z</updated>
-    <summary type="text">Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is &quot;way faster&quot; and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the refresh was &quot;vibe coded.&quot; &quot;Programming is</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.reddit.com/r/TheSilphRoad/comments/1x5qgkr/dialga_solo_dragon_breathiron_head_cloudy/</id>
     <title>⚡ Dialga Solo (Dragon Breath/Iron Head) 🗡 - cloudy</title>
     <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x5qgkr/dialga_solo_dragon_breathiron_head_cloudy/"/>
@@ -304,6 +316,30 @@
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/amp-beyond-coding</id>
+    <title>🤖 Amp puts AI agents to work beyond code with OpenAI models</title>
+    <link rel="alternate" href="https://openai.com/index/amp-beyond-coding"/>
+    <published>2026-10-14T12:00:00Z</published>
+    <updated>2026-10-14T12:00:00Z</updated>
+    <summary type="text">See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/sentinelone</id>
+    <title>🤖 SentinelOne cuts malware analysis from weeks to hours</title>
+    <link rel="alternate" href="https://openai.com/index/sentinelone"/>
+    <published>2026-10-14T12:00:00Z</published>
+    <updated>2026-10-14T12:00:00Z</updated>
+    <summary type="text">With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -367,60 +403,12 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x57kqi/mega_chandelure_super_mega_raid_day_2026/</id>
-    <title>⚡ Mega Chandelure: Super Mega Raid Day 2026</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x57kqi/mega_chandelure_super_mega_raid_day_2026/"/>
-    <published>2026-10-13T20:19:01Z</published>
-    <updated>2026-10-13T20:19:01Z</updated>
-    <summary type="text">( Credits: G47IX ) submitted by /u/iTaIksick [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.reddit.com/r/TheSilphRoad/comments/1x5740c/a_haunting_glow_awaits_with_the_chandelure_super/</id>
     <title>⚡ A haunting glow awaits with the Chandelure Super Mega Raid Day!</title>
     <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x5740c/a_haunting_glow_awaits_with_the_chandelure_super/"/>
     <published>2026-10-13T20:01:14Z</published>
     <updated>2026-10-13T20:01:14Z</updated>
     <summary type="text">submitted by /u/iTaIksick [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x573ll/chandelure_super_mega_raid_day_scopely_infographic/</id>
-    <title>⚡ Chandelure Super Mega Raid Day Scopely Infographic</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x573ll/chandelure_super_mega_raid_day_scopely_infographic/"/>
-    <published>2026-10-13T20:00:51Z</published>
-    <updated>2026-10-13T20:00:51Z</updated>
-    <summary type="text">Full Details: https://pokemongo.com/news/chandelure-super-mega-raid-day-2026 Edit: Third image that Reddit missed when uploading. submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x56u9e/is_the_bramblin_spawn_rate_low/</id>
-    <title>⚡ Is the Bramblin spawn rate low?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x56u9e/is_the_bramblin_spawn_rate_low/"/>
-    <published>2026-10-13T19:51:25Z</published>
-    <updated>2026-10-13T19:51:25Z</updated>
-    <summary type="text">I'm at work today, but I've caught a bunch of Pokemon using the explorer gadget and just by catching them myself. I've also used two incenses and walked around 5km during my breaks. I haven't seen a Bramblin once. I've seen some catch it, but how? What should I be doing to get it? Edit: I know new P</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x55lvb/mega_chandelure_and_ominous_wind_stats_added/</id>
-    <title>⚡ Mega Chandelure and Ominous Wind+ stats added</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x55lvb/mega_chandelure_and_ominous_wind_stats_added/"/>
-    <published>2026-10-13T19:05:05Z</published>
-    <updated>2026-10-13T19:05:05Z</updated>
-    <summary type="text">Courtesy of Matt in the PokeMiners discord submitted by /u/aznknight613 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
@@ -472,30 +460,6 @@
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/asana-browser-agent</id>
-    <title>🤖 Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
-    <link rel="alternate" href="https://openai.com/index/asana-browser-agent"/>
-    <published>2026-10-09T07:00:00Z</published>
-    <updated>2026-10-09T07:00:00Z</updated>
-    <summary type="text">Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/sophos</id>
-    <title>🤖 Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
-    <link rel="alternate" href="https://openai.com/index/sophos"/>
-    <published>2026-10-09T07:00:00Z</published>
-    <updated>2026-10-09T07:00:00Z</updated>
-    <summary type="text">Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
