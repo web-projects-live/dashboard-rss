@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-10-18T22:50:00Z</updated>
+  <updated>2026-10-19T17:17:25Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/pokemon-x-adidas-2026</id>
-    <title>⚡ Avatar items from the adidas | Pokémon collection are coming to Pokémon GO!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/pokemon-x-adidas-2026"/>
-    <published>2026-10-18T22:49:58Z</published>
-    <updated>2026-10-18T22:49:58Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/city-safari-boston-update</id>
     <title>⚡ Event Update: City Safari Boston</title>
     <link rel="alternate" href="https://pokemongolive.com/news/city-safari-boston-update"/>
-    <published>2026-10-18T22:49:58Z</published>
-    <updated>2026-10-18T22:49:58Z</updated>
+    <published>2026-10-19T17:17:24Z</published>
+    <updated>2026-10-19T17:17:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/sandile-hatch-day-2026</id>
     <title>⚡ Dig in during Sandile Hatch Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/sandile-hatch-day-2026"/>
-    <published>2026-10-18T22:49:58Z</published>
-    <updated>2026-10-18T22:49:58Z</updated>
+    <published>2026-10-19T17:17:24Z</published>
+    <updated>2026-10-19T17:17:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/festival-of-lights-2026</id>
     <title>⚡ Celebrate the Festival of Lights with the return of Pikachu wearing a saree and Pikachu wearing a kurta!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/festival-of-lights-2026"/>
-    <published>2026-10-18T22:49:58Z</published>
-    <updated>2026-10-18T22:49:58Z</updated>
+    <published>2026-10-19T17:17:24Z</published>
+    <updated>2026-10-19T17:17:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/tcg-30th-celebration-event</id>
     <title>⚡ Pokémon TCG 30th Celebration Event</title>
     <link rel="alternate" href="https://pokemongolive.com/news/tcg-30th-celebration-event"/>
-    <published>2026-10-18T22:49:58Z</published>
-    <updated>2026-10-18T22:49:58Z</updated>
+    <published>2026-10-19T17:17:24Z</published>
+    <updated>2026-10-19T17:17:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/minior-meteor-showers-2026</id>
     <title>⚡ Explore by starlight during meteor showers for a chance to encounter Minior!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/minior-meteor-showers-2026"/>
-    <published>2026-10-18T22:49:58Z</published>
-    <updated>2026-10-18T22:49:58Z</updated>
+    <published>2026-10-19T17:17:24Z</published>
+    <updated>2026-10-19T17:17:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-2026</id>
     <title>⚡ Rising from the forgotten tides, Uxie, Mesprit, and Azelf make their Dynamax debut!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-2026"/>
-    <published>2026-10-18T22:49:58Z</published>
-    <updated>2026-10-18T22:49:58Z</updated>
+    <published>2026-10-19T17:17:24Z</published>
+    <updated>2026-10-19T17:17:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/city-safari-boston-rescheduled</id>
     <title>⚡ Pokémon GO City Safari: Boston Update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/city-safari-boston-rescheduled"/>
-    <published>2026-10-18T22:49:58Z</published>
-    <updated>2026-10-18T22:49:58Z</updated>
+    <published>2026-10-19T17:17:24Z</published>
+    <updated>2026-10-19T17:17:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/pokemon-night-out-twitch-drops2026</id>
     <title>⚡ Get codes for exclusive Timed Research during the Pokémon Night Out Twitch broadcast!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-night-out-twitch-drops2026"/>
-    <published>2026-10-18T22:49:58Z</published>
-    <updated>2026-10-18T22:49:58Z</updated>
+    <published>2026-10-19T17:17:24Z</published>
+    <updated>2026-10-19T17:17:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/halloween-part-1-2026</id>
     <title>⚡ Trick or Treat with costumed Pikachu, Zubat, and Sinistea during Halloween 2026 Part I!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/halloween-part-1-2026"/>
-    <published>2026-10-18T22:49:58Z</published>
-    <updated>2026-10-18T22:49:58Z</updated>
+    <published>2026-10-19T17:17:24Z</published>
+    <updated>2026-10-19T17:17:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/event-singapore-30th-anniversary-2026</id>
     <title>⚡ PokéXciting! lands at Changi Airport and Jewel — get ready, Singapore!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/event-singapore-30th-anniversary-2026"/>
-    <published>2026-10-18T22:49:58Z</published>
-    <updated>2026-10-18T22:49:58Z</updated>
+    <published>2026-10-19T17:17:24Z</published>
+    <updated>2026-10-19T17:17:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/halloween-part-2-2026</id>
     <title>⚡ Mega Sableye powers up and Shiny Greavard makes its Pokémon GO debut during Halloween 2026 Part II!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/halloween-part-2-2026"/>
-    <published>2026-10-18T22:49:58Z</published>
-    <updated>2026-10-18T22:49:58Z</updated>
+    <published>2026-10-19T17:17:24Z</published>
+    <updated>2026-10-19T17:17:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/pgo-gameplay-update-oct-2026</id>
     <title>⚡ Pokémon GO Gameplay and Quality-of-Life Updates</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pgo-gameplay-update-oct-2026"/>
-    <published>2026-10-18T22:49:58Z</published>
-    <updated>2026-10-18T22:49:58Z</updated>
+    <published>2026-10-19T17:17:24Z</published>
+    <updated>2026-10-19T17:17:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/chandelure-super-mega-raid-day-2026</id>
     <title>⚡ A haunting glow awaits with the Chandelure Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/chandelure-super-mega-raid-day-2026"/>
-    <published>2026-10-18T22:49:58Z</published>
-    <updated>2026-10-18T22:49:58Z</updated>
+    <published>2026-10-19T17:17:24Z</published>
+    <updated>2026-10-19T17:17:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,92 +156,163 @@
     <id>https://pokemongolive.com/news/into-the-wild-2026</id>
     <title>⚡ It’s time to head back Into the Wild for a Steel- and Dragon-type adventure!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/into-the-wild-2026"/>
-    <published>2026-10-18T22:49:58Z</published>
-    <updated>2026-10-18T22:49:58Z</updated>
+    <published>2026-10-19T17:17:24Z</published>
+    <updated>2026-10-19T17:17:24Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband</id>
-    <title>🤖 A Savannah police officer gave her Flock login to her ICE agent husband</title>
-    <link rel="alternate" href="https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband"/>
-    <published>2026-10-18T22:20:53Z</published>
-    <updated>2026-10-18T22:20:53Z</updated>
-    <summary type="text">Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the de</summary>
+    <id>https://pokemongolive.com/news/pokemon-night-out-irl-details2026</id>
+    <title>⚡ Celebrate the Pokémon Night Out events in Pokémon GO!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/pokemon-night-out-irl-details2026"/>
+    <published>2026-10-19T17:17:24Z</published>
+    <updated>2026-10-19T17:17:24Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xa2g69/celebrate_the_pokémon_night_out_events_in_pokémon/</id>
+    <title>⚡ Celebrate the Pokémon Night Out events in Pokémon GO!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xa2g69/celebrate_the_pokémon_night_out_events_in_pokémon/"/>
+    <published>2026-10-19T17:01:44Z</published>
+    <updated>2026-10-19T17:01:44Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana</id>
+    <title>🤖 Amazon is funding a new nuclear plant in Indiana</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana"/>
+    <published>2026-10-19T15:44:20Z</published>
+    <updated>2026-10-19T15:44:20Z</updated>
+    <summary type="text">Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megaw</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review</id>
-    <title>🤖 Mister Organ is one of the most unsettling documentaries I’ve ever seen</title>
-    <link rel="alternate" href="https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review"/>
-    <published>2026-10-18T19:30:00Z</published>
-    <updated>2026-10-18T19:30:00Z</updated>
-    <summary type="text">Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters his life. Mister Organ </summary>
+    <id>https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale</id>
+    <title>🤖 Apple’s last-gen Mac Mini with the M4 is $150 off</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale"/>
+    <published>2026-10-19T14:41:48Z</published>
+    <updated>2026-10-19T14:41:48Z</updated>
+    <summary type="text">Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available […]</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x9amu4/crowned_forms_and_silver_bottle_caps/</id>
-    <title>⚡ Crowned forms and silver bottle caps.</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x9amu4/crowned_forms_and_silver_bottle_caps/"/>
-    <published>2026-10-18T18:34:16Z</published>
-    <updated>2026-10-18T18:34:16Z</updated>
-    <summary type="text">Zamazenta and Zacian, both Hero and Crowned forms, that have 15 attack, 15 defence, and 14 HP IVs, are functional hundos when maxed out, i.e. at levels 50 and 51. Due to rounding, they have the same HPs as true hundos. So, if you were thinking of using a silver bottle cap on one of these powerful 15</summary>
+    <id>https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws</id>
+    <title>🤖 JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes</title>
+    <link rel="alternate" href="https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws"/>
+    <published>2026-10-19T14:30:00Z</published>
+    <updated>2026-10-19T14:30:00Z</updated>
+    <summary type="text">Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms c</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</id>
+    <title>🤖 A hacker broke into John Deere and SharkNinja with an army of AI agents</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"/>
+    <published>2026-10-19T13:58:41Z</published>
+    <updated>2026-10-19T13:58:41Z</updated>
+    <summary type="text">A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. C</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x9w03p/same_minior_caught_be_different_people_result_in/</id>
+    <title>⚡ Same Minior caught be different people result in different IV after catching</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x9w03p/same_minior_caught_be_different_people_result_in/"/>
+    <published>2026-10-19T12:49:03Z</published>
+    <updated>2026-10-19T12:49:03Z</updated>
+    <summary type="text">submitted by /u/Kumuru [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x97i9m/top_12_pokemon_in_pogo_nice_day_2/</id>
-    <title>⚡ Top 12 Pokemon in POGO Nice: Day 2</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x97i9m/top_12_pokemon_in_pogo_nice_day_2/"/>
-    <published>2026-10-18T16:29:30Z</published>
-    <updated>2026-10-18T16:29:30Z</updated>
-    <summary type="text">submitted by /u/Fa1l3r [link] [comments]</summary>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x9r7if/unexpected_bonus_research_minior_showers/</id>
+    <title>⚡ Unexpected Bonus Research Minior Showers</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x9r7if/unexpected_bonus_research_minior_showers/"/>
+    <published>2026-10-19T08:21:59Z</published>
+    <updated>2026-10-19T08:21:59Z</updated>
+    <summary type="text">I got the normal minior showers research, but somehow ended up with this? Not aware of any compensation owed or any tickets I’ve logged over the last few weeks. Curious if anyone else got this or has insight as to why I got this particular bonus research. submitted by /u/MandolorianDad [link] [comme</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x96vbb/dmax_sneasel_is_a_2/</id>
-    <title>⚡ Dmax sneasel is a 2*</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x96vbb/dmax_sneasel_is_a_2/"/>
-    <published>2026-10-18T16:03:52Z</published>
-    <updated>2026-10-18T16:03:52Z</updated>
-    <summary type="text">surprised it isnt 3 but not much of a diff except timesave submitted by /u/naitik_kaythwal [link] [comments]</summary>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x9r13b/fall_marathon_appreciation_whoever_designed_this/</id>
+    <title>⚡ Fall Marathon appreciation: whoever designed this event deserves a raise (or should design all events)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x9r13b/fall_marathon_appreciation_whoever_designed_this/"/>
+    <published>2026-10-19T08:10:35Z</published>
+    <updated>2026-10-19T08:10:35Z</updated>
+    <summary type="text">I went into Fall Marathon with very low expectations, and it might have ended up being the best-designed Pokémon GO event I’ve seen in years. This is our third marathon event this year, and “walk 42 km for a marathon visor Pikachu” isn’t going to motivate everyone. The Pikachu for some can be cool, </summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x92jee/are_we_trainers_or_collectors_the_lack_of_purpose/</id>
-    <title>⚡ Are we Trainers or Collectors? The lack of purpose for individual strength seriously undermines the motivation to grind and be the very best</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x92jee/are_we_trainers_or_collectors_the_lack_of_purpose/"/>
-    <published>2026-10-18T12:55:12Z</published>
-    <updated>2026-10-18T12:55:12Z</updated>
-    <summary type="text">You buy the ticket, you schedule the event to your calendar, you drive to the meet up and tap away without even looking at the screen. You catch the new shiny thing that is #1 in its role, power it up and let it rot in your storage. You buy the ticket, you schedule the event to your calendar, you dr</summary>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x9na8f/minior_event_includes_a_meteor_shower_on_the_in/</id>
+    <title>⚡ Minior event includes a meteor shower on the in game map and while catching Pokemon</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x9na8f/minior_event_includes_a_meteor_shower_on_the_in/"/>
+    <published>2026-10-19T04:22:21Z</published>
+    <updated>2026-10-19T04:22:21Z</updated>
+    <summary type="text">submitted by /u/Geddyn [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x8y6j1/silver_capping_already_capped_mon/</id>
-    <title>⚡ Silver capping already capped mon?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x8y6j1/silver_capping_already_capped_mon/"/>
-    <published>2026-10-18T08:39:10Z</published>
-    <updated>2026-10-18T08:39:10Z</updated>
-    <summary type="text">Last GO fest I Gold capped my Zacianand right before I almost finished it, I burned out of the game and stopped playing for about a year. I got back this summer and the dog's final missing stat is making me crazy!:D Can I finish it with silver or am I forever doomed? submitted by /u/Sapnotaj [link] </summary>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x9n7pa/minior_inbattle_form_change_mechanics/</id>
+    <title>⚡ Minior In-Battle Form Change Mechanics</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x9n7pa/minior_inbattle_form_change_mechanics/"/>
+    <published>2026-10-19T04:18:23Z</published>
+    <updated>2026-10-19T04:18:23Z</updated>
+    <summary type="text">submitted by /u/Gx811 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x9mh9b/minior_showers_orionids_2026_leekduck/</id>
+    <title>⚡ Minior Showers: Orionids 2026 (LeekDuck)</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x9mh9b/minior_showers_orionids_2026_leekduck/"/>
+    <published>2026-10-19T03:37:38Z</published>
+    <updated>2026-10-19T03:37:38Z</updated>
+    <summary type="text">Full Details: https://leekduck.com/events/minior-showers-orionids-2026/ submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x9m7rw/minior_showers_timed_research/</id>
+    <title>⚡ Minior Showers Timed Research</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x9m7rw/minior_showers_timed_research/"/>
+    <published>2026-10-19T03:22:50Z</published>
+    <updated>2026-10-19T03:22:50Z</updated>
+    <summary type="text">Timed Research tasks must be completed and all rewards claimed by October 24, 2026, at 11:59 p.m. local time . Courtesy of LeekDuck https://leekduck.com/events/minior-showers-orionids-2026/ submitted by /u/Amiibofan101 [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
@@ -268,42 +328,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x8rp30/dear_scopely_mimikyu_needs_to_be_banned_from/</id>
-    <title>⚡ Dear Scopely: Mimikyu NEEDS To Be Banned From Fantasy Cup (A PvP Analysis)</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x8rp30/dear_scopely_mimikyu_needs_to_be_banned_from/"/>
-    <published>2026-10-18T02:19:24Z</published>
-    <updated>2026-10-18T02:19:24Z</updated>
-    <summary type="text">Hello, battlers. I'm still working on an overview of the entire Fantasy Cup meta ahead of next week, but in the process of doing that, I've run across a huge problem. Put simply: Mimikyu is about to absolutely destroy this format . Now, I've written about Mimikyu before , before it was even allowed </summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x8lvrt/upcoming_week_in_pokémon_go_monday_october_19/</id>
-    <title>⚡ Upcoming Week in Pokémon GO (Monday, October 19 - Sunday, October 25, 2026)</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x8lvrt/upcoming_week_in_pokémon_go_monday_october_19/"/>
-    <published>2026-10-17T21:34:10Z</published>
-    <updated>2026-10-17T21:34:10Z</updated>
-    <summary type="text">submitted by /u/pgomav [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1x8lpwf/why_hide_the_buddy_evolve_requirement/</id>
-    <title>⚡ Why hide the buddy evolve requirement?</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1x8lpwf/why_hide_the_buddy_evolve_requirement/"/>
-    <published>2026-10-17T21:26:44Z</published>
-    <updated>2026-10-17T21:26:44Z</updated>
-    <summary type="text">I don't know when this began, or if this is a bug or intentional feature, but I don't like how Scopely took away the buddy evolve requirement from the pokemon (i.e. Pancham and Bramlin) before you made it your buddy. I get it, it's a small change, but it's almost like a &quot;gotcha&quot; if you didn't know t</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
