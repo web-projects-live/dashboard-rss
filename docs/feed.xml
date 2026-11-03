@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-11-03T02:47:11Z</updated>
+  <updated>2026-11-03T18:11:09Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/halloween-part-2-2026</id>
-    <title>⚡ Mega Sableye powers up and Shiny Greavard makes its Pokémon GO debut during Halloween 2026 Part II!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/halloween-part-2-2026"/>
-    <published>2026-11-03T02:47:08Z</published>
-    <updated>2026-11-03T02:47:08Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/pgo-gameplay-update-oct-2026</id>
     <title>⚡ Pokémon GO Gameplay and Quality-of-Life Updates</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pgo-gameplay-update-oct-2026"/>
-    <published>2026-11-03T02:47:08Z</published>
-    <updated>2026-11-03T02:47:08Z</updated>
+    <published>2026-11-03T18:11:06Z</published>
+    <updated>2026-11-03T18:11:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/chandelure-super-mega-raid-day-2026</id>
     <title>⚡ A haunting glow awaits with the Chandelure Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/chandelure-super-mega-raid-day-2026"/>
-    <published>2026-11-03T02:47:08Z</published>
-    <updated>2026-11-03T02:47:08Z</updated>
+    <published>2026-11-03T18:11:06Z</published>
+    <updated>2026-11-03T18:11:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/into-the-wild-2026</id>
     <title>⚡ It’s time to head back Into the Wild for a Steel- and Dragon-type adventure!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/into-the-wild-2026"/>
-    <published>2026-11-03T02:47:08Z</published>
-    <updated>2026-11-03T02:47:08Z</updated>
+    <published>2026-11-03T18:11:06Z</published>
+    <updated>2026-11-03T18:11:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/pokemon-night-out-irl-details2026</id>
     <title>⚡ Celebrate the Pokémon Night Out events in Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-night-out-irl-details2026"/>
-    <published>2026-11-03T02:47:08Z</published>
-    <updated>2026-11-03T02:47:08Z</updated>
+    <published>2026-11-03T18:11:06Z</published>
+    <updated>2026-11-03T18:11:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/go-pass-november-2026</id>
     <title>⚡ Earn PokéCoins for progressing in GO Pass: November!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-november-2026"/>
-    <published>2026-11-03T02:47:08Z</published>
-    <updated>2026-11-03T02:47:08Z</updated>
+    <published>2026-11-03T18:11:06Z</published>
+    <updated>2026-11-03T18:11:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/communityday-november-2026-pawniard</id>
     <title>⚡ November 2026 Community Day: Pawniard</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communityday-november-2026-pawniard"/>
-    <published>2026-11-03T02:47:08Z</published>
-    <updated>2026-11-03T02:47:08Z</updated>
+    <published>2026-11-03T18:11:06Z</published>
+    <updated>2026-11-03T18:11:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/go-wild-area-stamp-rally-details-2026</id>
     <title>⚡ GO Wild Area Event Stamp Rallies Clarification</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-wild-area-stamp-rally-details-2026"/>
-    <published>2026-11-03T02:47:08Z</published>
-    <updated>2026-11-03T02:47:08Z</updated>
+    <published>2026-11-03T18:11:06Z</published>
+    <updated>2026-11-03T18:11:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/gowa-global-europe-2026</id>
     <title>⚡ Find your community in Europe during Pokémon GO Wild Area: Global!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowa-global-europe-2026"/>
-    <published>2026-11-03T02:47:08Z</published>
-    <updated>2026-11-03T02:47:08Z</updated>
+    <published>2026-11-03T18:11:06Z</published>
+    <updated>2026-11-03T18:11:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/dynamax-trails-eternamax-eternatus-2026</id>
     <title>⚡ All roads lead to Eternatus’s return during the Dynamax Trails event!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/dynamax-trails-eternamax-eternatus-2026"/>
-    <published>2026-11-03T02:47:08Z</published>
-    <updated>2026-11-03T02:47:08Z</updated>
+    <published>2026-11-03T18:11:06Z</published>
+    <updated>2026-11-03T18:11:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/pokemon-center-bangkok-opens-2026</id>
     <title>⚡ Pokémon Center BANGKOK Opens!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-center-bangkok-opens-2026"/>
-    <published>2026-11-03T02:47:08Z</published>
-    <updated>2026-11-03T02:47:08Z</updated>
+    <published>2026-11-03T18:11:06Z</published>
+    <updated>2026-11-03T18:11:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/twilight-wishes-2026</id>
     <title>⚡ Gather beneath a starry sky during Twilight Wishes!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/twilight-wishes-2026"/>
-    <published>2026-11-03T02:47:08Z</published>
-    <updated>2026-11-03T02:47:08Z</updated>
+    <published>2026-11-03T18:11:06Z</published>
+    <updated>2026-11-03T18:11:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/pgo-explorer-gadget-2026-update</id>
     <title>⚡ The Explorer Gadget evolves!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pgo-explorer-gadget-2026-update"/>
-    <published>2026-11-03T02:47:08Z</published>
-    <updated>2026-11-03T02:47:08Z</updated>
+    <published>2026-11-03T18:11:06Z</published>
+    <updated>2026-11-03T18:11:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/get-ready-for-gowildarea-2026</id>
     <title>⚡ Get ready for Pokémon GO Wild Area 2026 with Pokémon backgrounds on your Trainer profile, new avatar items, and more exciting details!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/get-ready-for-gowildarea-2026"/>
-    <published>2026-11-03T02:47:08Z</published>
-    <updated>2026-11-03T02:47:08Z</updated>
+    <published>2026-11-03T18:11:06Z</published>
+    <updated>2026-11-03T18:11:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,47 +156,177 @@
     <id>https://pokemongolive.com/news/forever-stamp-rally-go-wild-area-2026</id>
     <title>⚡ Discover new city adventures starting today! All Trainers can join brand-new Pokémon GO Stamp Rallies in Sendai • Tohoku, Japan, and Mexico City, Mexico.</title>
     <link rel="alternate" href="https://pokemongolive.com/news/forever-stamp-rally-go-wild-area-2026"/>
-    <published>2026-11-03T02:47:08Z</published>
-    <updated>2026-11-03T02:47:08Z</updated>
+    <published>2026-11-03T18:11:06Z</published>
+    <updated>2026-11-03T18:11:06Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xme2c1/profile_background_confirmed_for_wild_area_g47ix/</id>
-    <title>⚡ Profile Background Confirmed for Wild Area (G47IX)</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xme2c1/profile_background_confirmed_for_wild_area_g47ix/"/>
-    <published>2026-11-03T00:10:46Z</published>
-    <updated>2026-11-03T00:10:46Z</updated>
-    <summary type="text">submitted by /u/noobkiller69 [link] [comments]</summary>
+    <id>https://pokemongolive.com/news/gowa_cdmx_additional_info</id>
+    <title>⚡ Discover more of the city during Pokémon GO Wild Area: Mexico City</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gowa_cdmx_additional_info"/>
+    <published>2026-11-03T18:11:06Z</published>
+    <updated>2026-11-03T18:11:06Z</updated>
     <category term="pokemon"/>
     <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xme28o/get_ready_for_pokémon_go_wild_area_2026_with/</id>
-    <title>⚡ Get ready for Pokémon GO Wild Area 2026 with Pokémon backgrounds on your Trainer profile, new avatar items, and more exciting details!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xme28o/get_ready_for_pokémon_go_wild_area_2026_with/"/>
-    <published>2026-11-03T00:10:39Z</published>
-    <updated>2026-11-03T00:10:39Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints</id>
-    <title>🤖 Apple is ‘not able to predict’ when it&amp;#8217;ll have enough iPhone Duos to go around</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints"/>
-    <published>2026-11-02T22:56:11Z</published>
-    <updated>2026-11-02T22:56:11Z</updated>
-    <summary type="text">Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is &quot;working hard to get it to as many customers as quickly as possible, but at this ​point, we're not able to predict when supply and demand will</summary>
+    <id>https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations</id>
+    <title>🤖 Netflix will show you themed recommendations through a new ‘AI Discover’ tab</title>
+    <link rel="alternate" href="https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations"/>
+    <published>2026-11-03T18:00:00Z</published>
+    <updated>2026-11-03T18:00:00Z</updated>
+    <summary type="text">Netflix's TV app is getting a new &quot;AI Discover&quot; tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like &quot;Something Light,&quot; &quot;Family Movie Night,&quot; or &quot;Quick Watches.&quot; Whe</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</id>
+    <title>🤖 Google is entirely disabling Search in schools that don&amp;#8217;t want AI</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features"/>
+    <published>2026-11-03T17:00:04Z</published>
+    <updated>2026-11-03T17:00:04Z</updated>
+    <summary type="text">Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search &quot;will </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xmx73b/festival_of_lights_2026/</id>
+    <title>⚡ Festival of Lights 2026</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xmx73b/festival_of_lights_2026/"/>
+    <published>2026-11-03T16:14:41Z</published>
+    <updated>2026-11-03T16:14:41Z</updated>
+    <summary type="text">( Credits: G47IX ) submitted by /u/iTaIksick [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xmx42v/the_adventure_effects_for_freeze_shock_ice_burn/</id>
+    <title>⚡ The Adventure Effects for Freeze Shock, Ice Burn, Behemoth Blade, Behemoth Bash, and Dynamax Cannon have been added to the game master with flags allowing them to be activated in battle lobbies, these features are expected to become available when Into the Wild begins.</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xmx42v/the_adventure_effects_for_freeze_shock_ice_burn/"/>
+    <published>2026-11-03T16:11:28Z</published>
+    <updated>2026-11-03T16:11:28Z</updated>
+    <summary type="text">( Credits: Pokeminers ) submitted by /u/iTaIksick [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai</id>
+    <title>🤖 Apple is all in on AI — its own and everyone else&amp;#8217;s</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai"/>
+    <published>2026-11-03T15:24:51Z</published>
+    <updated>2026-11-03T15:24:51Z</updated>
+    <summary type="text">Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in th</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xmuvfp/we_need_to_be_able_to_see_the_scatterbug_pattern/</id>
+    <title>⚡ We need to be able to see the Scatterbug pattern in a remote trade.</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xmuvfp/we_need_to_be_able_to_see_the_scatterbug_pattern/"/>
+    <published>2026-11-03T14:47:16Z</published>
+    <updated>2026-11-03T14:47:16Z</updated>
+    <summary type="text">Hello, I had a remote trade with a friend who sends postcards from the Icy Snow region in Finland. They had a shiny Scatterbug up for remote trade. I sent them a Campfire message to ask about the pattern, but received no response. I was hoping it was Icy Snow, which was likely since it’s their home </summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xmto3g/questions_answers_weekly_megathread_please_use/</id>
+    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xmto3g/questions_answers_weekly_megathread_please_use/"/>
+    <published>2026-11-03T14:00:16Z</published>
+    <updated>2026-11-03T14:00:16Z</updated>
+    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xmtjrv/into_the_wild_max_battle_attackers_and_tanks/</id>
+    <title>⚡ Into the Wild Max Battle Attackers and Tanks Analysis- Registeel, Regidrago, Latias, and Latios</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xmtjrv/into_the_wild_max_battle_attackers_and_tanks/"/>
+    <published>2026-11-03T13:55:16Z</published>
+    <updated>2026-11-03T13:55:16Z</updated>
+    <summary type="text">Tl;dr “Must haves” from the event are Crowned Zamazenta, Crowned Zacian, and Dmax Latias. Skip to the sections below that you care about. Intro The Into the Wild event begins on Monday November 9 th . The event brings us several tier-5 Max Battles. I’ll try to be brief on each one since we have a lo</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xmtin3/let_us_turn_off_the_gadget_even_if_our_storage_is/</id>
+    <title>⚡ Let us turn off the gadget even if our storage is full!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xmtin3/let_us_turn_off_the_gadget_even_if_our_storage_is/"/>
+    <published>2026-11-03T13:54:01Z</published>
+    <updated>2026-11-03T13:54:01Z</updated>
+    <summary type="text">Yes, you can turn it off if your bag and Pokémon storage aren't full but as soon as one of the two has reached its limit, the function vanishes. It's become more of a problem now that the gadget is active while we're actively playing: I've already found myself scrambling to click on Pokémon to catch</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xmpscs/1tap_appraise_added_and_removed_within_hours/</id>
+    <title>⚡ 1-tap appraise added and removed within hours</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xmpscs/1tap_appraise_added_and_removed_within_hours/"/>
+    <published>2026-11-03T10:46:43Z</published>
+    <updated>2026-11-03T10:46:43Z</updated>
+    <summary type="text">Was it too handy? Too much of an QoL? If there's a dedicated button for IV's, why do I still have to tap 2 times? The current button feels insanely sluggish. submitted by /u/LifeRight4387 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/index/heimstaden</id>
+    <title>🤖 Heimstaden is changing residential real estate management with AI</title>
+    <link rel="alternate" href="https://openai.com/index/heimstaden"/>
+    <published>2026-11-03T08:00:00Z</published>
+    <updated>2026-11-03T08:00:00Z</updated>
+    <summary type="text">Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xmjtfj/getting_spiritomb_is_virtually_impossible/</id>
+    <title>⚡ Getting Spiritomb is virtually impossible</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xmjtfj/getting_spiritomb_is_virtually_impossible/"/>
+    <published>2026-11-03T04:47:00Z</published>
+    <updated>2026-11-03T04:47:00Z</updated>
+    <summary type="text">The monthly challenges takes a month to complete and 200 levels. This is feasible but how in the hell does one complete 108 levels in 10 days? My maths is probably wrong but with +/- 650 daily points to earn, thats approx 65 max rows in 10 days before the bonus challenge arrive and even then, it doe</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://supercell.com/en/games/brawlstars/blog/game-updates/release-notes-november-2026</id>
+    <title>🏆 Release Notes November 2026</title>
+    <link rel="alternate" href="https://supercell.com/en/games/brawlstars/blog/game-updates/release-notes-november-2026"/>
+    <published>2026-11-03T03:00:00Z</published>
+    <updated>2026-11-03T03:00:00Z</updated>
+    <category term="brawlstars"/>
+    <author>
+      <name>Brawl Stars Official Blog</name>
     </author>
   </entry>
   <entry>
@@ -217,42 +336,6 @@
     <published>2026-11-02T21:09:03Z</published>
     <updated>2026-11-02T21:09:03Z</updated>
     <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xm9fcg/the_explorer_gadget_evolves/</id>
-    <title>⚡ The Explorer Gadget evolves!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xm9fcg/the_explorer_gadget_evolves/"/>
-    <published>2026-11-02T21:02:53Z</published>
-    <updated>2026-11-02T21:02:53Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xm9daa/mega_chandelure_bonuses_from_global_challenge_are/</id>
-    <title>⚡ Mega Chandelure bonuses from Global Challenge are live</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xm9daa/mega_chandelure_bonuses_from_global_challenge_are/"/>
-    <published>2026-11-02T21:00:53Z</published>
-    <updated>2026-11-02T21:00:53Z</updated>
-    <summary type="text">Courtesy of Matt in the PokeMiners discord submitted by /u/aznknight613 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xm8ott/new_quick_appraise_button/</id>
-    <title>⚡ New quick appraise button!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xm8ott/new_quick_appraise_button/"/>
-    <published>2026-11-02T20:34:28Z</published>
-    <updated>2026-11-02T20:34:28Z</updated>
-    <summary type="text">submitted by /u/Mudkip_is_king [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
@@ -271,63 +354,27 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xm6f0t/new_graphics_after_update/</id>
-    <title>⚡ New Graphics after update</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xm6f0t/new_graphics_after_update/"/>
-    <published>2026-11-02T19:10:47Z</published>
-    <updated>2026-11-02T19:10:47Z</updated>
-    <summary type="text">I was forced to update. New font and maybe new look for lures submitted by /u/guz_808 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers</id>
-    <title>🤖 Ford promises not to sell your driving habits to data brokers</title>
-    <link rel="alternate" href="https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers"/>
-    <published>2026-11-02T19:05:46Z</published>
-    <updated>2026-11-02T19:05:46Z</updated>
-    <summary type="text">Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part of its new promise, </summary>
+    <id>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</id>
+    <title>🤖 Preparing our next security sprint to harden OpenAI</title>
+    <link rel="alternate" href="https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"/>
+    <published>2026-11-02T18:00:00Z</published>
+    <updated>2026-11-02T18:00:00Z</updated>
+    <summary type="text">OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.</summary>
     <category term="ai"/>
     <author>
-      <name>The Verge — AI</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones</id>
-    <title>🤖 Anthropic clamps down on Claude’s AI video game clones</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"/>
-    <published>2026-11-02T18:56:02Z</published>
-    <updated>2026-11-02T18:56:02Z</updated>
-    <summary type="text">Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Cla</summary>
+    <id>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</id>
+    <title>🤖 Rewarding defenders with bigger bug bounties</title>
+    <link rel="alternate" href="https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"/>
+    <published>2026-11-02T18:00:00Z</published>
+    <updated>2026-11-02T18:00:00Z</updated>
+    <summary type="text">OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.</summary>
     <category term="ai"/>
     <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program</id>
-    <title>🤖 OpenAI pitches data center power plants as a way to protect nearby areas</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"/>
-    <published>2026-11-02T18:01:30Z</published>
-    <updated>2026-11-02T18:01:30Z</updated>
-    <summary type="text">In an announcement on Monday, OpenAI says it will pilot its &quot;Grid Protectors Program&quot; at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 h</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xm3s7b/twilight_wishes/</id>
-    <title>⚡ Twilight Wishes</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xm3s7b/twilight_wishes/"/>
-    <published>2026-11-02T17:37:55Z</published>
-    <updated>2026-11-02T17:37:55Z</updated>
-    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -355,18 +402,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/lifeval</id>
-    <title>🤖 LifeVal</title>
-    <link rel="alternate" href="https://openai.com/index/lifeval"/>
-    <published>2026-11-02T09:00:00Z</published>
-    <updated>2026-11-02T09:00:00Z</updated>
-    <summary type="text">Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102</id>
     <title>🤖 Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery</title>
     <link rel="alternate" href="https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102"/>
@@ -376,30 +411,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/qodo-codex-plugin</id>
-    <title>🤖 Qodo builds context into AI code review with Codex</title>
-    <link rel="alternate" href="https://openai.com/index/qodo-codex-plugin"/>
-    <published>2026-11-02T00:00:00Z</published>
-    <updated>2026-11-02T00:00:00Z</updated>
-    <summary type="text">Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/dan-driscoll-joins-openai</id>
-    <title>🤖 OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization</title>
-    <link rel="alternate" href="https://openai.com/index/dan-driscoll-joins-openai"/>
-    <published>2026-11-02T00:00:00Z</published>
-    <updated>2026-11-02T00:00:00Z</updated>
-    <summary type="text">OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -475,18 +486,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xgtbho/questions_answers_weekly_megathread_please_use/</id>
-    <title>⚡ Questions &amp; Answers - Weekly Megathread! Please use this post to ask any Pokemon GO question you'd like!</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xgtbho/questions_answers_weekly_megathread_please_use/"/>
-    <published>2026-10-27T14:00:07Z</published>
-    <updated>2026-10-27T14:00:07Z</updated>
-    <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026</id>
     <title>🤖 At New York Climate Week 2026, MIT connects with a global network</title>
     <link rel="alternate" href="https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026"/>
@@ -548,17 +547,6 @@
     <link rel="alternate" href="https://supercell.com/en/games/brawlstars/blog/esports/matcherino-just-levelled-up"/>
     <published>2026-09-01T12:00:00Z</published>
     <updated>2026-09-01T12:00:00Z</updated>
-    <category term="brawlstars"/>
-    <author>
-      <name>Brawl Stars Official Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://supercell.com/en/games/brawlstars/blog/release-notes/release-notes-august-2026</id>
-    <title>🏆 Release Notes August 2026</title>
-    <link rel="alternate" href="https://supercell.com/en/games/brawlstars/blog/release-notes/release-notes-august-2026"/>
-    <published>2026-09-01T04:46:20Z</published>
-    <updated>2026-09-01T04:46:20Z</updated>
     <category term="brawlstars"/>
     <author>
       <name>Brawl Stars Official Blog</name>
