@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-11-06T17:46:42Z</updated>
+  <updated>2026-11-06T20:15:44Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/pokemon-night-out-irl-details2026</id>
-    <title>⚡ Celebrate the Pokémon Night Out events in Pokémon GO!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/pokemon-night-out-irl-details2026"/>
-    <published>2026-11-06T17:46:39Z</published>
-    <updated>2026-11-06T17:46:39Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/go-pass-november-2026</id>
     <title>⚡ Earn PokéCoins for progressing in GO Pass: November!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-november-2026"/>
-    <published>2026-11-06T17:46:39Z</published>
-    <updated>2026-11-06T17:46:39Z</updated>
+    <published>2026-11-06T20:15:42Z</published>
+    <updated>2026-11-06T20:15:42Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/communityday-november-2026-pawniard</id>
     <title>⚡ November 2026 Community Day: Pawniard</title>
     <link rel="alternate" href="https://pokemongolive.com/news/communityday-november-2026-pawniard"/>
-    <published>2026-11-06T17:46:39Z</published>
-    <updated>2026-11-06T17:46:39Z</updated>
+    <published>2026-11-06T20:15:42Z</published>
+    <updated>2026-11-06T20:15:42Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/go-wild-area-stamp-rally-details-2026</id>
     <title>⚡ GO Wild Area Event Stamp Rallies Clarification</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-wild-area-stamp-rally-details-2026"/>
-    <published>2026-11-06T17:46:39Z</published>
-    <updated>2026-11-06T17:46:39Z</updated>
+    <published>2026-11-06T20:15:42Z</published>
+    <updated>2026-11-06T20:15:42Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/gowa-global-europe-2026</id>
     <title>⚡ Find your community in Europe during Pokémon GO Wild Area: Global!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowa-global-europe-2026"/>
-    <published>2026-11-06T17:46:39Z</published>
-    <updated>2026-11-06T17:46:39Z</updated>
+    <published>2026-11-06T20:15:42Z</published>
+    <updated>2026-11-06T20:15:42Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/dynamax-trails-eternamax-eternatus-2026</id>
     <title>⚡ All roads lead to Eternatus’s return during the Dynamax Trails event!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/dynamax-trails-eternamax-eternatus-2026"/>
-    <published>2026-11-06T17:46:39Z</published>
-    <updated>2026-11-06T17:46:39Z</updated>
+    <published>2026-11-06T20:15:42Z</published>
+    <updated>2026-11-06T20:15:42Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/pokemon-center-bangkok-opens-2026</id>
     <title>⚡ Pokémon Center BANGKOK Opens!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-center-bangkok-opens-2026"/>
-    <published>2026-11-06T17:46:39Z</published>
-    <updated>2026-11-06T17:46:39Z</updated>
+    <published>2026-11-06T20:15:42Z</published>
+    <updated>2026-11-06T20:15:42Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/twilight-wishes-2026</id>
     <title>⚡ Gather beneath a starry sky during Twilight Wishes!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/twilight-wishes-2026"/>
-    <published>2026-11-06T17:46:39Z</published>
-    <updated>2026-11-06T17:46:39Z</updated>
+    <published>2026-11-06T20:15:42Z</published>
+    <updated>2026-11-06T20:15:42Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/pgo-explorer-gadget-2026-update</id>
     <title>⚡ The Explorer Gadget evolves!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pgo-explorer-gadget-2026-update"/>
-    <published>2026-11-06T17:46:39Z</published>
-    <updated>2026-11-06T17:46:39Z</updated>
+    <published>2026-11-06T20:15:42Z</published>
+    <updated>2026-11-06T20:15:42Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/get-ready-for-gowildarea-2026</id>
     <title>⚡ Get ready for Pokémon GO Wild Area 2026 with Pokémon backgrounds on your Trainer profile, new avatar items, and more exciting details!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/get-ready-for-gowildarea-2026"/>
-    <published>2026-11-06T17:46:39Z</published>
-    <updated>2026-11-06T17:46:39Z</updated>
+    <published>2026-11-06T20:15:42Z</published>
+    <updated>2026-11-06T20:15:42Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/forever-stamp-rally-go-wild-area-2026</id>
     <title>⚡ Discover new city adventures starting today! All Trainers can join brand-new Pokémon GO Stamp Rallies in Sendai • Tohoku, Japan, and Mexico City, Mexico.</title>
     <link rel="alternate" href="https://pokemongolive.com/news/forever-stamp-rally-go-wild-area-2026"/>
-    <published>2026-11-06T17:46:39Z</published>
-    <updated>2026-11-06T17:46:39Z</updated>
+    <published>2026-11-06T20:15:42Z</published>
+    <updated>2026-11-06T20:15:42Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/gowa_cdmx_additional_info</id>
     <title>⚡ Discover more of the city during Pokémon GO Wild Area: Mexico City</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowa_cdmx_additional_info"/>
-    <published>2026-11-06T17:46:39Z</published>
-    <updated>2026-11-06T17:46:39Z</updated>
+    <published>2026-11-06T20:15:42Z</published>
+    <updated>2026-11-06T20:15:42Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/community-meetups-go-wild-area-2026-details-asia-pacific</id>
     <title>⚡ Get ready for Pokémon GO Wild Area 2026: Global Community meetups in the Asia-Pacific region!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/community-meetups-go-wild-area-2026-details-asia-pacific"/>
-    <published>2026-11-06T17:46:39Z</published>
-    <updated>2026-11-06T17:46:39Z</updated>
+    <published>2026-11-06T20:15:42Z</published>
+    <updated>2026-11-06T20:15:42Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/clefable-super-mega-raid-day-2026</id>
     <title>⚡ Dance under the moonlight during Clefable Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/clefable-super-mega-raid-day-2026"/>
-    <published>2026-11-06T17:46:39Z</published>
-    <updated>2026-11-06T17:46:39Z</updated>
+    <published>2026-11-06T20:15:42Z</published>
+    <updated>2026-11-06T20:15:42Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +156,106 @@
     <id>https://pokemongolive.com/news/gowildarea-mexicocity-friday-update</id>
     <title>⚡ Friday experience update for Pokémon GO Wild Area: Mexico City</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-mexicocity-friday-update"/>
-    <published>2026-11-06T17:46:39Z</published>
-    <updated>2026-11-06T17:46:39Z</updated>
+    <published>2026-11-06T20:15:42Z</published>
+    <updated>2026-11-06T20:15:42Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/gowildarea-2026-timed-research</id>
+    <title>⚡ This weekend only! Log in November 6–8 for free Timed Research featuring Gigantamax Machamp!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-2026-timed-research"/>
+    <published>2026-11-06T20:15:42Z</published>
+    <updated>2026-11-06T20:15:42Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</id>
+    <title>🤖 All the latest updates on AI data centers</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy"/>
+    <published>2026-11-06T20:02:22Z</published>
+    <updated>2026-11-06T20:02:22Z</updated>
+    <summary type="text">Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale</id>
+    <title>🤖 Shure’s popular podcasting and streaming mic is almost $50 off</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale"/>
+    <published>2026-11-06T19:47:02Z</published>
+    <updated>2026-11-06T19:47:02Z</updated>
+    <summary type="text">While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and directly from Shure. That’s almost $50 lower than</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xpl9io/tropical_paradise/</id>
+    <title>⚡ Tropical Paradise</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xpl9io/tropical_paradise/"/>
+    <published>2026-11-06T19:07:28Z</published>
+    <updated>2026-11-06T19:07:28Z</updated>
+    <summary type="text">submitted by /u/iTaIksick [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106</id>
+    <title>🤖 How to predict the behavior of molecules from scant data</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106"/>
+    <published>2026-11-06T19:00:00Z</published>
+    <updated>2026-11-06T19:00:00Z</updated>
+    <summary type="text">A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</id>
+    <title>🤖 Meta&amp;#8217;s Muse AI can create custom &amp;#8216;spaces&amp;#8217; for the version of the app you need right now</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"/>
+    <published>2026-11-06T18:10:10Z</published>
+    <updated>2026-11-06T18:10:10Z</updated>
+    <summary type="text">Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called &quot;spaces,&quot; allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you ca</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xpjpif/if_gifts_and_eggs_dont_count_towards_my_bag_space/</id>
+    <title>⚡ If gifts and eggs don’t count towards my bag space, let me spin for them when my bag is full.</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xpjpif/if_gifts_and_eggs_dont_count_towards_my_bag_space/"/>
+    <published>2026-11-06T18:07:26Z</published>
+    <updated>2026-11-06T18:07:26Z</updated>
+    <summary type="text">I hate having to constantly clear space when all I want are my daily gifts to send out. submitted by /u/miracle36 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xpjkbo/this_weekend_only_log_in_november_68_for_free/</id>
+    <title>⚡ This weekend only! Log in November 6–8 for free Timed Research featuring Gigantamax Machamp!</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xpjkbo/this_weekend_only_log_in_november_68_for_free/"/>
+    <published>2026-11-06T18:01:50Z</published>
+    <updated>2026-11-06T18:01:50Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
@@ -192,7 +276,7 @@
     <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xpi9z6/ability_to_massdiscard_gifts_rolled_out_to_some/"/>
     <published>2026-11-06T17:12:27Z</published>
     <updated>2026-11-06T17:12:27Z</updated>
-    <summary type="text">For some players, the gift bag no longer has a delete button (trash can icon) next to each gift. Instead, you can press-and-hold on a gift to select it, then tap additional gifts to select multiple. When one or more gifts is selected, a &quot;Discard&quot; button appears that will delete all selected gifts. s</summary>
+    <summary type="text">For some players, the list of gifts in your item storage no longer has a delete button (trash can icon) next to each gift. Instead, you can press-and-hold on a gift to select it, then tap additional gifts to select multiple. When one or more gifts is selected, a &quot;Discard&quot; button appears that will de</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
@@ -205,66 +289,6 @@
     <published>2026-11-06T17:00:00Z</published>
     <updated>2026-11-06T17:00:00Z</updated>
     <summary type="text">When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. &quot;Hinge has a prompt w</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xphqyw/t5_dynamax_dialga_palkia_battles_heavily_nerfed/</id>
-    <title>⚡ T5 Dynamax Dialga &amp; Palkia Battles Heavily Nerfed During Wild Area Sendai/Mexico City (0.7 CPM -&gt; 0.5 CPM)</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xphqyw/t5_dynamax_dialga_palkia_battles_heavily_nerfed/"/>
-    <published>2026-11-06T16:52:30Z</published>
-    <updated>2026-11-06T16:52:30Z</updated>
-    <summary type="text">I haven't seen a discussion post on this yet, so I want to bring this up for players that might not be aware, as most discussion on this nerf is a bit hidden. Some players found out that Dialga &amp; Palkia were heavily nerfed during the second half of day 1 of the event. According to /u/ TrueNourishmen</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast</id>
-    <title>🤖 Big Tech lost big in the 2026 election</title>
-    <link rel="alternate" href="https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast"/>
-    <published>2026-11-06T16:38:02Z</published>
-    <updated>2026-11-06T16:38:02Z</updated>
-    <summary type="text">On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nila</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai</id>
-    <title>🤖 How Akai and Moog are embracing vibe-coded mods</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai"/>
-    <published>2026-11-06T16:34:39Z</published>
-    <updated>2026-11-06T16:34:39Z</updated>
-    <summary type="text">inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, &quot;We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sam</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xpguh0/brief_analysis_optimal_megapokemon_for_go_wild/</id>
-    <title>⚡ Brief analysis: Optimal Mega-Pokemon for Go Wild 2026</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xpguh0/brief_analysis_optimal_megapokemon_for_go_wild/"/>
-    <published>2026-11-06T16:17:31Z</published>
-    <updated>2026-11-06T16:17:31Z</updated>
-    <summary type="text">tl;dr: - Most habitat candy overall: Super Max Skarmory (18 + 4 | 4) - Most habitat candy if only Max level: Max Steelix (20 + 5 | 4) - Most dragon habitat candy specifically (reg + XL): Super Max Dragonite (15 + 3 | 4) - Maximize spawn candy AND Raids/Max battles: Super Max Dragonite (adds all but </summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/1028632/lutra-humans-of-authenticity-hoa-a1-transparent-digital-camera</id>
-    <title>🤖 This see-through camera lets photographers maintain eye contact with their subjects</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1028632/lutra-humans-of-authenticity-hoa-a1-transparent-digital-camera"/>
-    <published>2026-11-06T15:33:03Z</published>
-    <updated>2026-11-06T15:33:03Z</updated>
-    <summary type="text">Lutra, a South Korean startup, has debuted a new brand called Humans of Authenticity (HOA) that's launching another screen-free digital camera that incorporates a large open viewfinder into its design, as spotted by PetaPixel. The camera is reminiscent of the Godox C100 but the HOA A1 positions its </summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
@@ -307,6 +331,18 @@
     </author>
   </entry>
   <entry>
+    <id>https://openai.com/index/partnering-with-hacktron</id>
+    <title>🤖 Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
+    <link rel="alternate" href="https://openai.com/index/partnering-with-hacktron"/>
+    <published>2026-11-06T08:00:00Z</published>
+    <updated>2026-11-06T08:00:00Z</updated>
+    <summary type="text">OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
     <id>https://www.reddit.com/r/TheSilphRoad/comments/1xp6yc8/buddy_pokemon_backgrounds_are_starting_to_appear/</id>
     <title>⚡ Buddy Pokemon Backgrounds are starting to appear on Trainer Profiles! (But only certain ones so far)</title>
     <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xp6yc8/buddy_pokemon_backgrounds_are_starting_to_appear/"/>
@@ -319,15 +355,15 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xoxfls/everyonefree_go_wild_area_timed_research_with_a/</id>
-    <title>⚡ (Everyone)Free GO Wild Area Timed Research with a Gigantamax Machamp encounter for exploring 5 km</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xoxfls/everyonefree_go_wild_area_timed_research_with_a/"/>
-    <published>2026-11-05T23:18:15Z</published>
-    <updated>2026-11-05T23:18:15Z</updated>
-    <summary type="text">New Zealand players are reporting a new Timed Research called “GO Wild Area: Gigantamax Machamp Power Up!” , apparently starting November 6 at 10:00 AM local time. It is reportedly free, with no event ticket required. Tasks shown in the screenshot: Explore 5 km → Gigantamax Machamp encounter Catch a</summary>
-    <category term="pokemon"/>
+    <id>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</id>
+    <title>🤖 Measuring how AI agents handle everyday wet-lab science</title>
+    <link rel="alternate" href="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"/>
+    <published>2026-11-06T00:00:00Z</published>
+    <updated>2026-11-06T00:00:00Z</updated>
+    <summary type="text">OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.</summary>
+    <category term="ai"/>
     <author>
-      <name>The Silph Road (Pokémon GO)</name>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -367,18 +403,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/merge-builds-with-openai</id>
-    <title>🤖 Merge builds product and business tools with OpenAI technology</title>
-    <link rel="alternate" href="https://openai.com/index/merge-builds-with-openai"/>
-    <published>2026-11-05T08:00:00Z</published>
-    <updated>2026-11-05T08:00:00Z</updated>
-    <summary type="text">Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105</id>
     <title>🤖 Clearing up a robot’s fuzzy memory</title>
     <link rel="alternate" href="https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105"/>
@@ -388,18 +412,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</id>
-    <title>🤖 Setting a new standard for responsible AI infrastructure</title>
-    <link rel="alternate" href="https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"/>
-    <published>2026-11-05T02:00:00Z</published>
-    <updated>2026-11-05T02:00:00Z</updated>
-    <summary type="text">OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -504,18 +516,6 @@
     <published>2026-10-28T16:00:00Z</published>
     <updated>2026-10-28T16:00:00Z</updated>
     <summary type="text">Professor Ali Jadbabaie describes how AI, digital transformation, climate change, and complex geopolitics are forcing engineers and policymakers to rethink how infrastructure is designed, built, and managed.</summary>
-    <category term="ai"/>
-    <author>
-      <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028</id>
-    <title>🤖 Making machines that can listen</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028"/>
-    <published>2026-10-28T04:00:00Z</published>
-    <updated>2026-10-28T04:00:00Z</updated>
-    <summary type="text">Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring.</summary>
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
