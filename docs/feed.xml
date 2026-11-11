@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-11-10T20:42:32Z</updated>
+  <updated>2026-11-11T01:04:12Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,11 +10,23 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
+    <id>https://openai.com/index/gilbert-tobin-sam-nickless</id>
+    <title>🤖 Gilbert + Tobin rethinks the business of law with AI</title>
+    <link rel="alternate" href="https://openai.com/index/gilbert-tobin-sam-nickless"/>
+    <published>2026-11-12T00:00:00Z</published>
+    <updated>2026-11-12T00:00:00Z</updated>
+    <summary type="text">A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
     <id>https://pokemongolive.com/news/go-wild-area-stamp-rally-details-2026</id>
     <title>⚡ GO Wild Area Event Stamp Rallies Clarification</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-wild-area-stamp-rally-details-2026"/>
-    <published>2026-11-10T20:42:30Z</published>
-    <updated>2026-11-10T20:42:30Z</updated>
+    <published>2026-11-11T01:04:09Z</published>
+    <updated>2026-11-11T01:04:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -24,8 +36,8 @@
     <id>https://pokemongolive.com/news/gowa-global-europe-2026</id>
     <title>⚡ Find your community in Europe during Pokémon GO Wild Area: Global!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowa-global-europe-2026"/>
-    <published>2026-11-10T20:42:30Z</published>
-    <updated>2026-11-10T20:42:30Z</updated>
+    <published>2026-11-11T01:04:09Z</published>
+    <updated>2026-11-11T01:04:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +47,8 @@
     <id>https://pokemongolive.com/news/dynamax-trails-eternamax-eternatus-2026</id>
     <title>⚡ All roads lead to Eternatus’s return during the Dynamax Trails event!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/dynamax-trails-eternamax-eternatus-2026"/>
-    <published>2026-11-10T20:42:30Z</published>
-    <updated>2026-11-10T20:42:30Z</updated>
+    <published>2026-11-11T01:04:09Z</published>
+    <updated>2026-11-11T01:04:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +58,8 @@
     <id>https://pokemongolive.com/news/pokemon-center-bangkok-opens-2026</id>
     <title>⚡ Pokémon Center BANGKOK Opens!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-center-bangkok-opens-2026"/>
-    <published>2026-11-10T20:42:30Z</published>
-    <updated>2026-11-10T20:42:30Z</updated>
+    <published>2026-11-11T01:04:09Z</published>
+    <updated>2026-11-11T01:04:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +69,8 @@
     <id>https://pokemongolive.com/news/twilight-wishes-2026</id>
     <title>⚡ Gather beneath a starry sky during Twilight Wishes!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/twilight-wishes-2026"/>
-    <published>2026-11-10T20:42:30Z</published>
-    <updated>2026-11-10T20:42:30Z</updated>
+    <published>2026-11-11T01:04:09Z</published>
+    <updated>2026-11-11T01:04:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +80,8 @@
     <id>https://pokemongolive.com/news/pgo-explorer-gadget-2026-update</id>
     <title>⚡ The Explorer Gadget evolves!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pgo-explorer-gadget-2026-update"/>
-    <published>2026-11-10T20:42:30Z</published>
-    <updated>2026-11-10T20:42:30Z</updated>
+    <published>2026-11-11T01:04:09Z</published>
+    <updated>2026-11-11T01:04:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +91,8 @@
     <id>https://pokemongolive.com/news/get-ready-for-gowildarea-2026</id>
     <title>⚡ Get ready for Pokémon GO Wild Area 2026 with Pokémon backgrounds on your Trainer profile, new avatar items, and more exciting details!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/get-ready-for-gowildarea-2026"/>
-    <published>2026-11-10T20:42:30Z</published>
-    <updated>2026-11-10T20:42:30Z</updated>
+    <published>2026-11-11T01:04:09Z</published>
+    <updated>2026-11-11T01:04:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +102,8 @@
     <id>https://pokemongolive.com/news/forever-stamp-rally-go-wild-area-2026</id>
     <title>⚡ Discover new city adventures starting today! All Trainers can join brand-new Pokémon GO Stamp Rallies in Sendai • Tohoku, Japan, and Mexico City, Mexico.</title>
     <link rel="alternate" href="https://pokemongolive.com/news/forever-stamp-rally-go-wild-area-2026"/>
-    <published>2026-11-10T20:42:30Z</published>
-    <updated>2026-11-10T20:42:30Z</updated>
+    <published>2026-11-11T01:04:09Z</published>
+    <updated>2026-11-11T01:04:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +113,8 @@
     <id>https://pokemongolive.com/news/gowa_cdmx_additional_info</id>
     <title>⚡ Discover more of the city during Pokémon GO Wild Area: Mexico City</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowa_cdmx_additional_info"/>
-    <published>2026-11-10T20:42:30Z</published>
-    <updated>2026-11-10T20:42:30Z</updated>
+    <published>2026-11-11T01:04:09Z</published>
+    <updated>2026-11-11T01:04:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +124,8 @@
     <id>https://pokemongolive.com/news/community-meetups-go-wild-area-2026-details-asia-pacific</id>
     <title>⚡ Get ready for Pokémon GO Wild Area 2026: Global Community meetups in the Asia-Pacific region!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/community-meetups-go-wild-area-2026-details-asia-pacific"/>
-    <published>2026-11-10T20:42:30Z</published>
-    <updated>2026-11-10T20:42:30Z</updated>
+    <published>2026-11-11T01:04:09Z</published>
+    <updated>2026-11-11T01:04:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +135,8 @@
     <id>https://pokemongolive.com/news/clefable-super-mega-raid-day-2026</id>
     <title>⚡ Dance under the moonlight during Clefable Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/clefable-super-mega-raid-day-2026"/>
-    <published>2026-11-10T20:42:30Z</published>
-    <updated>2026-11-10T20:42:30Z</updated>
+    <published>2026-11-11T01:04:09Z</published>
+    <updated>2026-11-11T01:04:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +146,8 @@
     <id>https://pokemongolive.com/news/gowildarea-mexicocity-friday-update</id>
     <title>⚡ Friday experience update for Pokémon GO Wild Area: Mexico City</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-mexicocity-friday-update"/>
-    <published>2026-11-10T20:42:30Z</published>
-    <updated>2026-11-10T20:42:30Z</updated>
+    <published>2026-11-11T01:04:09Z</published>
+    <updated>2026-11-11T01:04:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +157,8 @@
     <id>https://pokemongolive.com/news/gowildarea-2026-timed-research</id>
     <title>⚡ This weekend only! Log in November 6–8 for free Timed Research featuring Gigantamax Machamp!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-2026-timed-research"/>
-    <published>2026-11-10T20:42:30Z</published>
-    <updated>2026-11-10T20:42:30Z</updated>
+    <published>2026-11-11T01:04:09Z</published>
+    <updated>2026-11-11T01:04:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +168,8 @@
     <id>https://pokemongolive.com/news/black-friday-2026</id>
     <title>⚡ Get double the PokéCoin bonus with our Black Friday sale!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/black-friday-2026"/>
-    <published>2026-11-10T20:42:30Z</published>
-    <updated>2026-11-10T20:42:30Z</updated>
+    <published>2026-11-11T01:04:09Z</published>
+    <updated>2026-11-11T01:04:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +179,83 @@
     <id>https://pokemongolive.com/news/save-the-date-s25</id>
     <title>⚡ Save the dates for next Season’s Community Days!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-s25"/>
-    <published>2026-11-10T20:42:30Z</published>
-    <updated>2026-11-10T20:42:30Z</updated>
+    <published>2026-11-11T01:04:09Z</published>
+    <updated>2026-11-11T01:04:09Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xt30d1/pokémon_storage_increase_is_available_to_all/</id>
+    <title>⚡ Pokémon Storage Increase is available to all players</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xt30d1/pokémon_storage_increase_is_available_to_all/"/>
+    <published>2026-11-11T00:06:34Z</published>
+    <updated>2026-11-11T00:06:34Z</updated>
+    <summary type="text">Found this post on Facebook: https://www.facebook.com/share/p/1YjAN8iVE5/?mibextid=wwXIfr Can anyone confirm/deny? submitted by /u/Low_Collection_3730 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xt2xht/minior_spawn_update/</id>
+    <title>⚡ Minior spawn update</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xt2xht/minior_spawn_update/"/>
+    <published>2026-11-11T00:03:11Z</published>
+    <updated>2026-11-11T00:03:11Z</updated>
+    <summary type="text">submitted by /u/aznknight613 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies</id>
+    <title>🤖 The VR Disney Plus app on Meta Quest now has 3D movies</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies"/>
+    <published>2026-11-10T22:00:00Z</published>
+    <updated>2026-11-10T22:00:00Z</updated>
+    <summary type="text">Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated [</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition</id>
+    <title>🤖 Oura is acquiring medical AI chatbot startup Counsel Health</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition"/>
+    <published>2026-11-10T21:40:31Z</published>
+    <updated>2026-11-10T21:40:31Z</updated>
+    <summary type="text">Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an &quot;AI-native primary care company,&quot; using the app to deliver AI-generated responses and insights</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xsz8v1/announcing_shadow_battler_a_team_go_rocket_battle/</id>
+    <title>⚡ Announcing Shadow Battler, a Team GO Rocket battle simulator and counters ranking website</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xsz8v1/announcing_shadow_battler_a_team_go_rocket_battle/"/>
+    <published>2026-11-10T21:27:50Z</published>
+    <updated>2026-11-10T21:27:50Z</updated>
+    <summary type="text">Hello, Pokémon trainers! A question that has been asked on TheSilphRoad on many , many , different , occasions has been “what are the best Team GO Rocket counters?”, to which the answer is usually “I like Kartana!” or a list of Pokémon with high damage fast moves and spammy charged moves. However, t</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled</id>
+    <title>🤖 Sony cancels live-service shooter Fairgames</title>
+    <link rel="alternate" href="https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled"/>
+    <published>2026-11-10T21:06:12Z</published>
+    <updated>2026-11-10T21:06:12Z</updated>
+    <summary type="text">Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchi</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -247,18 +331,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub</id>
-    <title>🤖 ChatGPT is getting verified AI ‘Business Agents’</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"/>
-    <published>2026-11-10T18:00:00Z</published>
-    <updated>2026-11-10T18:00:00Z</updated>
-    <summary type="text">ChatGPT is going to let you chat with verified &quot;Business Agents&quot; that represent a brand to help you with things like comparison shopping. The feature, available first to &quot;eligible&quot; e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in Cha</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://www.reddit.com/r/TheSilphRoad/comments/1xstrie/no_bonus_coins_despite_ad/</id>
     <title>⚡ No bonus coins despite ad</title>
     <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xstrie/no_bonus_coins_despite_ad/"/>
@@ -268,18 +340,6 @@
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai</id>
-    <title>🤖 The indie game community is in disarray over AI and Big Walk</title>
-    <link rel="alternate" href="https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai"/>
-    <published>2026-11-10T17:32:47Z</published>
-    <updated>2026-11-10T17:32:47Z</updated>
-    <summary type="text">Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in &quot;any capacity.&quot; Soon after, the developer of indie hit Big Walk has published a statement saying it &quot;sparingly&quot; used AI in the &quot;final stretch&quot; of the game's dev</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -301,18 +361,6 @@
     <published>2026-11-10T14:00:09Z</published>
     <updated>2026-11-10T14:00:09Z</updated>
     <summary type="text">Hey travelers! If you have any questions about Pokemon GO (anything from basics to specifics of a certain mechanic), ask here! We also have a wealth of information available in historical posts, so try using the search bar. Or click the Discord link in our topbar and head to the #boot_camp channel -</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xslzd1/assets_were_added_for_mega_clefable/</id>
-    <title>⚡ Assets were added for Mega Clefable</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xslzd1/assets_were_added_for_mega_clefable/"/>
-    <published>2026-11-10T12:45:13Z</published>
-    <updated>2026-11-10T12:45:13Z</updated>
-    <summary type="text">( Credits: Pokeminers ) submitted by /u/iTaIksick [link] [comments]</summary>
     <category term="pokemon"/>
     <author>
       <name>The Silph Road (Pokémon GO)</name>
@@ -376,42 +424,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xsa435/official_communication_about_how_to_get_the/</id>
-    <title>⚡ Official communication about how to get the Dynamax Trails Deluxe GO Pass for free</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xsa435/official_communication_about_how_to_get_the/"/>
-    <published>2026-11-10T01:33:47Z</published>
-    <updated>2026-11-10T01:33:47Z</updated>
-    <summary type="text">submitted by /u/aznknight613 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xs73rv/treecko_community_day_classic/</id>
-    <title>⚡ Treecko Community Day Classic</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xs73rv/treecko_community_day_classic/"/>
-    <published>2026-11-09T23:18:25Z</published>
-    <updated>2026-11-09T23:18:25Z</updated>
-    <summary type="text">submitted by /u/aznknight613 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/chatgpt-enterprise-aws-marketplace</id>
-    <title>🤖 ChatGPT Enterprise now available in AWS Marketplace</title>
-    <link rel="alternate" href="https://openai.com/index/chatgpt-enterprise-aws-marketplace"/>
-    <published>2026-11-09T19:00:00Z</published>
-    <updated>2026-11-09T19:00:00Z</updated>
-    <summary type="text">ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
