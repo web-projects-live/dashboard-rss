@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-11-16T20:45:38Z</updated>
+  <updated>2026-11-16T23:13:56Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/dynamax-trails-eternamax-eternatus-2026</id>
-    <title>⚡ All roads lead to Eternatus’s return during the Dynamax Trails event!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/dynamax-trails-eternamax-eternatus-2026"/>
-    <published>2026-11-16T20:45:36Z</published>
-    <updated>2026-11-16T20:45:36Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/pokemon-center-bangkok-opens-2026</id>
     <title>⚡ Pokémon Center BANGKOK Opens!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-center-bangkok-opens-2026"/>
-    <published>2026-11-16T20:45:36Z</published>
-    <updated>2026-11-16T20:45:36Z</updated>
+    <published>2026-11-16T23:13:54Z</published>
+    <updated>2026-11-16T23:13:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/twilight-wishes-2026</id>
     <title>⚡ Gather beneath a starry sky during Twilight Wishes!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/twilight-wishes-2026"/>
-    <published>2026-11-16T20:45:36Z</published>
-    <updated>2026-11-16T20:45:36Z</updated>
+    <published>2026-11-16T23:13:54Z</published>
+    <updated>2026-11-16T23:13:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/pgo-explorer-gadget-2026-update</id>
     <title>⚡ The Explorer Gadget evolves!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pgo-explorer-gadget-2026-update"/>
-    <published>2026-11-16T20:45:36Z</published>
-    <updated>2026-11-16T20:45:36Z</updated>
+    <published>2026-11-16T23:13:54Z</published>
+    <updated>2026-11-16T23:13:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/get-ready-for-gowildarea-2026</id>
     <title>⚡ Get ready for Pokémon GO Wild Area 2026 with Pokémon backgrounds on your Trainer profile, new avatar items, and more exciting details!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/get-ready-for-gowildarea-2026"/>
-    <published>2026-11-16T20:45:36Z</published>
-    <updated>2026-11-16T20:45:36Z</updated>
+    <published>2026-11-16T23:13:54Z</published>
+    <updated>2026-11-16T23:13:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/forever-stamp-rally-go-wild-area-2026</id>
     <title>⚡ Discover new city adventures starting today! All Trainers can join brand-new Pokémon GO Stamp Rallies in Sendai • Tohoku, Japan, and Mexico City, Mexico.</title>
     <link rel="alternate" href="https://pokemongolive.com/news/forever-stamp-rally-go-wild-area-2026"/>
-    <published>2026-11-16T20:45:36Z</published>
-    <updated>2026-11-16T20:45:36Z</updated>
+    <published>2026-11-16T23:13:54Z</published>
+    <updated>2026-11-16T23:13:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/gowa_cdmx_additional_info</id>
     <title>⚡ Discover more of the city during Pokémon GO Wild Area: Mexico City</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowa_cdmx_additional_info"/>
-    <published>2026-11-16T20:45:36Z</published>
-    <updated>2026-11-16T20:45:36Z</updated>
+    <published>2026-11-16T23:13:54Z</published>
+    <updated>2026-11-16T23:13:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/community-meetups-go-wild-area-2026-details-asia-pacific</id>
     <title>⚡ Get ready for Pokémon GO Wild Area 2026: Global Community meetups in the Asia-Pacific region!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/community-meetups-go-wild-area-2026-details-asia-pacific"/>
-    <published>2026-11-16T20:45:36Z</published>
-    <updated>2026-11-16T20:45:36Z</updated>
+    <published>2026-11-16T23:13:54Z</published>
+    <updated>2026-11-16T23:13:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/clefable-super-mega-raid-day-2026</id>
     <title>⚡ Dance under the moonlight during Clefable Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/clefable-super-mega-raid-day-2026"/>
-    <published>2026-11-16T20:45:36Z</published>
-    <updated>2026-11-16T20:45:36Z</updated>
+    <published>2026-11-16T23:13:54Z</published>
+    <updated>2026-11-16T23:13:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/gowildarea-mexicocity-friday-update</id>
     <title>⚡ Friday experience update for Pokémon GO Wild Area: Mexico City</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-mexicocity-friday-update"/>
-    <published>2026-11-16T20:45:36Z</published>
-    <updated>2026-11-16T20:45:36Z</updated>
+    <published>2026-11-16T23:13:54Z</published>
+    <updated>2026-11-16T23:13:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/gowildarea-2026-timed-research</id>
     <title>⚡ This weekend only! Log in November 6–8 for free Timed Research featuring Gigantamax Machamp!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-2026-timed-research"/>
-    <published>2026-11-16T20:45:36Z</published>
-    <updated>2026-11-16T20:45:36Z</updated>
+    <published>2026-11-16T23:13:54Z</published>
+    <updated>2026-11-16T23:13:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/black-friday-2026</id>
     <title>⚡ Get double the PokéCoin bonus with our Black Friday sale!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/black-friday-2026"/>
-    <published>2026-11-16T20:45:36Z</published>
-    <updated>2026-11-16T20:45:36Z</updated>
+    <published>2026-11-16T23:13:54Z</published>
+    <updated>2026-11-16T23:13:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/save-the-date-s25</id>
     <title>⚡ Save the dates for next Season’s Community Days!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-s25"/>
-    <published>2026-11-16T20:45:36Z</published>
-    <updated>2026-11-16T20:45:36Z</updated>
+    <published>2026-11-16T23:13:54Z</published>
+    <updated>2026-11-16T23:13:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/gowildarea-global-2026-osaka-gameplay-update</id>
     <title>⚡ Notice Regarding Gameplay in Osaka During Pokémon GO Wild Area: Global</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-global-2026-osaka-gameplay-update"/>
-    <published>2026-11-16T20:45:36Z</published>
-    <updated>2026-11-16T20:45:36Z</updated>
+    <published>2026-11-16T23:13:54Z</published>
+    <updated>2026-11-16T23:13:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +156,58 @@
     <id>https://pokemongolive.com/news/pokemon-crocs-2026</id>
     <title>⚡ Avatar items from the Crocs Pokémon collection are coming to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-crocs-2026"/>
-    <published>2026-11-16T20:45:36Z</published>
-    <updated>2026-11-16T20:45:36Z</updated>
+    <published>2026-11-16T23:13:54Z</published>
+    <updated>2026-11-16T23:13:54Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/latin-america-international-championships-2026</id>
+    <title>⚡ Watch and earn rewards from the 2027 Pokémon Latin America International Championships</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/latin-america-international-championships-2026"/>
+    <published>2026-11-16T23:13:54Z</published>
+    <updated>2026-11-16T23:13:54Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures</id>
+    <title>🤖 United Airlines system outage disrupts departures just days after the big ground stop</title>
+    <link rel="alternate" href="https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures"/>
+    <published>2026-11-16T22:54:59Z</published>
+    <updated>2026-11-16T22:54:59Z</updated>
+    <summary type="text">Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. The airline has said it is working to get things up and running again as quickly as possible, but without </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xy14rd/watch_and_earn_rewards_from_the_2027_pokémon/</id>
+    <title>⚡ Watch and earn rewards from the 2027 Pokémon Latin America International Championships</title>
+    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xy14rd/watch_and_earn_rewards_from_the_2027_pokémon/"/>
+    <published>2026-11-16T21:01:07Z</published>
+    <updated>2026-11-16T21:01:07Z</updated>
+    <summary type="text">submitted by /u/Amiibofan101 [link] [comments]</summary>
+    <category term="pokemon"/>
+    <author>
+      <name>The Silph Road (Pokémon GO)</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit</id>
+    <title>🤖 California sues OpenAI over rogue AI hacking incidents</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"/>
+    <published>2026-11-16T20:46:01Z</published>
+    <updated>2026-11-16T20:46:01Z</updated>
+    <summary type="text">California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a &quot;dangerous product without proper </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -244,30 +280,6 @@
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/policy/1034527/openai-csam-classifier</id>
-    <title>🤖 OpenAI wants to stop deepfakes from overwhelming child abuse tiplines</title>
-    <link rel="alternate" href="https://www.theverge.com/policy/1034527/openai-csam-classifier"/>
-    <published>2026-11-16T19:23:45Z</published>
-    <updated>2026-11-16T19:23:45Z</updated>
-    <summary type="text">OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.reddit.com/r/TheSilphRoad/comments/1xxurq9/even_shadow_mons_can_drop_max_particles/</id>
-    <title>⚡ Even Shadow mons can drop max particles.</title>
-    <link rel="alternate" href="https://www.reddit.com/r/TheSilphRoad/comments/1xxurq9/even_shadow_mons_can_drop_max_particles/"/>
-    <published>2026-11-16T17:03:09Z</published>
-    <updated>2026-11-16T17:03:09Z</updated>
-    <summary type="text">If they have their dynamax already released. submitted by /u/Aggravating_Toe_4992 [link] [comments]</summary>
-    <category term="pokemon"/>
-    <author>
-      <name>The Silph Road (Pokémon GO)</name>
     </author>
   </entry>
   <entry>
