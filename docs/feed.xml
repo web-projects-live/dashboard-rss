@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-11-19T21:58:49Z</updated>
+  <updated>2026-11-20T02:03:02Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/twilight-wishes-2026</id>
-    <title>⚡ Gather beneath a starry sky during Twilight Wishes!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/twilight-wishes-2026"/>
-    <published>2026-11-19T21:58:48Z</published>
-    <updated>2026-11-19T21:58:48Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/pgo-explorer-gadget-2026-update</id>
     <title>⚡ The Explorer Gadget evolves!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pgo-explorer-gadget-2026-update"/>
-    <published>2026-11-19T21:58:48Z</published>
-    <updated>2026-11-19T21:58:48Z</updated>
+    <published>2026-11-20T02:03:01Z</published>
+    <updated>2026-11-20T02:03:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/get-ready-for-gowildarea-2026</id>
     <title>⚡ Get ready for Pokémon GO Wild Area 2026 with Pokémon backgrounds on your Trainer profile, new avatar items, and more exciting details!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/get-ready-for-gowildarea-2026"/>
-    <published>2026-11-19T21:58:48Z</published>
-    <updated>2026-11-19T21:58:48Z</updated>
+    <published>2026-11-20T02:03:01Z</published>
+    <updated>2026-11-20T02:03:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/forever-stamp-rally-go-wild-area-2026</id>
     <title>⚡ Discover new city adventures starting today! All Trainers can join brand-new Pokémon GO Stamp Rallies in Sendai • Tohoku, Japan, and Mexico City, Mexico.</title>
     <link rel="alternate" href="https://pokemongolive.com/news/forever-stamp-rally-go-wild-area-2026"/>
-    <published>2026-11-19T21:58:48Z</published>
-    <updated>2026-11-19T21:58:48Z</updated>
+    <published>2026-11-20T02:03:01Z</published>
+    <updated>2026-11-20T02:03:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/gowa_cdmx_additional_info</id>
     <title>⚡ Discover more of the city during Pokémon GO Wild Area: Mexico City</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowa_cdmx_additional_info"/>
-    <published>2026-11-19T21:58:48Z</published>
-    <updated>2026-11-19T21:58:48Z</updated>
+    <published>2026-11-20T02:03:01Z</published>
+    <updated>2026-11-20T02:03:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/community-meetups-go-wild-area-2026-details-asia-pacific</id>
     <title>⚡ Get ready for Pokémon GO Wild Area 2026: Global Community meetups in the Asia-Pacific region!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/community-meetups-go-wild-area-2026-details-asia-pacific"/>
-    <published>2026-11-19T21:58:48Z</published>
-    <updated>2026-11-19T21:58:48Z</updated>
+    <published>2026-11-20T02:03:01Z</published>
+    <updated>2026-11-20T02:03:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/clefable-super-mega-raid-day-2026</id>
     <title>⚡ Dance under the moonlight during Clefable Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/clefable-super-mega-raid-day-2026"/>
-    <published>2026-11-19T21:58:48Z</published>
-    <updated>2026-11-19T21:58:48Z</updated>
+    <published>2026-11-20T02:03:01Z</published>
+    <updated>2026-11-20T02:03:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/gowildarea-mexicocity-friday-update</id>
     <title>⚡ Friday experience update for Pokémon GO Wild Area: Mexico City</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-mexicocity-friday-update"/>
-    <published>2026-11-19T21:58:48Z</published>
-    <updated>2026-11-19T21:58:48Z</updated>
+    <published>2026-11-20T02:03:01Z</published>
+    <updated>2026-11-20T02:03:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/gowildarea-2026-timed-research</id>
     <title>⚡ This weekend only! Log in November 6–8 for free Timed Research featuring Gigantamax Machamp!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-2026-timed-research"/>
-    <published>2026-11-19T21:58:48Z</published>
-    <updated>2026-11-19T21:58:48Z</updated>
+    <published>2026-11-20T02:03:01Z</published>
+    <updated>2026-11-20T02:03:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/black-friday-2026</id>
     <title>⚡ Get double the PokéCoin bonus with our Black Friday sale!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/black-friday-2026"/>
-    <published>2026-11-19T21:58:48Z</published>
-    <updated>2026-11-19T21:58:48Z</updated>
+    <published>2026-11-20T02:03:01Z</published>
+    <updated>2026-11-20T02:03:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/save-the-date-s25</id>
     <title>⚡ Save the dates for next Season’s Community Days!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-s25"/>
-    <published>2026-11-19T21:58:48Z</published>
-    <updated>2026-11-19T21:58:48Z</updated>
+    <published>2026-11-20T02:03:01Z</published>
+    <updated>2026-11-20T02:03:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/gowildarea-global-2026-osaka-gameplay-update</id>
     <title>⚡ Notice Regarding Gameplay in Osaka During Pokémon GO Wild Area: Global</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-global-2026-osaka-gameplay-update"/>
-    <published>2026-11-19T21:58:48Z</published>
-    <updated>2026-11-19T21:58:48Z</updated>
+    <published>2026-11-20T02:03:01Z</published>
+    <updated>2026-11-20T02:03:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/pokemon-crocs-2026</id>
     <title>⚡ Avatar items from the Crocs Pokémon collection are coming to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-crocs-2026"/>
-    <published>2026-11-19T21:58:48Z</published>
-    <updated>2026-11-19T21:58:48Z</updated>
+    <published>2026-11-20T02:03:01Z</published>
+    <updated>2026-11-20T02:03:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/latin-america-international-championships-2026</id>
     <title>⚡ Watch and earn rewards from the 2027 Pokémon Latin America International Championships</title>
     <link rel="alternate" href="https://pokemongolive.com/news/latin-america-international-championships-2026"/>
-    <published>2026-11-19T21:58:48Z</published>
-    <updated>2026-11-19T21:58:48Z</updated>
+    <published>2026-11-20T02:03:01Z</published>
+    <updated>2026-11-20T02:03:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,11 +156,58 @@
     <id>https://pokemongolive.com/news/duolingo-2026</id>
     <title>⚡ Catch a new language with Pokémon GO and Duolingo!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/duolingo-2026"/>
-    <published>2026-11-19T21:58:48Z</published>
-    <updated>2026-11-19T21:58:48Z</updated>
+    <published>2026-11-20T02:03:01Z</published>
+    <updated>2026-11-20T02:03:01Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/2026_ana_blue</id>
+    <title>⚡ Celebrate the launch of the Blue Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_blue"/>
+    <published>2026-11-20T02:03:01Z</published>
+    <updated>2026-11-20T02:03:01Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing</id>
+    <title>🤖 Apple is hiring engineers to build its own AI agent</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"/>
+    <published>2026-11-19T22:31:41Z</published>
+    <updated>2026-11-19T22:31:41Z</updated>
+    <summary type="text">Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119</id>
+    <title>🤖 AI helps researchers investigate how thousands of medical studies share code</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119"/>
+    <published>2026-11-19T22:15:00Z</published>
+    <updated>2026-11-19T22:15:00Z</updated>
+    <summary type="text">An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings</id>
+    <title>🤖 A brief history of Nvidia’s recent stock fluctuations</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"/>
+    <published>2026-11-19T21:59:35Z</published>
+    <updated>2026-11-19T21:59:35Z</updated>
+    <summary type="text">&quot;We've got this,&quot; Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wip</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -235,18 +271,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use</id>
-    <title>🤖 Gemini on Mac can now use your computer</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"/>
-    <published>2026-11-19T18:21:13Z</published>
-    <updated>2026-11-19T18:21:13Z</updated>
-    <summary type="text">Google's Gemini app for macOS now has computer use, meaning it can help you &quot;get multi-step tasks done across your local files, desktop apps, and the web,&quot; the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119</id>
     <title>🤖 Study reveals data centers’ long-distance damage to air quality</title>
     <link rel="alternate" href="https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119"/>
@@ -271,6 +295,54 @@
     </author>
   </entry>
   <entry>
+    <id>https://openai.com/business/learn/deploying-daybreak-red</id>
+    <title>🤖 Deploying Daybreak Red</title>
+    <link rel="alternate" href="https://openai.com/business/learn/deploying-daybreak-red"/>
+    <published>2026-11-19T00:00:00Z</published>
+    <updated>2026-11-19T00:00:00Z</updated>
+    <summary type="text">Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/business/learn/pr-scans-demo</id>
+    <title>🤖 See PR scans in action</title>
+    <link rel="alternate" href="https://openai.com/business/learn/pr-scans-demo"/>
+    <published>2026-11-19T00:00:00Z</published>
+    <updated>2026-11-19T00:00:00Z</updated>
+    <summary type="text">Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/business/learn/codex-security-plugin-demo</id>
+    <title>🤖 Explore the Codex Security Plugin</title>
+    <link rel="alternate" href="https://openai.com/business/learn/codex-security-plugin-demo"/>
+    <published>2026-11-19T00:00:00Z</published>
+    <updated>2026-11-19T00:00:00Z</updated>
+    <summary type="text">Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/business/learn/daybreak-blue-onboarding-demo</id>
+    <title>🤖 Get started with Daybreak Blue</title>
+    <link rel="alternate" href="https://openai.com/business/learn/daybreak-blue-onboarding-demo"/>
+    <published>2026-11-19T00:00:00Z</published>
+    <updated>2026-11-19T00:00:00Z</updated>
+    <summary type="text">Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
     <id>https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118</id>
     <title>🤖 This featherweight, flying robot carries its own sensors and computers</title>
     <link rel="alternate" href="https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118"/>
@@ -280,54 +352,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/the-silent-consensus</id>
-    <title>🤖 The Silent Consensus</title>
-    <link rel="alternate" href="https://openai.com/index/the-silent-consensus"/>
-    <published>2026-11-18T10:00:00Z</published>
-    <updated>2026-11-18T10:00:00Z</updated>
-    <summary type="text">Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/business/customer-stories/sumitomo-life</id>
-    <title>🤖 How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise</title>
-    <link rel="alternate" href="https://openai.com/business/customer-stories/sumitomo-life"/>
-    <published>2026-11-18T08:00:00Z</published>
-    <updated>2026-11-18T08:00:00Z</updated>
-    <summary type="text">Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/research-acceleration-jagged-frontier</id>
-    <title>🤖 Research acceleration: The jagged frontier</title>
-    <link rel="alternate" href="https://openai.com/index/research-acceleration-jagged-frontier"/>
-    <published>2026-11-18T08:00:00Z</published>
-    <updated>2026-11-18T08:00:00Z</updated>
-    <summary type="text">OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/inside-the-codex-sandbox</id>
-    <title>🤖 Inside the Codex sandbox</title>
-    <link rel="alternate" href="https://openai.com/index/inside-the-codex-sandbox"/>
-    <published>2026-11-18T08:00:00Z</published>
-    <updated>2026-11-18T08:00:00Z</updated>
-    <summary type="text">See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -396,18 +420,6 @@
     <published>2026-11-13T05:00:00Z</published>
     <updated>2026-11-13T05:00:00Z</updated>
     <summary type="text">The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges.</summary>
-    <category term="ai"/>
-    <author>
-      <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113</id>
-    <title>🤖 Helping robots fit into the human workplace</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113"/>
-    <published>2026-11-13T05:00:00Z</published>
-    <updated>2026-11-13T05:00:00Z</updated>
-    <summary type="text">Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses.</summary>
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
