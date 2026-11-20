@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-11-20T02:03:02Z</updated>
+  <updated>2026-11-20T18:56:18Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/pgo-explorer-gadget-2026-update</id>
-    <title>⚡ The Explorer Gadget evolves!</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/pgo-explorer-gadget-2026-update"/>
-    <published>2026-11-20T02:03:01Z</published>
-    <updated>2026-11-20T02:03:01Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/get-ready-for-gowildarea-2026</id>
     <title>⚡ Get ready for Pokémon GO Wild Area 2026 with Pokémon backgrounds on your Trainer profile, new avatar items, and more exciting details!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/get-ready-for-gowildarea-2026"/>
-    <published>2026-11-20T02:03:01Z</published>
-    <updated>2026-11-20T02:03:01Z</updated>
+    <published>2026-11-20T18:56:17Z</published>
+    <updated>2026-11-20T18:56:17Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/forever-stamp-rally-go-wild-area-2026</id>
     <title>⚡ Discover new city adventures starting today! All Trainers can join brand-new Pokémon GO Stamp Rallies in Sendai • Tohoku, Japan, and Mexico City, Mexico.</title>
     <link rel="alternate" href="https://pokemongolive.com/news/forever-stamp-rally-go-wild-area-2026"/>
-    <published>2026-11-20T02:03:01Z</published>
-    <updated>2026-11-20T02:03:01Z</updated>
+    <published>2026-11-20T18:56:17Z</published>
+    <updated>2026-11-20T18:56:17Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/gowa_cdmx_additional_info</id>
     <title>⚡ Discover more of the city during Pokémon GO Wild Area: Mexico City</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowa_cdmx_additional_info"/>
-    <published>2026-11-20T02:03:01Z</published>
-    <updated>2026-11-20T02:03:01Z</updated>
+    <published>2026-11-20T18:56:17Z</published>
+    <updated>2026-11-20T18:56:17Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/community-meetups-go-wild-area-2026-details-asia-pacific</id>
     <title>⚡ Get ready for Pokémon GO Wild Area 2026: Global Community meetups in the Asia-Pacific region!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/community-meetups-go-wild-area-2026-details-asia-pacific"/>
-    <published>2026-11-20T02:03:01Z</published>
-    <updated>2026-11-20T02:03:01Z</updated>
+    <published>2026-11-20T18:56:17Z</published>
+    <updated>2026-11-20T18:56:17Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/clefable-super-mega-raid-day-2026</id>
     <title>⚡ Dance under the moonlight during Clefable Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/clefable-super-mega-raid-day-2026"/>
-    <published>2026-11-20T02:03:01Z</published>
-    <updated>2026-11-20T02:03:01Z</updated>
+    <published>2026-11-20T18:56:17Z</published>
+    <updated>2026-11-20T18:56:17Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/gowildarea-mexicocity-friday-update</id>
     <title>⚡ Friday experience update for Pokémon GO Wild Area: Mexico City</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-mexicocity-friday-update"/>
-    <published>2026-11-20T02:03:01Z</published>
-    <updated>2026-11-20T02:03:01Z</updated>
+    <published>2026-11-20T18:56:17Z</published>
+    <updated>2026-11-20T18:56:17Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/gowildarea-2026-timed-research</id>
     <title>⚡ This weekend only! Log in November 6–8 for free Timed Research featuring Gigantamax Machamp!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-2026-timed-research"/>
-    <published>2026-11-20T02:03:01Z</published>
-    <updated>2026-11-20T02:03:01Z</updated>
+    <published>2026-11-20T18:56:17Z</published>
+    <updated>2026-11-20T18:56:17Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/black-friday-2026</id>
     <title>⚡ Get double the PokéCoin bonus with our Black Friday sale!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/black-friday-2026"/>
-    <published>2026-11-20T02:03:01Z</published>
-    <updated>2026-11-20T02:03:01Z</updated>
+    <published>2026-11-20T18:56:17Z</published>
+    <updated>2026-11-20T18:56:17Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/save-the-date-s25</id>
     <title>⚡ Save the dates for next Season’s Community Days!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-s25"/>
-    <published>2026-11-20T02:03:01Z</published>
-    <updated>2026-11-20T02:03:01Z</updated>
+    <published>2026-11-20T18:56:17Z</published>
+    <updated>2026-11-20T18:56:17Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/gowildarea-global-2026-osaka-gameplay-update</id>
     <title>⚡ Notice Regarding Gameplay in Osaka During Pokémon GO Wild Area: Global</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-global-2026-osaka-gameplay-update"/>
-    <published>2026-11-20T02:03:01Z</published>
-    <updated>2026-11-20T02:03:01Z</updated>
+    <published>2026-11-20T18:56:17Z</published>
+    <updated>2026-11-20T18:56:17Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/pokemon-crocs-2026</id>
     <title>⚡ Avatar items from the Crocs Pokémon collection are coming to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-crocs-2026"/>
-    <published>2026-11-20T02:03:01Z</published>
-    <updated>2026-11-20T02:03:01Z</updated>
+    <published>2026-11-20T18:56:17Z</published>
+    <updated>2026-11-20T18:56:17Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/latin-america-international-championships-2026</id>
     <title>⚡ Watch and earn rewards from the 2027 Pokémon Latin America International Championships</title>
     <link rel="alternate" href="https://pokemongolive.com/news/latin-america-international-championships-2026"/>
-    <published>2026-11-20T02:03:01Z</published>
-    <updated>2026-11-20T02:03:01Z</updated>
+    <published>2026-11-20T18:56:17Z</published>
+    <updated>2026-11-20T18:56:17Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/duolingo-2026</id>
     <title>⚡ Catch a new language with Pokémon GO and Duolingo!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/duolingo-2026"/>
-    <published>2026-11-20T02:03:01Z</published>
-    <updated>2026-11-20T02:03:01Z</updated>
+    <published>2026-11-20T18:56:17Z</published>
+    <updated>2026-11-20T18:56:17Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,20 +156,115 @@
     <id>https://pokemongolive.com/news/2026_ana_blue</id>
     <title>⚡ Celebrate the launch of the Blue Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_blue"/>
-    <published>2026-11-20T02:03:01Z</published>
-    <updated>2026-11-20T02:03:01Z</updated>
+    <published>2026-11-20T18:56:17Z</published>
+    <updated>2026-11-20T18:56:17Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing</id>
-    <title>🤖 Apple is hiring engineers to build its own AI agent</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"/>
-    <published>2026-11-19T22:31:41Z</published>
-    <updated>2026-11-19T22:31:41Z</updated>
-    <summary type="text">Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic </summary>
+    <id>https://pokemongolive.com/news/community-day-december-2026</id>
+    <title>⚡ Celebrate the year with every Pokémon from Community Days in 2026!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/community-day-december-2026"/>
+    <published>2026-11-20T18:56:17Z</published>
+    <updated>2026-11-20T18:56:17Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</id>
+    <title>🤖 Trump threatens ‘tremendous tax’ for moving AI data centers outside the US</title>
+    <link rel="alternate" href="https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"/>
+    <published>2026-11-20T18:50:19Z</published>
+    <updated>2026-11-20T18:50:19Z</updated>
+    <summary type="text">President Donald Trump promised to put a &quot;tremendous tax&quot; on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. &quot;We're not going to allow our companies to build data centers outside of our coun</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026</id>
+    <title>🤖 Here are the Apple deals actually worth picking up ahead of Black Friday</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026"/>
+    <published>2026-11-20T17:33:59Z</published>
+    <updated>2026-11-20T17:33:59Z</updated>
+    <summary type="text">A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks and other Apple devices even more expensive. Fortunately, Black Friday offers a c</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</id>
+    <title>🤖 Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude</title>
+    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"/>
+    <published>2026-11-20T16:34:13Z</published>
+    <updated>2026-11-20T16:34:13Z</updated>
+    <summary type="text">Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview</id>
+    <title>🤖 Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION</title>
+    <link rel="alternate" href="https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview"/>
+    <published>2026-11-20T16:22:15Z</published>
+    <updated>2026-11-20T16:22:15Z</updated>
+    <summary type="text">If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuosic production team of Trent Reznor and Atticus Ross, but most of the songs on 7L</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director</id>
+    <title>🤖 Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives</title>
+    <link rel="alternate" href="https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director"/>
+    <published>2026-11-20T16:00:00Z</published>
+    <updated>2026-11-20T16:00:00Z</updated>
+    <summary type="text">The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, or try to, geopolitics notwithstanding. For Galina, carrying on means an affair, </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026</id>
+    <title>🤖 The best early Black Friday deals you can already shop</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"/>
+    <published>2026-11-20T15:53:25Z</published>
+    <updated>2026-11-20T15:53:25Z</updated>
+    <summary type="text">The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessari</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120</id>
+    <title>🤖 Following the “mathocalypse,” mathematicians consider the future</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120"/>
+    <published>2026-11-20T15:20:00Z</published>
+    <updated>2026-11-20T15:20:00Z</updated>
+    <summary type="text">A panel discussion at MIT explored AI’s implications for mathematical discovery and the people who make it their profession.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un</id>
+    <title>🤖 UN court cites military Facebook posts while finding Myanmar guilty of genocide</title>
+    <link rel="alternate" href="https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un"/>
+    <published>2026-11-20T15:02:13Z</published>
+    <updated>2026-11-20T15:02:13Z</updated>
+    <summary type="text">In its ruling that Myanmar committed state-sponsored genocide against the Rohingya people in 2016 and 2017, the United Nations' top court says that Facebook played a role in helping Myanmar's military spread hate speech against its Muslim minority. The ruling from the International Court of Justice </summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
@@ -196,78 +280,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings</id>
-    <title>🤖 A brief history of Nvidia’s recent stock fluctuations</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"/>
-    <published>2026-11-19T21:59:35Z</published>
-    <updated>2026-11-19T21:59:35Z</updated>
-    <summary type="text">&quot;We've got this,&quot; Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wip</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app</id>
-    <title>🤖 Meta now sells 3D movies on Quest VR headsets</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app"/>
-    <published>2026-11-19T21:12:06Z</published>
-    <updated>2026-11-19T21:12:06Z</updated>
-    <summary type="text">Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie […]</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price</id>
-    <title>🤖 Meta’s Muse Charm might cost $300</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"/>
-    <published>2026-11-19T20:22:17Z</published>
-    <updated>2026-11-19T20:22:17Z</updated>
-    <summary type="text">Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm &quot;in time for the holidays in December,&quot;</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats</id>
-    <title>🤖 Google is putting AI chats right on the homepage</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"/>
-    <published>2026-11-19T20:05:06Z</published>
-    <updated>2026-11-19T20:05:06Z</updated>
-    <summary type="text">Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale</id>
-    <title>🤖 Sony’s WH-1000XM5 are cheaper than ever for Black Friday</title>
-    <link rel="alternate" href="https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale"/>
-    <published>2026-11-19T19:35:52Z</published>
-    <updated>2026-11-19T19:35:52Z</updated>
-    <summary type="text">Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the previous-generation Sony WH-1000XM5 noise-canceling headphones, which are marked down to their</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply</id>
-    <title>🤖 You can now buy a Steam Machine without getting on a waitlist</title>
-    <link rel="alternate" href="https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply"/>
-    <published>2026-11-19T19:33:22Z</published>
-    <updated>2026-11-19T19:33:22Z</updated>
-    <summary type="text">Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: You can now purchase a 512GB Steam Machine without getting on a waitlist. Initially, interested buyer</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
@@ -408,18 +420,6 @@
     <published>2026-11-17T05:00:00Z</published>
     <updated>2026-11-17T05:00:00Z</updated>
     <summary type="text">By studying the computational foundations of language learning, Associate Professor Jacob Andreas builds intelligent systems that can communicate effectively with humans.</summary>
-    <category term="ai"/>
-    <author>
-      <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113</id>
-    <title>🤖 New AI “copilot” helps engineers design better structures</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113"/>
-    <published>2026-11-13T05:00:00Z</published>
-    <updated>2026-11-13T05:00:00Z</updated>
-    <summary type="text">The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges.</summary>
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
