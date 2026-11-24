@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-11-24T05:09:30Z</updated>
+  <updated>2026-11-24T20:57:34Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,33 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/forever-stamp-rally-go-wild-area-2026</id>
-    <title>⚡ Discover new city adventures starting today! All Trainers can join brand-new Pokémon GO Stamp Rallies in Sendai • Tohoku, Japan, and Mexico City, Mexico.</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/forever-stamp-rally-go-wild-area-2026"/>
-    <published>2026-11-24T05:09:28Z</published>
-    <updated>2026-11-24T05:09:28Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://pokemongolive.com/news/gowa_cdmx_additional_info</id>
-    <title>⚡ Discover more of the city during Pokémon GO Wild Area: Mexico City</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gowa_cdmx_additional_info"/>
-    <published>2026-11-24T05:09:28Z</published>
-    <updated>2026-11-24T05:09:28Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/community-meetups-go-wild-area-2026-details-asia-pacific</id>
     <title>⚡ Get ready for Pokémon GO Wild Area 2026: Global Community meetups in the Asia-Pacific region!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/community-meetups-go-wild-area-2026-details-asia-pacific"/>
-    <published>2026-11-24T05:09:28Z</published>
-    <updated>2026-11-24T05:09:28Z</updated>
+    <published>2026-11-24T20:57:33Z</published>
+    <updated>2026-11-24T20:57:33Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +24,8 @@
     <id>https://pokemongolive.com/news/clefable-super-mega-raid-day-2026</id>
     <title>⚡ Dance under the moonlight during Clefable Super Mega Raid Day!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/clefable-super-mega-raid-day-2026"/>
-    <published>2026-11-24T05:09:28Z</published>
-    <updated>2026-11-24T05:09:28Z</updated>
+    <published>2026-11-24T20:57:33Z</published>
+    <updated>2026-11-24T20:57:33Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +35,8 @@
     <id>https://pokemongolive.com/news/gowildarea-mexicocity-friday-update</id>
     <title>⚡ Friday experience update for Pokémon GO Wild Area: Mexico City</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-mexicocity-friday-update"/>
-    <published>2026-11-24T05:09:28Z</published>
-    <updated>2026-11-24T05:09:28Z</updated>
+    <published>2026-11-24T20:57:33Z</published>
+    <updated>2026-11-24T20:57:33Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +46,8 @@
     <id>https://pokemongolive.com/news/gowildarea-2026-timed-research</id>
     <title>⚡ This weekend only! Log in November 6–8 for free Timed Research featuring Gigantamax Machamp!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-2026-timed-research"/>
-    <published>2026-11-24T05:09:28Z</published>
-    <updated>2026-11-24T05:09:28Z</updated>
+    <published>2026-11-24T20:57:33Z</published>
+    <updated>2026-11-24T20:57:33Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +57,8 @@
     <id>https://pokemongolive.com/news/black-friday-2026</id>
     <title>⚡ Get double the PokéCoin bonus with our Black Friday sale!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/black-friday-2026"/>
-    <published>2026-11-24T05:09:28Z</published>
-    <updated>2026-11-24T05:09:28Z</updated>
+    <published>2026-11-24T20:57:33Z</published>
+    <updated>2026-11-24T20:57:33Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +68,8 @@
     <id>https://pokemongolive.com/news/save-the-date-s25</id>
     <title>⚡ Save the dates for next Season’s Community Days!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-s25"/>
-    <published>2026-11-24T05:09:28Z</published>
-    <updated>2026-11-24T05:09:28Z</updated>
+    <published>2026-11-24T20:57:33Z</published>
+    <updated>2026-11-24T20:57:33Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +79,8 @@
     <id>https://pokemongolive.com/news/gowildarea-global-2026-osaka-gameplay-update</id>
     <title>⚡ Notice Regarding Gameplay in Osaka During Pokémon GO Wild Area: Global</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-global-2026-osaka-gameplay-update"/>
-    <published>2026-11-24T05:09:28Z</published>
-    <updated>2026-11-24T05:09:28Z</updated>
+    <published>2026-11-24T20:57:33Z</published>
+    <updated>2026-11-24T20:57:33Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +90,8 @@
     <id>https://pokemongolive.com/news/pokemon-crocs-2026</id>
     <title>⚡ Avatar items from the Crocs Pokémon collection are coming to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-crocs-2026"/>
-    <published>2026-11-24T05:09:28Z</published>
-    <updated>2026-11-24T05:09:28Z</updated>
+    <published>2026-11-24T20:57:33Z</published>
+    <updated>2026-11-24T20:57:33Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +101,8 @@
     <id>https://pokemongolive.com/news/latin-america-international-championships-2026</id>
     <title>⚡ Watch and earn rewards from the 2027 Pokémon Latin America International Championships</title>
     <link rel="alternate" href="https://pokemongolive.com/news/latin-america-international-championships-2026"/>
-    <published>2026-11-24T05:09:28Z</published>
-    <updated>2026-11-24T05:09:28Z</updated>
+    <published>2026-11-24T20:57:33Z</published>
+    <updated>2026-11-24T20:57:33Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +112,8 @@
     <id>https://pokemongolive.com/news/duolingo-2026</id>
     <title>⚡ Catch a new language with Pokémon GO and Duolingo!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/duolingo-2026"/>
-    <published>2026-11-24T05:09:28Z</published>
-    <updated>2026-11-24T05:09:28Z</updated>
+    <published>2026-11-24T20:57:33Z</published>
+    <updated>2026-11-24T20:57:33Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +123,8 @@
     <id>https://pokemongolive.com/news/2026_ana_blue</id>
     <title>⚡ Celebrate the launch of the Blue Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_blue"/>
-    <published>2026-11-24T05:09:28Z</published>
-    <updated>2026-11-24T05:09:28Z</updated>
+    <published>2026-11-24T20:57:33Z</published>
+    <updated>2026-11-24T20:57:33Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +134,8 @@
     <id>https://pokemongolive.com/news/community-day-december-2026</id>
     <title>⚡ Celebrate the year with every Pokémon from Community Days in 2026!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/community-day-december-2026"/>
-    <published>2026-11-24T05:09:28Z</published>
-    <updated>2026-11-24T05:09:28Z</updated>
+    <published>2026-11-24T20:57:33Z</published>
+    <updated>2026-11-24T20:57:33Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,71 +145,128 @@
     <id>https://pokemongolive.com/news/paid-gifts-2026</id>
     <title>⚡ Share the joy with paid gifts coming to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/paid-gifts-2026"/>
-    <published>2026-11-24T05:09:28Z</published>
-    <updated>2026-11-24T05:09:28Z</updated>
+    <published>2026-11-24T20:57:33Z</published>
+    <updated>2026-11-24T20:57:33Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative</id>
-    <title>🤖 Google alternative Kagi launches an email service</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative"/>
-    <published>2026-11-24T00:02:52Z</published>
-    <updated>2026-11-24T00:02:52Z</updated>
-    <summary type="text">Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has &quot;no surveillance, no ads, open standards, and no lock-in.&quot; With Ka</summary>
+    <id>https://pokemongolive.com/news/go-battle-league-daydream-destinations</id>
+    <title>⚡ GO Battle League: Daydream Destinations Update</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/go-battle-league-daydream-destinations"/>
+    <published>2026-11-24T20:57:33Z</published>
+    <updated>2026-11-24T20:57:33Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://pokemongolive.com/news/monthly-content-update-dec2026</id>
+    <title>⚡ December 2026 Content Update</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/monthly-content-update-dec2026"/>
+    <published>2026-11-24T20:57:33Z</published>
+    <updated>2026-11-24T20:57:33Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124</id>
+    <title>🤖 Agentic system personalizes physical controls to help users “DJ their art”</title>
+    <link rel="alternate" href="https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124"/>
+    <published>2026-11-24T19:30:00Z</published>
+    <updated>2026-11-24T19:30:00Z</updated>
+    <summary type="text">“TangiMap” uses an AI agent to reprogram how buttons, knobs, and sliders are used, helping users do things like edit photos and perform music in a more dynamic, tactile way.</summary>
+    <category term="ai"/>
+    <author>
+      <name>MIT AI News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive</id>
+    <title>🤖 David Fincher is being dragged for suspected use of AI in his latest film</title>
+    <link rel="alternate" href="https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive"/>
+    <published>2026-11-24T18:15:00Z</published>
+    <updated>2026-11-24T18:15:00Z</updated>
+    <summary type="text">Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-ful</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing</id>
-    <title>🤖 Ladybird, the first new browser engine in years, is now available to test</title>
-    <link rel="alternate" href="https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing"/>
-    <published>2026-11-23T22:38:09Z</published>
-    <updated>2026-11-23T22:38:09Z</updated>
-    <summary type="text">Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development. The release makes Ladybird the first</summary>
+    <id>https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026</id>
+    <title>🤖 Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026"/>
+    <published>2026-11-24T17:30:00Z</published>
+    <updated>2026-11-24T17:30:00Z</updated>
+    <summary type="text">Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you focus on more enjoyable things. And thanks to Black Friday, you can pick up some of the best we’ve test</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated</id>
-    <title>🤖 Trump engineered a risky comeback for Jensen Huang</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"/>
-    <published>2026-11-23T22:25:12Z</published>
-    <updated>2026-11-23T22:25:12Z</updated>
-    <summary type="text">After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Hua</summary>
+    <id>https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban</id>
+    <title>🤖 Tidal will start banning AI-generated music next month</title>
+    <link rel="alternate" href="https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"/>
+    <published>2026-11-24T17:17:09Z</published>
+    <updated>2026-11-24T17:17:09Z</updated>
+    <summary type="text">Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labe</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</id>
-    <title>🤖 Nvidia CEO Jensen Huang is back. What happens next?</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"/>
-    <published>2026-11-23T22:10:32Z</published>
-    <updated>2026-11-23T22:10:32Z</updated>
-    <summary type="text">After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia execu</summary>
+    <id>https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes</id>
+    <title>🤖 Jensen Huang deepfakes are the hot new AI slop</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes"/>
+    <published>2026-11-24T16:30:00Z</published>
+    <updated>2026-11-24T16:30:00Z</updated>
+    <summary type="text">Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive an</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang</id>
-    <title>🤖 Welcome to elite impunity, Jensen Huang</title>
-    <link rel="alternate" href="https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang"/>
-    <published>2026-11-23T22:09:26Z</published>
-    <updated>2026-11-23T22:09:26Z</updated>
-    <summary type="text">I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a &quot;free market&quot; is </summary>
+    <id>https://openai.com/index/searching-for-distant-planets-with-astra</id>
+    <title>🤖 Searching for distant planets with Astra</title>
+    <link rel="alternate" href="https://openai.com/index/searching-for-distant-planets-with-astra"/>
+    <published>2026-11-24T11:00:00Z</published>
+    <updated>2026-11-24T11:00:00Z</updated>
+    <summary type="text">See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.</summary>
     <category term="ai"/>
     <author>
-      <name>The Verge — AI</name>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/business/customer-stories/intentful-dots</id>
+    <title>🤖 How Intentful uses dots to make more time for growth</title>
+    <link rel="alternate" href="https://openai.com/business/customer-stories/intentful-dots"/>
+    <published>2026-11-24T00:00:00Z</published>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <summary type="text">Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.</summary>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://openai.com/business/customer-stories/ifood</id>
+    <title>🤖 How iFood scales coding agents across 15,000 repositories</title>
+    <link rel="alternate" href="https://openai.com/business/customer-stories/ifood"/>
+    <published>2026-11-24T00:00:00Z</published>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <category term="ai"/>
+    <author>
+      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -259,48 +294,12 @@
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit</id>
-    <title>🤖 AI data centers throw another wrench into chaotic UN climate talks</title>
-    <link rel="alternate" href="https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit"/>
-    <published>2026-11-23T21:09:37Z</published>
-    <updated>2026-11-23T21:09:37Z</updated>
-    <summary type="text">The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close</summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv</id>
-    <title>🤖 Apple renews Ted Lasso for season 5</title>
-    <link rel="alternate" href="https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv"/>
-    <published>2026-11-23T20:56:00Z</published>
-    <updated>2026-11-23T20:56:00Z</updated>
-    <summary type="text">One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a &quot;record-breaking season four debut.&quot; There are currently no details about the new season nor when </summary>
-    <category term="ai"/>
-    <author>
-      <name>The Verge — AI</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://openai.com/business/learn/connected-intelligence-for-in-house-legal</id>
     <title>🤖 Connected intelligence for in-house legal</title>
     <link rel="alternate" href="https://openai.com/business/learn/connected-intelligence-for-in-house-legal"/>
     <published>2026-11-23T08:00:00Z</published>
     <updated>2026-11-23T08:00:00Z</updated>
     <summary type="text">Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/business/customer-stories/richpanel-ai-customer-support</id>
-    <title>🤖 Richpanel helps companies automate 50% of support in 30 days</title>
-    <link rel="alternate" href="https://openai.com/business/customer-stories/richpanel-ai-customer-support"/>
-    <published>2026-11-23T08:00:00Z</published>
-    <updated>2026-11-23T08:00:00Z</updated>
-    <summary type="text">Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.</summary>
     <category term="ai"/>
     <author>
       <name>OpenAI Blog</name>
@@ -316,18 +315,6 @@
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://openai.com/index/perplexity-and-intelligence</id>
-    <title>🤖 Perplexity and Intelligence</title>
-    <link rel="alternate" href="https://openai.com/index/perplexity-and-intelligence"/>
-    <published>2026-11-22T00:00:00Z</published>
-    <updated>2026-11-22T00:00:00Z</updated>
-    <summary type="text">How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
     </author>
   </entry>
   <entry>
@@ -367,18 +354,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://openai.com/index/combatting-adversarial-distillation</id>
-    <title>🤖 Combatting adversarial distillation</title>
-    <link rel="alternate" href="https://openai.com/index/combatting-adversarial-distillation"/>
-    <published>2026-11-20T10:00:00Z</published>
-    <updated>2026-11-20T10:00:00Z</updated>
-    <summary type="text">OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.</summary>
-    <category term="ai"/>
-    <author>
-      <name>OpenAI Blog</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119</id>
     <title>🤖 AI helps researchers investigate how thousands of medical studies share code</title>
     <link rel="alternate" href="https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119"/>
@@ -397,18 +372,6 @@
     <published>2026-11-19T14:00:00Z</published>
     <updated>2026-11-19T14:00:00Z</updated>
     <summary type="text">Researchers find air pollution from data center electricity use can affect communities far from the facilities, with some of the highest impacts in the Midwest.</summary>
-    <category term="ai"/>
-    <author>
-      <name>MIT AI News</name>
-    </author>
-  </entry>
-  <entry>
-    <id>https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118</id>
-    <title>🤖 This featherweight, flying robot carries its own sensors and computers</title>
-    <link rel="alternate" href="https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118"/>
-    <published>2026-11-18T19:00:00Z</published>
-    <updated>2026-11-18T19:00:00Z</updated>
-    <summary type="text">The speedy microrobot flies without an attached motion-capture system, moving it closer to applications like agriculture or industrial surveillance.</summary>
     <category term="ai"/>
     <author>
       <name>MIT AI News</name>
