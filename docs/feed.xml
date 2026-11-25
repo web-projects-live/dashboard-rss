@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://web-projects-live.github.io/dashboard-rss/feed.xml</id>
   <title>HA News Feed — Pokémon GO, Brawl Stars &amp; AI</title>
-  <updated>2026-11-25T03:58:08Z</updated>
+  <updated>2026-11-25T20:19:35Z</updated>
   <link rel="alternate" href="https://web-projects-live.github.io/dashboard-rss/"/>
   <link rel="self" href="https://web-projects-live.github.io/dashboard-rss/feed.xml"/>
   <author>
@@ -10,22 +10,11 @@
   </author>
   <subtitle>Aggregated news: Pokémon GO, Brawl Stars &amp; AI</subtitle>
   <entry>
-    <id>https://pokemongolive.com/news/gowildarea-mexicocity-friday-update</id>
-    <title>⚡ Friday experience update for Pokémon GO Wild Area: Mexico City</title>
-    <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-mexicocity-friday-update"/>
-    <published>2026-11-25T03:58:06Z</published>
-    <updated>2026-11-25T03:58:06Z</updated>
-    <category term="pokemon"/>
-    <author>
-      <name>Pokémon GO Official News</name>
-    </author>
-  </entry>
-  <entry>
     <id>https://pokemongolive.com/news/gowildarea-2026-timed-research</id>
     <title>⚡ This weekend only! Log in November 6–8 for free Timed Research featuring Gigantamax Machamp!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-2026-timed-research"/>
-    <published>2026-11-25T03:58:06Z</published>
-    <updated>2026-11-25T03:58:06Z</updated>
+    <published>2026-11-25T20:19:34Z</published>
+    <updated>2026-11-25T20:19:34Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -35,8 +24,8 @@
     <id>https://pokemongolive.com/news/black-friday-2026</id>
     <title>⚡ Get double the PokéCoin bonus with our Black Friday sale!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/black-friday-2026"/>
-    <published>2026-11-25T03:58:06Z</published>
-    <updated>2026-11-25T03:58:06Z</updated>
+    <published>2026-11-25T20:19:34Z</published>
+    <updated>2026-11-25T20:19:34Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -46,8 +35,8 @@
     <id>https://pokemongolive.com/news/save-the-date-s25</id>
     <title>⚡ Save the dates for next Season’s Community Days!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/save-the-date-s25"/>
-    <published>2026-11-25T03:58:06Z</published>
-    <updated>2026-11-25T03:58:06Z</updated>
+    <published>2026-11-25T20:19:34Z</published>
+    <updated>2026-11-25T20:19:34Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -57,8 +46,8 @@
     <id>https://pokemongolive.com/news/gowildarea-global-2026-osaka-gameplay-update</id>
     <title>⚡ Notice Regarding Gameplay in Osaka During Pokémon GO Wild Area: Global</title>
     <link rel="alternate" href="https://pokemongolive.com/news/gowildarea-global-2026-osaka-gameplay-update"/>
-    <published>2026-11-25T03:58:06Z</published>
-    <updated>2026-11-25T03:58:06Z</updated>
+    <published>2026-11-25T20:19:34Z</published>
+    <updated>2026-11-25T20:19:34Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -68,8 +57,8 @@
     <id>https://pokemongolive.com/news/pokemon-crocs-2026</id>
     <title>⚡ Avatar items from the Crocs Pokémon collection are coming to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/pokemon-crocs-2026"/>
-    <published>2026-11-25T03:58:06Z</published>
-    <updated>2026-11-25T03:58:06Z</updated>
+    <published>2026-11-25T20:19:34Z</published>
+    <updated>2026-11-25T20:19:34Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -79,8 +68,8 @@
     <id>https://pokemongolive.com/news/latin-america-international-championships-2026</id>
     <title>⚡ Watch and earn rewards from the 2027 Pokémon Latin America International Championships</title>
     <link rel="alternate" href="https://pokemongolive.com/news/latin-america-international-championships-2026"/>
-    <published>2026-11-25T03:58:06Z</published>
-    <updated>2026-11-25T03:58:06Z</updated>
+    <published>2026-11-25T20:19:34Z</published>
+    <updated>2026-11-25T20:19:34Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -90,8 +79,8 @@
     <id>https://pokemongolive.com/news/duolingo-2026</id>
     <title>⚡ Catch a new language with Pokémon GO and Duolingo!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/duolingo-2026"/>
-    <published>2026-11-25T03:58:06Z</published>
-    <updated>2026-11-25T03:58:06Z</updated>
+    <published>2026-11-25T20:19:34Z</published>
+    <updated>2026-11-25T20:19:34Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -101,8 +90,8 @@
     <id>https://pokemongolive.com/news/2026_ana_blue</id>
     <title>⚡ Celebrate the launch of the Blue Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/2026_ana_blue"/>
-    <published>2026-11-25T03:58:06Z</published>
-    <updated>2026-11-25T03:58:06Z</updated>
+    <published>2026-11-25T20:19:34Z</published>
+    <updated>2026-11-25T20:19:34Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -112,8 +101,8 @@
     <id>https://pokemongolive.com/news/community-day-december-2026</id>
     <title>⚡ Celebrate the year with every Pokémon from Community Days in 2026!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/community-day-december-2026"/>
-    <published>2026-11-25T03:58:06Z</published>
-    <updated>2026-11-25T03:58:06Z</updated>
+    <published>2026-11-25T20:19:34Z</published>
+    <updated>2026-11-25T20:19:34Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -123,8 +112,8 @@
     <id>https://pokemongolive.com/news/paid-gifts-2026</id>
     <title>⚡ Share the joy with paid gifts coming to Pokémon GO!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/paid-gifts-2026"/>
-    <published>2026-11-25T03:58:06Z</published>
-    <updated>2026-11-25T03:58:06Z</updated>
+    <published>2026-11-25T20:19:34Z</published>
+    <updated>2026-11-25T20:19:34Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -134,8 +123,8 @@
     <id>https://pokemongolive.com/news/go-battle-league-daydream-destinations</id>
     <title>⚡ GO Battle League: Daydream Destinations Update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-battle-league-daydream-destinations"/>
-    <published>2026-11-25T03:58:06Z</published>
-    <updated>2026-11-25T03:58:06Z</updated>
+    <published>2026-11-25T20:19:34Z</published>
+    <updated>2026-11-25T20:19:34Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -145,8 +134,8 @@
     <id>https://pokemongolive.com/news/monthly-content-update-dec2026</id>
     <title>⚡ December 2026 Content Update</title>
     <link rel="alternate" href="https://pokemongolive.com/news/monthly-content-update-dec2026"/>
-    <published>2026-11-25T03:58:06Z</published>
-    <updated>2026-11-25T03:58:06Z</updated>
+    <published>2026-11-25T20:19:34Z</published>
+    <updated>2026-11-25T20:19:34Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -156,8 +145,8 @@
     <id>https://pokemongolive.com/news/go-pass-december-2026</id>
     <title>⚡ Egg-citing rewards await in GO Pass: December!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/go-pass-december-2026"/>
-    <published>2026-11-25T03:58:06Z</published>
-    <updated>2026-11-25T03:58:06Z</updated>
+    <published>2026-11-25T20:19:34Z</published>
+    <updated>2026-11-25T20:19:34Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
@@ -167,20 +156,115 @@
     <id>https://pokemongolive.com/news/choose-your-path-daydream-destinations-2026</id>
     <title>⚡ Explore freely with Choose Your Path Timed Research during Daydream Destinations!</title>
     <link rel="alternate" href="https://pokemongolive.com/news/choose-your-path-daydream-destinations-2026"/>
-    <published>2026-11-25T03:58:06Z</published>
-    <updated>2026-11-25T03:58:06Z</updated>
+    <published>2026-11-25T20:19:34Z</published>
+    <updated>2026-11-25T20:19:34Z</updated>
     <category term="pokemon"/>
     <author>
       <name>Pokémon GO Official News</name>
     </author>
   </entry>
   <entry>
-    <id>https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident</id>
-    <title>🤖 US financial crimes bureau discloses ‘cybersecurity incident’</title>
-    <link rel="alternate" href="https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident"/>
-    <published>2026-11-25T01:00:00Z</published>
-    <updated>2026-11-25T01:00:00Z</updated>
-    <summary type="text">The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a &quot;cybersecurity incident.&quot; The bureau, which is part of the Treasury Department, said it's looking into an &quot;incident that resulted in unauthorized access to a limited subset of its systems.&quot; It hasn't off</summary>
+    <id>https://pokemongolive.com/news/tropical-paradise-2026</id>
+    <title>⚡ Make a splash during the Tropical Paradise event in Pokémon GO!</title>
+    <link rel="alternate" href="https://pokemongolive.com/news/tropical-paradise-2026"/>
+    <published>2026-11-25T20:19:34Z</published>
+    <updated>2026-11-25T20:19:34Z</updated>
+    <category term="pokemon"/>
+    <author>
+      <name>Pokémon GO Official News</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant</id>
+    <title>🤖 EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa</title>
+    <link rel="alternate" href="https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant"/>
+    <published>2026-11-25T19:45:51Z</published>
+    <updated>2026-11-25T19:45:51Z</updated>
+    <summary type="text">Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa. Videos of the det</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1042409/1password-data-breach-leak</id>
+    <title>🤖 1Password breach leaked customer names and emails, but not passwords</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/1042409/1password-data-breach-leak"/>
+    <published>2026-11-25T19:10:15Z</published>
+    <updated>2026-11-25T19:10:15Z</updated>
+    <summary type="text">1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale</id>
+    <title>🤖 The Fairphone 6 Plus is modular, repairable, and $100 off right now</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale"/>
+    <published>2026-11-25T18:00:00Z</published>
+    <updated>2026-11-25T18:00:00Z</updated>
+    <summary type="text">Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it’s dropped to a new low of $552.49 (about $98 off) at Amazon</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow</id>
+    <title>🤖 The loneliest peptide party in New York</title>
+    <link rel="alternate" href="https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow"/>
+    <published>2026-11-25T18:00:00Z</published>
+    <updated>2026-11-25T18:00:00Z</updated>
+    <summary type="text">This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a rainy fall evening, an experimental art venue in Chelsea Market had a small lin</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers</id>
+    <title>🤖 FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space</title>
+    <link rel="alternate" href="https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"/>
+    <published>2026-11-25T17:44:51Z</published>
+    <updated>2026-11-25T17:44:51Z</updated>
+    <summary type="text">In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's &quot;Starmind&quot; initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, t</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal</id>
+    <title>🤖 Nothing offers a full look at its AI earbuds and charging case</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"/>
+    <published>2026-11-25T16:00:59Z</published>
+    <updated>2026-11-25T16:00:59Z</updated>
+    <summary type="text">Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes </summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026</id>
+    <title>🤖 The Verge’s guide to affordable holiday gifts under $25</title>
+    <link rel="alternate" href="https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026"/>
+    <published>2026-11-25T15:00:00Z</published>
+    <updated>2026-11-25T15:00:00Z</updated>
+    <summary type="text">Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we're pretty happy with what we came up with. For this list, we've rounded up a barrage of fun gadgets a</summary>
+    <category term="ai"/>
+    <author>
+      <name>The Verge — AI</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions</id>
+    <title>🤖 Amazon is reportedly in talks to end Muse AI shopping block</title>
+    <link rel="alternate" href="https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"/>
+    <published>2026-11-25T14:12:33Z</published>
+    <updated>2026-11-25T14:12:33Z</updated>
+    <summary type="text">Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's a</summary>
     <category term="ai"/>
     <author>
       <name>The Verge — AI</name>
